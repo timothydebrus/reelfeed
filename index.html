@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>REELFEED — AI Film &amp; Image Hub</title>
+<style>
+  :root{
+    --bg:#0b0d12; --bg2:#12151d; --card:#161a24; --card-hover:#1c2130;
+    --border:#242a3a; --text:#e8eaf0; --muted:#8b93a7; --accent:#e94560;
+    --accent2:#5b8cff; --tag:#22283a; --good:#3ecf8e; --bad:#e96045;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,-apple-system,sans-serif;line-height:1.5}
+  a{color:inherit;text-decoration:none}
+
+  header{position:sticky;top:0;z-index:10;background:rgba(11,13,18,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--border)}
+  .head-inner{max-width:1200px;margin:0 auto;padding:14px 20px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+  .logo{font-size:1.35rem;font-weight:800;letter-spacing:2px}
+  .logo em{color:var(--accent);font-style:normal}
+  .tagline{color:var(--muted);font-size:.8rem;flex:1;min-width:180px}
+  #search{background:var(--card);border:1px solid var(--border);color:var(--text);padding:8px 14px;border-radius:20px;width:220px;outline:none;font-size:.85rem}
+  #search:focus{border-color:var(--accent2)}
+  #refreshBtn{background:var(--accent);color:#fff;border:none;padding:8px 16px;border-radius:20px;cursor:pointer;font-size:.85rem;font-weight:600}
+  #refreshBtn:hover{opacity:.85}
+
+  nav{max-width:1200px;margin:0 auto;padding:10px 20px 0;display:flex;gap:8px;flex-wrap:wrap}
+  .tab{background:var(--card);border:1px solid var(--border);color:var(--muted);padding:7px 16px;border-radius:18px;cursor:pointer;font-size:.85rem}
+  .tab.active{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+  .tab:hover:not(.active){color:var(--text);background:var(--card-hover)}
+
+  main{max-width:1200px;margin:0 auto;padding:20px}
+  #status{color:var(--muted);font-size:.78rem;margin-bottom:14px}
+  #status .ok{color:var(--good)} #status .err{color:var(--bad)}
+
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;transition:transform .15s,background .15s;cursor:pointer}
+  .card:hover{transform:translateY(-3px);background:var(--card-hover)}
+  .thumb{width:100%;height:150px;object-fit:cover;background:var(--bg2)}
+  .card-body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:8px;flex:1}
+  .meta{display:flex;gap:8px;align-items:center;font-size:.72rem;color:var(--muted);flex-wrap:wrap}
+  .src{background:var(--tag);padding:2px 9px;border-radius:10px;color:var(--accent2);font-weight:600}
+  .model-tag{background:rgba(233,69,96,.15);color:var(--accent);padding:2px 9px;border-radius:10px;font-weight:600}
+  .hot{background:rgba(62,207,142,.15);color:var(--good);padding:2px 9px;border-radius:10px;font-weight:600}
+  .card h3{font-size:.98rem;line-height:1.35;font-weight:600}
+  .card p{color:var(--muted);font-size:.82rem;flex:1}
+  .loading{text-align:center;color:var(--muted);padding:60px 0;font-size:.95rem}
+
+  .res-group{margin-bottom:28px}
+  .res-group h2{font-size:1rem;color:var(--accent2);margin-bottom:12px;letter-spacing:1px;text-transform:uppercase}
+  .res-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+  .res-card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:14px 16px;display:block}
+  .res-card:hover{background:var(--card-hover);border-color:var(--accent2)}
+  .res-card h4{font-size:.92rem;margin-bottom:4px}
+  .res-card span{color:var(--muted);font-size:.78rem}
+
+  /* ---------- reader panel ---------- */
+  #overlay{position:fixed;inset:0;background:rgba(0,0,0,.65);z-index:20;display:none;backdrop-filter:blur(3px)}
+  #reader{position:fixed;top:0;right:0;height:100%;width:min(560px,100%);background:var(--bg2);border-left:1px solid var(--border);z-index:21;transform:translateX(102%);transition:transform .25s ease;display:flex;flex-direction:column}
+  #reader.open{transform:none}
+  #overlay.open{display:block}
+  .r-head{display:flex;align-items:center;gap:10px;padding:14px 18px;border-bottom:1px solid var(--border)}
+  .r-head .src{font-size:.75rem}
+  #closeReader{margin-left:auto;background:var(--card);border:1px solid var(--border);color:var(--text);width:34px;height:34px;border-radius:50%;cursor:pointer;font-size:1rem}
+  #closeReader:hover{background:var(--card-hover)}
+  .r-body{padding:20px;overflow-y:auto;flex:1}
+  .r-body img.hero{width:100%;border-radius:10px;margin-bottom:16px;max-height:280px;object-fit:cover}
+  .r-body h2{font-size:1.25rem;line-height:1.35;margin-bottom:8px}
+  .r-date{color:var(--muted);font-size:.78rem;margin-bottom:16px}
+  .r-sec{margin-bottom:16px}
+  .r-sec h5{color:var(--accent2);font-size:.72rem;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:6px}
+  .r-sec p{font-size:.9rem}
+  .r-sec ul{margin-left:18px;font-size:.88rem}
+  .r-sec li{margin-bottom:5px}
+  .r-note{color:var(--muted);font-size:.75rem;font-style:italic}
+  .r-foot{padding:14px 18px;border-top:1px solid var(--border)}
+  .r-foot a{display:block;text-align:center;background:var(--accent);color:#fff;padding:11px;border-radius:10px;font-weight:600;font-size:.9rem}
+  .r-foot a:hover{opacity:.88}
+
+  footer{max-width:1200px;margin:0 auto;padding:30px 20px 40px;color:var(--muted);font-size:.75rem;border-top:1px solid var(--border);margin-top:30px}
+  @media(max-width:600px){ #search{width:140px} .thumb{height:130px} }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="head-inner">
+    <div class="logo">REEL<em>FEED</em></div>
+    <div class="tagline">AI film &amp; image — models, news &amp; resources, auto-updated</div>
+    <input id="search" type="text" placeholder="Search everything…">
+    <button id="refreshBtn">↻ Refresh</button>
+  </div>
+  <nav id="tabs">
+    <button class="tab active" data-tab="all">All Updates</button>
+    <button class="tab" data-tab="models">Model Releases</button>
+    <button class="tab" data-tab="news">News</button>
+    <button class="tab" data-tab="community">Community</button>
+    <button class="tab" data-tab="resources">Resources</button>
+  </nav>
+</header>
+
+<main>
+  <div id="status">Loading…</div>
+  <div id="content"><div class="loading">Loading the latest…</div></div>
+</main>
+
+<div id="overlay"></div>
+<aside id="reader" aria-label="Article preview">
+  <div class="r-head"><span class="src" id="rSrc"></span><button id="closeReader" title="Close">✕</button></div>
+  <div class="r-body" id="rBody"></div>
+  <div class="r-foot"><a id="rLink" href="#" target="_blank" rel="noopener">Read full article at source ↗</a></div>
+</aside>
+
+<footer>
+  <strong>REELFEED</strong> — a hub for AI filmmaking &amp; image generation. Updated hourly by an automated pipeline
+  (see the README in this project). Summaries are our own; full articles remain at, and belong to, their original publishers.
+</footer>
+
+<script>
+/* ============ curated resources (static — edit freely) ============ */
+const RESOURCES = [
+ {group:"AI Video Generation", items:[
+   ["Runway","runwayml.com","Gen models — reference images, character consistency, built-in editor"],
+   ["Google Veo / Flow","labs.google/flow","Google's video model — strong prompt adherence, native audio, 4K"],
+   ["Kling","klingai.com","Cinematic lighting & complex motion, multi-shot storyboard mode"],
+   ["Pika","pika.art","Fast, playful video generation and effects"],
+   ["Luma Dream Machine","lumalabs.ai","Video generation with strong image-to-video"],
+   ["Hailuo (MiniMax)","hailuoai.video","Strong motion quality, popular for character work"],
+   ["Seedance (ByteDance)","seed.bytedance.com","Frontier video model family"],
+   ["Vidu","vidu.com","Multi-entity consistency, anime strength"],
+   ["LTX Studio","ltx.studio","Story-first AI filmmaking platform, open LTX video models"],
+   ["Hunyuan Video (Tencent)","aivideo.hunyuan.tencent.com","Open-source video model, runs locally"],
+   ["Wan (Alibaba)","github.com/Wan-Video","Open-source video models popular in ComfyUI workflows"],
+ ]},
+ {group:"AI Image Generation", items:[
+   ["Midjourney","midjourney.com","Reference for aesthetic quality; also does video"],
+   ["FLUX (Black Forest Labs)","bfl.ai","State-of-the-art open & pro image models"],
+   ["Stable Diffusion","stability.ai","The open-source ecosystem standard"],
+   ["Ideogram","ideogram.ai","Best-in-class text rendering in images"],
+   ["Google Imagen","deepmind.google/models/imagen","Google's image family, in Gemini & Vertex"],
+   ["Adobe Firefly","firefly.adobe.com","Commercially-safe generation inside Adobe tools"],
+   ["Recraft","recraft.ai","Design-oriented: vector, brand styles, mockups"],
+   ["Leonardo","leonardo.ai","Game/concept-art focused platform"],
+   ["Krea","krea.ai","Realtime generation, upscaling & enhancement"],
+   ["Magnific","magnific.ai","High-end creative upscaler"],
+ ]},
+ {group:"Local & Open-Source Tools", items:[
+   ["ComfyUI","comfy.org","Node-based powerhouse for image/video pipelines"],
+   ["Civitai","civitai.com","Community hub for models, LoRAs & workflows"],
+   ["Hugging Face","huggingface.co","Every open model, demos & spaces"],
+   ["Replicate","replicate.com","Run any model via simple API"],
+   ["fal.ai","fal.ai","Fast hosted inference for image/video models"],
+   ["Invoke","invoke.com","Polished local image generation studio"],
+ ]},
+ {group:"Learning & Community", items:[
+   ["Curious Refuge","curiousrefuge.com","AI filmmaking courses & community"],
+   ["Banodoco","banodoco.ai","Open-source AI art/video community (Discord)"],
+   ["Theoretically Media","youtube.com/@TheoreticallyMedia","Level-headed AI video news on YouTube"],
+   ["r/aivideo","reddit.com/r/aivideo","Showcases, techniques, model chatter"],
+   ["Official docs","docs.midjourney.com","Official docs are the best prompt guides"],
+ ]},
+];
+
+/* Fallback feeds (used only when data/feed.json is unavailable, e.g. opening this file locally) */
+const FALLBACK_FEEDS = [
+  {name:"OpenAI", url:"https://openai.com/news/rss.xml", cat:"news", lab:true},
+  {name:"Google DeepMind", url:"https://deepmind.google/blog/rss.xml", cat:"news", lab:true},
+  {name:"Google AI", url:"https://blog.google/technology/ai/rss/", cat:"news", lab:true},
+  {name:"Hugging Face Blog", url:"https://huggingface.co/blog/feed.xml", cat:"news", lab:true},
+  {name:"TechCrunch AI", url:"https://techcrunch.com/category/artificial-intelligence/feed/", cat:"news"},
+  {name:"No Film School", url:"https://nofilmschool.com/rss.xml", cat:"news"},
+  {name:"r/aivideo", url:"https://www.reddit.com/r/aivideo/.rss", cat:"community"},
+  {name:"r/StableDiffusion", url:"https://www.reddit.com/r/StableDiffusion/.rss", cat:"community"},
+];
+const MODEL_KEYWORDS = /\b(veo|sora|kling|runway|gen-\d|midjourney|flux|stable diffusion|sdxl|sd3|pika|luma|dream machine|imagen|firefly|seedance|hailuo|minimax|hunyuan|wan ?2|ltx|mochi|vidu|pixverse|higgsfield|ideogram|recraft|dall[·-]?e|gpt-image|nano banana|model release|new model|weights|checkpoint|text-to-video|text-to-image|image model|video model|diffusion model)\b/i;
+
+/* ======================= app ======================= */
+let ITEMS = [], activeTab = "all", query = "", MODE = "";
+const el = id => document.getElementById(id);
+const esc = s => String(s || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const strip = h => { const d = document.createElement("div"); d.innerHTML = h || ""; return (d.textContent || "").replace(/\s+/g," ").trim(); };
+const timeAgo = iso => {
+  const d = new Date(iso), s = (Date.now() - d.getTime()) / 1000;
+  if (isNaN(s)) return "";
+  if (s < 3600) return Math.max(1, s/60|0) + "m ago";
+  if (s < 86400) return (s/3600|0) + "h ago";
+  if (s < 86400*30) return (s/86400|0) + "d ago";
+  return d.toLocaleDateString();
+};
+
+async function load() {
+  el("status").textContent = "Loading…";
+  try {
+    const r = await fetch("feed.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error("no feed.json");
+    const j = await r.json();
+    ITEMS = j.items || [];
+    MODE = "pipeline";
+    el("status").innerHTML = '<span class="ok">✓ ' + ITEMS.length + " items</span> · pipeline last ran " + timeAgo(j.updated);
+  } catch (e) {
+    await loadFallback();
+  }
+  render();
+}
+
+async function loadFallback() {
+  MODE = "live";
+  el("status").textContent = "Loading live feeds (local preview mode)…";
+  const P = u => "https://api.rss2json.com/v1/api.json?rss_url=" + encodeURIComponent(u);
+  const results = await Promise.allSettled(FALLBACK_FEEDS.map(async f => {
+    const j = await (await fetch(P(f.url))).json();
+    if (j.status !== "ok") throw new Error("feed error");
+    return j.items.slice(0, 15).map(it => ({
+      id: it.link, title: strip(it.title), link: it.link,
+      date: new Date(it.pubDate).toISOString(),
+      source: f.name, cat: f.cat,
+      isModel: MODEL_KEYWORDS.test(strip(it.title)),
+      thumb: it.thumbnail || "",
+      excerpt: strip(it.description).slice(0, 400),
+    }));
+  }));
+  ITEMS = [];
+  let ok = 0;
+  results.forEach(r => { if (r.status === "fulfilled") { ITEMS.push(...r.value); ok++; } });
+  ITEMS.sort((a, b) => new Date(b.date) - new Date(a.date));
+  el("status").innerHTML = '<span class="ok">✓ ' + ok + " live sources</span> · local preview (full pipeline data appears once hosted)";
+}
+
+function currentList() {
+  let list = ITEMS;
+  if (activeTab === "models")    list = list.filter(i => i.isModel);
+  if (activeTab === "news")      list = list.filter(i => i.cat === "news");
+  if (activeTab === "community") list = list.filter(i => i.cat === "community");
+  if (query) {
+    const q = query.toLowerCase();
+    list = list.filter(i => (i.title + " " + (i.excerpt||"") + " " + i.source).toLowerCase().includes(q));
+  }
+  return list;
+}
+
+function render() {
+  const c = el("content");
+  if (activeTab === "resources") { renderResources(c); return; }
+  const list = currentList();
+  if (!list.length) { c.innerHTML = '<div class="loading">Nothing here' + (query ? ' for "' + esc(query) + '"' : "") + ".</div>"; return; }
+  c.innerHTML = '<div class="grid">' + list.slice(0, 150).map((i, n) => `
+    <div class="card" data-i="${ITEMS.indexOf(i)}">
+      ${i.thumb ? `<img class="thumb" src="${esc(i.thumb)}" loading="lazy" onerror="this.remove()">` : ""}
+      <div class="card-body">
+        <div class="meta">
+          <span class="src">${esc(i.source)}</span>
+          ${i.isModel ? '<span class="model-tag">MODEL</span>' : ""}
+          ${i.score >= 8 ? '<span class="hot">★ BIG</span>' : ""}
+          <span>${timeAgo(i.date)}</span>
+        </div>
+        <h3>${esc(i.title)}</h3>
+        <p>${esc((i.digest && i.digest.summary) || i.excerpt || "").slice(0, 200)}…</p>
+      </div>
+    </div>`).join("") + "</div>";
+  c.querySelectorAll(".card").forEach(card => card.onclick = () => openReader(+card.dataset.i));
+}
+
+function renderResources(c) {
+  let groups = RESOURCES;
+  if (query) {
+    const q = query.toLowerCase();
+    groups = RESOURCES.map(g => ({group: g.group, items: g.items.filter(i => i.join(" ").toLowerCase().includes(q))})).filter(g => g.items.length);
+  }
+  c.innerHTML = groups.map(g => `
+    <div class="res-group"><h2>${esc(g.group)}</h2>
+      <div class="res-grid">${g.items.map(([n,u,d]) => `
+        <a class="res-card" href="https://${esc(u)}" target="_blank" rel="noopener"><h4>${esc(n)}</h4><span>${esc(d)}</span></a>`).join("")}
+      </div></div>`).join("") || '<div class="loading">No resources match.</div>';
+}
+
+/* ---------- reader panel ---------- */
+function openReader(idx) {
+  const i = ITEMS[idx]; if (!i) return;
+  el("rSrc").textContent = i.source;
+  el("rLink").href = i.link;
+  const d = i.digest;
+  el("rBody").innerHTML = `
+    ${i.thumb ? `<img class="hero" src="${esc(i.thumb)}" onerror="this.remove()">` : ""}
+    <h2>${esc(i.title)}</h2>
+    <div class="r-date">${new Date(i.date).toLocaleString()} · ${esc(i.source)} ${i.isModel ? " · Model update" : ""}</div>
+    ${d ? `
+      <div class="r-sec"><h5>What happened</h5><p>${esc(d.summary)}</p></div>
+      ${d.why ? `<div class="r-sec"><h5>Why it matters</h5><p>${esc(d.why)}</p></div>` : ""}
+      ${d.points && d.points.length ? `<div class="r-sec"><h5>Key points</h5><ul>${d.points.map(p => "<li>" + esc(p) + "</li>").join("")}</ul></div>` : ""}
+      <p class="r-note">Summary written by REELFEED's AI curation — full article at the source below.</p>
+    ` : `
+      <div class="r-sec"><h5>Preview</h5><p>${esc(i.excerpt || "No preview available for this item.")}</p></div>
+      <p class="r-note">Publisher excerpt shown — AI summaries switch on once the curation key is added to the pipeline.</p>
+    `}`;
+  el("reader").classList.add("open");
+  el("overlay").classList.add("open");
+}
+function closeReader() { el("reader").classList.remove("open"); el("overlay").classList.remove("open"); }
+el("closeReader").onclick = closeReader;
+el("overlay").onclick = closeReader;
+document.addEventListener("keydown", e => { if (e.key === "Escape") closeReader(); });
+
+document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
+  document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+  t.classList.add("active");
+  activeTab = t.dataset.tab;
+  render();
+});
+el("search").oninput = e => { query = e.target.value.trim(); render(); };
+el("refreshBtn").onclick = load;
+load();
+</script>
+</body>
+</html>
