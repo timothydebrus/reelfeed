@@ -106,6 +106,7 @@ async function collectRSS() {
     } catch (e) {
       console.log(`ERR ${feed.name}: ${e.message}`);
     }
+    await new Promise(r => setTimeout(r, 2500)); // pause between feeds (Reddit rate-limits rapid requests)
   }
   return out;
 }
