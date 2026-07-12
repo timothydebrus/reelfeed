@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-12T22:09:42.748Z",
+ "updated": "2026-07-12T23:11:29.974Z",
  "items": [
   {
    "id": "7ec3f4d7b0fa",
@@ -10,6 +10,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/Ym5mdHg1cWZndmNoMTPZbcbU4iOaJnAlzakQigoT_yRJ_paAuJeiqlgwXrlH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a9d276208b4d1048cf28a35b1fb76213ce10234",
    "excerpt": "submitted by /u/Tiny-Meet5202 [link] [comments]"
+  },
+  {
+   "id": "8549896a41c1",
+   "title": "monsterlime/female-face",
+   "link": "https://huggingface.co/monsterlime/female-face",
+   "date": "2026-07-12T21:32:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "eef0d1ed3192",
@@ -2595,7 +2611,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 620011, likes: 13603. Tags: diffusers, safetensors, text-to-image, image-generation, flux, en",
    "hf": {
-    "likes": 13604,
+    "likes": 13605,
     "downloads": 620011,
     "pipeline": "trending image"
    }
