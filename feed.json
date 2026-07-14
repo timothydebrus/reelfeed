@@ -1,6 +1,178 @@
 {
- "updated": "2026-07-14T14:16:14.886Z",
+ "updated": "2026-07-14T15:51:58.284Z",
  "items": [
+  {
+   "id": "ba404d530787",
+   "title": "Spotify is now an AI chatbot, too",
+   "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+   "date": "2026-07-14T15:47:36.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Talk-to-Spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the chatbot "
+  },
+  {
+   "id": "138abf034e25",
+   "title": "Lego animation: Medicane 🌪️",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uwc9p0/lego_animation_medicane/",
+   "date": "2026-07-14T15:40:55.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cXk1Z2E3Ym90N2RoMSrD_f7fRc-n3hLZhZE8QcH8fbuN89stvnE0b9-iqwkq.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=4845fd5fb3b5b6847618dce423f334ae2d6b1e53",
+   "excerpt": "submitted by /u/Beteen0326 [link] [comments]"
+  },
+  {
+   "id": "0514b3f878ca",
+   "title": "eraRelentless/ltx23Fight",
+   "link": "https://huggingface.co/eraRelentless/ltx23Fight",
+   "date": "2026-07-14T15:30:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:lynaNSFW/LTX2.3_NSFW_motion, base_model:adapter:lynaNSFW/LTX2.3_NSFW_motion",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3adef455414f",
+   "title": "latentdivergence/sd15-npu-8elite",
+   "link": "https://huggingface.co/latentdivergence/sd15-npu-8elite",
+   "date": "2026-07-14T15:25:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, stable-diffusion, qnn, hexagon, npu, snapdragon",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "10b1c5e9cf4f",
+   "title": "New York State halts construction of all new data centers",
+   "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+   "date": "2026-07-14T15:17:59.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control."
+  },
+  {
+   "id": "3ab5341dbf20",
+   "title": "developercomp99/Quiz-mint-la",
+   "link": "https://huggingface.co/developercomp99/Quiz-mint-la",
+   "date": "2026-07-14T15:07:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, text-to-image, lora, fal, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a0eff259b389",
+   "title": "qign/Juggernaut-XL-v9",
+   "link": "https://huggingface.co/qign/Juggernaut-XL-v9",
+   "date": "2026-07-14T14:57:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, stable-diffusion-xl, sdxl, text-to-image, photorealistic",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "456dc8ad112f",
+   "title": "Rtoops/val20",
+   "link": "https://huggingface.co/Rtoops/val20",
+   "date": "2026-07-14T14:50:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:lopi999/Wan2.2-I2V_General-NSFW-LoRA, base_model:adapter:lopi999/Wan2.2-I2V_General-NSFW-LoRA",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6fd4469f7f43",
+   "title": "The Price Gets Out Of Control",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uwasse/the_price_gets_out_of_control/",
+   "date": "2026-07-14T14:47:20.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bGRqejV2bTNrN2RoMU0oqMLvBlhpWrZQgj2vhzAx0mBvph6m_RYeGzwGh5IY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=37dab485f9c27775bbeff072be91dc63ca0189b8",
+   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
+  },
+  {
+   "id": "62bbd5184b02",
+   "title": "Reflection inks $1B compute deal with Nebius",
+   "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+   "date": "2026-07-14T14:37:48.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology."
+  },
+  {
+   "id": "93a0e8b76044",
+   "title": "The real AI race may no longer be at the frontier",
+   "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+   "date": "2026-07-14T14:24:53.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?"
+  },
+  {
+   "id": "5784ed662ce9",
+   "title": "PeppX/video-pid",
+   "link": "https://huggingface.co/PeppX/video-pid",
+   "date": "2026-07-14T14:23:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, video, diffusion, vae, decoder, wan",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "14cee246d366",
+   "title": "cirza/naj",
+   "link": "https://huggingface.co/cirza/naj",
+   "date": "2026-07-14T14:13:36.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "c234bc9a7b82",
    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
@@ -20,6 +192,16 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the line. Apple's lawsuit against OpenAI, filed in Northern California federal court, accused former Apple employees of \"stealing "
+  },
+  {
+   "id": "f05deb211b53",
+   "title": "Superhuman’s new auto-draft feature almost makes me like AI replies",
+   "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+   "date": "2026-07-14T14:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing."
   },
   {
    "id": "e2ee364064a5",
@@ -3514,7 +3696,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 1577, likes: 72. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
    "hf": {
-    "likes": 98,
+    "likes": 101,
     "downloads": 2408,
     "pipeline": "trending image"
    }
@@ -3983,7 +4165,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 35755, likes: 77. Tags: diffusers, gguf, text-to-image, en, zh, base_model:black-forest-labs/FLUX.2-klein-9B",
    "hf": {
-    "likes": 84,
+    "likes": 85,
     "downloads": 38382,
     "pipeline": "trending image"
    }
@@ -4125,7 +4307,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 175427, likes: 594. Tags: diffusers, safetensors, text-to-image, en, base_model:krea/Krea-2-Raw, base_model:finetune:krea/Krea-2-Raw",
    "hf": {
-    "likes": 608,
+    "likes": 609,
     "downloads": 182610,
     "pipeline": "trending image"
    }
@@ -4141,7 +4323,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 55, likes: 8. Tags: diffusers, text-to-video, anime, video-generation, diffusion-transformer, flow-matching",
    "hf": {
-    "likes": 16,
+    "likes": 17,
     "downloads": 1126,
     "pipeline": "trending video"
    }
@@ -4573,7 +4755,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 542477, likes: 1877. Tags: diffusers, safetensors, gguf, text-to-video, base_model:Lightricks/LTX-2.3, base_model:quantized:Lightricks/LTX-2.3",
    "hf": {
-    "likes": 1882,
+    "likes": 1883,
     "downloads": 534808,
     "pipeline": "trending video"
    }
@@ -4702,7 +4884,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 994259, likes: 4971. Tags: diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677",
    "hf": {
-    "likes": 4980,
+    "likes": 4981,
     "downloads": 1016669,
     "pipeline": "trending image"
    }
@@ -5001,7 +5183,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 620011, likes: 13603. Tags: diffusers, safetensors, text-to-image, image-generation, flux, en",
    "hf": {
-    "likes": 13627,
+    "likes": 13628,
     "downloads": 627340,
     "pipeline": "trending image"
    }
