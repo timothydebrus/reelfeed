@@ -1,6 +1,266 @@
 {
- "updated": "2026-07-14T15:51:58.284Z",
+ "updated": "2026-07-14T19:46:01.836Z",
  "items": [
+  {
+   "id": "46206dbf782c",
+   "title": "Alessio24/mb",
+   "link": "https://huggingface.co/Alessio24/mb",
+   "date": "2026-07-14T19:43:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "9fd65f338ac2",
+   "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+   "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+   "date": "2026-07-14T19:42:27.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch this fall."
+  },
+  {
+   "id": "c604b203eb8e",
+   "title": "Anthropic’s newest ad is creeping people out",
+   "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+   "date": "2026-07-14T19:41:27.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Anthropic's latest advert is stirring up high emotions — which is undoubtedly what it was designed to do."
+  },
+  {
+   "id": "41138521bbab",
+   "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+   "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+   "date": "2026-07-14T19:39:39.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\""
+  },
+  {
+   "id": "0482606ab4d7",
+   "title": "First time using seedance to create an animated short film",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uwil4l/first_time_using_seedance_to_create_an_animated/",
+   "date": "2026-07-14T19:24:30.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/enQ0OTVnYWF4OGRoMZjT13y2N7uNa9odRXcT4Qu6UDTvRh0K8jfh7A3ud8DD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cfeba247a647ce4ac5328f2064bff827fa241886",
+   "excerpt": "submitted by /u/nope-js [link] [comments]"
+  },
+  {
+   "id": "793f39a7c9f2",
+   "title": "latentdivergence/sd15-npu-8gen3",
+   "link": "https://huggingface.co/latentdivergence/sd15-npu-8gen3",
+   "date": "2026-07-14T19:13:19.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, stable-diffusion, qnn, hexagon, npu, snapdragon",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "46faa28596ea",
+   "title": "Google faces another AI training lawsuit from major publishers",
+   "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+   "date": "2026-07-14T18:33:31.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions."
+  },
+  {
+   "id": "e5a248888822",
+   "title": "qcaxar/kimikovi",
+   "link": "https://huggingface.co/qcaxar/kimikovi",
+   "date": "2026-07-14T18:07:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:rzgar/Wan2.2-Bernini-R-Motion-Enhancer-n4w-i2v, base_model:adapter:rzgar/Wan2.2-Bernini-R-Motion-Enhancer-n4w-i2v",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5531c5f6b4f6",
+   "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+   "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+   "date": "2026-07-14T17:45:55.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release."
+  },
+  {
+   "id": "73a3605e0cbc",
+   "title": "KlingTeam/UnityVideo  (♥ 1)",
+   "link": "https://huggingface.co/KlingTeam/UnityVideo",
+   "date": "2026-07-14T17:31:59.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: unityvideo, video-generation, multi-modal, depth-estimation, optical-flow, controllable-generation",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "89bde0f832ba",
+   "title": "Isabella Hell - Official Trailer",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uweujz/isabella_hell_official_trailer/",
+   "date": "2026-07-14T17:12:23.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aWx2NTlnY3M5OGRoMcLHqmRlEhXjJR2lKGDmuVhw_XeyoqkrUlOOYuo2RIMZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=38c8eecae725339478b51e8398f4734e0f9474a4",
+   "excerpt": "submitted by /u/RAAIINN [link] [comments]"
+  },
+  {
+   "id": "2c52501ff7c5",
+   "title": "hexinrui/pixel_art_style_lora_z_image_turbo",
+   "link": "https://huggingface.co/hexinrui/pixel_art_style_lora_z_image_turbo",
+   "date": "2026-07-14T17:06:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3837554559e7",
+   "title": "Goblin Bank — Money-Power-Crime",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uwdv90/goblin_bank_moneypowercrime/",
+   "date": "2026-07-14T16:37:25.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZGhvNWp4ZmkzOGRoMUqutv5Aj1xITfxOGGWy18ytmiFvjSa42cskuY3GP6nv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7c61d86c57c994ae978a736578fba2266e4696f",
+   "excerpt": "submitted by /u/LookingFTD [link] [comments]"
+  },
+  {
+   "id": "b27dd4b4927e",
+   "title": "guillekenzo/aros-c423cc0d-BoldWarden",
+   "link": "https://huggingface.co/guillekenzo/aros-c423cc0d-BoldWarden",
+   "date": "2026-07-14T16:35:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "aa14ea4dbc71",
+   "title": "Killer Bike",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uwdg6h/killer_bike/",
+   "date": "2026-07-14T16:22:29.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/gregce_ [link] [comments]"
+  },
+  {
+   "id": "0efd80d1295d",
+   "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+   "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+   "date": "2026-07-14T16:22:15.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools."
+  },
+  {
+   "id": "c77d13c7effa",
+   "title": "DawidJamrozy92/sleepcitychar",
+   "link": "https://huggingface.co/DawidJamrozy92/sleepcitychar",
+   "date": "2026-07-14T16:07:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, license:creativeml-openrail-m, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "901dfe82930e",
+   "title": "guillekenzo/aros-4b10ec31-WanderingMirage",
+   "link": "https://huggingface.co/guillekenzo/aros-4b10ec31-WanderingMirage",
+   "date": "2026-07-14T16:03:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "84e3af10ba85",
+   "title": "Celebrating 25 years of visual search innovation",
+   "link": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+   "date": "2026-07-14T16:00:00.000Z",
+   "source": "Google AI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
+   "excerpt": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content."
+  },
+  {
+   "id": "4c650ca55ce6",
+   "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+   "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+   "date": "2026-07-14T16:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history."
+  },
+  {
+   "id": "592ea111e1e0",
+   "title": "The Google Images homepage will recommend photos even before you search",
+   "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+   "date": "2026-07-14T16:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/New-Google-Images-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says the new \"browseable\" homepage features a \"dynamic, immersive gallery of images from across the web - "
+  },
   {
    "id": "ba404d530787",
    "title": "Spotify is now an AI chatbot, too",
@@ -444,6 +704,17 @@
    "excerpt": "submitted by /u/Low-Entropy [link] [comments]"
   },
   {
+   "id": "e59f55fe659d",
+   "title": "How to manage AI investments in the agentic era",
+   "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+   "date": "2026-07-14T10:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+  },
+  {
    "id": "e2155bc5d2e7",
    "title": "Death & Birth of a Mechanical God — a 6-min hand-drawn dark surreal short (AI-assisted, ink/woodcut,",
    "link": "https://www.reddit.com/r/aivideo/comments/1uw3vhc/death_birth_of_a_mechanical_god_a_6min_handdrawn/",
@@ -817,7 +1088,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, ggml, quantization, video, text-to-video, image-to-video",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1586,7 +1857,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: fastvideo, diffusers, safetensors, video-generation, text-to-video, mixture-of-experts",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -2995,7 +3266,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 7. Tags: gguf, ggml, quantization, video, text-to-video, image-to-video",
    "hf": {
-    "likes": 8,
+    "likes": 9,
     "downloads": 3074,
     "pipeline": "trending video"
    }
@@ -3582,6 +3853,22 @@
    "excerpt": "Details about the OpenAI Bio Bounty program"
   },
   {
+   "id": "1753a4dfff16",
+   "title": "Qualcomm-AI-Research/mobilewan  (♥ 5)",
+   "link": "https://huggingface.co/Qualcomm-AI-Research/mobilewan",
+   "date": "2026-07-09T09:36:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending trending video model on Hugging Face. Downloads: 106, likes: 5. Tags: diffusers, safetensors, efficient, mobile video generation, dit, recurrent hybrid attention",
+   "hf": {
+    "likes": 5,
+    "downloads": 106,
+    "pipeline": "trending video"
+   }
+  },
+  {
    "id": "dd647cda9f3a",
    "title": "v0.27.1",
    "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.27.1",
@@ -3696,7 +3983,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 1577, likes: 72. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
    "hf": {
-    "likes": 101,
+    "likes": 103,
     "downloads": 2408,
     "pipeline": "trending image"
    }
@@ -3832,7 +4119,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 107. Tags: ltx-video, identity-preservation, ipt2v, reference-to-video, lora, comfyui",
    "hf": {
-    "likes": 134,
+    "likes": 137,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4083,7 +4370,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 5163, likes: 24. Tags: diffusion-single-file, text-to-image, z-image, comfyui, int8, photorealistic",
    "hf": {
-    "likes": 24,
+    "likes": 25,
     "downloads": 5163,
     "pipeline": "trending image"
    }
@@ -4307,7 +4594,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 175427, likes: 594. Tags: diffusers, safetensors, text-to-image, en, base_model:krea/Krea-2-Raw, base_model:finetune:krea/Krea-2-Raw",
    "hf": {
-    "likes": 609,
+    "likes": 610,
     "downloads": 182610,
     "pipeline": "trending image"
    }
@@ -4755,7 +5042,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 542477, likes: 1877. Tags: diffusers, safetensors, gguf, text-to-video, base_model:Lightricks/LTX-2.3, base_model:quantized:Lightricks/LTX-2.3",
    "hf": {
-    "likes": 1883,
+    "likes": 1884,
     "downloads": 534808,
     "pipeline": "trending video"
    }
@@ -4949,7 +5236,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 2286. Tags: comfyUI, qwen, qwen-edit, t2i, i2i, text-to-image",
    "hf": {
-    "likes": 2294,
+    "likes": 2295,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -5183,7 +5470,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 620011, likes: 13603. Tags: diffusers, safetensors, text-to-image, image-generation, flux, en",
    "hf": {
-    "likes": 13628,
+    "likes": 13630,
     "downloads": 627340,
     "pipeline": "trending image"
    }
