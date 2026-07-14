@@ -1,6 +1,122 @@
 {
- "updated": "2026-07-14T19:46:01.836Z",
+ "updated": "2026-07-14T21:17:18.586Z",
  "items": [
+  {
+   "id": "a2679799a81d",
+   "title": "Kazooba",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uwl664/kazooba/",
+   "date": "2026-07-14T21:01:42.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eDVvdG0xMHhlOWRoMbWPIIpSGygr1Ki4iJk_GqKe2-Twrg-n0q46dISrDxvc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=48afcac190a64f7527eff8273adfd3c16bae6bab",
+   "excerpt": "submitted by /u/theJunkyardGold [link] [comments]"
+  },
+  {
+   "id": "be4592aae8f7",
+   "title": "latentdivergence/realvis51-inpaint-int8-onnx",
+   "link": "https://huggingface.co/latentdivergence/realvis51-inpaint-int8-onnx",
+   "date": "2026-07-14T20:59:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, stable-diffusion, int8, quantized, text-to-image, mobile",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "58cebee3c186",
+   "title": "All or Nothing",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uwkrhf/all_or_nothing/",
+   "date": "2026-07-14T20:45:59.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/d2trcGhnZ3diOWRoMSIvJpiMJRmWEl13lkiYW7h3gO8P9ddE5otO-4jNzaXn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=db78331d0252c635cb6189bc7f6b5b2790f7fb1a",
+   "excerpt": "submitted by /u/MikirahMuse [link] [comments]"
+  },
+  {
+   "id": "b83554fb6fc9",
+   "title": "turzyn40/InstaMixLow",
+   "link": "https://huggingface.co/turzyn40/InstaMixLow",
+   "date": "2026-07-14T20:39:08.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "bef0d4e6e0bd",
+   "title": "turzyn40/instamixhigh",
+   "link": "https://huggingface.co/turzyn40/instamixhigh",
+   "date": "2026-07-14T20:36:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "44230270e014",
+   "title": "cirza/kay",
+   "link": "https://huggingface.co/cirza/kay",
+   "date": "2026-07-14T20:16:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2506d037be08",
+   "title": "zerozerozeo/waiNSFWIllustrious_v90",
+   "link": "https://huggingface.co/zerozerozeo/waiNSFWIllustrious_v90",
+   "date": "2026-07-14T20:02:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, not-for-all-audiences",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "dac19eabadde",
+   "title": "Alessio24/milei",
+   "link": "https://huggingface.co/Alessio24/milei",
+   "date": "2026-07-14T19:52:19.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "46206dbf782c",
    "title": "Alessio24/mb",
@@ -46,6 +162,16 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\""
+  },
+  {
+   "id": "9dc0222d45c1",
+   "title": "SpaceXAI s Grok programming tool was uploading its users entire codebase to cloud storage",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+   "date": "2026-07-14T19:25:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK262_GROK_B_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published findings on Monday showing how the Grok Build CLI was packaging and uploading entire code repositories, \"including files it was told not to open and secrets deleted from history,\" significantly more da"
   },
   {
    "id": "0482606ab4d7",
@@ -125,6 +251,16 @@
     "downloads": 0,
     "pipeline": "text-to-video"
    }
+  },
+  {
+   "id": "729bc486f471",
+   "title": "Meta accused of using biased AI targeting for mass layoffs",
+   "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+   "date": "2026-07-14T17:18:11.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951354/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constellation\" of internal AI tools, but failed to exclude those on parental or medical leave from its rank"
   },
   {
    "id": "89bde0f832ba",
@@ -4092,7 +4228,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 23. Tags: ltxv, ltx-2.3, lora, style-lora, product-ad, advertising",
    "hf": {
-    "likes": 25,
+    "likes": 26,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4119,7 +4255,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 107. Tags: ltx-video, identity-preservation, ipt2v, reference-to-video, lora, comfyui",
    "hf": {
-    "likes": 137,
+    "likes": 138,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4578,7 +4714,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 119916, likes: 332. Tags: diffusers, safetensors, text-to-image, en, license:other, diffusers:Krea2Pipeline",
    "hf": {
-    "likes": 336,
+    "likes": 337,
     "downloads": 130430,
     "pipeline": "trending image"
    }
@@ -4594,7 +4730,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 175427, likes: 594. Tags: diffusers, safetensors, text-to-image, en, base_model:krea/Krea-2-Raw, base_model:finetune:krea/Krea-2-Raw",
    "hf": {
-    "likes": 610,
+    "likes": 611,
     "downloads": 182610,
     "pipeline": "trending image"
    }
@@ -4610,7 +4746,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 55, likes: 8. Tags: diffusers, text-to-video, anime, video-generation, diffusion-transformer, flow-matching",
    "hf": {
-    "likes": 17,
+    "likes": 18,
     "downloads": 1126,
     "pipeline": "trending video"
    }
@@ -5334,7 +5470,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 3601, likes: 520. Tags: wan2.2, diffusers, safetensors, text-to-video, arxiv:2503.20314, arxiv:2309.14509",
    "hf": {
-    "likes": 521,
+    "likes": 522,
     "downloads": 3621,
     "pipeline": "trending video"
    }
@@ -5470,7 +5606,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 620011, likes: 13603. Tags: diffusers, safetensors, text-to-image, image-generation, flux, en",
    "hf": {
-    "likes": 13630,
+    "likes": 13631,
     "downloads": 627340,
     "pipeline": "trending image"
    }
