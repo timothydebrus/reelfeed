@@ -1,6 +1,104 @@
 {
- "updated": "2026-07-15T19:38:40.631Z",
+ "updated": "2026-07-15T21:17:05.548Z",
  "items": [
+  {
+   "id": "00313005be98",
+   "title": "jandak/comfyair",
+   "link": "https://huggingface.co/jandak/comfyair",
+   "date": "2026-07-15T20:54:34.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, text-to-image, lora, fal, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4f941fd6cf17",
+   "title": "1 Minute of a Music Video for a song I made (Daisy -RAWR)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uxhfp8/1_minute_of_a_music_video_for_a_song_i_made_daisy/",
+   "date": "2026-07-15T20:29:19.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cTliOWN3NXNkZ2RoMXKd6-fueGJYshTNj1aatmHw3hnoM89saf7Nl3OjK63R.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a278c021381ae08bec8e7027a52550ea0466f490",
+   "excerpt": "submitted by /u/FishBn0es [link] [comments]"
+  },
+  {
+   "id": "a6c909d9bc25",
+   "title": "ussoewwin/HSWQ-Z-Image-INT8",
+   "link": "https://huggingface.co/ussoewwin/HSWQ-Z-Image-INT8",
+   "date": "2026-07-15T20:12:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, comfyui, int8, quantized, z-image-turbo, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "84272a721d1b",
+   "title": "AI slop movies are the new direct-to-video cash grabs",
+   "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+   "date": "2026-07-15T20:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan uses cutting-edge filmmaking tech to make the Homeric classic feel fresh. But another director is trying to capitalize on the "
+  },
+  {
+   "id": "79a30fe094b6",
+   "title": "Multiple GPUs leading to assertion error: \"assert device_to == self.load_device\"",
+   "link": "https://www.reddit.com/r/comfyui/comments/1uxgh2f/multiple_gpus_leading_to_assertion_error_assert/",
+   "date": "2026-07-15T19:51:59.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "I was upgrading my rig recently, and i only ran into problems since. I moved to ComfyUI Desktop, and none of my model loading/sampler nodes are working anymore. Well, they worked even with 2 GPUs, but i had to use the newer pytorch for my blackwell gpu and since then it doesnt work anymore. Even if i force it to use the more powerful GPU or not, i get following assertion error: \"\\....\\model_patche"
+  },
+  {
+   "id": "c915651f0c1d",
+   "title": "Ava2000/Daisy_Mitsumata_Illustrious  (♥ 1)",
+   "link": "https://huggingface.co/Ava2000/Daisy_Mitsumata_Illustrious",
+   "date": "2026-07-15T19:41:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:calcuis/illustrious, base_model:adapter:calcuis/illustrious",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c9ca9bb827ce",
+   "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+   "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+   "date": "2026-07-15T19:41:38.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
+  },
+  {
+   "id": "cb74fb75eea1",
+   "title": "Gully cricket",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uxfih9/gully_cricket/",
+   "date": "2026-07-15T19:13:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZjkxbTYwMm0wZ2RoMSU44fPMRDlN0gxyi_JcMpUmQ5B7S5airm6AxSTPpmdl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fc5860de2a2f8f33f86de51115a93289ebfaac8",
+   "excerpt": "submitted by /u/Head_Ad1511 [link] [comments]"
+  },
   {
    "id": "60c2e6b12c45",
    "title": "Mr Rogers And His Pieces",
@@ -60,6 +158,16 @@
    }
   },
   {
+   "id": "0c0503409a96",
+   "title": "Speed",
+   "link": "https://www.reddit.com/r/comfyui/comments/1uxe4xm/speed/",
+   "date": "2026-07-15T18:22:26.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "Hey I was just wondering how long it takes everyone's videos to create? I'm pretty new and my videos are taking roughly 10-20 min to generate and I was wondering if that is normal or if there are faster ways to generate. also side note after waiting sometimes the output is just not at all what I wanted to have happen and was wondering if there are general fixes currently using wan 2.2 remix nsfw h"
+  },
+  {
    "id": "990ae9f06b6c",
    "title": "fwwrsd/jjenetsa-z_image_base-lora",
    "link": "https://huggingface.co/fwwrsd/jjenetsa-z_image_base-lora",
@@ -76,9 +184,40 @@
    }
   },
   {
+   "id": "eb1c87996ca0",
+   "title": "Looking for advice: How can I improve this Flux.2 Klein restoration/upscale?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1uxds7l/looking_for_advice_how_can_i_improve_this_flux2/",
+   "date": "2026-07-15T18:09:56.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/tMBCetYKHabzxDoue99tk_7BzldpVhm3H4K0hbo_sPo.png?width=140&amp;height=70&amp;auto=webp&amp;s=7d5ef3cafa76f323309dbae04d4b5de49b873da9",
+   "excerpt": "flux 2 klein 9b fp8 tiled upscale test Hi everyone, I’m still quite new to ComfyUI and mostly learn by downloading workflows shared by the community, studying how they work, and experimenting with different models and settings. For this test, I started with a very small 196 × 160 image. I first used Flux.2 Klein 9B FP8 to reconstruct and restore it, then used the Klein Tiled Upscaler to refine it "
+  },
+  {
+   "id": "8ccd481dbdd6",
+   "title": "SugarSubstitute Beta; an alternative ComfyUI front-end in Qt",
+   "link": "https://www.reddit.com/r/comfyui/comments/1uxdqkq/sugarsubstitute_beta_an_alternative_comfyui/",
+   "date": "2026-07-15T18:08:16.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/hgsezxajdfdh1.png?width=140&amp;height=82&amp;auto=webp&amp;s=e98dbc10f6e3bd38e723417a550a225ab18fb2f5",
+   "excerpt": "SugarSubstitute is a front-end for ComfyUI designed to save you time and make your creation process as friction-less as possible. It comes with a purpose built prompt editor, a canvas that let's you easily inspect and compare outputs, and tons of little creature comforts it would take me all day to list. It works by building workflows with versioned graph segments called SugarCubes; build with the"
+  },
+  {
    "id": "330de95c2bbe",
    "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
    "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+   "date": "2026-07-15T18:06:05.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
+  },
+  {
+   "id": "d1802f967e8d",
+   "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+   "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
    "date": "2026-07-15T18:06:05.000Z",
    "source": "TechCrunch AI",
    "cat": "news",
@@ -94,6 +233,16 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view."
+  },
+  {
+   "id": "a859b388fbaa",
+   "title": "How interchangeable are clip vision models?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1uxdi81/how_interchangeable_are_clip_vision_models/",
+   "date": "2026-07-15T18:00:19.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "I've tended to just go with whatever I've been given, for example Qwen image edit templates seem to always want Qwen 2.5VL 7B scaled models, but can other more recent qwen VL models work? etc. submitted by /u/MrWeirdoFace [link] [comments]"
   },
   {
    "id": "f7b2f863a72e",
@@ -228,6 +377,16 @@
    "excerpt": ""
   },
   {
+   "id": "a3106a0d8aaf",
+   "title": "Best paid model for high accuracy lipsync from audio+video? local onces are too slow",
+   "link": "https://www.reddit.com/r/comfyui/comments/1uxc1ba/best_paid_model_for_high_accuracy_lipsync_from/",
+   "date": "2026-07-15T17:08:35.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "So here is my experience with Lipsync, InfiniteTalk is decent quality but generatiuon times are killing me, like 10+ min a clip. Tired Wav2lip too, faster but output is low-res and mushy when its not a headshot. atp i'd rather just pay or something hosted if the quality is there and its fater. speech audio speciffically, not music, flat dialogue is where the local models struggle for me. Anyone fo"
+  },
+  {
    "id": "ed41beb09c12",
    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
    "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
@@ -262,6 +421,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "b44a61c77ec2",
+   "title": "Reliable?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1uxbhni/reliable/",
+   "date": "2026-07-15T16:49:49.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "Has anybody used a text to voice successfully? I’ve tried multiple models, and none of them worked “ out of the box”. Share a workflow ? submitted by /u/Dirtsurgeon1 [link] [comments]"
   },
   {
    "id": "e51bb915f200",
@@ -326,6 +495,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "c58b7cecb42f",
+   "title": "LoRA doesn't show clothes from the datasets",
+   "link": "https://www.reddit.com/r/comfyui/comments/1uxao6s/lora_doesnt_show_clothes_from_the_datasets/",
+   "date": "2026-07-15T16:21:14.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/v83i70g04fdh1.png?width=140&amp;height=61&amp;auto=webp&amp;s=9700d569e6925ece7de32f171de84433fbdee147",
+   "excerpt": "Hi All, I trained the LORA for a mouse using AI Ostris toolkit. Datasets Config File (only essential values) job: extension config: process: - type: diffusion_trainer trigger_word: mimo_mouse network: type: lora linear: 16 linear_alpha: 16 datasets: - folder_path: \"C:\\\\pinokio\\\\api\\\\ai-toolkit.git\\\\app\\\\datasets/mimo_mouse\" caption_ext: txt resolution: [512] train: batch_size: 1 steps: 600 lr: 0.0"
   },
   {
    "id": "ec46a9e54745",
@@ -478,6 +657,16 @@
    "excerpt": "submitted by /u/misterXCV [link] [comments]"
   },
   {
+   "id": "c17bf413ced7",
+   "title": "On Wildcards",
+   "link": "https://www.reddit.com/r/comfyui/comments/1ux8ke8/on_wildcards/",
+   "date": "2026-07-15T15:08:53.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/juyh7lx1sedh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e22e93a96c6f468dd2e954ad0023757d8ed0b38e",
+   "excerpt": "I just got into krea2 and Wildcards and I just realized how powerful Wildcards can be! here are some upload showcase. EDIT: workflow and prompt are all embedded in the image! i use chatgpt to generate a list of wildcards words for randomization! Yes Mustache ! submitted by /u/wzwowzw0002 [link] [comments]"
+  },
+  {
    "id": "abe5db521872",
    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
    "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
@@ -486,6 +675,16 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and others. On this episode of TechCrunch’s Equity podcast, Rebecca Bellan sits down with Ode’s leaders Chris Taylor and Eddie S"
+  },
+  {
+   "id": "cf93f67b4086",
+   "title": "ComfyUI v0.28.0",
+   "link": "https://www.reddit.com/r/comfyui/comments/1ux84mp/comfyui_v0280/",
+   "date": "2026-07-15T14:53:01.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "Links Official changelog GitHub release New Open-Source Model Support SeedVR2: Native SeedVR2 image and video upscaling PID 1.5: Added PixelDiT PID 1.5 model support int4 Models: convrot int4 support and Turing int8/int4 optimizations New Node Updates Save 3D (Advanced): Save 3D (Advanced), Save Splat, and Save Point Cloud nodes SaveText: Save text outputs to .txt, .md, or .json Text Overlay: Text"
   },
   {
    "id": "fab203a2158d",
@@ -532,6 +731,17 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/eXFvcWJsaWpnZWRoMaB3XlMTuw6WT6IoW1rtWDdIo4heAsB8ITSLyhieqMdl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ed16c31f5da36c5a083a20d98a25aa602f0e8f2",
    "excerpt": "submitted by /u/No-Song-5742 [link] [comments]"
+  },
+  {
+   "id": "9722f28335b0",
+   "title": "Qwen 2511 Edit vs Flux 9B distilled",
+   "link": "https://www.reddit.com/r/comfyui/comments/1ux6nez/qwen_2511_edit_vs_flux_9b_distilled/",
+   "date": "2026-07-15T13:58:16.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "Hello! I’m wondering lately whether I need to use Qwen too instead of just Flux. Yesterday I was trying to inpaint two characters in a theatre stage and, I’ve had some very interesting results, ranging from body horror to flux painting the character half or not at all on the inpaint area. Let alone the height situation and the distortion of the background behind the characters. I guess my question"
   },
   {
    "id": "33db0e47c631",
@@ -732,6 +942,28 @@
    "excerpt": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI."
   },
   {
+   "id": "861c28943dee",
+   "title": "Nvidia PID 1.5 Checkpoint is out",
+   "link": "https://www.reddit.com/r/comfyui/comments/1ux3mmy/nvidia_pid_15_checkpoint_is_out/",
+   "date": "2026-07-15T11:51:20.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "submitted by /u/oxygen_addiction [link] [comments]"
+  },
+  {
+   "id": "aabb3ceca8f4",
+   "title": "LTX 2.3 Camera Control - Any hints?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1ux3lmu/ltx_23_camera_control_any_hints/",
+   "date": "2026-07-15T11:49:59.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "I've been experimenting with LTX 2.3 for a few weeks now. One of the issues I've been struggling with is getting the camera to orbit around a person's head, like a full 360-degree rotation. I just can't get it to work at all. I've tried the vanilla ComfyUI workflow, LTX Director 2, and SeedHunter's workflow, but none of them seem able to produce this kind of camera movement. Do you have any tips, "
+  },
+  {
    "id": "e069581b78ee",
    "title": "espressosession/latent-studio-vangogh-lora",
    "link": "https://huggingface.co/espressosession/latent-studio-vangogh-lora",
@@ -888,6 +1120,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/dHlqNGh4eDBtZGRoMZWDUDdKOOhynqLnd-JcHwS_iE3dN2M6O8Jy0WATywle.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3b9441632ef02de222ddf5479f67196dff7e0b18",
    "excerpt": "submitted by /u/heresalexandria [link] [comments]"
+  },
+  {
+   "id": "44302dc064cb",
+   "title": "Monitor switching off during rendering with an RTX 5060 Ti 16GB… probably due to overheating!",
+   "link": "https://www.reddit.com/r/comfyui/comments/1ux2fpg/monitor_switching_off_during_rendering_with_an/",
+   "date": "2026-07-15T10:53:08.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "I have an RTX 5060 Ti 16 GB and, because of this heatwave, as soon as I started a video rendering job, the monitor would switch off due to the high temperature the graphics card was reaching; I had to lower the power target to 85% via GPU Tweak III to sort out the problem somehow... Has anyone else with the same graphics card experienced this problem, and how did you sort it out? The airflow in my"
   },
   {
    "id": "6725112657cd",
@@ -5869,7 +6111,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 1577, likes: 72. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
    "hf": {
-    "likes": 123,
+    "likes": 125,
     "downloads": 2408,
     "pipeline": "trending image"
    }
@@ -6005,7 +6247,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 107. Tags: ltx-video, identity-preservation, ipt2v, reference-to-video, lora, comfyui",
    "hf": {
-    "likes": 152,
+    "likes": 153,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -6348,7 +6590,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 35755, likes: 77. Tags: diffusers, gguf, text-to-image, en, zh, base_model:black-forest-labs/FLUX.2-klein-9B",
    "hf": {
-    "likes": 89,
+    "likes": 90,
     "downloads": 38382,
     "pipeline": "trending image"
    }
@@ -7180,212 +7422,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "We're excited to announce our collaboration with NVIDIA to launch the Stable Diffusion 3.5 NIM microservice, enabling significant performance improvements and streamlined enterprise deployment for our leading image generation models."
-  },
-  {
-   "id": "de7361f63e78",
-   "title": "Introducing Stability AI Solutions: Generative AI Solutions to Accelerate Enterprise Creative Production",
-   "link": "https://stability.ai/news-updates/introducing-stability-ai-solutions",
-   "date": "2025-08-05T13:56:13.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Today we’re introducing Stability AI Solutions, a new offering designed to help enterprises scale creative production with generative AI."
-  },
-  {
-   "id": "32781bde5f9f",
-   "title": "Stability AI Achieves SOC 2 Type II and SOC 3 Compliance, Reaching New Industry Standard for Enterprise-Grade Security",
-   "link": "https://stability.ai/news-updates/stability-ai-achieves-soc-2-type-ii-and-soc-3-compliance",
-   "date": "2025-08-04T20:03:04.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Stability AI has achieved SOC 2 Type II and SOC 3 compliance, which validates our security controls and data protection practices through rigorous third-party auditing."
-  },
-  {
-   "id": "8d25ad4e2e0f",
-   "title": "QuantStack/Wan2.2-TI2V-5B-GGUF  (♥ 204)",
-   "link": "https://huggingface.co/QuantStack/Wan2.2-TI2V-5B-GGUF",
-   "date": "2025-07-28T13:24:36.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending video model on Hugging Face. Downloads: 30041, likes: 204. Tags: gguf, ti2v, text-to-video, en, zh, base_model:Wan-AI/Wan2.2-TI2V-5B",
-   "hf": {
-    "likes": 204,
-    "downloads": 30125,
-    "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "9721155e89a1",
-   "title": "Wan-AI/Wan2.2-T2V-A14B  (♥ 520)",
-   "link": "https://huggingface.co/Wan-AI/Wan2.2-T2V-A14B",
-   "date": "2025-07-24T15:07:15.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending video model on Hugging Face. Downloads: 3601, likes: 520. Tags: wan2.2, diffusers, safetensors, text-to-video, arxiv:2503.20314, arxiv:2309.14509",
-   "hf": {
-    "likes": 524,
-    "downloads": 3621,
-    "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "be60f73d4f8d",
-   "title": "Wan-AI/Wan2.2-TI2V-5B  (♥ 693)",
-   "link": "https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B",
-   "date": "2025-07-18T09:35:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending video model on Hugging Face. Downloads: 14950, likes: 693. Tags: wan2.2, diffusers, safetensors, ti2v, text-to-video, en",
-   "hf": {
-    "likes": 694,
-    "downloads": 14950,
-    "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "9d75c3f33dd1",
-   "title": "Stable Diffusion 3.5 Models Optimized with TensorRT Deliver 2X Faster Performance and 40% Less Memory on NVIDIA RTX GPUs",
-   "link": "https://stability.ai/news-updates/stable-diffusion-35-models-optimized-with-tensorrt-deliver-2x-faster-performance-and-40-less-memory-on-nvidia-rtx-gpus",
-   "date": "2025-06-12T21:21:17.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "In collaboration with NVIDIA, we've optimized the SD3.5 family of models using TensorRT and FP8, improving generation speed and reducing VRAM requirements on supported RTX GPUs."
-  },
-  {
-   "id": "ac408787bac3",
-   "title": "Stable Video 4D 2.0: New Upgrades for High-Fidelity Novel-Views and 4D Generation from a Single Video",
-   "link": "https://stability.ai/news-updates/stable-video-4d-20-new-upgrades-for-high-fidelity-novel-views-and-4d-generation-from-a-single-video",
-   "date": "2025-05-20T15:00:14.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "We’ve upgraded Stable Video Diffusion 4D (SV4D) to Stable Video 4D 2.0 (SV4D 2.0), delivering higher-quality outputs on real-world video. This multi-view video diffusion model is ideal for dynamic 4D asset generation from a single object-centric video."
-  },
-  {
-   "id": "5660f74fdabe",
-   "title": "Stability AI and Arm Collaborate to Release Stable Audio Open Small, Enabling Real-World Deployment for On-Device Audio Generation",
-   "link": "https://stability.ai/news-updates/stability-ai-and-arm-release-stable-audio-open-small-enabling-real-world-deployment-for-on-device-audio-control",
-   "date": "2025-05-14T14:58:02.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "We’re open-sourcing Stable Audio Open Small in partnership with Arm, whose technology powers 99% of smartphones globally. Building on the industry-leading text-to-audio model Stable Audio Open, the new compact variant is smaller and faster, while preserving output quality and prompt adherence."
-  },
-  {
-   "id": "c177c8e67187",
-   "title": "Stable Diffusion Now Optimized for AMD Radeon™ GPUs and Ryzen™ AI APUs",
-   "link": "https://stability.ai/news-updates/stable-diffusion-now-optimized-for-amd-radeon-gpus",
-   "date": "2025-04-16T13:02:52.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "We’ve collaborated with AMD to deliver select ONNX-optimized versions of the Stable Diffusion model family, engineered to run faster and more efficiently on AMD Radeon™ GPUs and Ryzen™ AI APUs."
-  },
-  {
-   "id": "e5727d153a84",
-   "title": "Introducing Our New Chief Pipeline Architect, Robert Legato",
-   "link": "https://stability.ai/news-updates/introducing-our-new-chief-pipeline-architect-rob-legato",
-   "date": "2025-03-19T15:58:53.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Our CEO, Prem Akkaraju, today announced that Robert Legato is joining Stability AI as Chief Pipeline Architect. Robert joins with an extensive background in the visual effects (VFX) and entertainment industry. He is the visual effects pioneer behind such legendary films as Avatar, Titanic, The Lion King (2019), and Jungle Book."
-  },
-  {
-   "id": "0078fc9caf55",
-   "title": "Introducing Stable Virtual Camera: Multi-View Video Generation with 3D Camera Control",
-   "link": "https://stability.ai/news-updates/introducing-stable-virtual-camera-multi-view-video-generation-with-3d-camera-control",
-   "date": "2025-03-18T16:00:54.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "Introducing Stable Virtual Camera, currently in research preview. This multi-view diffusion model transforms 2D images into immersive 3D videos with realistic depth and perspective—without complex reconstruction or scene-specific optimization."
-  },
-  {
-   "id": "e4e97672eaba",
-   "title": "Introducing Our New SVP, Head of Product, Ryan Ellis",
-   "link": "https://stability.ai/news-updates/introducing-our-new-svp-head-of-product-ryan-ellis",
-   "date": "2025-03-10T13:28:16.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Our CEO, Prem Akkaraju, today announced that Ryan Ellis is joining Stability AI as SVP, Head of Product. Ellis joins from Unity, where he led product development for the world’s most widely used real-time 3D engine, serving 1.5 million developers across gaming, automotive, manufacturing, and retail."
-  },
-  {
-   "id": "2b17d59599f7",
-   "title": "Stability AI Announces Investment from WPP and New Partnership to Shape the Future of Media and Entertainment Production",
-   "link": "https://stability.ai/news-updates/stability-ai-announces-investment-from-wpp-and-new-partnership-to-shape-the-future-of-media-and-entertainment-production",
-   "date": "2025-03-05T16:04:24.000Z",
-   "source": "Stability AI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Today we announced a strategic partnership and investment by WPP, the creative transformation company. Together, we aim to usher in a new era of innovation at the convergence of creativity and technology."
-  },
-  {
-   "id": "05ea57649401",
-   "title": "Wan-AI/Wan2.1-T2V-14B  (♥ 1532)",
-   "link": "https://huggingface.co/Wan-AI/Wan2.1-T2V-14B",
-   "date": "2025-02-25T07:26:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending video model on Hugging Face. Downloads: 78280, likes: 1532. Tags: diffusers, safetensors, video generation, text-to-video, en, zh",
-   "hf": {
-    "likes": 1532,
-    "downloads": 78280,
-    "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "764201e2d295",
-   "title": "tencent/HunyuanVideo  (♥ 2213)",
-   "link": "https://huggingface.co/tencent/HunyuanVideo",
-   "date": "2024-12-01T06:00:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending video model on Hugging Face. Downloads: 827, likes: 2213. Tags: text-to-video, arxiv:2412.03603, arxiv:2405.07719, license:other, region:us",
-   "hf": {
-    "likes": 2213,
-    "downloads": 827,
-    "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "35f76a5bfef1",
-   "title": "black-forest-labs/FLUX.1-dev  (♥ 13603)",
-   "link": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
-   "date": "2024-07-31T21:13:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending image model on Hugging Face. Downloads: 620011, likes: 13603. Tags: diffusers, safetensors, text-to-image, image-generation, flux, en",
-   "hf": {
-    "likes": 13642,
-    "downloads": 627340,
-    "pipeline": "trending image"
-   }
   }
  ]
 }
