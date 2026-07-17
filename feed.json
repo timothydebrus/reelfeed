@@ -1,6 +1,32 @@
 {
- "updated": "2026-07-16T23:12:54.334Z",
+ "updated": "2026-07-17T00:14:33.159Z",
  "items": [
+  {
+   "id": "acc0f89e67f7",
+   "title": "Play Has Limits*",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uyiv0y/play_has_limits/",
+   "date": "2026-07-16T23:23:40.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bjE0NjVvcDJlb2RoMZ6HK4QI3g8r1vXuOHdzdaC-9vaHy2cHdForVij314G4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ef1c3001208ac5090d85fbf731f5c43b2957a84d",
+   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
+  },
+  {
+   "id": "163a4267c363",
+   "title": "SumomoLee/Krea2-Identity-Long-Caption-R32-3ep",
+   "link": "https://huggingface.co/SumomoLee/Krea2-Identity-Long-Caption-R32-3ep",
+   "date": "2026-07-16T23:14:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: krea-2, lora, text-to-image, image-generation, safetensors, musubi-tuner",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "b13144fdd7ac",
    "title": "L2a-T/Flux_Lustly.ai_Uncensored_nsfw_v1",
@@ -68,6 +94,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/a3ZlZWM0czczb2RoMTv8cOS_AV5xZYy_CIVbacSShCuSQWJ3l_SzWZwOJbvo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=993eb9ad80a7b682f9b1bc1f7af864de74fbc1dc",
    "excerpt": "submitted by /u/PomegranateFine7427 [link] [comments]"
+  },
+  {
+   "id": "336837318a9f",
+   "title": "I tried making a Claymation-like Hollowknight film",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uyhehr/i_tried_making_a_claymationlike_hollowknight_film/",
+   "date": "2026-07-16T22:23:09.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/N2c1ZGpnemIxb2RoMYtaU3ajkoeHIlmJZYdoELN_sqFiXlS46N2ffhRN3d8G.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9497d8c4447974a3cc21a8869d9dfca938e5757e",
+   "excerpt": "submitted by /u/Fine-Combination5170 [link] [comments]"
   },
   {
    "id": "8605f5c96724",
@@ -179,6 +215,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "c7872e8c863e",
+   "title": "A Diversion",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uyek0z/a_diversion/",
+   "date": "2026-07-16T20:36:37.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cHJ4NXNsM2JrbmRoMapMb2MEJKmy-VTfFjFwGHfYQ7x-2T_tBNPl4YXysvxM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=af8021cf838e713dc2fc856ba7e56f2092fc9ed6",
+   "excerpt": "submitted by /u/numberchef [link] [comments]"
   },
   {
    "id": "be9a7251604c",
@@ -7448,55 +7494,6 @@
     "downloads": 0,
     "pipeline": "trending image"
    }
-  },
-  {
-   "id": "dd647cda9f3a",
-   "title": "v0.27.1",
-   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.27.1",
-   "date": "2026-07-08T22:32:51.000Z",
-   "source": "ComfyUI Releases",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
-   "excerpt": "ComfyUI v0.27.1"
-  },
-  {
-   "id": "45696efd6d26",
-   "title": "ostris/krea2_turbo_style_reference  (♥ 63)",
-   "link": "https://huggingface.co/ostris/krea2_turbo_style_reference",
-   "date": "2026-07-08T20:16:52.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending image model on Hugging Face. Downloads: 1931, likes: 63. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 79,
-    "downloads": 2779,
-    "pipeline": "trending image"
-   }
-  },
-  {
-   "id": "dad44939bb24",
-   "title": "Data for Agents",
-   "link": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-   "date": "2026-07-08T17:16:05.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "34adf3bd6731",
-   "title": "Our approach to government and national security partnerships",
-   "link": "https://openai.com/index/government-national-security-partnerships",
-   "date": "2026-07-08T13:30:00.000Z",
-   "source": "OpenAI News",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
   }
  ]
 }
