@@ -1,6 +1,98 @@
 {
- "updated": "2026-07-17T21:10:17.526Z",
+ "updated": "2026-07-17T23:10:57.995Z",
  "items": [
+  {
+   "id": "2d9cc2c8c02b",
+   "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+   "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+   "date": "2026-07-17T22:55:09.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
+  },
+  {
+   "id": "3c9e62807da0",
+   "title": "Felldude/Krea-2-Raw",
+   "link": "https://huggingface.co/Felldude/Krea-2-Raw",
+   "date": "2026-07-17T22:23:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, fp32, text-to-image, base_model:krea/Krea-2-Raw, base_model:finetune:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2a6c589fb12f",
+   "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+   "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+   "date": "2026-07-17T22:12:56.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
+  },
+  {
+   "id": "418eaabcf11a",
+   "title": "A Failed Enterprise",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzd8lp/a_failed_enterprise/",
+   "date": "2026-07-17T21:47:06.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cmQ1c3ljOXMxdmRoMWyPzuzV45AMmUQxcevYcA61aDGe726RXrUra_CRBOt0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7fab4288a0260868b5d0bec2d8478b1225890709",
+   "excerpt": "submitted by /u/jskiba [link] [comments]"
+  },
+  {
+   "id": "6b18bf8109b0",
+   "title": "Noot Noot, You couldn't recreate this if you tried, a gem from very early AI videos",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzd7l7/noot_noot_you_couldnt_recreate_this_if_you_tried/",
+   "date": "2026-07-17T21:45:55.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Zmt2ZzBlNmMxdmRoMe8RHrV5BqvnmE009QVGdL850vrLrsSaEUIdz27McyZ8.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=f756791a2a44011d80e5a1094f44147100a4fe0a",
+   "excerpt": "submitted by /u/TheBrightestOne33 [link] [comments]"
+  },
+  {
+   "id": "1f26de86ec5b",
+   "title": "Attempted interview with Intergalactic Lawn Services, LLC",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzd396/attempted_interview_with_intergalactic_lawn/",
+   "date": "2026-07-17T21:40:51.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aWxyazZnbG8wdmRoMeg4IrSy_0kBZR4G0EVwF4MIMSmj0Rp7BV-5YTYs2nIQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5821e2335ae3f94fcfdc534675fd8c45d836ac3d",
+   "excerpt": "submitted by /u/_mang00 [link] [comments]"
+  },
+  {
+   "id": "c38421f16d30",
+   "title": "agungfoury/tiny-sd",
+   "link": "https://huggingface.co/agungfoury/tiny-sd",
+   "date": "2026-07-17T21:32:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, stable-diffusion-diffusers, text-to-image, dataset:recastai/LAION-art-EN-improved-captions, arxiv:2305.15798",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b590373eb591",
+   "title": "The Zoom hack that says, ‘Don’t record me’",
+   "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+   "date": "2026-07-17T21:20:47.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
+  },
   {
    "id": "df8dd5653742",
    "title": "The Catty Cat Ball: A Fancept Trailer for a Musical about \"Cats\" and a \"Ball\"",
@@ -22,6 +114,16 @@
    "excerpt": "Agility is opening a new training center for its Digit robots in Fremont, California."
   },
   {
+   "id": "a34d8edbd52c",
+   "title": "Kimchi saved my ass",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzavw3/kimchi_saved_my_ass/",
+   "date": "2026-07-17T20:15:38.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MGdkc3BnMnVrdWRoMcqg9AiverLQCSMKzCNZvtZmabLAI5M50JG43czK83eQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=082eb87786ff69ff04923a8cf34a84a243c80904",
+   "excerpt": "submitted by /u/somethingnicehere [link] [comments]"
+  },
+  {
    "id": "0184cf98041b",
    "title": "AI-driven memory crunch jolts India’s smartphone market",
    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
@@ -41,6 +143,22 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e3bb75ad9f34",
+   "title": "chandlr/krea2-fr4zz-hi",
+   "link": "https://huggingface.co/chandlr/krea2-fr4zz-hi",
+   "date": "2026-07-17T19:51:59.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
    "hf": {
     "likes": 0,
     "downloads": 0,
@@ -121,6 +239,16 @@
    }
   },
   {
+   "id": "6b8497ddfeda",
+   "title": "My first AI short film \"ME\" - made with Google Flow, edited in Premiere/After Effects",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uz7inf/my_first_ai_short_film_me_made_with_google_flow/",
+   "date": "2026-07-17T18:12:27.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/N2N3YWh2azl6dGRoMaXKG0oqD5sgrZOlnnRAo1yFcfv3HEAHY6ef3OLEpP95.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3757b0ba687d9ed9ed1211c1c1359e4cc056c8ea",
+   "excerpt": "submitted by /u/SuvorovD [link] [comments]"
+  },
+  {
    "id": "e9318bd23b01",
    "title": "Tide-Rider| AI Animated Short",
    "link": "https://www.reddit.com/r/aivideo/comments/1uz7f5n/tiderider_ai_animated_short/",
@@ -129,6 +257,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/anNrbm05b2h0dGRoMdJcKJFH3RGcQkp0od2OrNsnXWHsN-GaRrOPSJxVwozX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=12f9780d969acf417c590080b731332f84c8f161",
    "excerpt": "submitted by /u/RealisticValuable484 [link] [comments]"
+  },
+  {
+   "id": "5c50a957f187",
+   "title": "easygoing0114/Krea-2-Turbo_clear",
+   "link": "https://huggingface.co/easygoing0114/Krea-2-Turbo_clear",
+   "date": "2026-07-17T18:06:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, anime, license:other, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "86c7defbc4fb",
@@ -7376,174 +7520,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/cnh5MGhvdm1rdWNoMcVMPutfbLyWwsixWAcfipvimLxV1hNcAEODokKslfhq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aaeb031094b9f47a1ebb6efcc9fa493d1abd8286",
    "excerpt": "submitted by /u/Exciting-Ladder-30 [link] [comments]"
-  },
-  {
-   "id": "83991446e13c",
-   "title": "EVADIVA - SLOPP",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uuo64p/evadiva_slopp/",
-   "date": "2026-07-12T18:56:46.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bGN4aTIyYm1pdWNoMVjV_OmykYlzAi-X3wP0Yl8Xe_hWvu5UIro4SUgIJZpV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7bfe37b8bf5f4df0dd49ed53733f5b5921539b4e",
-   "excerpt": "submitted by /u/boirotten [link] [comments]"
-  },
-  {
-   "id": "9d5729b560a8",
-   "title": "Ava2000/Gravitydusty_Illustrious  (♥ 1)",
-   "link": "https://huggingface.co/Ava2000/Gravitydusty_Illustrious",
-   "date": "2026-07-12T18:54:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:calcuis/illustrious, base_model:adapter:calcuis/illustrious",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4e265f5969fe",
-   "title": "Overdrive - AI Mystery series I'm working on",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uumqaq/overdrive_ai_mystery_series_im_working_on/",
-   "date": "2026-07-12T18:04:12.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/djN6NTdhbmc5dWNoMZREtxclLYtyFoj6YOSjzVb-aFU7rXp8rnpgBfa41gdw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c40a3b51a15e1305c15c428df6d7962a15f02135",
-   "excerpt": "submitted by /u/Overdrive_Series [link] [comments]"
-  },
-  {
-   "id": "67e74ffc03c2",
-   "title": "Bookwyrms",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uumjjm/bookwyrms/",
-   "date": "2026-07-12T17:57:11.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/994595dp7uch1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=73d9914b47b54232ae2ac68775af6b19a0dc18e6",
-   "excerpt": "... submitted by /u/Zenchilada [link] [comments]"
-  },
-  {
-   "id": "cbffcca30ac0",
-   "title": "lite-infer/z-image-turbo-nunchaku-lite-nvfp4_r32-bnb4-text-encoder",
-   "link": "https://huggingface.co/lite-infer/z-image-turbo-nunchaku-lite-nvfp4_r32-bnb4-text-encoder",
-   "date": "2026-07-12T17:53:27.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, z-image, nunchaku, svdquant, nvfp4",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "38f11e7881cc",
-   "title": "lite-infer/z-image-turbo-nunchaku-lite-int4_r32-bnb4-text-encoder",
-   "link": "https://huggingface.co/lite-infer/z-image-turbo-nunchaku-lite-int4_r32-bnb4-text-encoder",
-   "date": "2026-07-12T17:52:59.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, z-image, nunchaku, svdquant, int4",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4a7bb9cd4776",
-   "title": "STOPATE/animagine-xl-4.0",
-   "link": "https://huggingface.co/STOPATE/animagine-xl-4.0",
-   "date": "2026-07-12T17:43:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, en",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c88c3ad911ce",
-   "title": "jei7/jiascos-marin",
-   "link": "https://huggingface.co/jei7/jiascos-marin",
-   "date": "2026-07-12T17:41:06.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "955b13163a85",
-   "title": "The Beatles Sell Out",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uulv3g/the_beatles_sell_out/",
-   "date": "2026-07-12T17:32:15.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MDhiaWVkenIzdWNoMTnCN4yz05I1E8-gyOcPfqrbxU1V-rnWmcRESOogKE7a.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f97283134d751af70d4a9857ddd08e7be7a851e8",
-   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
-  },
-  {
-   "id": "da855abd26c7",
-   "title": "ogog3/Sa2a",
-   "link": "https://huggingface.co/ogog3/Sa2a",
-   "date": "2026-07-12T17:29:32.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5, base_model:adapter:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "f99bd2fa8ede",
-   "title": "lite-infer/flux.1-dev-nunchaku-lite-nvfp4_r32-bnb4-text-encoder",
-   "link": "https://huggingface.co/lite-infer/flux.1-dev-nunchaku-lite-nvfp4_r32-bnb4-text-encoder",
-   "date": "2026-07-12T17:24:58.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, flux, nunchaku, svdquant, nvfp4",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a65075fa31d5",
-   "title": "lite-infer/flux.1-dev-nunchaku-lite-int4_r32-bnb4-text-encoder",
-   "link": "https://huggingface.co/lite-infer/flux.1-dev-nunchaku-lite-int4_r32-bnb4-text-encoder",
-   "date": "2026-07-12T17:24:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, flux, nunchaku, svdquant, int4",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
