@@ -1,6 +1,78 @@
 {
- "updated": "2026-07-17T14:05:48.893Z",
+ "updated": "2026-07-17T15:43:48.372Z",
  "items": [
+  {
+   "id": "a90acdd50b34",
+   "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+   "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+   "date": "2026-07-17T15:21:17.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training."
+  },
+  {
+   "id": "bdf558e044c4",
+   "title": "Flying over the sacred mountain",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uz2jcr/flying_over_the_sacred_mountain/",
+   "date": "2026-07-17T15:12:10.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y3g3aG4xamsydGRoMQz0r4hjcGEK4s5sFUvY_h_Rl_6vrqLKJf46XVK_UbdQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=35397489e0bec40bf1ed06120267d55ee25a1b79",
+   "excerpt": "submitted by /u/ScaredTie9755 [link] [comments]"
+  },
+  {
+   "id": "15c4e7ed1f12",
+   "title": "CASH BLADES LOVES HIS GOTH BABES | AMERICAN BABEL",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uz20eq/cash_blades_loves_his_goth_babes_american_babel/",
+   "date": "2026-07-17T14:53:00.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bHBnN3Uzd3d6c2RoMVlo6sb6DbIyWN0bN21aX5X1OdWRWEVNBks-AxyQ_dC8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9abf32639acac277ec46dea9034c21c59d252a09",
+   "excerpt": "submitted by /u/GoldMold7 [link] [comments]"
+  },
+  {
+   "id": "70aa64726f03",
+   "title": "oxrynajtae/NSF",
+   "link": "https://huggingface.co/oxrynajtae/NSF",
+   "date": "2026-07-17T14:47:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, LoRA, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:finetune:Tongyi-MAI/Z-Image-Turbo, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2b1be5da5e7f",
+   "title": "Iron Orchids | The Nail File s1ep8",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uz1lgf/iron_orchids_the_nail_file_s1ep8/",
+   "date": "2026-07-17T14:37:40.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OWFpMXFjaDN4c2RoMeZPnPhDhapR00bTRrw0_rXrjb4d188QqBX_HEI5Mo88.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0bc78e30838664be6a435a0e556a49919cf9a719",
+   "excerpt": "submitted by /u/machina9000 [link] [comments]"
+  },
+  {
+   "id": "d7a65c465a9b",
+   "title": "IronBloodhound/neoncryptstyle",
+   "link": "https://huggingface.co/IronBloodhound/neoncryptstyle",
+   "date": "2026-07-17T13:46:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "45e86f399523",
    "title": "oxrynajtae/RanaL",
@@ -11,6 +83,22 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, LoRA, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:finetune:Tongyi-MAI/Z-Image-Turbo, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c707b7e9d9d6",
+   "title": "Levmar/missionarytwoshotkrea2",
+   "link": "https://huggingface.co/Levmar/missionarytwoshotkrea2",
+   "date": "2026-07-17T13:18:09.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
    "hf": {
     "likes": 0,
     "downloads": 0,
@@ -7454,88 +7542,6 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the lawsuit also names IO Products - Jony Ive's hardware startup, which OpenAI bought in 2025 - along with two specific employees,"
-  },
-  {
-   "id": "80b272bb4140",
-   "title": "Apple sues OpenAI over alleged trade secret theft",
-   "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-   "date": "2026-07-10T21:00:29.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
-  },
-  {
-   "id": "c835ffd5cd3d",
-   "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-   "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-   "date": "2026-07-10T19:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]"
-  },
-  {
-   "id": "8d6307ad8363",
-   "title": "Swarzox/LTX2.3-22b-distilled-video-only-MXFP8",
-   "link": "https://huggingface.co/Swarzox/LTX2.3-22b-distilled-video-only-MXFP8",
-   "date": "2026-07-10T18:00:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, ltx-video, ltx-2.3, video-only, mxfp8, experimental",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "2e6f798b14e7",
-   "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-   "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-   "date": "2026-07-10T17:17:12.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
-  },
-  {
-   "id": "c3ac45e63001",
-   "title": "rdsi2026/Wan2.2-I2V-A14B-Diffusers",
-   "link": "https://huggingface.co/rdsi2026/Wan2.2-I2V-A14B-Diffusers",
-   "date": "2026-07-10T16:40:48.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 19, likes: 0. Tags: diffusers, safetensors, image-to-video, en, zh, arxiv:2503.20314",
-   "hf": {
-    "likes": 0,
-    "downloads": 19,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "c4ac912fdc8d",
-   "title": "Hugging Face’s CEO on why companies are done renting their AI",
-   "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-   "date": "2026-07-10T14:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]"
-  },
-  {
-   "id": "25a8c727f0cd",
-   "title": "Instagram’s Adam Mosseri: If you don t like AI, then you shouldn t have it in your feed",
-   "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-   "date": "2026-07-10T13:45:02.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast. \"I think we should let you know if content is AI content or not.\" At the same time, Mosseri seems to be drawing a distinctio"
   }
  ]
 }
