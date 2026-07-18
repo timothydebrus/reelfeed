@@ -1,6 +1,69 @@
 {
- "updated": "2026-07-18T16:15:08.814Z",
+ "updated": "2026-07-18T17:18:21.933Z",
  "items": [
+  {
+   "id": "cc4e6d1061c3",
+   "title": "Whos House Is That",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v01mcs/whos_house_is_that/",
+   "date": "2026-07-18T17:17:34.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/enoyMGRyOW11MGVoMU8FVkyUFE6as55ueShXyEhxyuNpXoxHxl6n23M9aKW9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=92b7ec068521150b43788c5efd2c7556a71af0cf",
+   "excerpt": "submitted by /u/groupingai [link] [comments]"
+  },
+  {
+   "id": "a3faa0e05a89",
+   "title": "Armoireopt/lingbot-world-v2-14b-causal-fast",
+   "link": "https://huggingface.co/Armoireopt/lingbot-world-v2-14b-causal-fast",
+   "date": "2026-07-18T17:17:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, i2v, World Model, image-to-video, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "329cb5dcfd6b",
+   "title": "v0.28.2",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.2",
+   "date": "2026-07-18T17:11:00.000Z",
+   "source": "ComfyUI Releases",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
+   "excerpt": "ComfyUI v0.28.2"
+  },
+  {
+   "id": "bcfadb9ff788",
+   "title": "ssaaaq/Qwen-Image-Edit-Rapid-AIO  (♥ 1)",
+   "link": "https://huggingface.co/ssaaaq/Qwen-Image-Edit-Rapid-AIO",
+   "date": "2026-07-18T16:59:30.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: comfyUI, qwen, qwen-edit, t2i, i2i, text-to-image",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6833712c3917",
+   "title": "My First Apple",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v00w8t/my_first_apple/",
+   "date": "2026-07-18T16:49:22.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aXN6N3p0dmZwMGVoMVp0DboZejE1HuzyWQUQpZ_ugHWWP9dhLtdgFwHBTKlo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f2d0c70744ed9e75179bdc34f793fd91762d313",
+   "excerpt": "submitted by /u/InsertCointent [link] [comments]"
+  },
   {
    "id": "0f830cf6359a",
    "title": "Seventeen minutes before the rain, she had to cross the field.",
@@ -93,6 +156,22 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, template:sd-lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8567614bb948",
+   "title": "kozak23/Krea2_raw_fp8",
+   "link": "https://huggingface.co/kozak23/Krea2_raw_fp8",
+   "date": "2026-07-18T14:53:24.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, base_model:krea/Krea-2-Raw, base_model:finetune:krea/Krea-2-Raw, license:other, region:us",
    "hf": {
     "likes": 0,
     "downloads": 0,
@@ -448,6 +527,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/eWxoNWJ4bGx2eWRoMe5678jTeJqFozaA2NccauryrZhGhEeUnvngsaur4iRC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=912f917cd805ad4ec1cc6207a7e93c19d3a995e5",
    "excerpt": "submitted by /u/YacobiQ86 [link] [comments]"
+  },
+  {
+   "id": "e58e67a2992a",
+   "title": "PY007/trial",
+   "link": "https://huggingface.co/PY007/trial",
+   "date": "2026-07-18T09:47:09.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video, video-generation, text-to-video, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
   },
   {
    "id": "ba23eb5655c4",
@@ -7447,118 +7542,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: stable-diffusion, stable-diffusion-diffusers, lora, text-to-image, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5, base_model:adapter:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "eef8b79c1a22",
-   "title": "fal/ideogram-v4-instant  (♥ 2)",
-   "link": "https://huggingface.co/fal/ideogram-v4-instant",
-   "date": "2026-07-13T18:51:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 2. Tags: diffusers, safetensors, text-to-image, image-generation, flow-matching, ideogram4",
-   "hf": {
-    "likes": 27,
-    "downloads": 0,
-    "pipeline": "trending image"
-   }
-  },
-  {
-   "id": "9dff5ac71304",
-   "title": "fal/ideogram-v4-fast  (♥ 1)",
-   "link": "https://huggingface.co/fal/ideogram-v4-fast",
-   "date": "2026-07-13T18:51:22.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, text-to-image, image-generation, flow-matching, ideogram4",
-   "hf": {
-    "likes": 22,
-    "downloads": 0,
-    "pipeline": "trending image"
-   }
-  },
-  {
-   "id": "3b79e44e29fa",
-   "title": "AakashTestCheck/Wan2.2-Distill-Loras",
-   "link": "https://huggingface.co/AakashTestCheck/Wan2.2-Distill-Loras",
-   "date": "2026-07-13T18:41:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, diffusion-single-file, comfyui, distillation, LoRA, video",
-   "hf": {
-    "likes": 0,
-    "downloads": 5,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "3d7e877ac85f",
-   "title": "LocalMuseAI/coreml-realistic-vision-v5-1-6bit",
-   "link": "https://huggingface.co/LocalMuseAI/coreml-realistic-vision-v5-1-6bit",
-   "date": "2026-07-13T18:26:48.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: ml-stable-diffusion, text-to-image, stable-diffusion, realistic-vision, coreml, apple-neural-engine",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4d0904e1b033",
-   "title": "LocalMuseAI/coreml-epicrealism-6bit",
-   "link": "https://huggingface.co/LocalMuseAI/coreml-epicrealism-6bit",
-   "date": "2026-07-13T18:26:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: ml-stable-diffusion, text-to-image, stable-diffusion, epicrealism, photorealistic, coreml",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "63e7bdce13f0",
-   "title": "LocalMuseAI/coreml-dreamshaper-8-6bit",
-   "link": "https://huggingface.co/LocalMuseAI/coreml-dreamshaper-8-6bit",
-   "date": "2026-07-13T18:26:41.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: ml-stable-diffusion, text-to-image, stable-diffusion, dreamshaper, coreml, apple-neural-engine",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0f491aa9952d",
-   "title": "LocalMuseAI/coreml-dreamshaper-xl-lightning-6bit",
-   "link": "https://huggingface.co/LocalMuseAI/coreml-dreamshaper-xl-lightning-6bit",
-   "date": "2026-07-13T18:26:39.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: ml-stable-diffusion, text-to-image, stable-diffusion-xl, dreamshaper, lightning, coreml",
    "hf": {
     "likes": 0,
     "downloads": 0,
