@@ -1,6 +1,158 @@
 {
- "updated": "2026-07-18T03:35:17.231Z",
+ "updated": "2026-07-18T06:21:50.666Z",
  "items": [
+  {
+   "id": "16241427448e",
+   "title": "neonforestmist/qwen-image-2512-monet-lora",
+   "link": "https://huggingface.co/neonforestmist/qwen-image-2512-monet-lora",
+   "date": "2026-07-18T06:16:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, qwen-image, qwen-image-2512",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3b1e1144fa4f",
+   "title": "ravibhai1212/LTX-2.3",
+   "link": "https://huggingface.co/ravibhai1212/LTX-2.3",
+   "date": "2026-07-18T05:31:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "f379449c70ca",
+   "title": "Kimchiai/M87",
+   "link": "https://huggingface.co/Kimchiai/M87",
+   "date": "2026-07-18T05:27:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "32906c3c1ab2",
+   "title": "80s days",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzmxsz/80s_days/",
+   "date": "2026-07-18T05:19:47.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bXQzZng3c2pheGRoMaM2_I64fIvN2unHEI3_0m29fOG9cWfgHtQSlyuRDxqG.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=dbbdef45080e71a1cf7088de02e25d8f411963e3",
+   "excerpt": "submitted by /u/love1008 [link] [comments]"
+  },
+  {
+   "id": "5d2b0c79af65",
+   "title": "Neil Rimer thinks the AI money is coming back out",
+   "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+   "date": "2026-07-18T04:47:25.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
+  },
+  {
+   "id": "577036e202e3",
+   "title": "Liss & Trip: Bubble Trouble",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzma0o/liss_trip_bubble_trouble/",
+   "date": "2026-07-18T04:45:43.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MWJvY3RnN2c0eGRoMb2j4423DvBPwB56wePrIapbAZw_P8HYtgysUBJ1V31B.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f8a736030f47e9708f0b809cec33ef773ba8dbf0",
+   "excerpt": "submitted by /u/RobZomboyd [link] [comments]"
+  },
+  {
+   "id": "b76af52c6b62",
+   "title": "Hanzzymore/toms-shoes",
+   "link": "https://huggingface.co/Hanzzymore/toms-shoes",
+   "date": "2026-07-18T04:36:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "459a698b7e3c",
+   "title": "Glaukenstucken/ellie",
+   "link": "https://huggingface.co/Glaukenstucken/ellie",
+   "date": "2026-07-18T04:00:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "576643ad4dbc",
+   "title": "Noginowa/GleamPalette-ANIMA",
+   "link": "https://huggingface.co/Noginowa/GleamPalette-ANIMA",
+   "date": "2026-07-18T03:58:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, diffusion-single-file, comfyui, text-to-image, merge, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5447fd50f0ad",
+   "title": "oxrynajtae/KreaUltra2",
+   "link": "https://huggingface.co/oxrynajtae/KreaUltra2",
+   "date": "2026-07-18T03:45:30.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, LoRA, base_model:krea/Krea-2-Turbo, base_model:finetune:krea/Krea-2-Turbo, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6f1c39cb0478",
+   "title": "《The Wolf Who Knelt》EP2,A maid uncovers royal blood and wins a mad wolf’s devotion",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzkq7z/the_wolf_who_kneltep2a_maid_uncovers_royal_blood/",
+   "date": "2026-07-18T03:26:46.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y2xiYnA4bnJpd2RoMSKA5Ous2E5XFVutNyRb9kkYiTXMRGqb9TG8wD73fhO6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb732954f2ac76538e0280909994557bb29c8832",
+   "excerpt": "submitted by /u/Academic_Wall_1486 [link] [comments]"
+  },
   {
    "id": "12607f656e5c",
    "title": "sarat-adusumilli/helios-distilled-visualizer-bf16",
@@ -28,7 +180,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:ByteDance/Bernini-R, base_model:adapter:ByteDance/Bernini-R",
    "hf": {
-    "likes": 0,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-image"
    }
@@ -7435,122 +7587,6 @@
     "downloads": 0,
     "pipeline": "image-to-video"
    }
-  },
-  {
-   "id": "8eed5e01cbec",
-   "title": "The Chronicles of Enki: Chapter 2 - Planetary Agony | AI Anime Feedback Request",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uv3fpa/the_chronicles_of_enki_chapter_2_planetary_agony/",
-   "date": "2026-07-13T06:22:03.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OXExOHhhc3p3eGNoMTLkL2Ha7hpCH2tKu0vTLo36f3R98gfDxEBDNkO8nveN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=502657bdf96b6ebb9b0721d49f4e0c85c71a3a2c",
-   "excerpt": "submitted by /u/Excellent-Emphasis25 [link] [comments]"
-  },
-  {
-   "id": "d7f10f70a016",
-   "title": "Palmeras solitarias[OC]",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uv2q2z/palmeras_solitariasoc/",
-   "date": "2026-07-13T05:42:54.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/53zi5ex4qxch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ebd14755358f44bbc8e4907f0999d98394ecc309",
-   "excerpt": "submitted by /u/Gold-Lengthiness-760 [link] [comments]"
-  },
-  {
-   "id": "489b91753170",
-   "title": "The Calmness in The Grim Darkness",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uv2fh0/the_calmness_in_the_grim_darkness/",
-   "date": "2026-07-13T05:26:50.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/qmjs16a0nxch1.png?width=140&amp;height=78&amp;auto=webp&amp;s=797d9bd05420bd1928789d2cd85b790e92820e4e",
-   "excerpt": "submitted by /u/Shervin_Ab [link] [comments]"
-  },
-  {
-   "id": "8b35640b5830",
-   "title": "Pirate Comedy: A Sinking Ship Ruled by Paperwork",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uv1j0b/pirate_comedy_a_sinking_ship_ruled_by_paperwork/",
-   "date": "2026-07-13T04:38:37.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eDYzYWZub2pleGNoMRrYGfdrl2EF7FTEZMo-3EgYS-8ZVt-N5hvCnzScPvFD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=69a5c5129d7bca5f7a58422012c8d15cf96b040b",
-   "excerpt": "submitted by /u/karloy007 [link] [comments]"
-  },
-  {
-   "id": "9a49cdbe0cd8",
-   "title": "fengbaoqishi/LTX-2",
-   "link": "https://huggingface.co/fengbaoqishi/LTX-2",
-   "date": "2026-07-13T04:03:12.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 3, likes: 0. Tags: diffusers, safetensors, image-to-video, text-to-video, video-to-video, image-text-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 3,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "b272f6818c9e",
-   "title": "Alien specimens",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uv0h39/alien_specimens/",
-   "date": "2026-07-13T03:45:10.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/xbkydjgl4xch1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=375d8da01c30b4c4e8f22c75130b87678c25457d",
-   "excerpt": "submitted by /u/dropthedrawing [link] [comments]"
-  },
-  {
-   "id": "ea5787a348da",
-   "title": "TERROR | Episode 1",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uuzs47/terror_episode_1/",
-   "date": "2026-07-13T03:10:40.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OHB0dXN4c2d5d2NoMXlODI7Fdg2lu5vGwcn8r_SomFnklVFMz52VzR3pBcVK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8fa7d0dc406634eef69664b47351a72d3b99d0c5",
-   "excerpt": "submitted by /u/Apprehensive_Sun907 [link] [comments]"
-  },
-  {
-   "id": "fc1de21f45b4",
-   "title": "Monostich X : Glimpses (AMANDA ANASTASI) - Stanza 2",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uuxmt3/monostich_x_glimpses_amanda_anastasi_stanza_2/",
-   "date": "2026-07-13T01:27:40.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/eglpmtobgwch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c354eaea8d292d05940c9c2ec5e2874dd13d3cb",
-   "excerpt": "Art needs at least a small death. From ; Best of Australian Poems 2025 Guest Editors : Nam Le + Jill Jones Australian Poetry, Naarm/Melbourne 2025 submitted by /u/tladb [link] [comments]"
-  },
-  {
-   "id": "ba3da6fd8ed3",
-   "title": "Welcome to The Slopocalypse",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uuxfmq/welcome_to_the_slopocalypse/",
-   "date": "2026-07-13T01:18:27.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MTd2OTExaGdld2NoMW_u1aDeKlk4WS0TfUamEDb0yZ9OU4ZqshnsvVyf9YQY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=64747a2423d12956f1e763a8a4992bcfa0dff0d1",
-   "excerpt": "submitted by /u/budz [link] [comments]"
-  },
-  {
-   "id": "f1ec1e31c5fc",
-   "title": "As Sloppy As It Gets",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uuxdyr/as_sloppy_as_it_gets/",
-   "date": "2026-07-13T01:16:17.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bGdpbzRtMzhkd2NoMTIf8vb1_gNF7mGAMSfuROcVbUvbt_-AKVpI5Nie5xPk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5127241587ee06110929d972db90d4b9c580ce8",
-   "excerpt": "submitted by /u/kylejames87 [link] [comments]"
-  },
-  {
-   "id": "c68eaeec5f55",
-   "title": "Someone was asking for a music video",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uux30x/someone_was_asking_for_a_music_video/",
-   "date": "2026-07-13T01:01:54.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YnF6a2h3MXdid2NoMdoiPM-9CnvVq7nAwI0JWnHv0VHXM7SjBeyFDfji8eYR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c147e1cf2f1680d84d31c1dfab013485196052ee",
-   "excerpt": "submitted by /u/_mang00 [link] [comments]"
   }
  ]
 }
