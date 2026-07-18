@@ -1,6 +1,109 @@
 {
- "updated": "2026-07-18T21:07:57.527Z",
+ "updated": "2026-07-18T23:13:11.843Z",
  "items": [
+  {
+   "id": "d61a90295744",
+   "title": "Some Krea2 Testing",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v0aayi/some_krea2_testing/",
+   "date": "2026-07-18T23:12:23.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/myqqekmxl2eh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=de98ae4019fe1d3ec0abf150b4a2833511846cd4",
+   "excerpt": "I finally started messing around with AI image generation in ComfyUI again after quite a long break. I definitely skipped a few generations of models — the last one I really used was Flux. Now I’ve jumped back in with Krea2, and I’m honestly blown away. These images were created using pretty much the default workflow. The only things I’m using are the Bypass LoRA and the following style LoRA: http"
+  },
+  {
+   "id": "9493ad4e6414",
+   "title": "Nvidia CMP 170HX Unlock 8GB to 64GB",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v0a7wn/nvidia_cmp_170hx_unlock_8gb_to_64gb/",
+   "date": "2026-07-18T23:08:41.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "I'm not sure if you guys have been keeping up with the news but there's a new exploit out in the open to unlock this card HBM2 memory capacity to 64GB+. The process to unlock is still in its infancy. The card is still very cheap. If unlocked successful, the speed should be comparable to a 5090 but with a lot more VRAM. This card does not support FP8/FP4, FYI. For images/videos, this card probably "
+  },
+  {
+   "id": "8d3b8cf9f228",
+   "title": "Strange Waves | The Last Photograph",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v09yt6/strange_waves_the_last_photograph/",
+   "date": "2026-07-18T22:57:42.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/a3Q3d214ZHdpMmVoMX5EC0WWNji0gylmrbOCPjBE4JkVneT4PjyzSkovYGsR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2bb4b8882575ec237af54a3fcaa46b0594d6ad35",
+   "excerpt": "submitted by /u/nouseforaname79 [link] [comments]"
+  },
+  {
+   "id": "fb29687653b3",
+   "title": "Thomas Vlog episode 1",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v09vmz/thomas_vlog_episode_1/",
+   "date": "2026-07-18T22:53:39.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YTRnMXFhbWlpMmVoMQ-KU7A5cZ2wX-sstQ0yRzA8pxmBzGMcqeBu0SuLgkQw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c53a4d8defdff5da9aeb4ae9598748e582a2c6ea",
+   "excerpt": "submitted by /u/mbossolon [link] [comments]"
+  },
+  {
+   "id": "9d08ba6a57aa",
+   "title": "Anima Depth ControlNet",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v09usx/anima_depth_controlnet/",
+   "date": "2026-07-18T22:52:34.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "Did anyone have success with this ControlNet? https://huggingface.co/TaihoC/Anima-ControlNet-VACE-Depth It uses Anima Base but I had no luck with it. I am wondering if I am doing something wrong with my workflow. Tried both Anima Base and WAI Anima Base. I had success with Anima Preview 3 and kohya’s depth ControlNet though. submitted by /u/Manicarus [link] [comments]"
+  },
+  {
+   "id": "d5181df606a8",
+   "title": "AnimeGen-T2V",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v099rv/animegent2v/",
+   "date": "2026-07-18T22:26:27.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OG94NHNoOW5kMmVoMW1SRsu2jPsoAP8_73UmcRr7tufgQYoeW3UGiwxHW1ik.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=928b0005436a43727947b6df21c249db8ea0a150",
+   "excerpt": "New anime focused wan2.2 tune. https://huggingface.co/aidealab/AnimeGen-T2V I2V version as well: https://huggingface.co/aidealab/AnimeGen-I2V submitted by /u/Different_Fix_2217 [link] [comments]"
+  },
+  {
+   "id": "86a5394a0ff2",
+   "title": "nidkraggle20212335/flux2-klein-gpu",
+   "link": "https://huggingface.co/nidkraggle20212335/flux2-klein-gpu",
+   "date": "2026-07-18T22:19:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, diffusers:Flux2KleinPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "23a19e5c25fe",
+   "title": "BlueTriangles/SDXL_Miwa_Haruka",
+   "link": "https://huggingface.co/BlueTriangles/SDXL_Miwa_Haruka",
+   "date": "2026-07-18T21:18:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:OnomaAIResearch/Illustrious-XL-v2.0, base_model:adapter:OnomaAIResearch/Illustrious-XL-v2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1332c4ddaf05",
+   "title": "My first LTX 2.3 short film",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v07dtd/my_first_ltx_23_short_film/",
+   "date": "2026-07-18T21:05:47.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/dGFxNG03eHp5MWVoMW_sDysvMTQCLnuPcmTJGn7jO87ZNsaawnD0D1B0Iu_a.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe6fafaf6476df2bf3ac7d3ccf84d19cbd7c5f9a",
+   "excerpt": "What’s up yal! Just finished “animating” my first short film made completely with LTX 2.3. It’s certainly not perfect but it’s a step in the right direction. I played both characters, using a voice changer for the woman and leaving my original voice for the man. I recorded the dialogue and used it as control audio for each clip. The story comes from a proof of concept from a romantic comedy film s"
+  },
   {
    "id": "c3407d071f89",
    "title": "AMERICAN BABEL | Room 48",
@@ -10,6 +113,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/OXhmeWVxcHl5MWVoMcWZqqmL2BAAIEADvKgteKU9c0Z3T5FMkW_w87vgx0OT.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9685031cef4b9c5d3b4a8015e351721c219f6b8",
    "excerpt": "submitted by /u/GoldMold7 [link] [comments]"
+  },
+  {
+   "id": "5476eaca52d0",
+   "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+   "date": "2026-07-18T20:54:42.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2157758001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded multiple schools and nonprofits that support writers and the arts more"
   },
   {
    "id": "935a585219a7",
@@ -75,6 +188,16 @@
    }
   },
   {
+   "id": "d8505ad3c3c4",
+   "title": "Krea 2 - Arcane Style",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v05wqd/krea_2_arcane_style/",
+   "date": "2026-07-18T20:05:27.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/973zdlcvn1eh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cd30eb973eb8893fa36b33df606f8ed64e3f92ac",
+   "excerpt": "Hi! Here are some recent image generation, with my new GPU, I want to transfer this style onto an existing image; do you have a workflow for that, please? Thank you JunkieMonkey69 for the Lora! submitted by /u/Ghiles_Kun [link] [comments]"
+  },
+  {
    "id": "d50b61d01a2b",
    "title": "Fantasy Next Door - Urban Dark Fantasy Anthem",
    "link": "https://www.reddit.com/r/aivideo/comments/1v04vos/fantasy_next_door_urban_dark_fantasy_anthem/",
@@ -105,6 +228,16 @@
    "excerpt": "submitted by /u/SpiritualJaguar6285 [link] [comments]"
   },
   {
+   "id": "3c712868ba18",
+   "title": "Not up to date best model to train LoRa on (if even possible)",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v047ce/not_up_to_date_best_model_to_train_lora_on_if/",
+   "date": "2026-07-18T18:58:11.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/xznk56klb1eh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=562ffa924e7516c77e985c234f089edf72fdf1b3",
+   "excerpt": "Hi All, I used to be a rather early adapter for Stable Diffusion, but gradually lost interest when I failed to actually generate stuff that looked good (100% a skill issue). Now I would like to give things another try, especially for generating artwork for a game I am working on (complete amateur so I have low expectations for myself). I attached a couple of images, but would basically like to gen"
+  },
+  {
    "id": "ee7e2eccd745",
    "title": "Kimi: Threat or menace?",
    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
@@ -123,6 +256,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/dTVpYmFkYm05MWVoMRqdTwGeL8NP1DkWV6iCw4Nq2HxYoez7WCKblHI46sOq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=35830a45a1d3c0bd15c64c429b66558bb79cb312",
    "excerpt": "submitted by /u/Full_Ad1350 [link] [comments]"
+  },
+  {
+   "id": "ca0d20de340c",
+   "title": "Includes all 285 Krea2 style nodes",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v03tk4/includes_all_285_krea2_style_nodes/",
+   "date": "2026-07-18T18:42:50.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/fr1dw4ps91eh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0672223ce83b99fcdd5f74894497cb23e5229b0b",
+   "excerpt": "This is not my original work. It comes from Krea 2 : styles (wildcards txt) : r/StableDiffusion I found it really useful, so I turned it into a node to make it much easier to call. https://github.com/no8d/ComfyUI-NO8D-controls submitted by /u/Suspicious_Aide2697 [link] [comments]"
   },
   {
    "id": "a2c08281cfa0",
@@ -209,7 +352,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, i2v, World Model, image-to-video, en",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -250,6 +393,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/aXN6N3p0dmZwMGVoMVp0DboZejE1HuzyWQUQpZ_ugHWWP9dhLtdgFwHBTKlo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f2d0c70744ed9e75179bdc34f793fd91762d313",
    "excerpt": "submitted by /u/InsertCointent [link] [comments]"
+  },
+  {
+   "id": "c558733f5702",
+   "title": "How to Make AI Videos Actually Feel Cinematic | PDF Guide + Full Workflow Included 🚀",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v00ua0/how_to_make_ai_videos_actually_feel_cinematic_pdf/",
+   "date": "2026-07-18T16:47:11.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dmJyMjYyYzZwMGVoMeC0L7-rOFcH-iE7ntwpxWTRYM0JF2hrUGlxD47MrwJu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8d2305e798ca71b48314b3d1266ba452562d3a4",
+   "excerpt": "Spent the last while trying to figure out why so many AI-generated videos (mine included) look technically solid but feel emotionally flat. Turned out the issue wasn't the model — it was that I was approaching it like a prompt-engineering problem instead of a filmmaking one. Some of the biggest shifts that actually changed my output: Plan the emotional arc before touching a prompt. List the feelin"
   },
   {
    "id": "0f830cf6359a",
@@ -348,6 +501,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "34cb05333942",
+   "title": "Chrome ball specular from LingBot-Video's open-weights demo vs my LTX-2.3 run (reproducible workflow)",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uzy0jn/chrome_ball_specular_from_lingbotvideos/",
+   "date": "2026-07-18T14:54:45.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/ZTIxYXh1YzI0MGVoMWNQ5O4aPXTSJuPTB5Eu3RCMW2YWpagzMcWs47BN6W_z.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=807bd6e86e26ba3c53c66a458e471282a0e14e2c",
+   "excerpt": "This is the model's official chrome ball specular output, not my personal render. Robbyant released it as open weights plus inference code, so the play is to grab the same weights and run the identical prompt/seed yourself, then compare against whatever you have locally. What I see in the released demo: the specular lobe stays sharper longer than my LTX-2.3 run on the same prompt/seed, though both"
   },
   {
    "id": "8567614bb948",
@@ -566,6 +730,16 @@
    "excerpt": "submitted by /u/ShowaEmergency [link] [comments]"
   },
   {
+   "id": "943fdb68e16d",
+   "title": "Made another Style LoRA on Krea2",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uzuypa/made_another_style_lora_on_krea2/",
+   "date": "2026-07-18T12:45:35.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/iqlnyq2dgzdh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f96787f0568081f9fe665304c8ffa3160bc9699c",
+   "excerpt": "https://civitai.red/models/2787790/artstyle-kuvshinovilya Used the base/Raw version of the model on AIToolkit, 2220 steps total, resolution was set to 512, 768. Dataset had 37 images total. all the images had simple caption about the subject and background, each caption under 50 words. No style described. So works pretty well even without the trigger word \"Kuvshinov_Ilya\" If using with other 3d st"
+  },
+  {
    "id": "87309ea635e6",
    "title": "Cosmic Ghoul.",
    "link": "https://www.reddit.com/r/midjourney/comments/1uzus7g/cosmic_ghoul/",
@@ -576,6 +750,16 @@
    "excerpt": "submitted by /u/Mordrat_The_Grey [link] [comments]"
   },
   {
+   "id": "b81ff4135d0b",
+   "title": "Trained My First Lora Yesterday - Krea 2",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uzuqj7/trained_my_first_lora_yesterday_krea_2/",
+   "date": "2026-07-18T12:35:14.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "Got the courage to finally train my first Lora yesterday after almost a year of learning comfyui. What motivated me was using krea 2 and absolutely how amazing it is. I do have a question though, my Lora turned out really great for my first one. You can 100 percent tell it’s the person by the face and even the body. Although I do feel I could add some serious likeness if I used bigger resolution t"
+  },
+  {
    "id": "09cab7535f90",
    "title": "Space groceries",
    "link": "https://www.reddit.com/r/midjourney/comments/1uzuc4c/space_groceries/",
@@ -584,6 +768,16 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/dcqlrivoczdh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e9882b2f2c652aa858779b28d25313a913d03d10",
    "excerpt": "submitted by /u/Zaicab [link] [comments]"
+  },
+  {
+   "id": "09f598d65c67",
+   "title": "Krea2 - Style transfer - experimental",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uzu9ri/krea2_style_transfer_experimental/",
+   "date": "2026-07-18T12:12:18.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/wkkygu7rbzdh1.png?width=140&amp;height=136&amp;auto=webp&amp;s=cd1f1c8371630e71ba1c0708d63987c1216f2d06",
+   "excerpt": "Hi, I'm Dever and I like training style LORAs, you can download this one from Huggingface, workflow is in the repo. Do you like smashing 2 images together to see what happens ? This LORA is for you. It was trained to keep the composition of the first reference image and apply the style of the second reference. All samples just use the LORA trigger word (KSTRANSFER) for the prompt. submitted by /u/"
   },
   {
    "id": "772790f5f9de",
@@ -838,6 +1032,16 @@
    }
   },
   {
+   "id": "ed4f71fe4296",
+   "title": "Krea 2 Identity Edit v1.2 LoRA released today and it's amazing. Samples.",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uzpxxy/krea_2_identity_edit_v12_lora_released_today_and/",
+   "date": "2026-07-18T08:06:39.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/ssam3jt83ydh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=03c7642f6d4e455c34699c01fd11b62662636625",
+   "excerpt": "Here are some samples I put together. It really does turn Krea 2 Turbo into an image edit model with great identity preservation. Shout out to conradlocke! I downloaded it from his huggingface https://huggingface.co/conradlocke/krea2-identity-edit I'll put a few raw source and output files in the comments. submitted by /u/Fishmongr [link] [comments]"
+  },
+  {
    "id": "5898a23ba40c",
    "title": "Campo de Amapolas [OC]",
    "link": "https://www.reddit.com/r/midjourney/comments/1uzp5fz/campo_de_amapolas_oc/",
@@ -1020,6 +1224,16 @@
    }
   },
   {
+   "id": "e1ce5ab58d5f",
+   "title": "Krea2's knowledge of Vehicles is Amazing",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uzluci/krea2s_knowledge_of_vehicles_is_amazing/",
+   "date": "2026-07-18T04:23:02.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/6101xp4uzwdh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=e9f25f525cf6990ba1025f139fd98e26a4c0177d",
+   "excerpt": "I've been playing around with it for bit over a week and it just continues to blow be away with what a great job it can do, even with small details like logos, like the Subaru logo on the last image is insanely clean. submitted by /u/ForesterAI [link] [comments]"
+  },
+  {
    "id": "459a698b7e3c",
    "title": "Glaukenstucken/ellie",
    "link": "https://huggingface.co/Glaukenstucken/ellie",
@@ -1066,6 +1280,16 @@
     "downloads": 5,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "9298a8eded9d",
+   "title": "I trained an interactive Hollow Knight diffusion world model from scratch on around 400k frames of my own gameplay",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uzkwt0/i_trained_an_interactive_hollow_knight_diffusion/",
+   "date": "2026-07-18T03:35:56.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/ycso6qi1swdh1.gif?frame=1&amp;width=140&amp;height=80&amp;auto=webp&amp;s=35a26739ee4efff92d8971906fd85d84886da821",
+   "excerpt": "⬆️ results from the model I’ve been working on an interactive diffusion world model trained entirely on Hollow Knight. I recorded my own gameplay along with the inputs, collected around 400k frames (about 7 hours of gameplay) , and trained the model from random initialization. I didn’t use any pretrained weights or LoRA. It’s still pretty early, but it has started learning some of the actual mecha"
   },
   {
    "id": "6f1c39cb0478",
@@ -1371,6 +1595,16 @@
    "excerpt": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
   },
   {
+   "id": "ec26435b4244",
+   "title": "Krea 2 : styles (wildcards txt)",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uzdj7o/krea_2_styles_wildcards_txt/",
+   "date": "2026-07-17T21:59:16.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/gj43aaww3vdh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=0c63ea31b3aa81481b17a341833c44685d0d4349",
+   "excerpt": "The wildcards: https://drive.google.com/file/d/1z1tY\\_365qpIgXtvm6\\_QcfKEGYE9ix2xw/view?usp=drivesdk It's not perfect, not complete but it's more of a pointer to what this model can do in term of styles. Is you feel the style is too much you can write your prompt in the form: Style:... Subject:.... This is better in my opinion. Those images were generated at 1mp so if you generate at higher resolu"
+  },
+  {
    "id": "418eaabcf11a",
    "title": "A Failed Enterprise",
    "link": "https://www.reddit.com/r/aivideo/comments/1uzd8lp/a_failed_enterprise/",
@@ -1636,6 +1870,16 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple employees now work at the company. OpenAI’s response so far has been carefully hedged, and the timing couldn’t be worse with the company reportedly eyeing an IPO […"
+  },
+  {
+   "id": "7dfff5a153b9",
+   "title": "In love with how simple the process is (ltx2.3+krea2)",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uz6nza/in_love_with_how_simple_the_process_is_ltx23krea2/",
+   "date": "2026-07-17T17:42:08.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NzhuNDhxcjJ1dGRoMcF5K-rBEOBDqgc09W81q8UWUJa81cfc2W44DJs-aiab.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=dec8f9f617b3235ed23f81c5bc6e784071c50b2f",
+   "excerpt": "submitted by /u/Beautiful_Egg6188 [link] [comments]"
   },
   {
    "id": "9f0a72b022f7",
@@ -7279,281 +7523,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/YjN6MDhzMmRmM2RoMUM84r-PamccuVHCeR-8eBSFsu1wXiv1_DxxmMYdSmEE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb643193ced079d3a1db12f1a51ec14a3aad8a84",
    "excerpt": "submitted by /u/GoldMold7 [link] [comments]"
-  },
-  {
-   "id": "71ee9ef92d3c",
-   "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-   "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-   "date": "2026-07-14T00:45:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice."
-  },
-  {
-   "id": "401a573e3191",
-   "title": "BREZ (Pirate Ads) — Banning rum on a pirate ship should be a mutiny",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uvt02i/brez_pirate_ads_banning_rum_on_a_pirate_ship/",
-   "date": "2026-07-14T00:16:59.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ODd5cmVkbnY4M2RoMbRuYi3DIBUArZ_S-CRgHdGPTuQJ2Lfy3gvbaJ8aCLE_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bed0ec9d2d6455ac4321b07c92ed8712a5a88555",
-   "excerpt": "submitted by /u/Thicc-Mindy [link] [comments]"
-  },
-  {
-   "id": "c8b8e8e38782",
-   "title": "Mr-J-369/mopMixtureOfPerverts_v71Flexible_qnn2.48_8gen3",
-   "link": "https://huggingface.co/Mr-J-369/mopMixtureOfPerverts_v71Flexible_qnn2.48_8gen3",
-   "date": "2026-07-14T00:16:05.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: qualcomm, NPU, qnn, stable-diffuser, SDXL, text-to-image",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4bee90298658",
-   "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-   "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-   "date": "2026-07-14T00:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "With the cash, the company aims to expand its world model offering and reach customers across geographies."
-  },
-  {
-   "id": "ca8d7bccf4af",
-   "title": "How sales teams use ChatGPT Work",
-   "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-   "date": "2026-07-14T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
-  },
-  {
-   "id": "afc8cde3e2c8",
-   "title": "How data science teams use ChatGPT Work",
-   "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-   "date": "2026-07-14T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
-  },
-  {
-   "id": "6018c3395dbe",
-   "title": "The Halloween War",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uvskbt/the_halloween_war/",
-   "date": "2026-07-13T23:58:32.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cjJkcXQ4eTczM2RoMc_CwiQvoHHNYrZFg7hZsFDDL1EJz6dwd4uUFBcaBdZG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e715dac44aefd9a9390f1a7f9840d7eb9c30860b",
-   "excerpt": "submitted by /u/The_Halloween_War [link] [comments]"
-  },
-  {
-   "id": "5a8e1dee53ee",
-   "title": "The Witch's Beanstalk 🧙‍♀️🌱",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uvsen6/the_witchs_beanstalk/",
-   "date": "2026-07-13T23:51:27.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/djZrcW9vcDIzM2RoMWwwz9ca2cdiqtdEunukuGB3oe4yq4EP6kPsb8JwOlN3.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=15907b3fd1fb0301e9dccf4faac06bcb188d5270",
-   "excerpt": "submitted by /u/RobZomboyd [link] [comments]"
-  },
-  {
-   "id": "0b758d906221",
-   "title": "chikoman/shmyface-lora",
-   "link": "https://huggingface.co/chikoman/shmyface-lora",
-   "date": "2026-07-13T23:41:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, text-to-image, lora, fal, base_model:black-forest-labs/FLUX.1-dev",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "102e5c971823",
-   "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-   "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-   "date": "2026-07-13T23:31:18.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors."
-  },
-  {
-   "id": "64f4decd0a26",
-   "title": "mlx-community/AnimeGen-T2V-A14B-Lightning-bf16",
-   "link": "https://huggingface.co/mlx-community/AnimeGen-T2V-A14B-Lightning-bf16",
-   "date": "2026-07-13T23:25:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, t2v, text-to-video, anime, wan2.2",
-   "hf": {
-    "likes": 0,
-    "downloads": 19,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "6ef09855a75b",
-   "title": "mlx-community/AnimeGen-T2V-A14B-Lightning-int4",
-   "link": "https://huggingface.co/mlx-community/AnimeGen-T2V-A14B-Lightning-int4",
-   "date": "2026-07-13T23:24:09.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, t2v, text-to-video, anime, wan2.2",
-   "hf": {
-    "likes": 0,
-    "downloads": 17,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "f49c824a7e53",
-   "title": "The Reformation Room - Episode 3",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uvr1pe/the_reformation_room_episode_3/",
-   "date": "2026-07-13T22:53:39.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MjZzZGsxeTB1MmRoMbdTt3Z3Lq1-5A8xbNd5moGY8JJ3Cpu2KhMZnYucPOFt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=21dc75afd1171779d2d8fc0de0c13c0dd2c2c582",
-   "excerpt": "submitted by /u/Slophouseco [link] [comments]"
-  },
-  {
-   "id": "2c488a13154c",
-   "title": "eraRelentless/facetrackingLTX23",
-   "link": "https://huggingface.co/eraRelentless/facetrackingLTX23",
-   "date": "2026-07-13T22:25:06.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:lynaNSFW/LTX2.3_NSFW_motion, base_model:adapter:lynaNSFW/LTX2.3_NSFW_motion",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9a65155791eb",
-   "title": "Squad37 - Short Movie Part 1 - Retro Anime OVA",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uvpwnk/squad37_short_movie_part_1_retro_anime_ova/",
-   "date": "2026-07-13T22:07:34.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bmFua2hueWpsMmRoMbhciC5ne0ehirNoDB3eUr_AGLN_r--A4YMHb75F5Kz9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=79cdf17db1bff76f1f4229838498ddfbb67b8933",
-   "excerpt": "submitted by /u/Slow_Opposite [link] [comments]"
-  },
-  {
-   "id": "6d0a65d572b5",
-   "title": "An evening in the 40's LA",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uvpm5p/an_evening_in_the_40s_la/",
-   "date": "2026-07-13T21:56:32.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YWdtcTJzNHRqMmRoMbv1mDAtcPuCXJ4rXRFeQLIsPB8cXl1kGant5fxs7Ev0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0a7275d3fc876fedd81fa8064d230341532a454",
-   "excerpt": "submitted by /u/aperartnft [link] [comments]"
-  },
-  {
-   "id": "c21fa9e5443d",
-   "title": "Aidby/realistic-vision-v6.0-b1-inpaint",
-   "link": "https://huggingface.co/Aidby/realistic-vision-v6.0-b1-inpaint",
-   "date": "2026-07-13T21:46:29.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, modelslab.com, stable-diffusion-api, text-to-image, ultra-realistic",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8dd21cd37edb",
-   "title": "Is there a way to edit just one part of a photo? Let's say I generated a really nice image of a car and I want to put a person behind the wheel while keeping the car as is, is that possible? Thank you :)",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uvoqze/is_there_a_way_to_edit_just_one_part_of_a_photo/",
-   "date": "2026-07-13T21:24:04.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/AlexRescueDotCom [link] [comments]"
-  },
-  {
-   "id": "3917d3b170f3",
-   "title": "Satya Nadella has issued a shocking warning to companies using AI",
-   "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-   "date": "2026-07-13T20:59:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses."
-  },
-  {
-   "id": "7e23d123b60a",
-   "title": "FOLLOWERS OF BAAL",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uvo2lh/followers_of_baal/",
-   "date": "2026-07-13T20:58:41.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/m6hq0t2a92dh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=c23a281508b3e25e9aecee79f501644cbc367b7b",
-   "excerpt": "submitted by /u/GaryWray [link] [comments]"
-  },
-  {
-   "id": "17d7b4968cf5",
-   "title": "Emotional companionship robot",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uvo0qu/emotional_companionship_robot/",
-   "date": "2026-07-13T20:56:50.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/c21neHZxMjU5MmRoMSmH-7PiocUoHBoaXkhRpZnxLjGweNVa2bu9GH1i9Wfl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=906fbe4a41a05ab4a3c1055d75f25828a852e4f0",
-   "excerpt": "submitted by /u/Orichalchem [link] [comments]"
-  },
-  {
-   "id": "99413a8f45d8",
-   "title": "realrebelai/Krea-R-Turbo",
-   "link": "https://huggingface.co/realrebelai/Krea-R-Turbo",
-   "date": "2026-07-13T20:55:58.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, krea-2, krea2, text-to-image, quantized",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a2dfa8b65751",
-   "title": "Elden Ring AI Trailer",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uvnz93/elden_ring_ai_trailer/",
-   "date": "2026-07-13T20:55:23.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aDdyOWxqaW44MmRoMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=33c0b9d7e815ff715feb11546ac7926e0888320e",
-   "excerpt": "submitted by /u/ApprehensiveStore492 [link] [comments]"
   }
  ]
 }
