@@ -1,6 +1,100 @@
 {
- "updated": "2026-07-18T12:07:12.454Z",
+ "updated": "2026-07-18T13:52:44.570Z",
  "items": [
+  {
+   "id": "021b2c9b4015",
+   "title": "furaidosu/patrick-corrigan-krea2t",
+   "link": "https://huggingface.co/furaidosu/patrick-corrigan-krea2t",
+   "date": "2026-07-18T13:42:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, text-to-image, krea2, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo, license:apache-2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c3dd66d97278",
+   "title": "Episode 3: The Lunar Ship is Leaving",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzvzrn/episode_3_the_lunar_ship_is_leaving/",
+   "date": "2026-07-18T13:31:11.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bndhYXhqYzhxemRoMZfq30DoQFK4-gFzPLtkhEQoNCn4lkTjFbRY7arm9CZb.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=60e7f6dc6e3afaf4be5e31dbdb72f390d2f8cc9f",
+   "excerpt": "submitted by /u/Ermajean12 [link] [comments]"
+  },
+  {
+   "id": "95bccefbf6b2",
+   "title": "guillekenzo/aros-79e93902-LIORA",
+   "link": "https://huggingface.co/guillekenzo/aros-79e93902-LIORA",
+   "date": "2026-07-18T13:13:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4a075524d715",
+   "title": "simonxc/sk-krea2-lora-frankfrztastyle",
+   "link": "https://huggingface.co/simonxc/sk-krea2-lora-frankfrztastyle",
+   "date": "2026-07-18T13:04:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d57cc197a9dc",
+   "title": "cookiesensei/text-to-video-ms-1.7b",
+   "link": "https://huggingface.co/cookiesensei/text-to-video-ms-1.7b",
+   "date": "2026-07-18T12:45:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, arxiv:2308.06571, license:cc-by-nc-4.0, diffusers:TextToVideoSDPipeline",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "7d2766fb8d27",
+   "title": "Sea Sirens attack!",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzuyqm/sea_sirens_attack/",
+   "date": "2026-07-18T12:45:38.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eGdmdWhwMHBoemRoMSGB00oIRtOukp2uGGgPgLG_dD2iOi8iuyTG0f7dGfwM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e446a96e05e9a03bfe20f74a905a46cd5ff411a",
+   "excerpt": "submitted by /u/ShowaEmergency [link] [comments]"
+  },
+  {
+   "id": "772790f5f9de",
+   "title": "Zanita Kraklein - Favelas Libre",
+   "link": "https://www.reddit.com/r/aivideo/comments/1uzu8mr/zanita_kraklein_favelas_libre/",
+   "date": "2026-07-18T12:10:53.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/d2xnano1MHRiemRoMViAD2IQjLh_4ty5T3zC-h1Qk93ayMW1_EfpuoEVVXot.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9442d5c03d64b281c12857f65a1c0c4f4d8ba411",
+   "excerpt": "submitted by /u/ovninoir [link] [comments]"
+  },
   {
    "id": "cdbda3af6e9c",
    "title": "The apps, gadgets, and tools every reader needs",
@@ -10,6 +104,22 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-136.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read all the old editions at the Installer homepage.) This week, I've been recording the next season of Version History (this season's finale is out on Sunday!), reading about data center heists and Backya"
+  },
+  {
+   "id": "5a67d5c5b21e",
+   "title": "kongbai-84/soultide_lora_Anima",
+   "link": "https://huggingface.co/kongbai-84/soultide_lora_Anima",
+   "date": "2026-07-18T11:55:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, anima, soul-tide, anime, character, stable-diffusion",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "43ba7e8ffa32",
@@ -33,6 +143,22 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, flux, lora, template:sd-lora, fluxgym",
    "hf": {
     "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6d702b203597",
+   "title": "dmmn/krea2-gyaru  (♥ 1)",
+   "link": "https://huggingface.co/dmmn/krea2-gyaru",
+   "date": "2026-07-18T11:39:30.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-image"
    }
@@ -131,7 +257,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, comfyui, text-to-video, wan, video-generation, image-to-video",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -7438,138 +7564,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/djdhZDB6bDVuemNoMTTlIMdQyUR2WGzWN0So4x4qfKOOg4BLDxO49W4nBO7-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea5604e28850362c20e8a6dc9eea4e00b91b114b",
    "excerpt": "submitted by /u/Cautious-Warning-756 [link] [comments]"
-  },
-  {
-   "id": "f9903acbf105",
-   "title": "nitishmouryaa/stable-video-diffusion-img2vid-xt",
-   "link": "https://huggingface.co/nitishmouryaa/stable-video-diffusion-img2vid-xt",
-   "date": "2026-07-13T12:04:29.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, license:other, diffusers:StableVideoDiffusionPipeline, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 21,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "89ce84f4cbf1",
-   "title": "Tesleum/0xAgent",
-   "link": "https://huggingface.co/Tesleum/0xAgent",
-   "date": "2026-07-13T11:54:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:openai/gpt-oss-20b, base_model:adapter:openai/gpt-oss-20b",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "2cc5fc9159b8",
-   "title": "pino10010/Premier",
-   "link": "https://huggingface.co/pino10010/Premier",
-   "date": "2026-07-13T11:48:27.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusion, flux, personalization, preference-modulation",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "830d0bf99bf3",
-   "title": "WANG-CC/flux2-klein-9b-uncensored-text-encoder-Q8_0-GGUF",
-   "link": "https://huggingface.co/WANG-CC/flux2-klein-9b-uncensored-text-encoder-Q8_0-GGUF",
-   "date": "2026-07-13T11:48:06.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, text-to-image, flux2, klein, GGUF, safetensors",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e73644223b27",
-   "title": "Fire splash",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uv8nkv/fire_splash/",
-   "date": "2026-07-13T11:17:10.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/d3U5Ymh2anJkemNoMflABr3BkAkWzsWmVZtC8BRbHSzlD1j8d1XbpNB4Tpsj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd977c8a4f7b7f63ff8054bd46aaad97a73c8461",
-   "excerpt": "submitted by /u/Dropdeadlegs84 [link] [comments]"
-  },
-  {
-   "id": "b6613e15c3b1",
-   "title": "Save Her at Any Cost - NOVACREW Ep 2",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uv8gje/save_her_at_any_cost_novacrew_ep_2/",
-   "date": "2026-07-13T11:07:15.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dnFqYmVla25iemNoMcJhv9emqu5bbSE2rMS_QOB11UvSwTmciVjR2alIPeM6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c31633b6d75646163897b48948c985623b2b5ff8",
-   "excerpt": "submitted by /u/HomeRemedyHealer [link] [comments]"
-  },
-  {
-   "id": "2c20ab2624c1",
-   "title": "singelette/SAMANTHASDXL",
-   "link": "https://huggingface.co/singelette/SAMANTHASDXL",
-   "date": "2026-07-13T11:04:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5519c7cfabf9",
-   "title": "guillekenzo/aros-ae968c4c-VelvetOracle",
-   "link": "https://huggingface.co/guillekenzo/aros-ae968c4c-VelvetOracle",
-   "date": "2026-07-13T11:04:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "2da11a88024c",
-   "title": "SumomoLee/krea2-r32-768-1536-long-caption-lora",
-   "link": "https://huggingface.co/SumomoLee/krea2-r32-768-1536-long-caption-lora",
-   "date": "2026-07-13T10:47:48.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: krea2, lora, text-to-image, license:other, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
