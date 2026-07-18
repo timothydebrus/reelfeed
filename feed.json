@@ -1,6 +1,86 @@
 {
- "updated": "2026-07-18T13:52:44.570Z",
+ "updated": "2026-07-18T15:17:21.231Z",
  "items": [
+  {
+   "id": "272da5579910",
+   "title": "guillekenzo/aros-2948cd08-Sofia",
+   "link": "https://huggingface.co/guillekenzo/aros-2948cd08-Sofia",
+   "date": "2026-07-18T15:01:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6adef4a30967",
+   "title": "Shelton1234/corgy_dog_LoRA",
+   "link": "https://huggingface.co/Shelton1234/corgy_dog_LoRA",
+   "date": "2026-07-18T14:59:47.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, template:sd-lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0f10485654ec",
+   "title": "KiyoEditz/animagine-xl-4.0",
+   "link": "https://huggingface.co/KiyoEditz/animagine-xl-4.0",
+   "date": "2026-07-18T14:52:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "95ecde321ef2",
+   "title": "jphn8211/ltx-2.3-product-ad-style",
+   "link": "https://huggingface.co/jphn8211/ltx-2.3-product-ad-style",
+   "date": "2026-07-18T14:22:24.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltxv, ltx-2.3, lora, style-lora, product-ad, advertising",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "898650d90e7d",
+   "title": "jphn8211/LTX-Best-Face-ID",
+   "link": "https://huggingface.co/jphn8211/LTX-Best-Face-ID",
+   "date": "2026-07-18T13:55:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx-video, identity-preservation, ipt2v, reference-to-video, lora, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "021b2c9b4015",
    "title": "furaidosu/patrick-corrigan-krea2t",
@@ -15,6 +95,22 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "686606fccb97",
+   "title": "NullpoLab/AnimeGen-I2V-GGUF",
+   "link": "https://huggingface.co/NullpoLab/AnimeGen-I2V-GGUF",
+   "date": "2026-07-18T13:32:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: quantized, gguf, image-to-video, anime, video-generation, wan",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
    }
   },
   {
@@ -94,6 +190,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/d2xnano1MHRiemRoMViAD2IQjLh_4ty5T3zC-h1Qk93ayMW1_EfpuoEVVXot.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9442d5c03d64b281c12857f65a1c0c4f4d8ba411",
    "excerpt": "submitted by /u/ovninoir [link] [comments]"
+  },
+  {
+   "id": "1bf44ac78fa9",
+   "title": "Levmar/cowgirlkrea2",
+   "link": "https://huggingface.co/Levmar/cowgirlkrea2",
+   "date": "2026-07-18T12:02:19.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "cdbda3af6e9c",
@@ -7481,89 +7593,6 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/ql0b15zovzch1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=471aedd48719deb5eed7eb230a0499127785c0f4",
    "excerpt": "submitted by /u/Zaicab [link] [comments]"
-  },
-  {
-   "id": "f46fa3401425",
-   "title": "La Sybille - Teaser Concept (Super-héros Paris 1900)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uvaqjz/la_sybille_teaser_concept_superhéros_paris_1900/",
-   "date": "2026-07-13T12:53:55.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cDkwaHE2MHJ1emNoMf1rzvyZ5ZiM95PtdRuhdtt8oFI1yjbVCd_PI5oUYg4r.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a4d6aa252579212f1f394a04035f77a078ce3c8",
-   "excerpt": "submitted by /u/flokhan [link] [comments]"
-  },
-  {
-   "id": "1c550374c98e",
-   "title": "Abiray/Anima-aesthetic-v1.0-GGUF  (♥ 2)",
-   "link": "https://huggingface.co/Abiray/Anima-aesthetic-v1.0-GGUF",
-   "date": "2026-07-13T12:50:36.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 2. Tags: cosmos, gguf, text-to-image, comfyui, anime, base_model:circlestone-labs/Anima",
-   "hf": {
-    "likes": 2,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ba4a0a2fbdca",
-   "title": "Abiray/Anima-turbo-v1.0-GGUF  (♥ 5)",
-   "link": "https://huggingface.co/Abiray/Anima-turbo-v1.0-GGUF",
-   "date": "2026-07-13T12:45:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 5. Tags: cosmos, gguf, text-to-image, comfyui, anime, base_model:circlestone-labs/Anima",
-   "hf": {
-    "likes": 5,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3803d1f3b9c5",
-   "title": "Blood Rain",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uvah4x/blood_rain/",
-   "date": "2026-07-13T12:42:22.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/ablpb71zszch1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb10974d792e36f31e5c75995076cd6b88a414cd",
-   "excerpt": "submitted by /u/CrookedtalePirates [link] [comments]"
-  },
-  {
-   "id": "d6039237d709",
-   "title": "Dinosaurs",
-   "link": "https://www.reddit.com/r/midjourney/comments/1uvadq6/dinosaurs/",
-   "date": "2026-07-13T12:38:03.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/v2fi7vy5szch1.png?width=140&amp;height=140&amp;auto=webp&amp;s=3fea694561b3916220852abbdaef865a13bc7b2c",
-   "excerpt": "submitted by /u/Sharp_Alternative845 [link] [comments]"
-  },
-  {
-   "id": "228200827ba9",
-   "title": "Empowering India’s next generation of innovators with ATL Saathi",
-   "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-   "date": "2026-07-13T12:37:28.000Z",
-   "source": "Google DeepMind",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://lh3.googleusercontent.com/0BYvIo8ObViyRtRGOYajXHdEGUFX6cKMTQ6lxys98kN0sB6H7rrTo1pdW8M4kCUGnBnidJWbIr6VvcxGKDEDD4YxOVqYRlyxj_a48uqNw_AytF7c-A=w528-h297-n-nu-rw-lo",
-   "excerpt": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs."
-  },
-  {
-   "id": "ef09550a4ea7",
-   "title": "The Royal Breakbeat | What if breakdance existed in the Middle Ages?",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uva017/the_royal_breakbeat_what_if_breakdance_existed_in/",
-   "date": "2026-07-13T12:20:50.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/djdhZDB6bDVuemNoMTTlIMdQyUR2WGzWN0So4x4qfKOOg4BLDxO49W4nBO7-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea5604e28850362c20e8a6dc9eea4e00b91b114b",
-   "excerpt": "submitted by /u/Cautious-Warning-756 [link] [comments]"
   }
  ]
 }
