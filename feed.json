@@ -1,6 +1,26 @@
 {
- "updated": "2026-07-20T22:15:21.224Z",
+ "updated": "2026-07-20T23:19:00.512Z",
  "items": [
+  {
+   "id": "79729dbd9369",
+   "title": "Trump’s latest AI czar has already resigned",
+   "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+   "date": "2026-07-20T22:21:04.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
+  },
+  {
+   "id": "612445dbd724",
+   "title": "Here are the 30,000 songs Sony is suing Udio s AI music generator over",
+   "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+   "date": "2026-07-20T22:19:12.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this list represents \"only a small portion of Plaintiffs' works that Udio infringed,\""
+  },
   {
    "id": "20d9bcdf5693",
    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
@@ -379,7 +399,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 2. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
    "hf": {
-    "likes": 4,
+    "likes": 5,
     "downloads": 0,
     "pipeline": "text-to-image"
    }
@@ -7565,38 +7585,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/N2doOWd3eGZpYmRoMRj4QgMvxAdJQQrsmzPQU6Ktbq0z1e5DqkV1wnUsWVWi.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9622044a9b63e4c95624bd960372283da7cd14d",
    "excerpt": "submitted by /u/Tiny-Meet5202 [link] [comments]"
-  },
-  {
-   "id": "d7f647be6523",
-   "title": "come9/diving-illustrious-real-asian-v40-sdxl",
-   "link": "https://huggingface.co/come9/diving-illustrious-real-asian-v40-sdxl",
-   "date": "2026-07-15T04:00:37.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, realistic",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "86f289061c61",
-   "title": "hiro2325/ai13",
-   "link": "https://huggingface.co/hiro2325/ai13",
-   "date": "2026-07-15T03:17:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
