@@ -1,6 +1,179 @@
 {
- "updated": "2026-07-19T21:09:40.184Z",
+ "updated": "2026-07-20T04:09:36.286Z",
  "items": [
+  {
+   "id": "abeb57061a33",
+   "title": "NeoToriyama/msjackiejane-krea2-0",
+   "link": "https://huggingface.co/NeoToriyama/msjackiejane-krea2-0",
+   "date": "2026-07-20T03:16:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f252d44a4e47",
+   "title": "John2386/Zeux",
+   "link": "https://huggingface.co/John2386/Zeux",
+   "date": "2026-07-20T03:01:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: krea-2, comfyui, text-to-image, base_model:krea/Krea-2-Raw, base_model:finetune:krea/Krea-2-Raw, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0dc7766b9d5f",
+   "title": "An episode of my 1980s synth-pop story in an enclosed city of tomorrow (Suno/Midjourney/Seedance)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v184uu/an_episode_of_my_1980s_synthpop_story_in_an/",
+   "date": "2026-07-20T01:45:37.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/MGQwOWZwNXlnYWVoMWUplxd5-8p5U6rUoUcQoTw271vYDWsHKCFJnuNY0VEp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=99db3bbe6cff660b0174cbd414c99cf541a47627",
+   "excerpt": "submitted by /u/ProfessorKey98 [link] [comments]"
+  },
+  {
+   "id": "6973ec34c94b",
+   "title": "yes-ai/izran-ai  (♥ 1)",
+   "link": "https://huggingface.co/yes-ai/izran-ai",
+   "date": "2026-07-20T00:59:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c6186a928e0a",
+   "title": "Kult Energy Drink Village Rave Concept Fully storyboarded frame-by-frame animation",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v16rbd/kult_energy_drink_village_rave_concept_fully/",
+   "date": "2026-07-20T00:40:02.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NG5vazh4cWQ2YWVoMeGZdTXmx1cw_g3iiGUSUuckT9Bx7D1sFdmnpTKnTrwt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a2a303552b94b924dc5e4778fb786497f584707",
+   "excerpt": "submitted by /u/ldsoundz [link] [comments]"
+  },
+  {
+   "id": "c1d62c2d9d80",
+   "title": "Evgenii15/emma-lora",
+   "link": "https://huggingface.co/Evgenii15/emma-lora",
+   "date": "2026-07-20T00:32:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, flux, text-to-image, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "72435061a7f1",
+   "title": "martin-rizzo/Z-Image-Turbo-INT8-ConvRot-ComfyUI",
+   "link": "https://huggingface.co/martin-rizzo/Z-Image-Turbo-INT8-ConvRot-ComfyUI",
+   "date": "2026-07-19T23:51:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, text-to-image, diffusion, int8, convrot, quantized",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2250b9fe5b54",
+   "title": "ussoewwin/Hybrid-Sensitivity-Weighted-Quantization-SDXL-ConvRot-INT8",
+   "link": "https://huggingface.co/ussoewwin/Hybrid-Sensitivity-Weighted-Quantization-SDXL-ConvRot-INT8",
+   "date": "2026-07-19T23:24:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: nunchaku, text-to-image, sdxl, svdq, quantized, int8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "bce323749f8f",
+   "title": "Argentina Vs Spain highlights",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v147jf/argentina_vs_spain_highlights/",
+   "date": "2026-07-19T22:50:47.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NjBiNDkzd3dtOWVoMdEXfQacE1n9eqmq5cFyof0nyJuxq1sBPRr6x_4Twdcn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8fbb8f133dad5af68b2ce99edcb6fb729bb06d4a",
+   "excerpt": "submitted by /u/Mother-Pear-2392 [link] [comments]"
+  },
+  {
+   "id": "aeb43d681e59",
+   "title": "Blanka from Street Fighter",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v144p6/blanka_from_street_fighter/",
+   "date": "2026-07-19T22:47:27.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YmdwbjkyY2NtOWVoMYJYDR05rWj7oV7G8pHthJ-bdZ8iUQ1WPRrYxgNP-keq.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7e17d48259b37ec0b5e26241ce7de6a7d932326b",
+   "excerpt": "submitted by /u/FastkitNic [link] [comments]"
+  },
+  {
+   "id": "5ba5429fcc04",
+   "title": "Jimbthebull/Qwen",
+   "link": "https://huggingface.co/Jimbthebull/Qwen",
+   "date": "2026-07-19T21:39:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Qwen/Qwen-Image, base_model:adapter:Qwen/Qwen-Image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6a7ca6ec1b7b",
+   "title": "Gweter, a second chance in Lego form…",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v12g1k/gweter_a_second_chance_in_lego_form/",
+   "date": "2026-07-19T21:35:02.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MGh2MHprNmg5OWVoMblQ9DqNzFHy3RWaDNLL2LViEcTVilU7IxZuwGW0h8rf.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3314209104a5905d10c22261bdea4da014c40955",
+   "excerpt": "submitted by /u/1ce_W01f [link] [comments]"
+  },
+  {
+   "id": "3a06d71f5b9e",
+   "title": "What to watch for after Jensen Huang’s Japan visit",
+   "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+   "date": "2026-07-19T21:16:07.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem."
+  },
   {
    "id": "779718f1f4ae",
    "title": "BURN OCEAN BURN — Don't Lie To Me | full AI metalcore music video, 150+ beat-synced cuts [AI]",
@@ -1793,7 +1966,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: world-model, video-generation, camera-control, image-to-video, license:apache-2.0, region:us",
    "hf": {
-    "likes": 3,
+    "likes": 4,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -7357,166 +7530,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "10b1c5e9cf4f",
-   "title": "New York State halts construction of all new data centers",
-   "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-   "date": "2026-07-14T15:17:59.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control."
-  },
-  {
-   "id": "3ab5341dbf20",
-   "title": "developercomp99/Quiz-mint-la",
-   "link": "https://huggingface.co/developercomp99/Quiz-mint-la",
-   "date": "2026-07-14T15:07:11.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, text-to-image, lora, fal, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "fafadaa23c08",
-   "title": "Train Krea 2 LoRA Online, Use It Locally in ComfyUI (Ep26)",
-   "link": "https://www.reddit.com/r/comfyui/comments/1uwb9qw/train_krea_2_lora_online_use_it_locally_in/",
-   "date": "2026-07-14T15:04:31.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/q21-fGqT8mZjc-vSUIBQ7T3TxsLMptjOjC4cM0VcPGA.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b317a31500cd45e0bacd507e69671853571ec41a",
-   "excerpt": "Learn how to train a Krea 2 LoRA online and use the finished LoRA locally in ComfyUI. In Episode 26, I show the complete workflow for creating a custom Krea 2 LoRA using an online GPU training service like fal AI, downloading the trained model, installing it correctly, and testing it inside a local ComfyUI workflow. This tutorial is useful for AI artists and ComfyUI users who want to train custom "
-  },
-  {
-   "id": "24a6bcc3ded0",
-   "title": "Looking for a genuinely working image-to-image character replacement workflow (identity swap while preserving pose/background) — has anyone found one they're actually happy with?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1uwb3bs/looking_for_a_genuinely_working_imagetoimage/",
-   "date": "2026-07-14T14:58:11.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "I've spent the last few days testing multiple ComfyUI workflows for a specific task and keep hitting the same wall, so I'm curious what others have had success with. The task: two input images — A \"character\" reference image (identity/costume I want to apply) An \"anchor\" photo of myself (the pose, framing, lighting, and background I want to keep exactly as-is) Goal: generate an output that swaps t"
-  },
-  {
-   "id": "a0eff259b389",
-   "title": "qign/Juggernaut-XL-v9",
-   "link": "https://huggingface.co/qign/Juggernaut-XL-v9",
-   "date": "2026-07-14T14:57:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, stable-diffusion-xl, sdxl, text-to-image, photorealistic",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "456dc8ad112f",
-   "title": "Rtoops/val20",
-   "link": "https://huggingface.co/Rtoops/val20",
-   "date": "2026-07-14T14:50:49.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:lopi999/Wan2.2-I2V_General-NSFW-LoRA, base_model:adapter:lopi999/Wan2.2-I2V_General-NSFW-LoRA",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "6fd4469f7f43",
-   "title": "The Price Gets Out Of Control",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uwasse/the_price_gets_out_of_control/",
-   "date": "2026-07-14T14:47:20.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bGRqejV2bTNrN2RoMU0oqMLvBlhpWrZQgj2vhzAx0mBvph6m_RYeGzwGh5IY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=37dab485f9c27775bbeff072be91dc63ca0189b8",
-   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
-  },
-  {
-   "id": "62bbd5184b02",
-   "title": "Reflection inks $1B compute deal with Nebius",
-   "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-   "date": "2026-07-14T14:37:48.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology."
-  },
-  {
-   "id": "93a0e8b76044",
-   "title": "The real AI race may no longer be at the frontier",
-   "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-   "date": "2026-07-14T14:24:53.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?"
-  },
-  {
-   "id": "5784ed662ce9",
-   "title": "PeppX/video-pid",
-   "link": "https://huggingface.co/PeppX/video-pid",
-   "date": "2026-07-14T14:23:57.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, video, diffusion, vae, decoder, wan",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "14cee246d366",
-   "title": "cirza/naj",
-   "link": "https://huggingface.co/cirza/naj",
-   "date": "2026-07-14T14:13:36.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3fd3308486d5",
-   "title": "How to prevent unnecessary reads from the disk",
-   "link": "https://www.reddit.com/r/comfyui/comments/1uw9tts/how_to_prevent_unnecessary_reads_from_the_disk/",
-   "date": "2026-07-14T14:11:06.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "I am using the latest ComfyUI. No matter which startup parameter or parameter combinations I tried, I couldn't totally prevent unnecessary disk reads. For example, when doing multiple generations using LTX, even though I have more than enough system ram for caching the every model used in the flow, it randomly decides to reread the model from the disk for no reason. It sometimes does this in every"
-  },
-  {
-   "id": "c234bc9a7b82",
-   "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-   "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-   "date": "2026-07-14T14:06:47.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, and audiobooks, and more."
   }
  ]
 }
