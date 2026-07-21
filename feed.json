@@ -1,6 +1,262 @@
 {
- "updated": "2026-07-20T23:19:00.512Z",
+ "updated": "2026-07-21T03:49:03.916Z",
  "items": [
+  {
+   "id": "75bd5d03b29c",
+   "title": "The Epic of Gilgamesh (work in progress)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v278m8/the_epic_of_gilgamesh_work_in_progress/",
+   "date": "2026-07-21T03:46:49.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/am1sajJ6dHE3aWVoMTz1l5Jk1v5yUxGeUhqTVl20VZYTxzye9VBz_zy5EKhD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ee09fa3a928b9d5562b1ee2a47cdd146c4cc0032",
+   "excerpt": "submitted by /u/AiIsArtHumanIsFart [link] [comments]"
+  },
+  {
+   "id": "97bbc4c5ba89",
+   "title": "Anyone else having issues adding credits?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v26nuv/anyone_else_having_issues_adding_credits/",
+   "date": "2026-07-21T03:18:34.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "About 5 hours ago I added $5 in credits, since then it seems like Comfy changed how it handles payments slightly where instead of redirecting you to a payment page to choose your payment method via link it's now trying to process my default payment method automatically without redirecting to another page. It's just says processing payment until eventually it times out. I tried updating my payment "
+  },
+  {
+   "id": "933f0694bc1b",
+   "title": "MALINI - Veo 3 + Suno made solo - The only real thing in it is the voice at the door",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v26n2o/malini_veo_3_suno_made_solo_the_only_real_thing/",
+   "date": "2026-07-21T03:17:32.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/bmF6MmExbmMzaWVoMaBNo8n-hl1yKnZoBpQ8Z3AIoF52njTlP6IF-3_27F1a.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3811d666f3df307abc1d1e12434801ca41b8c334",
+   "excerpt": "submitted by /u/prakm023 [link] [comments]"
+  },
+  {
+   "id": "24143a2ad92a",
+   "title": "A Depth video, not the raw clip, is what makes character swaps clean in Seedance 2.0",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v26lle/a_depth_video_not_the_raw_clip_is_what_makes/",
+   "date": "2026-07-21T03:15:35.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/bTE2NGd0eTEzaWVoMXQDEsN6qkRzaStz2Ipzqq0UjwDdh_QwMc8TqplIYXpz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a69f2fc91a1c373b0064b691c201f1a8a6e1aa4",
+   "excerpt": "I have been doing motion transfer into Seedance 2.0, and the thing that actually changed my results was not the prompt, it was what I hand it as the reference. Feed the raw reference clip and the generation clings to the original person and setting, so any swap comes out muddy. Convert that clip to a Depth video first and the problem goes away. Depth Anything V2 turns the clip into a grayscale dep"
+  },
+  {
+   "id": "876e4f5c835c",
+   "title": "TestOrganizationPleaseIgnore/AniReal-Qwen-Image",
+   "link": "https://huggingface.co/TestOrganizationPleaseIgnore/AniReal-Qwen-Image",
+   "date": "2026-07-21T03:08:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, arxiv:1910.09700, diffusers:QwenImagePipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "437e4254d893",
+   "title": "kessenma/coreml-bk-sdm-tiny",
+   "link": "https://huggingface.co/kessenma/coreml-bk-sdm-tiny",
+   "date": "2026-07-21T02:52:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: ml-stable-diffusion, core-ml, stable-diffusion, text-to-image, base_model:nota-ai/bk-sdm-tiny-2m, base_model:finetune:nota-ai/bk-sdm-tiny-2m",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "67da90d2f5c0",
+   "title": "cusiman/Krea2_Collection",
+   "link": "https://huggingface.co/cusiman/Krea2_Collection",
+   "date": "2026-07-21T02:40:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, krea2, text-to-image, image-generation, dit, fp8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "9a0c07dc6827",
+   "title": "aimalias/al0v3",
+   "link": "https://huggingface.co/aimalias/al0v3",
+   "date": "2026-07-21T02:25:26.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1db55e6eb1b6",
+   "title": "aimalias/f0wl3r",
+   "link": "https://huggingface.co/aimalias/f0wl3r",
+   "date": "2026-07-21T01:57:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4a063ffcac15",
+   "title": "ttthhz1/T2V",
+   "link": "https://huggingface.co/ttthhz1/T2V",
+   "date": "2026-07-21T01:47:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-video, grpo, wan2.1, sana-video, license:apache-2.0, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "9e6d2fd2b709",
+   "title": "Whiteveiny/vexla",
+   "link": "https://huggingface.co/Whiteveiny/vexla",
+   "date": "2026-07-21T01:22:32.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5847da61621f",
+   "title": "Kabuki Dolls Cartel & Cash Blades | AMERICAN BABEL",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v243rf/kabuki_dolls_cartel_cash_blades_american_babel/",
+   "date": "2026-07-21T01:21:08.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cGZ5MnpxN2hpaGVoMb7Dg75on2pcVDB_xOHhOlevuGkypMhFVAQkdBBnOXE7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca64c766c6c779ab0e93d52f09a88ea733f74a74",
+   "excerpt": "submitted by /u/GoldMold7 [link] [comments]"
+  },
+  {
+   "id": "19f977581819",
+   "title": "thicci0bampo/myskr2",
+   "link": "https://huggingface.co/thicci0bampo/myskr2",
+   "date": "2026-07-21T01:13:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3a56aafcf010",
+   "title": "I uploaded a ridiculous amount of 4K realistic recreations of my favorite saved art for desktop wallpapers to Deviant art today! check em out just look up 0ANARKY0 (zero's not o's)",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v23wf1/i_uploaded_a_ridiculous_amount_of_4k_realistic/",
+   "date": "2026-07-21T01:11:43.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/x6ha1yeweheh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=99bdfb76bdf424ce0dc6f8a4e068d6a31f47b8da",
+   "excerpt": "Search '0ANARKY0' on DeviantArt - Discover The Largest Online Art Gallery and Community submitted by /u/o0ANARKY0o [link] [comments]"
+  },
+  {
+   "id": "3bf9a7093890",
+   "title": "heartbreaker",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v23eeu/heartbreaker/",
+   "date": "2026-07-21T00:49:23.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/am9reW5mbDFkaGVoMaGo87mZbsuZi8eM5j6V9ZGqRMQL6I0VsGUTOl8Q5J_s.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b58a2a179c5feb618795d4531999afcee37a6d61",
+   "excerpt": "submitted by /u/WINDOWS91 [link] [comments]"
+  },
+  {
+   "id": "e94383771664",
+   "title": "testernew-247/blsvcg",
+   "link": "https://huggingface.co/testernew-247/blsvcg",
+   "date": "2026-07-21T00:43:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Wan-AI/Wan2.2-I2V-A14B, base_model:adapter:Wan-AI/Wan2.2-I2V-A14B",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "791499a44e8a",
+   "title": "Looking for a Krea2 openpose workflow. Have tried Depthmap in ComfyUI Krea2 Control with restricted positive results. Any advice on either would be welcome.",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v232x4/looking_for_a_krea2_openpose_workflow_have_tried/",
+   "date": "2026-07-21T00:34:46.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "When I inject ComfyUI Krea2 Control into my workflow at 1 strength it kicks out a pose but with a distorted \"water stain\" halo around the edges of the generated person. It holds the pose but would be great to allow it liberties outside that, which openpose allows in other models, while sticking to the bone structure of openpose (i haven't seen an openpose control net for krea2 yet). Any advice on "
+  },
+  {
+   "id": "c7d261b6e703",
+   "title": "Speed upgrade for unlimited and free z image generation tool",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v22rlh/speed_upgrade_for_unlimited_and_free_z_image/",
+   "date": "2026-07-21T00:20:19.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/abao_ai [link] [comments]"
+  },
+  {
+   "id": "683e474adcf4",
+   "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+   "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+   "date": "2026-07-21T00:12:24.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
+  },
+  {
+   "id": "32f4feef1659",
+   "title": "West Coast Maid Spray",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v21nl9/west_coast_maid_spray/",
+   "date": "2026-07-20T23:32:31.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZWF1dm96dTl6Z2VoMelPUUPXt4frfM-KX5mfFeXk7uY-nEx29f9lchJL0Ftx.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ad9b0c4773801bd8b96d11c63b42d48dd4e3a06",
+   "excerpt": "submitted by /u/theJunkyardGold [link] [comments]"
+  },
   {
    "id": "79729dbd9369",
    "title": "Trump’s latest AI czar has already resigned",
@@ -20,6 +276,17 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK467_AI_MUSIC_CVirginia_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to Beyoncé's Say My Name, and Harry Styles' As It Was. The lawsuit, filed in a New York court on Monday, claims that this list represents \"only a small portion of Plaintiffs' works that Udio infringed,\""
+  },
+  {
+   "id": "c87910b55805",
+   "title": "I gave my local LoRA training tool a lineage graph — inspect any run's config, diff two runs, and preview each checkpoint to find the sweet spot",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1yuum/i_gave_my_local_lora_training_tool_a_lineage/",
+   "date": "2026-07-20T21:37:30.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "I build a free, local LoRA dataset + training tool (runs on your own GPU, wraps ai-toolkit + ComfyUI). I just shipped the thing I always wished I had while training: a lineage graph that's actually an experiment lab, not just a pretty tree. Every run and continuation is drawn as a family tree — but you can act on it: Click a run to see the exact settings it trained with (rank, alpha, LR, optimizer"
   },
   {
    "id": "20d9bcdf5693",
@@ -62,6 +329,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "677d083b1695",
+   "title": "Workflow advice: How to cleanly inpaint/overlay a specific label onto a bottle 3D render/photo?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1xvt2/workflow_advice_how_to_cleanly_inpaintoverlay_a/",
+   "date": "2026-07-20T21:00:18.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/f8b51mkp7geh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=71212f18286392e90df1364bef7b8f61fe980f82",
+   "excerpt": "Hi everyone, I'm looking for the cleanest ComfyUI workflow to place a flat, original product label onto a bottle. Here are my constraints and goals: **Resolution & Model:** I'm working at 1024x1024 using **JuggernautXL**. **Text Integrity (Critical):** I need the label to keep all its original letters and details perfectly. The AI cannot hallucinate, distort, or invent any text. I want to use the "
   },
   {
    "id": "3353d192712a",
@@ -240,6 +517,48 @@
    }
   },
   {
+   "id": "7c0f065d29e4",
+   "title": "2D image of mountain scenery 'upgraded' to dramatic 3D image pair.",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1tbvn/2d_image_of_mountain_scenery_upgraded_to_dramatic/",
+   "date": "2026-07-20T18:14:16.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/Statute_of_Anne [link] [comments]"
+  },
+  {
+   "id": "016b853038a5",
+   "title": "Switching from NVIDIA to AMD",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1t4o5/switching_from_nvidia_to_amd/",
+   "date": "2026-07-20T18:07:05.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "I’m switching from a 6GB RTX A2000 to an RX 6700 10GB. I’m using ComfyUI Desktop. Do I need to reinstall, create a new instance, or do nothing at all and let the program figure it out on its own? submitted by /u/OddLook7891 [link] [comments]"
+  },
+  {
+   "id": "629f5edacc02",
+   "title": "Endless Wan 2.2 I2V (SVI 2 Pro) Updated to v2.1",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1rrlk/endless_wan_22_i2v_svi_2_pro_updated_to_v21/",
+   "date": "2026-07-20T17:18:52.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/AlYCWg2JeRfZcZhWCvTXDK9eZLEtZzRUDuYcRHY2SWc.png?width=140&amp;height=75&amp;auto=webp&amp;s=877c3162167dd8c725267b90733d194087280499",
+   "excerpt": "Endless Wan 2.2 I2V (SVI 2 Pro) https://preview.redd.it/aib4hecy3feh1.png?width=2549&format=png&auto=webp&s=4656bf5a00e15290a7663d6348c9aa13c9429fea A simple workflow to create Wan 2.2 videos of unlimited duration, using SVI 2.0 Pro. The workflow has a 5 sec \"Initial\" block and 8 more optional \"Extend\" blocks of 5 sec each that can create almost 45 sec of video (some frames are lost in the connect"
+  },
+  {
+   "id": "771d494f1a8e",
+   "title": "Clean Plate IC-LoRA for LTX-2.3 removes people, pedestrians, and vehicles from a clip and rebuilds the background",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1rni0/clean_plate_iclora_for_ltx23_removes_people/",
+   "date": "2026-07-20T17:14:50.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "submitted by /u/fruesome [link] [comments]"
+  },
+  {
    "id": "c86c51e87202",
    "title": "uzumix/SonyDIGICAM_flux1d",
    "link": "https://huggingface.co/uzumix/SonyDIGICAM_flux1d",
@@ -307,6 +626,17 @@
    "excerpt": "submitted by /u/Familiar-Thought9740 [link] [comments]"
   },
   {
+   "id": "ade6f53b7027",
+   "title": "I've been testing LTX 2.3 MSR v2 over the past few days and put together a ComfyUI workflow that makes multiple subject references much easier to use. So made a video and sharing it with you guys",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1pgpk/ive_been_testing_ltx_23_msr_v2_over_the_past_few/",
+   "date": "2026-07-20T15:55:32.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/t-iGeFy6ax7f4Tnec2N3VWRcpssFrbkkEr_McWAaehM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=75c7769274134ac52e7af4bc0321fce429854c16",
+   "excerpt": "submitted by /u/Curious-Hurry-9149 [link] [comments]"
+  },
+  {
    "id": "af832c75a2ac",
    "title": "Adobe camera app’s new feature will critique your photos using AI",
    "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
@@ -315,6 +645,17 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
+  },
+  {
+   "id": "7ab966bd4889",
+   "title": "Made a cozy cyberpunk bath ambience loop with SwarmUI + Wan 2.2",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1p2cp/made_a_cozy_cyberpunk_bath_ambience_loop_with/",
+   "date": "2026-07-20T15:40:28.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "Been experimenting with turning still AI images into cozy ambience / live wallpaper loops. Generated and animated it in SwarmUI using Wan 2.2 TI2V Would love feedback on the animation stability and overall vibe. Im still trying to improve the loop quality without making the AI motion too obvious. submitted by /u/DreamWindowWallpaper [link] [comments]"
   },
   {
    "id": "0739be677660",
@@ -447,6 +788,26 @@
    "excerpt": "submitted by /u/burrowassociates [link] [comments]"
   },
   {
+   "id": "7b28396bca80",
+   "title": "Ideogram4 8MP Result",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1lo7t/ideogram4_8mp_result/",
+   "date": "2026-07-20T13:32:09.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/5qh72nslydeh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=52a95668d89f4c5356f1e47fd0e14bd8795dd283",
+   "excerpt": "I've tried a workflow by ArtGourieff and rendered 2160x3840 outputs. So far it is really impressive and fast. I'll leave the link in the comments. submitted by /u/AxonkaiLab [link] [comments]"
+  },
+  {
+   "id": "c0b69344e2cd",
+   "title": "A step closer to consistency (workflow included)",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1lly1/a_step_closer_to_consistency_workflow_included/",
+   "date": "2026-07-20T13:29:39.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/tqadovjbwdeh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=7d4106504577ef595eb2fc490bf864c8c842a6fd",
+   "excerpt": "A step closer to consistency. 1. I used Z-ImageTurbo or krea 2 for the only one initial image. 2. I used Qwen image edit to create the second image, just changing clothes and background. 3. I used a workflow I created (I used AI LLM to create it, because I'm a total ignorant as far as Comfy is concerned). It is based on Flux2 Klein i2i. This workflow creates 16 variations of the starting image I f"
+  },
+  {
    "id": "8dddf172113f",
    "title": "joeygambino/ltx23-echoVid-ltxAud-surgical  (♥ 1)",
    "link": "https://huggingface.co/joeygambino/ltx23-echoVid-ltxAud-surgical",
@@ -457,7 +818,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: video, text-to-video, audio, comfyui, joyai-echo, ltx-video",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -529,6 +890,17 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/NndpdzRkM3ptZGVoMfGh-b_YmxRVc2ri011T7rDKM-tzEjUowXvS0UwDD7HJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1bf96b9505e5fba3b67cd331a66dcf5a5c0e2a24",
    "excerpt": "submitted by /u/heresalexandria [link] [comments]"
+  },
+  {
+   "id": "2d54849b091b",
+   "title": "How to face/body swap with LTX",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1jb3k/how_to_facebody_swap_with_ltx/",
+   "date": "2026-07-20T11:52:18.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "submitted by /u/HOIK777 [link] [comments]"
   },
   {
    "id": "a90d620c514b",
@@ -893,6 +1265,16 @@
    }
   },
   {
+   "id": "c19fd9890f57",
+   "title": "Use Everywhere updated to work with Nodes2.0",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v1cved/use_everywhere_updated_to_work_with_nodes20/",
+   "date": "2026-07-20T05:51:55.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "Some people like nodes2, some don't. Some people like Use Everywhere (https://github.com/chrisgoringe/cg-use-everywhere), some don't. I am not at all interested in the arguments. But if you like them both, Use Everywhere 8.0 is an update to (mostly) work with Nodes2. submitted by /u/Old_System7203 [link] [comments]"
+  },
+  {
    "id": "5a9aa8d5d5b6",
    "title": "AlayaLab/game-editing",
    "link": "https://huggingface.co/AlayaLab/game-editing",
@@ -1082,6 +1464,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "fab2b47fddab",
+   "title": "Why can't we get a fix for Dynamic VRAM?!",
+   "link": "https://www.reddit.com/r/comfyui/comments/1v167ix/why_cant_we_get_a_fix_for_dynamic_vram/",
+   "date": "2026-07-20T00:14:47.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "It's so bad now. NONE of my system ram is being used to cache like it used to. Everything is reloading from disk at every run. I see many post about this, but nothing gets fixed. I'm sure a lot of us bought Ram exactly for the improved performance and now it's left idle and unused, with generation time increasing because of it. I get that some might not have much Ram and this new setup works great"
   },
   {
    "id": "72435061a7f1",
@@ -7156,435 +7548,6 @@
    "isModel": true,
    "thumb": "https://external-preview.redd.it/dm5yMHgzZmR0ZGRoMS8FW70D12gPfLvDnBhGXermjKiijAVkWlgZPrT8IsxZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9ddb1f8e2cfa8c7c06f463156e0d592ee65f8971",
    "excerpt": "[July 2026] PiD v1.5 checkpoints for FLUX, FLUX.2, and Qwen-Image are released. See the comparison page for the improvements: Improved decoding color fidelity Removed grid artifacts in image corners Improved anime and facial details submitted by /u/oxygen_addiction [link] [comments]"
-  },
-  {
-   "id": "aabb3ceca8f4",
-   "title": "LTX 2.3 Camera Control - Any hints?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1ux3lmu/ltx_23_camera_control_any_hints/",
-   "date": "2026-07-15T11:49:59.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "I've been experimenting with LTX 2.3 for a few weeks now. One of the issues I've been struggling with is getting the camera to orbit around a person's head, like a full 360-degree rotation. I just can't get it to work at all. I've tried the vanilla ComfyUI workflow, LTX Director 2, and SeedHunter's workflow, but none of them seem able to produce this kind of camera movement. Do you have any tips, "
-  },
-  {
-   "id": "e069581b78ee",
-   "title": "espressosession/latent-studio-vangogh-lora",
-   "link": "https://huggingface.co/espressosession/latent-studio-vangogh-lora",
-   "date": "2026-07-15T11:48:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: stable-diffusion, stable-diffusion-diffusers, lora, text-to-image, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5, base_model:adapter:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "72c6d3ce371c",
-   "title": "Amador1989/kissLTX",
-   "link": "https://huggingface.co/Amador1989/kissLTX",
-   "date": "2026-07-15T11:46:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:lynaNSFW/LTX2.3_NSFW_motion, base_model:adapter:lynaNSFW/LTX2.3_NSFW_motion",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "61f4934b585f",
-   "title": "guillekenzo/aros-c3e9f934-EsmeVaughn",
-   "link": "https://huggingface.co/guillekenzo/aros-c3e9f934-EsmeVaughn",
-   "date": "2026-07-15T11:36:37.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3b2ef358bfa5",
-   "title": "The Ruum: Chased by a Relentless Alien Machine",
-   "link": "https://www.reddit.com/r/aivideo/comments/1ux35db/the_ruum_chased_by_a_relentless_alien_machine/",
-   "date": "2026-07-15T11:28:14.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bnBxOWFnZWhwZGRoMTwCa5bpqAYPv7T4J5yCFB4iMRBowVfwCXruQzzKHFOr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6241c43e5d03fcec4078ced16baf4605de43e933",
-   "excerpt": "submitted by /u/ShaneKaiGlenn [link] [comments]"
-  },
-  {
-   "id": "0913db55bcef",
-   "title": "TracNetwork/mayhem-catalog-tongyi-z-image-turbo-GGUF",
-   "link": "https://huggingface.co/TracNetwork/mayhem-catalog-tongyi-z-image-turbo-GGUF",
-   "date": "2026-07-15T11:25:50.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, gguf, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8e9909e1829c",
-   "title": "espressosession/latent-studio-cassatt-lora",
-   "link": "https://huggingface.co/espressosession/latent-studio-cassatt-lora",
-   "date": "2026-07-15T11:14:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: stable-diffusion, stable-diffusion-diffusers, lora, text-to-image, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5, base_model:adapter:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a6bc3daeea56",
-   "title": "Praelatus/Futamotu_Style",
-   "link": "https://huggingface.co/Praelatus/Futamotu_Style",
-   "date": "2026-07-15T11:13:16.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:circlestone-labs/Anima, base_model:adapter:circlestone-labs/Anima",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "32f8fa498ce6",
-   "title": "Tried to create a cohesive video using some of my generations and quite satisfied with the effects",
-   "link": "https://www.reddit.com/r/aivideo/comments/1ux2udh/tried_to_create_a_cohesive_video_using_some_of_my/",
-   "date": "2026-07-15T11:13:14.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/b3Yyb3NycXFtZGRoMSSV9BgrWnF7ihjsqUejvAGQey03Kvr79DjdzuHUxhk6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5605a3c27ba94fbe093c94781f5a8ab99e28e1b2",
-   "excerpt": "submitted by /u/TheShadeOfUs [link] [comments]"
-  },
-  {
-   "id": "f75e1ad312cc",
-   "title": "Perflow-Shuai/Wan2.2-5B-TheDenk-Depth-ControlNet-NonAR-DMD-4Step-LoRA-r64-iter3000",
-   "link": "https://huggingface.co/Perflow-Shuai/Wan2.2-5B-TheDenk-Depth-ControlNet-NonAR-DMD-4Step-LoRA-r64-iter3000",
-   "date": "2026-07-15T11:11:32.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: peft, safetensors, wan2.2, lora, dmd, non-ar",
-   "hf": {
-    "likes": 0,
-    "downloads": 12,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "627db0a2c30e",
-   "title": "Perflow-Shuai/SCOPE-Wan2.2-5B-NonAR-DMD-4Step-LoRA-r32-iter2000",
-   "link": "https://huggingface.co/Perflow-Shuai/SCOPE-Wan2.2-5B-NonAR-DMD-4Step-LoRA-r32-iter2000",
-   "date": "2026-07-15T11:11:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: peft, safetensors, wan2.2, scope, lora, dmd",
-   "hf": {
-    "likes": 0,
-    "downloads": 15,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "bb3e81655e2a",
-   "title": "No Connection",
-   "link": "https://www.reddit.com/r/aivideo/comments/1ux2qy3/no_connection/",
-   "date": "2026-07-15T11:08:21.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dHlqNGh4eDBtZGRoMZWDUDdKOOhynqLnd-JcHwS_iE3dN2M6O8Jy0WATywle.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3b9441632ef02de222ddf5479f67196dff7e0b18",
-   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
-  },
-  {
-   "id": "44302dc064cb",
-   "title": "Monitor switching off during rendering with an RTX 5060 Ti 16GB… probably due to overheating!",
-   "link": "https://www.reddit.com/r/comfyui/comments/1ux2fpg/monitor_switching_off_during_rendering_with_an/",
-   "date": "2026-07-15T10:53:08.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "I have an RTX 5060 Ti 16 GB and, because of this heatwave, as soon as I started a video rendering job, the monitor would switch off due to the high temperature the graphics card was reaching; I had to lower the power target to 85% via GPU Tweak III to sort out the problem somehow... Has anyone else with the same graphics card experienced this problem, and how did you sort it out? The airflow in my"
-  },
-  {
-   "id": "6725112657cd",
-   "title": "jarod2212/Colombia_Heritage_couture_Medellin",
-   "link": "https://huggingface.co/jarod2212/Colombia_Heritage_couture_Medellin",
-   "date": "2026-07-15T10:49:30.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5ea0a6358ff1",
-   "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-   "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-   "date": "2026-07-15T10:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
-  },
-  {
-   "id": "82ef23f891a4",
-   "title": "Fastiraz/Z-Image-Turbo",
-   "link": "https://huggingface.co/Fastiraz/Z-Image-Turbo",
-   "date": "2026-07-15T09:48:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a0f9d237a1b1",
-   "title": "this isn't dessert, it's geology 🌋",
-   "link": "https://www.reddit.com/r/aivideo/comments/1ux0zrl/this_isnt_dessert_its_geology/",
-   "date": "2026-07-15T09:35:07.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bzl6ODU0ZDk1ZGRoMVVFZag8giCLesXJcb8DgS8BfWxaV0__c52xfnxu_sag.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca8ea6fca0c2d6f638df03c9034ed9b50b8f4eda",
-   "excerpt": "submitted by /u/cutopen_daily [link] [comments]"
-  },
-  {
-   "id": "dc8677fa331b",
-   "title": "I made a short scene about a struggling rock musician in 1994 LA",
-   "link": "https://www.reddit.com/r/aivideo/comments/1ux0wa8/i_made_a_short_scene_about_a_struggling_rock/",
-   "date": "2026-07-15T09:29:41.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/a2Nkbmd5eTc0ZGRoMWroYn4EFSMrw70m5MarjrIUyC9Mabu8X2Q4G9_T-IiF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=954608daef81f368ed1a68d3a8f62ee59c6c5b3e",
-   "excerpt": "submitted by /u/MedicalBuilding3860 [link] [comments]"
-  },
-  {
-   "id": "e6975858ca68",
-   "title": "DIRTBIKE CAT",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uwzgko/dirtbike_cat/",
-   "date": "2026-07-15T08:06:15.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bzQ0MHI4OWdwY2RoMQ8qRpp-lj9hEVL0gUzx5Zr_SDZvNqZLPrqB0DhLAdDk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=301aa4c52f86dac0f52103e982dd2926555526c5",
-   "excerpt": "submitted by /u/Latter-Number-3674 [link] [comments]"
-  },
-  {
-   "id": "35c0744d2f44",
-   "title": "Alinwei/LTX2.3-10Eros-GGUF",
-   "link": "https://huggingface.co/Alinwei/LTX2.3-10Eros-GGUF",
-   "date": "2026-07-15T07:20:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, gguf, image-to-video, ltx-2-3, ltx-video, sulphur-2",
-   "hf": {
-    "likes": 0,
-    "downloads": 109,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "f48f4a41cfa1",
-   "title": "RogerYao/stca-sd35-warmup-7000",
-   "link": "https://huggingface.co/RogerYao/stca-sd35-warmup-7000",
-   "date": "2026-07-15T07:15:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, sd3, stca",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "162a1242ff03",
-   "title": "farhanazizz/lorakrea",
-   "link": "https://huggingface.co/farhanazizz/lorakrea",
-   "date": "2026-07-15T06:55:33.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8349f96eec8f",
-   "title": "AMERICAN NIGHTMARE",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uwxko6/american_nightmare/",
-   "date": "2026-07-15T06:20:39.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cTh3bDZtdm42Y2RoMZnVhIAdMCdAOb8qh-bhMaqSOTJGDi9U6Mpzcbh2VkF0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c322a6ba270a81342a0b774a47e7cf0f8316068a",
-   "excerpt": "submitted by /u/No-Invite8044 [link] [comments]"
-  },
-  {
-   "id": "55b898de4357",
-   "title": "Donut Break",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uwxjb9/donut_break/",
-   "date": "2026-07-15T06:18:29.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NGZzcTR6bWE2Y2RoMah8ubv6LFoQzm7eVaLu3tOfhZf_Hxo62en_PqQ-Np3U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=18d260d2d724ad6e3dc31010d26eb6f746d3b7bb",
-   "excerpt": "submitted by /u/ainsoph00 [link] [comments]"
-  },
-  {
-   "id": "75ef7d0e2a42",
-   "title": "Building Tomorrow: How to Live Alone series",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uwxfqn/building_tomorrow_how_to_live_alone_series/",
-   "date": "2026-07-15T06:13:02.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MndjaHIxajA1Y2RoMVhHUay5MQ4CGHw0ORitPqNl4wPAT_HaNV2-HvdPUr7H.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b5eb82395b4efbbefca43068ff36e3bc7763b9d9",
-   "excerpt": "submitted by /u/JL_Films [link] [comments]"
-  },
-  {
-   "id": "ddbad9a8f837",
-   "title": "Save Her at Any Cost | Sci-Fi Short Film | NOVACREW Ep 2",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uwww1y/save_her_at_any_cost_scifi_short_film_novacrew_ep/",
-   "date": "2026-07-15T05:43:20.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Mml6ZHFpZ3Z6YmRoMcJhv9emqu5bbSE2rMS_QOB11UvSwTmciVjR2alIPeM6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9d7ee370e6be53837ccd1df7ded4246d7368a14",
-   "excerpt": "submitted by /u/HomeRemedyHealer [link] [comments]"
-  },
-  {
-   "id": "111ff6797eca",
-   "title": "v0.28.0",
-   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.28.0",
-   "date": "2026-07-15T05:43:14.000Z",
-   "source": "ComfyUI Releases",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
-   "excerpt": "ComfyUI v0.28.0"
-  },
-  {
-   "id": "401b1a13bca3",
-   "title": "Even the king of the dinosaurs came to say goodbye 💔 Sam Neill (1947–2026) - forever our Dr Grant",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uwwpf2/even_the_king_of_the_dinosaurs_came_to_say/",
-   "date": "2026-07-15T05:33:15.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dGZsNHNwbjR5YmRoMSUd8YDoWeAGI9iHN89w3WfeY4FGD2e0OIpom69wlUAx.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=92857078dd78a54efb20eb03694cd372be94cc86",
-   "excerpt": "submitted by /u/nsfwgrokimagine [link] [comments]"
-  },
-  {
-   "id": "c1fc9bac20ad",
-   "title": "lucasnguyen69/asian",
-   "link": "https://huggingface.co/lucasnguyen69/asian",
-   "date": "2026-07-15T05:15:40.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e3ab6ecfa5bc",
-   "title": "Perflow-Shuai/Wan2.1-T2V-14B-SFP-DMD-4Step-LoRA-r128-iter900",
-   "link": "https://huggingface.co/Perflow-Shuai/Wan2.1-T2V-14B-SFP-DMD-4Step-LoRA-r128-iter900",
-   "date": "2026-07-15T04:48:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: peft, wan2.1, text-to-video, lora, dmd, self-forcing",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "52628d2d08e6",
-   "title": "bachelor party: the bear friend",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uwvtbi/bachelor_party_the_bear_friend/",
-   "date": "2026-07-15T04:46:17.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MXJra3hoYnRwYmRoMYYOCZw4Ou--E8Du6_Jy3RpcsxNPBqQBqH3cmdfZhGnH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0a42d8f087c7800860611e2ee6849f82ff4edf0e",
-   "excerpt": "submitted by /u/shesbarelyreal [link] [comments]"
-  },
-  {
-   "id": "617fd96489e0",
-   "title": "TomLjm/MUGen-VR-AnyFlow-Conditioner",
-   "link": "https://huggingface.co/TomLjm/MUGen-VR-AnyFlow-Conditioner",
-   "date": "2026-07-15T04:46:15.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, multimodal, video-generation, lora, retrieval, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 60,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "6b1a5bc179b0",
-   "title": "2D \"paper-puppet\" aesthetic project",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uwvhzs/2d_paperpuppet_aesthetic_project/",
-   "date": "2026-07-15T04:30:08.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/N2doOWd3eGZpYmRoMRj4QgMvxAdJQQrsmzPQU6Ktbq0z1e5DqkV1wnUsWVWi.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9622044a9b63e4c95624bd960372283da7cd14d",
-   "excerpt": "submitted by /u/Tiny-Meet5202 [link] [comments]"
   }
  ]
 }
