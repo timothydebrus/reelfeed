@@ -1,6 +1,120 @@
 {
- "updated": "2026-07-21T20:38:00.281Z",
+ "updated": "2026-07-21T22:13:37.440Z",
  "items": [
+  {
+   "id": "7cd1f1c46b59",
+   "title": "n8te0/highres_krea2",
+   "link": "https://huggingface.co/n8te0/highres_krea2",
+   "date": "2026-07-21T22:11:09.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "782784e95abc",
+   "title": "Thnesko/Krea2_Loras",
+   "link": "https://huggingface.co/Thnesko/Krea2_Loras",
+   "date": "2026-07-21T22:09:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8cb5d4d41e54",
+   "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+   "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+   "date": "2026-07-21T22:06:43.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-21-at-12.22.06-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But every single one of Nightborne's shot"
+  },
+  {
+   "id": "bb3c9a4b09d9",
+   "title": "Alice in Wonderland playing croquet",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v2wfyb/alice_in_wonderland_playing_croquet/",
+   "date": "2026-07-21T21:49:56.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eWt0MTBqbnhsbmVoMRzW4x8Z5Z2us7YoYpLpi4LvKrtR2xkWmW0b2LJiztQB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fba8df38102e028508fa960d36465f5dbe4d30d9",
+   "excerpt": "submitted by /u/No-Lifeguard-8173 [link] [comments]"
+  },
+  {
+   "id": "202a0e7e6bd6",
+   "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+   "date": "2026-07-21T21:48:54.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "OpenAI CEO Sam Altman. | Bloomberg via Getty Images OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Fa"
+  },
+  {
+   "id": "a4ba35ebbf15",
+   "title": "lehehroi/ill-14",
+   "link": "https://huggingface.co/lehehroi/ill-14",
+   "date": "2026-07-21T21:44:16.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, realistic",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b017dc2a476a",
+   "title": "Raspberry-Pie/Moonwalk-1",
+   "link": "https://huggingface.co/Raspberry-Pie/Moonwalk-1",
+   "date": "2026-07-21T21:13:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, stable-diffusion, text-rendering, typography",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f122a38e6a99",
+   "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+   "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+   "date": "2026-07-21T20:56:55.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
+  },
+  {
+   "id": "2925c94b0282",
+   "title": "GTA: History Of The Netherlands",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v2ull5/gta_history_of_the_netherlands/",
+   "date": "2026-07-21T20:40:40.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MTVpdG9iNnQ2bmVoMQdSUVni4q60OP6UJzpZy-kZnyw6zZhgsRxNpbTLGnZv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2921c0d86378b50fb6216c42c57a18092b9c4eb",
+   "excerpt": "submitted by /u/db_prod [link] [comments]"
+  },
   {
    "id": "bdd893a6764a",
    "title": "WiNE-iNEFF/YTDIF_V1__",
@@ -7436,121 +7550,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ZjkxbTYwMm0wZ2RoMSU44fPMRDlN0gxyi_JcMpUmQ5B7S5airm6AxSTPpmdl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fc5860de2a2f8f33f86de51115a93289ebfaac8",
    "excerpt": "submitted by /u/Head_Ad1511 [link] [comments]"
-  },
-  {
-   "id": "60c2e6b12c45",
-   "title": "Mr Rogers And His Pieces",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uxf4f3/mr_rogers_and_his_pieces/",
-   "date": "2026-07-15T18:58:39.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NzlrN3RhYnh4ZmRoMVn-0xRer4OfXr2oId-OknIGPUbEQqkzgupW2umNptcf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=11a7d391c3e7f67ed0d101409fb23a564ef137fe",
-   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
-  },
-  {
-   "id": "34e2895485cc",
-   "title": "guillekenzo/aros-4e2188d0-FrostedVertex",
-   "link": "https://huggingface.co/guillekenzo/aros-4e2188d0-FrostedVertex",
-   "date": "2026-07-15T18:46:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "f3786e9829bc",
-   "title": "guillekenzo/aros-f93e7c33-Filho",
-   "link": "https://huggingface.co/guillekenzo/aros-f93e7c33-Filho",
-   "date": "2026-07-15T18:37:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e498bfadbff4",
-   "title": "guillekenzo/aros-22e306f4-RadiantRogue",
-   "link": "https://huggingface.co/guillekenzo/aros-22e306f4-RadiantRogue",
-   "date": "2026-07-15T18:22:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0c0503409a96",
-   "title": "Speed",
-   "link": "https://www.reddit.com/r/comfyui/comments/1uxe4xm/speed/",
-   "date": "2026-07-15T18:22:26.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "Hey I was just wondering how long it takes everyone's videos to create? I'm pretty new and my videos are taking roughly 10-20 min to generate and I was wondering if that is normal or if there are faster ways to generate. also side note after waiting sometimes the output is just not at all what I wanted to have happen and was wondering if there are general fixes currently using wan 2.2 remix nsfw h"
-  },
-  {
-   "id": "990ae9f06b6c",
-   "title": "fwwrsd/jjenetsa-z_image_base-lora",
-   "link": "https://huggingface.co/fwwrsd/jjenetsa-z_image_base-lora",
-   "date": "2026-07-15T18:12:25.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, safetensors, image-generation, z-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "eb1c87996ca0",
-   "title": "Looking for advice: How can I improve this Flux.2 Klein restoration/upscale?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1uxds7l/looking_for_advice_how_can_i_improve_this_flux2/",
-   "date": "2026-07-15T18:09:56.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/tMBCetYKHabzxDoue99tk_7BzldpVhm3H4K0hbo_sPo.png?width=140&amp;height=70&amp;auto=webp&amp;s=7d5ef3cafa76f323309dbae04d4b5de49b873da9",
-   "excerpt": "flux 2 klein 9b fp8 tiled upscale test Hi everyone, I’m still quite new to ComfyUI and mostly learn by downloading workflows shared by the community, studying how they work, and experimenting with different models and settings. For this test, I started with a very small 196 × 160 image. I first used Flux.2 Klein 9B FP8 to reconstruct and restore it, then used the Klein Tiled Upscaler to refine it "
-  },
-  {
-   "id": "8ccd481dbdd6",
-   "title": "SugarSubstitute Beta; an alternative ComfyUI front-end in Qt",
-   "link": "https://www.reddit.com/r/comfyui/comments/1uxdqkq/sugarsubstitute_beta_an_alternative_comfyui/",
-   "date": "2026-07-15T18:08:16.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/hgsezxajdfdh1.png?width=140&amp;height=82&amp;auto=webp&amp;s=e98dbc10f6e3bd38e723417a550a225ab18fb2f5",
-   "excerpt": "SugarSubstitute is a front-end for ComfyUI designed to save you time and make your creation process as friction-less as possible. It comes with a purpose built prompt editor, a canvas that let's you easily inspect and compare outputs, and tons of little creature comforts it would take me all day to list. It works by building workflows with versioned graph segments called SugarCubes; build with the"
-  },
-  {
-   "id": "330de95c2bbe",
-   "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-   "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
-   "date": "2026-07-15T18:06:05.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
   }
  ]
 }
