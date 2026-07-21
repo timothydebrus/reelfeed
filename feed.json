@@ -1,6 +1,161 @@
 {
- "updated": "2026-07-21T18:42:24.238Z",
+ "updated": "2026-07-21T20:38:00.281Z",
  "items": [
+  {
+   "id": "bdd893a6764a",
+   "title": "WiNE-iNEFF/YTDIF_V1__",
+   "link": "https://huggingface.co/WiNE-iNEFF/YTDIF_V1__",
+   "date": "2026-07-21T20:18:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, arxiv:1910.09700, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "582bbdf9248f",
+   "title": "I Made A Fake Racing Game Trailer Cinematic",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v2tytp/i_made_a_fake_racing_game_trailer_cinematic/",
+   "date": "2026-07-21T20:17:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MmN1ODRsN2Q1bmVoMUNw9sYtDI7GMPUL2SCqd8KoxlpS9-1m8G5Pz5AD7xiF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb65485214710e1a265966da10506378ae6b1615",
+   "excerpt": "submitted by /u/BradClarkAI [link] [comments]"
+  },
+  {
+   "id": "8c74b86bc699",
+   "title": "Glimpse into the Forbidden City",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v2tyg4/glimpse_into_the_forbidden_city/",
+   "date": "2026-07-21T20:17:21.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NjFwbXZydWE1bmVoMUL-_FlCg9SWMd6LFIuhj5WubpgrTe1x7TGAVnqoEvEQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdbdc556b3b02fdea4eff0f5ecf8bd908074b81f",
+   "excerpt": "submitted by /u/aperartnft [link] [comments]"
+  },
+  {
+   "id": "4be8433189bb",
+   "title": "The State of Simulation for Physical AI: An Overview",
+   "link": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+   "date": "2026-07-21T20:00:27.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
+   "id": "688cfeb19d09",
+   "title": "Will223/Wan-Dancer-14B",
+   "link": "https://huggingface.co/Will223/Wan-Dancer-14B",
+   "date": "2026-07-21T19:57:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, i2v, video, video genration, music-to-dance",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "47bfd5bde868",
+   "title": "Will223/LTX-2.3",
+   "link": "https://huggingface.co/Will223/LTX-2.3",
+   "date": "2026-07-21T19:55:59.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "d77aa8a5fe08",
+   "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+   "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+   "date": "2026-07-21T19:43:41.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
+  },
+  {
+   "id": "0919b4f551ff",
+   "title": "AI and the rise of the universal entertainment app",
+   "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+   "date": "2026-07-21T19:39:30.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead."
+  },
+  {
+   "id": "479948011bc9",
+   "title": "Substack adds an AI detector to help spot blogs written by no one",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+   "date": "2026-07-21T19:22:28.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB391_SUBSTACK_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate of how much text could be AI-generated or written with AI assistance, according to a blog post published on Tuesday. The tool is powered by an AI detection company called Pangram and is rolling out acr"
+  },
+  {
+   "id": "bf50aed8c890",
+   "title": "Just A Wealthy And Famous AI On Social Media",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v2s5sa/just_a_wealthy_and_famous_ai_on_social_media/",
+   "date": "2026-07-21T19:12:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Yzhjc3dmOXZ0bWVoMUDA7i8Uz7YIxzQxO-WCNqYkmP0kJ4R3UJLFJuer6pm0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=883bc06003834040a80e0a30148860f088f16936",
+   "excerpt": "submitted by /u/Foreign-Original124 [link] [comments]"
+  },
+  {
+   "id": "9d91e0b4ec03",
+   "title": "GTA in India",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v2rwwm/gta_in_india/",
+   "date": "2026-07-21T19:04:08.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eHZrcDQ5ZzlzbWVoMQYYjApcul9rv8T3gYK1-iaveVoc5pe6-cJhrH7K_h-7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=64f954aa27129c3724ecb3551794ce82473dbb34",
+   "excerpt": "submitted by /u/Able-Line2683 [link] [comments]"
+  },
+  {
+   "id": "6764bff6764f",
+   "title": "joeygambino/ltx23-echoVid-ltxAud-surgical-gguf",
+   "link": "https://huggingface.co/joeygambino/ltx23-echoVid-ltxAud-surgical-gguf",
+   "date": "2026-07-21T18:59:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, video, text-to-video, audio, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "47f9b078545b",
+   "title": "The Witch's Cauldron Carnage 🧙‍♀️",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v2rfen/the_witchs_cauldron_carnage/",
+   "date": "2026-07-21T18:47:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/czBla3p0OGZvbWVoMYOH6Y6AbBvJ-cO9P3oWHrRHazuSoNpYiiP59VuaKeMU.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d0f1dbd456c7947c958c1c7f92c24c7238f354bb",
+   "excerpt": "submitted by /u/RobZomboyd [link] [comments]"
+  },
   {
    "id": "1b0bbc2cc1b7",
    "title": "Summer Forest BBQ - Made with Seedance",
@@ -453,6 +608,17 @@
    }
   },
   {
+   "id": "07a59789a1f9",
+   "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+   "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+   "date": "2026-07-21T07:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+  },
+  {
    "id": "704154b87470",
    "title": "B0rghese/B0rghese_Soft_and_Smooth_Style_Ill",
    "link": "https://huggingface.co/B0rghese/B0rghese_Soft_and_Smooth_Style_Ill",
@@ -872,6 +1038,17 @@
    "isModel": false,
    "thumb": "",
    "excerpt": ""
+  },
+  {
+   "id": "10666aebf14a",
+   "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+   "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+   "date": "2026-07-21T00:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
   },
   {
    "id": "32f4feef1659",
@@ -7374,193 +7551,6 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
-  },
-  {
-   "id": "d1802f967e8d",
-   "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-   "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-   "date": "2026-07-15T18:06:05.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
-  },
-  {
-   "id": "be5f4e7765aa",
-   "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-   "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-   "date": "2026-07-15T18:04:06.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view."
-  },
-  {
-   "id": "6633bb519207",
-   "title": "Krea 2 Turbo native sampler/scheduler benchmark (396 native combinations)",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uxdifv/krea_2_turbo_native_samplerscheduler_benchmark/",
-   "date": "2026-07-15T18:00:30.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/6e64vtq1lfdh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=37204a5102ab0795bca020d0963ea85272f8fc7b",
-   "excerpt": "I finally finished testing the native sampler and scheduler combinations for Krea 2 Turbo. I ran the combinations through a few stages, starting at 1 MP, then moving to native 2 MP, and finally testing the strongest finalists again with LoRAs. The rankings below are based mainly on visual quality, anatomy, skin, hands, reflections, geometry, and overall image consistency. These are the combination"
-  },
-  {
-   "id": "a859b388fbaa",
-   "title": "How interchangeable are clip vision models?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1uxdi81/how_interchangeable_are_clip_vision_models/",
-   "date": "2026-07-15T18:00:19.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "I've tended to just go with whatever I've been given, for example Qwen image edit templates seem to always want Qwen 2.5VL 7B scaled models, but can other more recent qwen VL models work? etc. submitted by /u/MrWeirdoFace [link] [comments]"
-  },
-  {
-   "id": "f7b2f863a72e",
-   "title": "Jurassic Park: The Stay Puft Incident - DungerZone Parody",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uxdecj/jurassic_park_the_stay_puft_incident_dungerzone/",
-   "date": "2026-07-15T17:56:37.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NDR2Ynl3c25tZmRoMfEAi0kFqdOAueUuNLGM_b_O0dAvMVBdxjnZphtI-78R.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=36c250262d0889b31c0765bbad90834f625c0b73",
-   "excerpt": "submitted by /u/YouAreNowDUM [link] [comments]"
-  },
-  {
-   "id": "71e4d734e4e4",
-   "title": "ErickLK/valen-person",
-   "link": "https://huggingface.co/ErickLK/valen-person",
-   "date": "2026-07-15T17:52:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "b91ca3913042",
-   "title": "guillekenzo/aros-80e33a1a-Pai",
-   "link": "https://huggingface.co/guillekenzo/aros-80e33a1a-Pai",
-   "date": "2026-07-15T17:48:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "615f90691be9",
-   "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-   "date": "2026-07-15T17:48:01.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in its training datasets and h"
-  },
-  {
-   "id": "9879f21abaed",
-   "title": "graceyun/lr_0.0001_steps_1500_rank_16_bs_4",
-   "link": "https://huggingface.co/graceyun/lr_0.0001_steps_1500_rank_16_bs_4",
-   "date": "2026-07-15T17:44:09.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, flux, flux-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c8ff7fe8663c",
-   "title": "KOFIblto/lora3-sx",
-   "link": "https://huggingface.co/KOFIblto/lora3-sx",
-   "date": "2026-07-15T17:42:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "82977d776bd5",
-   "title": "What Every Man Really Dreams About 😂!:Fantasy Next Door",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uxcves/what_every_man_really_dreams_about_fantasy_next/",
-   "date": "2026-07-15T17:38:10.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NXVwaTc1NmNqZmRoMXyFHa1RS9dmqUILwnHY_4h3teuYFCsl466PzYaWdWkj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a66baa69521e39ea57bb3e94db035f3a097f20dc",
-   "excerpt": "submitted by /u/LookingFTD [link] [comments]"
-  },
-  {
-   "id": "25b91e17e071",
-   "title": "guillekenzo/aros-6428b618-EmberFalcon",
-   "link": "https://huggingface.co/guillekenzo/aros-6428b618-EmberFalcon",
-   "date": "2026-07-15T17:32:56.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d8be8f442bce",
-   "title": "AlayaLab/AlayaWorld",
-   "link": "https://huggingface.co/AlayaLab/AlayaWorld",
-   "date": "2026-07-15T17:30:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, video-generation, world-model, image-to-video, autoregressive, arxiv:2607.06291",
-   "hf": {
-    "likes": 2,
-    "downloads": 161,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "534a04462ea2",
-   "title": "What building Shippy taught us about building agents",
-   "link": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-   "date": "2026-07-15T17:29:41.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "f774e20cd715",
-   "title": "My New LORA - 1920's Illustrator Ida Rentoul Outhwaite",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uxcmph/my_new_lora_1920s_illustrator_ida_rentoul/",
-   "date": "2026-07-15T17:29:35.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/9vwu1k7sgfdh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=342823fb6618eb27975b223476f305927963d848",
-   "excerpt": "The ability to Krea 2 to learn art styles blows me away. You can download this new LoRA off CivitAi. The LoRA can do black ink and pen artwork, watercolor illustrations or smoother illustration all in her style. I included the entire Dataset on the page as well. There are examples prompts and many examples images on Civitai page as well. https://civitai.red/models/2780005/krea2-style-of-ida-rentou"
   }
  ]
 }
