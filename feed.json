@@ -1,6 +1,42 @@
 {
- "updated": "2026-07-21T23:14:51.140Z",
+ "updated": "2026-07-22T00:10:57.000Z",
  "items": [
+  {
+   "id": "86519c5dd5f1",
+   "title": "Meta is testing an AI bedtime story app for people with no imagination",
+   "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+   "date": "2026-07-21T23:55:10.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Meta's StoryKit app is only available in certain regions while the company tests how parents react to it."
+  },
+  {
+   "id": "0cada339cd39",
+   "title": "Right supplies are important",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v2z6jd/right_supplies_are_important/",
+   "date": "2026-07-21T23:39:33.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/b3VtbnlqNjA1b2VoMX5Uxl3fKVmd7WGXxhLjuVKWoETKo8NJn0_1qCWur_7q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e32fe5a5ff69bd15801c70bb3c85659d7a26fc78",
+   "excerpt": "submitted by /u/Mother-Pear-2392 [link] [comments]"
+  },
+  {
+   "id": "dd349982223b",
+   "title": "guillekenzo/aros-1186c0ce-Sendaia",
+   "link": "https://huggingface.co/guillekenzo/aros-1186c0ce-Sendaia",
+   "date": "2026-07-21T23:15:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "7cd1f1c46b59",
    "title": "n8te0/highres_krea2",
@@ -554,6 +590,16 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Halliday-G2-Lifestyle-Book.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially comp"
+  },
+  {
+   "id": "1a9f6329f97b",
+   "title": "The Spice They Traded for New York City",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v2hh1u/the_spice_they_traded_for_new_york_city/",
+   "date": "2026-07-21T12:48:06.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NmRrNm9uOTF4a2VoMfu7rvYEfhMvDFfoOzOKv2H9hgfra9dg7wPsdz_fM3TJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=304babff475e4c0d25e1ffaedda1d771162684f4",
+   "excerpt": "submitted by /u/Ediblehistory [link] [comments]"
   },
   {
    "id": "7e89ab7de16e",
@@ -7504,52 +7550,6 @@
    "cat": "community",
    "thumb": "",
    "excerpt": "I was upgrading my rig recently, and i only ran into problems since. I moved to ComfyUI Desktop, and none of my model loading/sampler nodes are working anymore. Well, they worked even with 2 GPUs, but i had to use the newer pytorch for my blackwell gpu and since then it doesnt work anymore. Even if i force it to use the more powerful GPU or not, i get following assertion error: \"\\....\\model_patche"
-  },
-  {
-   "id": "c915651f0c1d",
-   "title": "Ava2000/Daisy_Mitsumata_Illustrious  (♥ 1)",
-   "link": "https://huggingface.co/Ava2000/Daisy_Mitsumata_Illustrious",
-   "date": "2026-07-15T19:41:48.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:calcuis/illustrious, base_model:adapter:calcuis/illustrious",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c9ca9bb827ce",
-   "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-   "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-   "date": "2026-07-15T19:41:38.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
-  },
-  {
-   "id": "b64a6a7933cf",
-   "title": "Haven't used a model this much since Flux1.Dev",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1uxfwrw/havent_used_a_model_this_much_since_flux1dev/",
-   "date": "2026-07-15T19:29:20.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/dl9xbk901gdh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=db0fc647590b168376ae65512f9b74ccab8266d2",
-   "excerpt": "Trained this art style lora for Krea2 after seeing this reel https://www.instagram.com/reels/Dazx5BIugLd/ Lora: https://civitai.red/models/2781650/idontknowhowtonamethisartstyle?modelVersionId=3132897 submitted by /u/Beautiful_Egg6188 [link] [comments]"
-  },
-  {
-   "id": "cb74fb75eea1",
-   "title": "Gully cricket",
-   "link": "https://www.reddit.com/r/aivideo/comments/1uxfih9/gully_cricket/",
-   "date": "2026-07-15T19:13:45.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZjkxbTYwMm0wZ2RoMSU44fPMRDlN0gxyi_JcMpUmQ5B7S5airm6AxSTPpmdl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6fc5860de2a2f8f33f86de51115a93289ebfaac8",
-   "excerpt": "submitted by /u/Head_Ad1511 [link] [comments]"
   }
  ]
 }
