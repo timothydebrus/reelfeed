@@ -1,6 +1,112 @@
 {
- "updated": "2026-07-27T18:49:53.042Z",
+ "updated": "2026-07-27T20:45:18.233Z",
  "items": [
+  {
+   "id": "f6ec309cb073",
+   "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+   "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+   "date": "2026-07-27T20:19:42.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
+  },
+  {
+   "id": "7840c9c5c888",
+   "title": "AnubhutiBhardwaj/stable_diffusion_fashionclothing_generation",
+   "link": "https://huggingface.co/AnubhutiBhardwaj/stable_diffusion_fashionclothing_generation",
+   "date": "2026-07-27T20:13:58.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion-xl, stable-diffusion-xl-diffusers, text-to-image, diffusers-training, lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "75d6950fc393",
+   "title": "AnubhutiBhardwaj/stable_diffusion_christmasclamation_generation",
+   "link": "https://huggingface.co/AnubhutiBhardwaj/stable_diffusion_christmasclamation_generation",
+   "date": "2026-07-27T20:11:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion-xl, stable-diffusion-xl-diffusers, text-to-image, diffusers-training, lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4ce75f1f7734",
+   "title": "guillekenzo/aros-18f19df9-LunarRogue",
+   "link": "https://huggingface.co/guillekenzo/aros-18f19df9-LunarRogue",
+   "date": "2026-07-27T20:09:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "81d26583c24f",
+   "title": "guillekenzo/aros-d9aa5ee8-MidnightAtlas",
+   "link": "https://huggingface.co/guillekenzo/aros-d9aa5ee8-MidnightAtlas",
+   "date": "2026-07-27T20:07:12.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "81229369e300",
+   "title": "AnubhutiBhardwaj/stable_diffusion_sketchstyle_generation",
+   "link": "https://huggingface.co/AnubhutiBhardwaj/stable_diffusion_sketchstyle_generation",
+   "date": "2026-07-27T20:06:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion-xl, stable-diffusion-xl-diffusers, text-to-image, diffusers-training, lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "9902e814740b",
+   "title": "AnubhutiBhardwaj/stable_diffusion_oldbookstyle",
+   "link": "https://huggingface.co/AnubhutiBhardwaj/stable_diffusion_oldbookstyle",
+   "date": "2026-07-27T19:59:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion-xl, stable-diffusion-xl-diffusers, text-to-image, diffusers-training, lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "699cca776fc6",
    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
@@ -56,6 +162,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/c2JubTAzYm8ydGZoMcAZYRShawNQE849AIpgP5RO4Kyvb875s25g5PsQEtL8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=87fd5f5b53a8254644d2d82d874e1ff0a25807ef",
    "excerpt": "submitted by /u/Internal_Ad_4036 [link] [comments]"
+  },
+  {
+   "id": "801f4afe7c21",
+   "title": "Coffee",
+   "link": "https://www.reddit.com/r/aivideo/comments/1v86jo6/coffee/",
+   "date": "2026-07-27T17:11:14.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZmpqYzMxZG8xdGZoMfcg8qdclpm861lIF1d5-BG12kgU1StrdiLtOhxYI6cp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=87bfeb14658361ac72944711ad035c8eb64b2b02",
+   "excerpt": "submitted by /u/Head_Ad1511 [link] [comments]"
   },
   {
    "id": "edbc0464d3d2",
@@ -6325,7 +6441,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusion-single-file, video, text-to-video, audio, comfyui, joyai-echo",
    "hf": {
     "likes": 5,
-    "downloads": 492,
+    "downloads": 520,
     "pipeline": "trending video"
    }
   },
@@ -7360,93 +7476,6 @@
     "downloads": 0,
     "pipeline": "text-to-video"
    }
-  },
-  {
-   "id": "5d5937adf486",
-   "title": "joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-gguf",
-   "link": "https://huggingface.co/joeygambino/joyai-echo-ltx23-echoVid-ltxAud-surgical-gguf",
-   "date": "2026-07-21T18:59:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, video, text-to-video, audio, comfyui",
-   "hf": {
-    "likes": 5,
-    "downloads": 1149,
-    "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "47f9b078545b",
-   "title": "The Witch's Cauldron Carnage 🧙‍♀️",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v2rfen/the_witchs_cauldron_carnage/",
-   "date": "2026-07-21T18:47:45.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/czBla3p0OGZvbWVoMYOH6Y6AbBvJ-cO9P3oWHrRHazuSoNpYiiP59VuaKeMU.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d0f1dbd456c7947c958c1c7f92c24c7238f354bb",
-   "excerpt": "submitted by /u/RobZomboyd [link] [comments]"
-  },
-  {
-   "id": "1b0bbc2cc1b7",
-   "title": "Summer Forest BBQ - Made with Seedance",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v2r3tw/summer_forest_bbq_made_with_seedance/",
-   "date": "2026-07-21T18:36:40.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/MjhvdWE2dWZmbWVoMbvqd2TFOjJDAPNtcATRn0zom7WyWw42syjDRfozpzP-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=779a325592bfb4f5987d72c12e6fc356e58daaa5",
-   "excerpt": "submitted by /u/eyondo-1 [link] [comments]"
-  },
-  {
-   "id": "b1d0e4a2457d",
-   "title": "Why do airport roofs actually curve? (Made an explainer on the architecture behind it)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v2qsak/why_do_airport_roofs_actually_curve_made_an/",
-   "date": "2026-07-21T18:25:42.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MzZkanc5ejlsbWVoMfuypmQhj52I5giqftPcUZqQx7cb-lAQ4tfSzThoMjIX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a85d69324584631677166fe4092906ff851a946a",
-   "excerpt": "submitted by /u/Travisher4 [link] [comments]"
-  },
-  {
-   "id": "8eaef91526bc",
-   "title": "Dancing dog",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v2qb0f/dancing_dog/",
-   "date": "2026-07-21T18:09:24.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eXNhaTAyZzBpbWVoMcGSXvl3m4u3I0qeIYmNTgR1bW5XdA7vEM4n4D6giWh0.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ccdea96abec5b218ee85ac543cd57c3d2fc42027",
-   "excerpt": "submitted by /u/More-Bullfrog-2118 [link] [comments]"
-  },
-  {
-   "id": "50506afdaa3d",
-   "title": "Data centers expected to use 4x more electricity by 2035",
-   "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-   "date": "2026-07-21T18:06:38.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "New data centers built through 2033 could consume as much electricity as India uses today."
-  },
-  {
-   "id": "f2ef2d166c50",
-   "title": "The Reformation Room - Episode 4",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v2q3zd/the_reformation_room_episode_4/",
-   "date": "2026-07-21T18:02:35.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NzVubDZveWx3bGVoMQ6L4E57bOlAFMRTdG4-79rSAQ8-1BJel74svEjdsPQ1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=732c4578507ec27264091935e5ea529efcf1b20b",
-   "excerpt": "submitted by /u/Slophouseco [link] [comments]"
-  },
-  {
-   "id": "c096964be54d",
-   "title": "Google releases three new Gemini models — but no 3.5 Pro",
-   "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-   "date": "2026-07-21T17:11:50.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy."
   }
  ]
 }
