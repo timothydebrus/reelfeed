@@ -1,6 +1,120 @@
 {
- "updated": "2026-07-28T18:48:52.003Z",
+ "updated": "2026-07-28T20:36:08.729Z",
  "items": [
+  {
+   "id": "cbe29efd99bf",
+   "title": "Sam Altman is ready to decelerate",
+   "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+   "date": "2026-07-28T20:17:08.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "His change of position comes after \"the first security incident that I have felt very viscerally.\""
+  },
+  {
+   "id": "6ce3ad9cb8ec",
+   "title": "Cursed Sref Digital Artifacts",
+   "link": "https://www.reddit.com/r/midjourney/comments/1v99avy/cursed_sref_digital_artifacts/",
+   "date": "2026-07-28T19:53:50.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/lnvqv8ygy0gh1.jpg?width=140&amp;height=63&amp;auto=webp&amp;s=ea7e271f8c78da41d9f88b1394c332e871f53005",
+   "excerpt": "im not using promt submitted by /u/gamefunetc [link] [comments]"
+  },
+  {
+   "id": "f22aa3b4b98b",
+   "title": "AI leaders sign statement asking the government to do something about automated AI",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+   "date": "2026-07-28T19:46:43.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better future, but that outcome is not guaranteed,\" the"
+  },
+  {
+   "id": "76504492e0f1",
+   "title": "byteshape/Qwen-Image-2512-Humming",
+   "link": "https://huggingface.co/byteshape/Qwen-Image-2512-Humming",
+   "date": "2026-07-28T19:42:30.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, qwen-image, text-to-image, image-generation, vllm",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "fbd6265033ac",
+   "title": "byteshape/Qwen-Image-2512-GGUF",
+   "link": "https://huggingface.co/byteshape/Qwen-Image-2512-GGUF",
+   "date": "2026-07-28T19:42:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, qwen-image, text-to-image, image-generation, comfyui, byteshape",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "24bcc75f1908",
+   "title": "AI’s finally expensive enough to make Wall Street nervous",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+   "date": "2026-07-28T19:33:03.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously for"
+  },
+  {
+   "id": "62355c3b99ed",
+   "title": "“Out of Body”",
+   "link": "https://www.reddit.com/r/midjourney/comments/1v98eov/out_of_body/",
+   "date": "2026-07-28T19:22:25.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dTh0anphYTB1MGdoMWdNYCc8JWqL5Lo2892axbcspJctIQSlca-REyY14qUP.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5164b7ee863921e8eb13885a14e9f7903171fe81",
+   "excerpt": "submitted by /u/MysticLinear [link] [comments]"
+  },
+  {
+   "id": "c7955544d11d",
+   "title": "suryatmodulus/PrunaVAED",
+   "link": "https://huggingface.co/suryatmodulus/PrunaVAED",
+   "date": "2026-07-28T19:17:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video, vae, decoder, ltx",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "9cca9a777ba5",
+   "title": "neph1/wan_zombie_walk",
+   "link": "https://huggingface.co/neph1/wan_zombie_walk",
+   "date": "2026-07-28T18:54:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Wan-AI/Wan2.2-I2V-A14B, base_model:adapter:Wan-AI/Wan2.2-I2V-A14B",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "974421e73df0",
    "title": "Qaysar12/FERsystem",
@@ -118,6 +232,16 @@
    }
   },
   {
+   "id": "561bd2c937d5",
+   "title": "Black Moon Beach",
+   "link": "https://www.reddit.com/r/midjourney/comments/1v94klc/black_moon_beach/",
+   "date": "2026-07-28T17:08:30.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZWo1MXp0bjQ2MGdoMbft2BPBkOay8Kn7gJuMbF3uTMBKuwZD37e_hU4_wJ7Q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b2af2c9297c0c46ee351b79a21aab61c5b3b0895",
+   "excerpt": "submitted by /u/Dropdeadlegs84 [link] [comments]"
+  },
+  {
    "id": "c507d3d22ce9",
    "title": "henzo676/davi._.mc",
    "link": "https://huggingface.co/henzo676/davi._.mc",
@@ -201,6 +325,16 @@
    "isModel": false,
    "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
    "excerpt": "We’re announcing even more new capabilities in Managed Agents in Gemini API so developers can build reliable, production-ready agents."
+  },
+  {
+   "id": "daa53df7967b",
+   "title": "Electric Sheep",
+   "link": "https://www.reddit.com/r/midjourney/comments/1v92lhq/electric_sheep/",
+   "date": "2026-07-28T15:58:29.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/mcn0cazcszfh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6bbea8136d9cd9ddb9634c2db3b9b2c51df1bff8",
+   "excerpt": ". submitted by /u/Zenchilada [link] [comments]"
   },
   {
    "id": "fce53ec53c94",
@@ -344,6 +478,16 @@
    "excerpt": "submitted by /u/Witty-Relation5743 [link] [comments]"
   },
   {
+   "id": "4a6c6abfa7e3",
+   "title": "Underground lake",
+   "link": "https://www.reddit.com/r/midjourney/comments/1v8zy5d/underground_lake/",
+   "date": "2026-07-28T14:22:08.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/qsfjqg6fczfh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=52b15a89269e70c2e8a01d8fae49123e92a9ffbc",
+   "excerpt": "submitted by /u/Sharp_Alternative845 [link] [comments]"
+  },
+  {
    "id": "045407457d9b",
    "title": "AnantaXLIllustrious/wai-nsfw-illustrious-v120",
    "link": "https://huggingface.co/AnantaXLIllustrious/wai-nsfw-illustrious-v120",
@@ -368,6 +512,16 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million."
+  },
+  {
+   "id": "d80518741857",
+   "title": "Halloween Came Early 🖤🦇✨",
+   "link": "https://www.reddit.com/r/midjourney/comments/1v8z995/halloween_came_early/",
+   "date": "2026-07-28T13:56:06.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/77393zls7zfh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=94f1e57f265a55184274b8c2f2a68dd91aeda860",
+   "excerpt": "Almost done with my first magazine idea and I’m just blown away with how well MidJourney 8.2 is doing!! How’s everyone liking it? submitted by /u/Pleasant_Parfait6050 [link] [comments]"
   },
   {
    "id": "ce197af2dd04",
@@ -2438,6 +2592,17 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/NmJub3Q4eHZ4bmZoMa0jzVwaQyYYqxPcpQ6bPMm6dGNhKGfTaETvyJyANKeg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=280eb6b6fd903737ecf2196a126c97420e9c422b",
    "excerpt": "submitted by /u/ProfessorKey98 [link] [comments]"
+  },
+  {
+   "id": "45ee50f08ad3",
+   "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+   "link": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+   "date": "2026-07-27T00:00:00.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
   },
   {
    "id": "e4aae981234c",
@@ -7285,183 +7450,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "33e315ca6162",
-   "title": "We hunt tonight (Official music video)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v48bks/we_hunt_tonight_official_music_video/",
-   "date": "2026-07-23T08:57:23.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OHMwc3Bvc2oxeWVoMW9qVQLy1piBP0-rG3QdgMhiNaxIpFsy1bpbLwM-tZNL.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=177bd130c3a9fd4bd9f89e2713341a32fc97e9a2",
-   "excerpt": "submitted by /u/No_Heat8337 [link] [comments]"
-  },
-  {
-   "id": "d43c7be00b17",
-   "title": "uzui7777/tar",
-   "link": "https://huggingface.co/uzui7777/tar",
-   "date": "2026-07-23T08:54:14.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Runware/BFL-FLUX.2-klein-base-9B, base_model:adapter:Runware/BFL-FLUX.2-klein-base-9B",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0086392801bd",
-   "title": "A little National catwalk",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v482dx/a_little_national_catwalk/",
-   "date": "2026-07-23T08:42:26.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dHZoNDdtaDl6eGVoMdcmeMd4uwZ16BmDvEGsMJqVMGWlG5ReErV_uhd8p3px.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e7e1d41317a56d5aa62a8ad413be42922c71f684",
-   "excerpt": "submitted by /u/Defiant_Ad_8328 [link] [comments]"
-  },
-  {
-   "id": "3ae8e3d310c6",
-   "title": "Families of New Plutonia",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v47iob/families_of_new_plutonia/",
-   "date": "2026-07-23T08:10:28.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZHY5cDBkaWt0eGVoMSYLaj2nYNbAo50qt_ahtbQwocPpHfdLsvJyVSY922OV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc50448ff8e126a90afbff5674a2e402c5694bc4",
-   "excerpt": "submitted by /u/ImaginosBDesdinova [link] [comments]"
-  },
-  {
-   "id": "37908ebcb353",
-   "title": "Welcome to Day 8 An AI Horror Short Set in an Endless Water Park",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v46is3/welcome_to_day_8_an_ai_horror_short_set_in_an/",
-   "date": "2026-07-23T07:13:17.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dGlwZ3hrZjFqeGVoMVwyJVXvo8Y8G1mhCRcYJPNZRglH_6Rki5ENPZL1J96U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5839bcd77fc84b802e154f2d2a2b3926a63a8e10",
-   "excerpt": "submitted by /u/SkyGlittering2579 [link] [comments]"
-  },
-  {
-   "id": "61c78d4d46e6",
-   "title": "Quiho/Krea-2-Turbo-unlocked-by-Newsletter",
-   "link": "https://huggingface.co/Quiho/Krea-2-Turbo-unlocked-by-Newsletter",
-   "date": "2026-07-23T06:24:16.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "bf24dd901483",
-   "title": "Wildlife Documentary Using Seedance",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v45ixq/wildlife_documentary_using_seedance/",
-   "date": "2026-07-23T06:18:32.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/Njlrdnp2M2g5eGVoMTeiue-h_UItgNlCV4J36KrXG7FClmL-O51QTlxk3F7N.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=286f5cf72e65155b7963400604aafa90e2bbfe50",
-   "excerpt": "submitted by /u/WeirdAtma [link] [comments]"
-  },
-  {
-   "id": "3d07170d3443",
-   "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-   "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-   "date": "2026-07-23T06:09:13.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally."
-  },
-  {
-   "id": "db004893f6a0",
-   "title": "1950s Drive-In Intermission: Don't Forget Your SSRIs!",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v457up/1950s_drivein_intermission_dont_forget_your_ssris/",
-   "date": "2026-07-23T06:01:37.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bzk4eDZxbmU2eGVoMU8B9ytuGKbq1UxDaacP23GBY2dF-cArJnlgmiE2rbv6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb82fed6e8082d8dba6af4955dc96f1c2f231401",
-   "excerpt": "submitted by /u/andrewdicejay [link] [comments]"
-  },
-  {
-   "id": "26481525e213",
-   "title": "nicam46234/kanata_livington",
-   "link": "https://huggingface.co/nicam46234/kanata_livington",
-   "date": "2026-07-23T05:31:52.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "6fbbc44e6511",
-   "title": "nicam46234/coope_34fe",
-   "link": "https://huggingface.co/nicam46234/coope_34fe",
-   "date": "2026-07-23T05:24:55.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ac77404b811c",
-   "title": "zizhuow/zsl1",
-   "link": "https://huggingface.co/zizhuow/zsl1",
-   "date": "2026-07-23T05:21:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9c9a57f85d2f",
-   "title": "Mugged (audio-reactive music video)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v44d63/mugged_audioreactive_music_video/",
-   "date": "2026-07-23T05:16:26.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dnZyaTloM3F4d2VoMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8fa7075fac8644c42989cd90e8ffc83a83e7e16",
-   "excerpt": "submitted by /u/ART-ficial-Ignorance [link] [comments]"
-  },
-  {
-   "id": "114d323e877a",
-   "title": "Persiapinkman/WMGen",
-   "link": "https://huggingface.co/Persiapinkman/WMGen",
-   "date": "2026-07-23T05:06:27.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: world-model, text-to-image, vlm, image-generation, license:mit, region:us",
    "hf": {
     "likes": 0,
     "downloads": 0,
