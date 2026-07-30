@@ -1,6 +1,101 @@
 {
- "updated": "2026-07-30T20:36:48.493Z",
+ "updated": "2026-07-30T22:29:01.100Z",
  "items": [
+  {
+   "id": "17d440f76416",
+   "title": "turzyn40/InstaMixHigh1",
+   "link": "https://huggingface.co/turzyn40/InstaMixHigh1",
+   "date": "2026-07-30T22:27:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "393f59c9f4a3",
+   "title": "neonforestmist/sd15-monet-lora",
+   "link": "https://huggingface.co/neonforestmist/sd15-monet-lora",
+   "date": "2026-07-30T22:24:24.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, stable-diffusion, stable-diffusion-1-5",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b83554fb6fc9",
+   "title": "turzyn40/InstaMixLow",
+   "link": "https://huggingface.co/turzyn40/InstaMixLow",
+   "date": "2026-07-30T22:18:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "58ddc60c28e0",
+   "title": "The moment the red mist fell, the old world ended, and the new one began to rot",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vb6zd1/the_moment_the_red_mist_fell_the_old_world_ended/",
+   "date": "2026-07-30T21:32:42.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NzE3YXhnZXRxZmdoMcpNF-cMmiWqe4yBOFQAKdfeUuHFpopnhu2y_DSfKh7g.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b80b6203aa624d3c37bbf2e627d32c8916f9144a",
+   "excerpt": "submitted by /u/Cool-Door3047 [link] [comments]"
+  },
+  {
+   "id": "6cd70f3f182b",
+   "title": "DnD Retro - Flux 3 - multi generation output",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vb67qm/dnd_retro_flux_3_multi_generation_output/",
+   "date": "2026-07-30T21:03:36.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/Mm9tc21kNGFsZmdoMQYtFGPx_JS-pp-_lmKecQ9RH6uwNskamVNzscJj8CsN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=57211c11b2afc99ea099b3f5e111b139edc35a84",
+   "excerpt": "submitted by /u/psdwizzard [link] [comments]"
+  },
+  {
+   "id": "802a02200b92",
+   "title": "Jaytsh/FLUX-DetailSlider",
+   "link": "https://huggingface.co/Jaytsh/FLUX-DetailSlider",
+   "date": "2026-07-30T20:49:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6d58fc6439c4",
+   "title": "The loss of Situational Awareness",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+   "date": "2026-07-30T20:46:25.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS522_AGI_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Neither artificial nor intelligent. I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \"Long-Term Capital Management,\" or \"Amaranth Advisors\" (named for the floral symbol for immortality). Certainly do not call yourself \"Situational Awareness,\" which m"
+  },
   {
    "id": "358552aaff9a",
    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
@@ -588,6 +683,16 @@
    "excerpt": "submitted by /u/FRAK_KTUR [link] [comments]"
   },
   {
+   "id": "dc285ac30fad",
+   "title": "An Alien's Earth Diary 🛸🌍",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vasteb/an_aliens_earth_diary/",
+   "date": "2026-07-30T12:52:43.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/b2pvdDZjazE2ZGdoMS56mVH-BjeTBC8UBao3KE_7Z47giJp8NJqmpd1H15EW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=78f85fb77fcd030d305a908e5c25e9cc6009c363",
+   "excerpt": "submitted by /u/Eureka_Eleven [link] [comments]"
+  },
+  {
    "id": "832f79bb15ee",
    "title": "dreamina vs kling price comparison: which one is actually more worth it per second?",
    "link": "https://www.reddit.com/r/comfyui/comments/1vasp3w/dreamina_vs_kling_price_comparison_which_one_is/",
@@ -597,6 +702,16 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "i’m trying to calculate the actual cost per second between dreamina seedance 2.0 and kling to see which one gives better value for short form video. based on my math, kling costs around $0.44 to $0.55 per 5 second clip on their $10 standard and $37 pro plans, while dreamina works out to $0.097/s on basic, $0.092/s on standard, and $0.083/s on advanced ($4.98 per minute or about $0.415 per 5 second"
+  },
+  {
+   "id": "abef86605bda",
+   "title": "Zapatillas japonesas",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vasmtd/zapatillas_japonesas/",
+   "date": "2026-07-30T12:44:50.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NzR5OHUwaHc0ZGdoMSwwtgF1hcyw-K7feeU0IzslYDzJe4Ogv6yslHM_zDBQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f48aef90a348f2c7214c92e6ebdcd0cdcde46b5c",
+   "excerpt": "submitted by /u/Morris7070 [link] [comments]"
   },
   {
    "id": "a949c055eff5",
@@ -3814,9 +3929,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: safetensors, text-to-image, diffusion, rectified-flow, dit, tiny",
    "hf": {
-    "likes": 2,
-    "downloads": 0,
-    "pipeline": "text-to-image"
+    "likes": 15,
+    "downloads": 2307,
+    "pipeline": "trending image"
    }
   },
   {
@@ -7354,108 +7469,6 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/7jzdfmqr1efh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0db01ee47be878d6d8b6a4195b3571b0dddc442",
    "excerpt": "Workflow link: https://civitai.red/models/2699283/wan-scail-2-segmentation-control New findings: SCAIL Auto Extend is now my favorite Sampler. This one seems to have no or fewer color shifts. And doesn't need the \"Color Match\" option (This is already integrated). Explanation of the new option: The new option is to interpolate the input video to achieve smoother motion. The downside, however, is in"
-  },
-  {
-   "id": "daa6c3ba6349",
-   "title": "Fantasy RPG Rings",
-   "link": "https://www.reddit.com/r/midjourney/comments/1v69z0k/fantasy_rpg_rings/",
-   "date": "2026-07-25T14:32:14.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/ttzdjmthzdfh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e4c62de8c574160f5a96442650b2987dd671bb48",
-   "excerpt": "submitted by /u/NeoShaolin47 [link] [comments]"
-  },
-  {
-   "id": "dbd12a0d84af",
-   "title": "Mousey",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v69w7s/mousey/",
-   "date": "2026-07-25T14:29:06.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dm1jaGU5Y3h5ZGZoMV6mlUEmH5GzzjUhMmj-TvAz0ehpwYNz9Nwjx3pXu9JW.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=43d1fd293697240f8990038b3eba5046acb90430",
-   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
-  },
-  {
-   "id": "8157ee044d79",
-   "title": "Some cassette type sh",
-   "link": "https://www.reddit.com/r/midjourney/comments/1v69txd/some_cassette_type_sh/",
-   "date": "2026-07-25T14:26:25.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/nnfqcd6hydfh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=064109a408cbcceb6f9e27784945815aa38df638",
-   "excerpt": "If you want the moodboard ref i can whip one up submitted by /u/No-Investment2221 [link] [comments]"
-  },
-  {
-   "id": "842a24a4873f",
-   "title": "483 Krea 2 prompts with the seeds, plus the 78 generations that failed and why",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v69qw7/483_krea_2_prompts_with_the_seeds_plus_the_78/",
-   "date": "2026-07-25T14:23:03.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/5axmhx4zwdfh1.jpg?width=140&amp;height=82&amp;auto=webp&amp;s=74f7573b847e7235e9afe95119b46f1f52e6d909",
-   "excerpt": "Ran Krea 2 Turbo for a few days and kept everything - prompts, seeds, and the generations that didn't work. 561 made, 476 kept. Every entry has its seed. The cut ones are in there too with the reason, which is the part nobody publishes. Things I got wrong and had to fix: I thought text failed when too many strings shared a frame. Built a ladder to find the ceiling - same nameplate, 1 to 8 strings "
-  },
-  {
-   "id": "1ac223e6b7ca",
-   "title": "Sparrowhawk II | Meet the Mercenary",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v69l3d/sparrowhawk_ii_meet_the_mercenary/",
-   "date": "2026-07-25T14:16:21.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cnJjZXphM293ZGZoMTuEDkJ5DPg88axcB0zYOs4hR3lAo5B4kaehvnx_MQoK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=453883af30796267d2aba9639e3612d498410c93",
-   "excerpt": "submitted by /u/Mattapeh [link] [comments]"
-  },
-  {
-   "id": "abc7d2bd6f9c",
-   "title": "rootonchair/LTX-2.3-Distilled-v1.1-Diffusers",
-   "link": "https://huggingface.co/rootonchair/LTX-2.3-Distilled-v1.1-Diffusers",
-   "date": "2026-07-25T13:58:18.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, ltx2, video, audio, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 37,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "89562f21975c",
-   "title": "Krea 2 Identity Edit running in Forge Neo (extension port) — works great, GitHub release soon",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v68zpa/krea_2_identity_edit_running_in_forge_neo/",
-   "date": "2026-07-25T13:52:07.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/WDn-LAFTHhWptOwze9aiwuPFfPaq4136lfy6JmUMwd4.png?width=140&amp;height=75&amp;auto=webp&amp;s=c3c051e3ab464d2b38b2ce3905d2398a56deff9d",
-   "excerpt": "I ported Krea 2 Identity Edit support to Forge Neo as an extension — the instruction-based, identity-preserving edit LoRA that until now required ComfyUI + custom nodes. It replicates the full dual-conditioning recipe (in-context VAE source tokens with RoPE frames + image-grounded Qwen3-VL encoding) as a runtime patch — no core files touched. Just drop your source image(s) in the accordion, write "
-  },
-  {
-   "id": "269ac3c78512",
-   "title": "Introduction to Intelligent Tire Manufacturing",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v68x41/introduction_to_intelligent_tire_manufacturing/",
-   "date": "2026-07-25T13:49:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dGU1OGV3aHVxZGZoMb6JJTM_-udTYXUlhYbdLYkK1wPVAXHRiASr1zX5arBv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f00e60c82eaaaae60bf898770924b04728658140",
-   "excerpt": "submitted by /u/Kevin_Dong_cn [link] [comments]"
-  },
-  {
-   "id": "2bd9cf6481a7",
-   "title": "LocalMuseAI/coreml-cyberillustrious-semi-realistic-play-v4-6bit",
-   "link": "https://huggingface.co/LocalMuseAI/coreml-cyberillustrious-semi-realistic-play-v4-6bit",
-   "date": "2026-07-25T13:44:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: coreml, stable-diffusion, sdxl, illustrious, text-to-image, image-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
