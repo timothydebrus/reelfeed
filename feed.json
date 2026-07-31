@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T21:30:38.385Z",
+ "updated": "2026-07-31T23:17:13.395Z",
  "items": [
   {
    "id": "e2b8f86303a2",
@@ -11,6 +11,84 @@
    "isModel": false,
    "thumb": "",
    "excerpt": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+  },
+  {
+   "id": "1b5f498b0bf8",
+   "title": "Benjamin Franklin: Serial Killer",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vc67h7/benjamin_franklin_serial_killer/",
+   "date": "2026-07-31T23:01:17.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aXRtZnc2d3JibmdoMYcsqC4YTUD4H2t-v0RIrASCrmCoHmAjy-5hKEGTIvhm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=98d30d2e9f73e3b28a1a8997537feb9ce6b73af2",
+   "excerpt": "submitted by /u/myfootfellasleep [link] [comments]"
+  },
+  {
+   "id": "d529c3dc027e",
+   "title": "chfm/Bernini-R-GGUF",
+   "link": "https://huggingface.co/chfm/Bernini-R-GGUF",
+   "date": "2026-07-31T22:54:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, wan2.2, comfyui, bernini-r, text-to-video, image-editing",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "1d34eb822975",
+   "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+   "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+   "date": "2026-07-31T22:47:26.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+  },
+  {
+   "id": "1ab56f092cd1",
+   "title": "POV: You are a bad ref",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vc5k6t/pov_you_are_a_bad_ref/",
+   "date": "2026-07-31T22:35:01.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/a2M3ZGx3b3o2bmdoMbEl4mVv3RVZmQVhjPsPxhbTDRb3PbctnGuDIRjLP_72.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9803e1651297252be0a5024c9036f0f8a70f611",
+   "excerpt": "submitted by /u/warzone_afro [link] [comments]"
+  },
+  {
+   "id": "3348f13cd95d",
+   "title": "kisserpun/yegua  (♥ 1)",
+   "link": "https://huggingface.co/kisserpun/yegua",
+   "date": "2026-07-31T22:23:32.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, license:apache-2.0, endpoints_compatible, diffusers:StableDiffusionXLPipeline, region:us",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "017febca0cd1",
+   "title": "Aufrattus/LTX-Video-gguf",
+   "link": "https://huggingface.co/Aufrattus/LTX-Video-gguf",
+   "date": "2026-07-31T22:05:28.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, ltx-video, text-to-video, image-to-video, en, base_model:Lightricks/LTX-Video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
   },
   {
    "id": "f73d0d0c8e14",
@@ -1080,7 +1158,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 12. Tags: lora, krea2, krea, text-to-image, comfyui, license:mit",
    "hf": {
-    "likes": 62,
+    "likes": 66,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -7297,75 +7375,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/aTIxMGlteHFjbWZoMXRNJ1ydBhWbVFloRjZBcabzEAmilpq6oWdpSPAH8WZ1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=89f0a52b2142746f607dca0ff1d8ac4e2bbcf00c",
    "excerpt": "submitted by /u/PannoniumFilms [link] [comments]"
-  },
-  {
-   "id": "2187f2d09c00",
-   "title": "Flux 3 looks insane. This was 1 prompt",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1v7ca3z/flux_3_looks_insane_this_was_1_prompt/",
-   "date": "2026-07-26T18:42:39.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/NDJydTl3ZDNkbWZoMXqXu-1GicySLSuPcR5D7wcUuW-tnWGyb1yBBg8uvhA5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ff06dc4c6d7011e15990860baa7f4c0a622ee57",
-   "excerpt": "Prompt on Flux 3 : Split-screen video showing the same continuous real-time event from two different camera angles. The screen is divided vertically into two equal halves. On the left side, show a static, elevated wide shot of an outdoor café terrace during light rain. The full scene is visible: several tables, wet pavement, a large striped umbrella, a waiter carrying a tray with three transparent"
-  },
-  {
-   "id": "86a6cb4fd276",
-   "title": "🎬 LTX 2.3 Close-Up Shots Are Absolutely Insane!",
-   "link": "https://www.reddit.com/r/comfyui/comments/1v7bcci/ltx_23_closeup_shots_are_absolutely_insane/",
-   "date": "2026-07-26T18:08:28.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/OTF4MWJlanU2bWZoMQB0rG-5-w6OThZ5aDeBmgD8d7XVnV5uicbFFxvMGqID.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=503173f71403b9bdf08a25c48113537b783673e1",
-   "excerpt": "Hey everyone! 👋 I've been experimenting more with LTX 2.3, and I wanted to share a short showcase that really surprised me. The close-up shots this model can produce are incredible. The facial details, subtle expressions, natural camera movement, and even the lip sync came out far better than I expected. One thing I also noticed is the huge quality difference between generating at 720p and 1080p."
-  },
-  {
-   "id": "4367ee0b08a2",
-   "title": "The kickback made her skirt fall 😂",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v7ahul/the_kickback_made_her_skirt_fall/",
-   "date": "2026-07-26T17:37:24.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/No_Tomatillo1695 [link] [comments]"
-  },
-  {
-   "id": "b6c75011b760",
-   "title": "How can I change the default color palette for nodes and subgraphs?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1v79x52/how_can_i_change_the_default_color_palette_for/",
-   "date": "2026-07-26T17:15:55.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/36st8a4uvlfh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3a584ce776532e7b316e86ed6fee4b25f35e44c",
-   "excerpt": "Does anyone know where these ten default color options are defined? Everything I read says its in litegraph.core.js, but I don't think that applies to the most recent versions of comfyui. That file isn't anywhere on my PC, and the exported json \"themes\" don't list them as options. submitted by /u/LanaKatana4000 [link] [comments]"
-  },
-  {
-   "id": "f60b2b2e2c45",
-   "title": "Endless Wan 2.2 I2V (SVI 2 Pro) Updated to v3.0",
-   "link": "https://www.reddit.com/r/comfyui/comments/1v79wyy/endless_wan_22_i2v_svi_2_pro_updated_to_v30/",
-   "date": "2026-07-26T17:15:44.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://preview.redd.it/4pyyw6kxwlfh1.png?width=140&amp;height=34&amp;auto=webp&amp;s=696f09ed286ffb734cb62990924a42938c65eba1",
-   "excerpt": "Endless Wan 2.2 I2V (SVI 2 Pro) Due to popular demand: Independent LoRA for every video section.. A simple workflow to create Wan 2.2 videos of unlimited duration, using SVI 2.0 Pro. The workflow has a 5 sec \"Initial\" block and 8 more optional \"Extend\" blocks of 5 sec each that can create almost 45 sec of video (some frames are lost in the connection). If more seconds than the ~45 provided are nee"
-  },
-  {
-   "id": "285f46884ae7",
-   "title": "talhadon123/stable-video-diffusion-img2vid-xt",
-   "link": "https://huggingface.co/talhadon123/stable-video-diffusion-img2vid-xt",
-   "date": "2026-07-26T17:09:35.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, license:other, diffusers:StableVideoDiffusionPipeline, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 16,
-    "pipeline": "image-to-video"
-   }
   }
  ]
 }
