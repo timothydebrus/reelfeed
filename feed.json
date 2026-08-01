@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-31T23:17:13.395Z",
+ "updated": "2026-08-01T00:15:12.201Z",
  "items": [
   {
    "id": "e2b8f86303a2",
@@ -11,6 +11,32 @@
    "isModel": false,
    "thumb": "",
    "excerpt": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
+  },
+  {
+   "id": "1c315e4ca09a",
+   "title": "ROBOWIZARD",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vc7ojk/robowizard/",
+   "date": "2026-08-01T00:03:28.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/M3lhamcwcHJtbmdoMRmd-YRAQV7otQaObOMTa-2ApGRWmCT4Oj53YtWJHWzq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e1916ecf5a32e1eb6b214a0aec13803d7537c76",
+   "excerpt": "submitted by /u/Acceptable-Owl-2070 [link] [comments]"
+  },
+  {
+   "id": "d457c6d80dcd",
+   "title": "rockerBOO/wan2.2-I2V-A14B-nvfp4",
+   "link": "https://huggingface.co/rockerBOO/wan2.2-I2V-A14B-nvfp4",
+   "date": "2026-07-31T23:36:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, nvfp4, quantized, image-to-video, en, zh",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
   },
   {
    "id": "1b5f498b0bf8",
@@ -36,6 +62,22 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "79d9d8202f15",
+   "title": "tjmance/mommy",
+   "link": "https://huggingface.co/tjmance/mommy",
+   "date": "2026-07-31T22:50:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
    }
   },
   {
@@ -1158,7 +1200,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 12. Tags: lora, krea2, krea, text-to-image, comfyui, license:mit",
    "hf": {
-    "likes": 66,
+    "likes": 67,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -7339,42 +7381,6 @@
     "downloads": 16,
     "pipeline": "text-to-video"
    }
-  },
-  {
-   "id": "d7fad07d1b5a",
-   "title": "Poolrooms video i made🙂",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v7d3tt/poolrooms_video_i_made/",
-   "date": "2026-07-26T19:12:40.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OTU0djc3NWFpbWZoMcxjGhh1uvtooVh2JbiEnnBaws7B8qzNSegmKPgTTp99.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=2710ca37a6f30c0b8015932267e3cde8e172a22e",
-   "excerpt": "submitted by /u/Double-Rule1249 [link] [comments]"
-  },
-  {
-   "id": "a947ee87d9a4",
-   "title": "ARGaldor/npswoman1",
-   "link": "https://huggingface.co/ARGaldor/npswoman1",
-   "date": "2026-07-26T18:59:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "28f900e37d9a",
-   "title": "Árpád: The Conquerers Destiny - Episode 1",
-   "link": "https://www.reddit.com/r/aivideo/comments/1v7cbov/árpád_the_conquerers_destiny_episode_1/",
-   "date": "2026-07-26T18:44:16.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aTIxMGlteHFjbWZoMXRNJ1ydBhWbVFloRjZBcabzEAmilpq6oWdpSPAH8WZ1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=89f0a52b2142746f607dca0ff1d8ac4e2bbcf00c",
-   "excerpt": "submitted by /u/PannoniumFilms [link] [comments]"
   }
  ]
 }
