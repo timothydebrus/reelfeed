@@ -1,6 +1,102 @@
 {
- "updated": "2026-08-07T09:17:10.750Z",
+ "updated": "2026-08-07T11:11:39.119Z",
  "items": [
+  {
+   "id": "5f83cc7e56d6",
+   "title": "antocorr/MiniMax-H3-FL2VA-MLX-Serve-2bit-text-encoder",
+   "link": "https://huggingface.co/antocorr/MiniMax-H3-FL2VA-MLX-Serve-2bit-text-encoder",
+   "date": "2026-08-07T10:34:25.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, minimax_h3, mlx-serve, text-to-video, image-text-to-video, audio-video-generation",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "72f0e995d905",
+   "title": "BinLin203/GEAR-T2I-GPIC-1B",
+   "link": "https://huggingface.co/BinLin203/GEAR-T2I-GPIC-1B",
+   "date": "2026-08-07T10:29:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: GEAR, text-to-image, autoregressive, LlamaGen, image-generation, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3b2c4570d046",
+   "title": "maplewoohoooyeah/Wan2.2-I2V_General-NSFW-LoRA",
+   "link": "https://huggingface.co/maplewoohoooyeah/Wan2.2-I2V_General-NSFW-LoRA",
+   "date": "2026-08-07T10:22:28.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Wan-AI/Wan2.2-I2V-A14B, base_model:adapter:Wan-AI/Wan2.2-I2V-A14B",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "bae58c074e84",
+   "title": "guillekenzo/aros-a279230e-GildedRogue",
+   "link": "https://huggingface.co/guillekenzo/aros-a279230e-GildedRogue",
+   "date": "2026-08-07T10:03:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6c2c6fd46ce6",
+   "title": "noema-art/Lawb-flux2",
+   "link": "https://huggingface.co/noema-art/Lawb-flux2",
+   "date": "2026-08-07T09:29:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, flux2, text-to-image, character, base_model:black-forest-labs/FLUX.2-klein-base-4B, base_model:adapter:black-forest-labs/FLUX.2-klein-base-4B",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "145708e396c7",
+   "title": "margin2model/flux2-klein-4b-lora-test",
+   "link": "https://huggingface.co/margin2model/flux2-klein-4b-lora-test",
+   "date": "2026-08-07T09:22:56.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, lora, flux2-klein, text-to-image, base_model:black-forest-labs/FLUX.2-klein-base-4B",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "04dbcdd1e1d9",
    "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -21,6 +117,16 @@
    "cat": "community",
    "thumb": "",
    "excerpt": "I get that not everyone has the hardware or budget to run full-render workflows locally, and it's great people can generate video on lower-spec gear. But we need a flair for transparency when a post uses a heavily crippled setup. submitted by /u/gentleman339 [link] [comments]"
+  },
+  {
+   "id": "c41c5c9852c5",
+   "title": "BON APPETIT | A dinner with a twist",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vhussm/bon_appetit_a_dinner_with_a_twist/",
+   "date": "2026-08-07T08:27:13.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dXg1dTNlc3J4d2hoMQR7TEyAvkpQXR81FdFxbI4MTQCq3cll8s3X7l8ycrrD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8238d8ada558a019141588b652ca1f04d7e27a75",
+   "excerpt": "submitted by /u/matsam999 [link] [comments]"
   },
   {
    "id": "8cce877fe750",
@@ -1235,7 +1341,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 37. Tags: minimax-h3, lora, adapter, comfyui, pruned, pruned-model",
    "hf": {
-    "likes": 153,
+    "likes": 161,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -1694,7 +1800,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 54. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 347,
+    "likes": 363,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7425,101 +7531,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "6b97a01b3a68",
-   "title": "Forost/nsfw-grim-zimage-lora-merged-svd-r192-09-06",
-   "link": "https://huggingface.co/Forost/nsfw-grim-zimage-lora-merged-svd-r192-09-06",
-   "date": "2026-08-01T22:00:06.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: z-image, lora, text-to-image, not-for-all-audiences, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "f3ac6a797b00",
-   "title": "Forost/nsfw-grim-zimage-lora-merged-svd-r256-09-06",
-   "link": "https://huggingface.co/Forost/nsfw-grim-zimage-lora-merged-svd-r256-09-06",
-   "date": "2026-08-01T21:59:26.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: z-image, lora, text-to-image, not-for-all-audiences, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "97a4161b57f7",
-   "title": "Seedance 2,5 - 30 second fight scenes; This cost me 1700 credits 😭",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vcznez/seedance_25_30_second_fight_scenes_this_cost_me/",
-   "date": "2026-08-01T21:42:50.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/Mnc5bjU1MGkydWdoMb5TL-ErUN-o3JE7MPy3QF8N_jQg1Je4a9B7bX8ruNTp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1ae0882cd9a14025cafc6496b7ce25b0ff8e6b2",
-   "excerpt": "submitted by /u/SupperTime [link] [comments]"
-  },
-  {
-   "id": "33c280ad4046",
-   "title": "Knight’s Rest",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vczn3a/knights_rest/",
-   "date": "2026-08-01T21:42:29.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dXhoMHRqZW4ydWdoMbL_WQr0hAHs7Ph-76_-lFPLIx9rt-DT2XTfFIQpaSVv.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=31419176de0fb35189e787dc0f0124e1b10c61a4",
-   "excerpt": "submitted by /u/Sufficient-Ice8225 [link] [comments]"
-  },
-  {
-   "id": "6c0cde1c3893",
-   "title": "Forost/nsfw-grim-zimage-lora-merged-exact-09-06",
-   "link": "https://huggingface.co/Forost/nsfw-grim-zimage-lora-merged-exact-09-06",
-   "date": "2026-08-01T21:41:57.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: z-image, lora, text-to-image, not-for-all-audiences, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5d2c0f7809a9",
-   "title": "xixxix-HF/AiShinozaki_Krea2  (♥ 1)",
-   "link": "https://huggingface.co/xixxix-HF/AiShinozaki_Krea2",
-   "date": "2026-08-01T20:57:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "88ab0b7f770b",
-   "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-   "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-   "date": "2026-08-01T20:26:04.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
   }
  ]
 }
