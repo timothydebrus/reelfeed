@@ -1,6 +1,75 @@
 {
- "updated": "2026-08-08T10:53:26.744Z",
+ "updated": "2026-08-08T13:14:39.914Z",
  "items": [
+  {
+   "id": "f4592c49b835",
+   "title": "CaptainPollutionTV/True-Multiverse",
+   "link": "https://huggingface.co/CaptainPollutionTV/True-Multiverse",
+   "date": "2026-08-08T12:32:03.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, captainpollutiontv, snapperzaff",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "05b714f6425b",
+   "title": "6lockisha/B_size_slider",
+   "link": "https://huggingface.co/6lockisha/B_size_slider",
+   "date": "2026-08-08T12:20:56.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d3cb8440ab54",
+   "title": "The Ancient Aliens Awakening by SeN Art",
+   "link": "https://www.reddit.com/r/aivideo/comments/1viu5mb/the_ancient_aliens_awakening_by_sen_art/",
+   "date": "2026-08-08T11:59:25.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZGUyZnpoeHo0NWloMVPo_dUOOdbuIS8WfZ96cOC3uzWpRPtTbto3nDs36rMi.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbbccbfabbcc186de3e378a8f8e985aa56f5160f",
+   "excerpt": "submitted by /u/SeN_Art [link] [comments]"
+  },
+  {
+   "id": "2758446f6cda",
+   "title": "mramazan/krea2-realistic-influencer-lora",
+   "link": "https://huggingface.co/mramazan/krea2-realistic-influencer-lora",
+   "date": "2026-08-08T11:16:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: LoRa, Krea2, Character, text-to-image, en, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5dbf55209327",
+   "title": "Moto-R, Spec Ad [Minimax H3 Comfy UI]",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vit57c/motor_spec_ad_minimax_h3_comfy_ui/",
+   "date": "2026-08-08T11:05:25.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/Mm00bmlwMzl2NGloMas7o_vJzWTrCnaYrawYekU1v7MHu2z_Cm4XQAl40g5H.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb5fa65dcb97d0859a6b18de094acd642bdf7800",
+   "excerpt": "submitted by /u/JL_Films [link] [comments]"
+  },
   {
    "id": "357027e45a4f",
    "title": "liming518/RodVer2Flux",
@@ -118,7 +187,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
    "hf": {
-    "likes": 5,
+    "likes": 6,
     "downloads": 0,
     "pipeline": "text-to-image"
    }
@@ -1772,7 +1841,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 75. Tags: diffusers, t2v, i2v, r2v, image-to-video, en",
    "hf": {
-    "likes": 168,
+    "likes": 175,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -3390,7 +3459,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 37. Tags: minimax-h3, lora, adapter, comfyui, pruned, pruned-model",
    "hf": {
-    "likes": 191,
+    "likes": 192,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -3849,7 +3918,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 54. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 447,
+    "likes": 453,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4083,7 +4152,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 104. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
    "hf": {
-    "likes": 136,
+    "likes": 142,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7352,80 +7421,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "421f5271016b",
-   "title": "Dekonstruktio/krea-2-noir-nouveau-ornate-lora",
-   "link": "https://huggingface.co/Dekonstruktio/krea-2-noir-nouveau-ornate-lora",
-   "date": "2026-08-03T16:07:06.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, krea, krea-2, fal-ai",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "74e8c073b90a",
-   "title": "Dekonstruktio/Krea-R-Turbo",
-   "link": "https://huggingface.co/Dekonstruktio/Krea-R-Turbo",
-   "date": "2026-08-03T16:06:22.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, krea-2, text-to-image, quantized, lora-merge",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "fd4dd76f834a",
-   "title": "Dekonstruktio/RebelMidjourney_LoRA_Collection",
-   "link": "https://huggingface.co/Dekonstruktio/RebelMidjourney_LoRA_Collection",
-   "date": "2026-08-03T16:05:29.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, license:apache-2.0, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "f9ef4660756c",
-   "title": "Dekonstruktio/RebelReal_LoRA_Collection",
-   "link": "https://huggingface.co/Dekonstruktio/RebelReal_LoRA_Collection",
-   "date": "2026-08-03T16:04:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, license:apache-2.0, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4aacfbc0c1c0",
-   "title": "Noah's Ark Innit",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vehl1a/noahs_ark_innit/",
-   "date": "2026-08-03T16:01:57.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OG1ncnFjMXBuNmhoMd41TzpF_PpJAYUS3jtadRSwpRH8jbFpsgXNf2_JodVl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a36bf0d98e4deded748ab922173cb4aa74987fab",
-   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
   }
  ]
 }
