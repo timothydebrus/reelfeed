@@ -1,6 +1,84 @@
 {
- "updated": "2026-08-08T19:00:45.423Z",
+ "updated": "2026-08-08T20:50:20.795Z",
  "items": [
+  {
+   "id": "d598b9856f3d",
+   "title": "Entropy Universe",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vj5pfc/entropy_universe/",
+   "date": "2026-08-08T20:07:08.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/c2VvOW9scTlqN2loMdt3qTh0p9EEAGaz2rPyaR4e8OxGD7ALvf4C6qcTUUQE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=960d147b2e89b4446437db798344353f82d864f0",
+   "excerpt": "submitted by /u/kaiwai_81 [link] [comments]"
+  },
+  {
+   "id": "dabfb6360642",
+   "title": "jayseanbrambila/MiniMax-H3-AI-Video-Generator",
+   "link": "https://huggingface.co/jayseanbrambila/MiniMax-H3-AI-Video-Generator",
+   "date": "2026-08-08T20:03:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, minimax3, minimax-h3-video, ai-video-generator, video-generator, video-generation",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "878a293ed0ec",
+   "title": "jiangtian-01/LTX-2.3",
+   "link": "https://huggingface.co/jiangtian-01/LTX-2.3",
+   "date": "2026-08-08T19:45:51.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "61f42ecb8f77",
+   "title": "OpenAI acquires presentation startup NextSlide",
+   "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+   "date": "2026-08-08T19:41:13.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "NextSlide says its team members are now working on ChatGPT."
+  },
+  {
+   "id": "40a79807a7fc",
+   "title": "Praelatus/Sharptosharp_Style",
+   "link": "https://huggingface.co/Praelatus/Sharptosharp_Style",
+   "date": "2026-08-08T19:36:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:circlestone-labs/Anima, base_model:adapter:circlestone-labs/Anima",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "247af63b0694",
+   "title": "Elder Schools Youngster",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vj467f/elder_schools_youngster/",
+   "date": "2026-08-08T19:02:46.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y25nOGQ1YmQ4N2loMc3etZeWdRwiyAJSdYLaRZfd__EbjEa6_HOy1JRiH9x1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c3ba77a98311bc3c6fad3fb77f8acc6960a0d3bf",
+   "excerpt": "submitted by /u/skinnybatman [link] [comments]"
+  },
   {
    "id": "b4830f5e4eea",
    "title": "userKu/valentina-flux-lora",
@@ -2371,7 +2449,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 75. Tags: diffusers, t2v, i2v, r2v, image-to-video, en",
    "hf": {
-    "likes": 187,
+    "likes": 194,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -3989,7 +4067,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 37. Tags: minimax-h3, lora, adapter, comfyui, pruned, pruned-model",
    "hf": {
-    "likes": 199,
+    "likes": 201,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4448,7 +4526,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 54. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 470,
+    "likes": 476,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4682,7 +4760,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 104. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
    "hf": {
-    "likes": 162,
+    "likes": 167,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7393,74 +7471,6 @@
     "downloads": 27,
     "pipeline": "image-to-video"
    }
-  },
-  {
-   "id": "70c47c76fc6c",
-   "title": "Seamless patterns aren't exactly seamless, are they?",
-   "link": "https://www.reddit.com/r/midjourney/comments/1veupw3/seamless_patterns_arent_exactly_seamless_are_they/",
-   "date": "2026-08-04T00:18:22.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/tswmap9x39hh1.png?width=140&amp;height=81&amp;auto=webp&amp;s=253e30b52d99b8b8bfc8b7c1748aa5d636a1a240",
-   "excerpt": "Did some pattern generating in April with no problem. Did a few more last night, and I started seeing these lines. I upscaled one and dragged it into photoshop thinking it might just be a new MJ \"feature\" to see the repeat... nope. The edges really are lighter in every image. Anyone know what happened? submitted by /u/Aggravating-Square10 [link] [comments]"
-  },
-  {
-   "id": "e2b8f86303a2",
-   "title": "Disrupting a Criminal Scam Operation",
-   "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-   "date": "2026-08-04T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes."
-  },
-  {
-   "id": "26f5b739d7f8",
-   "title": "New ways to learn and teach with ChatGPT Work and Codex",
-   "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-   "date": "2026-08-04T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
-  },
-  {
-   "id": "8e6013752b77",
-   "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-   "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-   "date": "2026-08-03T23:19:50.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
-  },
-  {
-   "id": "6a63c53d3d17",
-   "title": "molbal/MiniMax-H3-GGUF  (♥ 7)",
-   "link": "https://huggingface.co/molbal/MiniMax-H3-GGUF",
-   "date": "2026-08-03T22:39:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 2546, likes: 7. Tags: gguf, comfyui, text-to-video, image-to-video, image-text-to-video, video-to-video",
-   "hf": {
-    "likes": 19,
-    "downloads": 2546,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "4ccb4b549066",
-   "title": "The lone Rider",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vert4e/the_lone_rider/",
-   "date": "2026-08-03T22:16:23.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YmtjZHp2dWlpOGhoMVADGfPE0qB8Aqx0aVpj-LSOprrp5MpcvpLB9ju4lzYr.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=12d089595911dbed7db0cdd5b289b57cb6a9005c",
-   "excerpt": "submitted by /u/Sufficient-Ice8225 [link] [comments]"
   }
  ]
 }
