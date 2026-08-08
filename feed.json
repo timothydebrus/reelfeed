@@ -1,6 +1,38 @@
 {
- "updated": "2026-08-08T07:17:27.748Z",
+ "updated": "2026-08-08T09:56:31.045Z",
  "items": [
+  {
+   "id": "bd7ffe5770f5",
+   "title": "lynaNSFW/Krea2turboNSFWAIO",
+   "link": "https://huggingface.co/lynaNSFW/Krea2turboNSFWAIO",
+   "date": "2026-08-08T07:55:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "05004b5ca969",
+   "title": "Aoki12/controlnet-openpose-sdxl-1.0",
+   "link": "https://huggingface.co/Aoki12/controlnet-openpose-sdxl-1.0",
+   "date": "2026-08-08T07:23:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, openpose, controlnet, controlnet-openpose-sdxl-1.0, text_to_image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "b4f61fc2b87f",
    "title": "ChinmayeeAwale/deberta-large-v3-smart-mcq-solver",
@@ -28,7 +60,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
    "hf": {
-    "likes": 1,
+    "likes": 4,
     "downloads": 0,
     "pipeline": "text-to-image"
    }
@@ -101,6 +133,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "0483a9c3ac7e",
+   "title": "Zanita Dark - Phares Eteints (Zanita Kraklëin)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vio2yr/zanita_dark_phares_eteints_zanita_kraklëin/",
+   "date": "2026-08-08T06:03:04.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/b2diZzUwN2NkM2loMZhWhKkaxACfZbXI7LJbECBHYFsL5J1idlxh7_JWXVlC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=95b93155dd24ffccbd43288a29882a5d298bacc0",
+   "excerpt": "submitted by /u/ovninoir [link] [comments]"
   },
   {
    "id": "93782cc09163",
@@ -341,6 +383,22 @@
    }
   },
   {
+   "id": "d311b948c899",
+   "title": "Dekonstruktio/4",
+   "link": "https://huggingface.co/Dekonstruktio/4",
+   "date": "2026-08-08T00:36:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, krea, krea-2, fal-ai",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
    "id": "6d83e03374c9",
    "title": "TOC(May1)At this point, isn't it more like a fan meeting than a hospital? lol",
    "link": "https://www.reddit.com/r/aivideo/comments/1vihaqb/tocmay1at_this_point_isnt_it_more_like_a_fan/",
@@ -560,7 +618,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, comfyui",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1656,7 +1714,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 75. Tags: diffusers, t2v, i2v, r2v, image-to-video, en",
    "hf": {
-    "likes": 153,
+    "likes": 168,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -3274,7 +3332,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 37. Tags: minimax-h3, lora, adapter, comfyui, pruned, pruned-model",
    "hf": {
-    "likes": 189,
+    "likes": 191,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -3439,7 +3497,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, base_model:Wan-AI/Wan2.2-S2V-14B, base_model:finetune:Wan-AI/Wan2.2-S2V-14B, license:apache-2.0",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 5,
     "pipeline": "image-to-video"
    }
   },
@@ -3733,7 +3791,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 54. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 438,
+    "likes": 444,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -3967,7 +4025,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 104. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
    "hf": {
-    "likes": 129,
+    "likes": 135,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4844,7 +4902,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: gguf, video, audio, text-to-video, image-to-video, comfyui",
    "hf": {
     "likes": 2,
-    "downloads": 503,
+    "downloads": 1846,
     "pipeline": "image-to-video"
    }
   },
@@ -6551,7 +6609,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 7. Tags: safetensors, text-to-image, diffusion, rectified-flow, mmdit, tiny",
    "hf": {
     "likes": 15,
-    "downloads": 151,
+    "downloads": 1214,
     "pipeline": "trending image"
    }
   },
@@ -7363,58 +7421,6 @@
    "isModel": false,
    "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp",
    "excerpt": "Kaggle’s AI Agents Intensive with Google brought learners together in a no-cost course to build and deploy the next frontier of AI."
-  },
-  {
-   "id": "8ff525c2acb6",
-   "title": "Cursed Infomercials",
-   "link": "https://www.reddit.com/r/aivideo/comments/1veepam/cursed_infomercials/",
-   "date": "2026-08-03T14:16:44.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZzB1bnRidHUzNmhoMW4Q2xBr8RSn2_3ODv-kKwffixRPb7SPdXCWuLq10-yy.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5cd39b029b122bf4b8a4adce648c318e2e83fdae",
-   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
-  },
-  {
-   "id": "d82b49c09d00",
-   "title": "The Truth is Out There",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vecrwu/the_truth_is_out_there/",
-   "date": "2026-08-03T13:00:52.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cXdwZWtkaGRyNWhoMdEaUaTyGIbGXyOewZKakv6e1lYFmX7JNAjPV8F7YFCI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=86fa6da19d3fceb0f27eb3353b2a45688f933965",
-   "excerpt": "submitted by /u/Brianshoe [link] [comments]"
-  },
-  {
-   "id": "eac6cf1fc54e",
-   "title": "dotexec/MiniMax-H3-T2V-NVFP4",
-   "link": "https://huggingface.co/dotexec/MiniMax-H3-T2V-NVFP4",
-   "date": "2026-08-03T12:44:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, nvfp4, quantized, video, text-to-video, minimax-h3",
-   "hf": {
-    "likes": 3,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "2be32e6a2957",
-   "title": "ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bit  (♥ 2)",
-   "link": "https://huggingface.co/ddalcu/MiniMax-H3-FL2VA-MLX-Serve-4bit",
-   "date": "2026-08-03T12:39:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: mlx, minimax_h3, mlx-serve, text-to-video, image-text-to-video, audio-video-generation",
-   "hf": {
-    "likes": 4,
-    "downloads": 273,
-    "pipeline": "text-to-video"
-   }
   }
  ]
 }
