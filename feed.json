@@ -1,6 +1,86 @@
 {
- "updated": "2026-08-08T04:30:19.718Z",
+ "updated": "2026-08-08T05:58:41.503Z",
  "items": [
+  {
+   "id": "4b4c5a7497b0",
+   "title": "lessxc/PinkCherry_MiniMax-H3-backup",
+   "link": "https://huggingface.co/lessxc/PinkCherry_MiniMax-H3-backup",
+   "date": "2026-08-08T05:33:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "6af70e80e850",
+   "title": "First Gen on Flux 3: Found Footage Analog Horror",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vindnl/first_gen_on_flux_3_found_footage_analog_horror/",
+   "date": "2026-08-08T05:23:29.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/enlpYnpueGI2M2loMew_rgLZnQLHL7ZH6VUkH_cGl8l8m660b6C1ZXgVQnED.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a8ba351d34abc4a806ce87472325eecdb3f6d3c",
+   "excerpt": "submitted by /u/VIV-AF-D [link] [comments]"
+  },
+  {
+   "id": "10ea511b3129",
+   "title": "v0.31.1",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.31.1",
+   "date": "2026-08-08T05:04:30.000Z",
+   "source": "ComfyUI Releases",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
+   "excerpt": "ComfyUI v0.31.1"
+  },
+  {
+   "id": "e0e100d38445",
+   "title": "Maybe I misremembered my childhood",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vimwk4/maybe_i_misremembered_my_childhood/",
+   "date": "2026-08-08T04:58:04.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cTBhbWFxNGwxM2loMaTcbkHhNapmrYnO8mVu0FdoENjNDZJDOGD5550jfwI2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d607661a1472e8bd4810bc336e4960531caab44",
+   "excerpt": "submitted by /u/dangerism [link] [comments]"
+  },
+  {
+   "id": "eadf434f4177",
+   "title": "whymustyouknow/jazmine",
+   "link": "https://huggingface.co/whymustyouknow/jazmine",
+   "date": "2026-08-08T04:57:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a4bc922ade93",
+   "title": "sandaisnot/PinkCherry_MiniMax-H3",
+   "link": "https://huggingface.co/sandaisnot/PinkCherry_MiniMax-H3",
+   "date": "2026-08-08T04:41:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "3d087df279b3",
    "title": "disguisequence/PinkCherry_MiniMax-H3",
@@ -11,6 +91,22 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "0a43275a6436",
+   "title": "rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfy",
+   "link": "https://huggingface.co/rzgar/minimax_h3_fl2v_lightx2v_4step_int8-convrot_comfy",
+   "date": "2026-08-08T04:00:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-video, text-to-audio, audio-video, lora, minimax-h3",
    "hf": {
     "likes": 0,
     "downloads": 0,
@@ -1449,7 +1545,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 75. Tags: diffusers, t2v, i2v, r2v, image-to-video, en",
    "hf": {
-    "likes": 146,
+    "likes": 147,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -3067,7 +3163,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 37. Tags: minimax-h3, lora, adapter, comfyui, pruned, pruned-model",
    "hf": {
-    "likes": 185,
+    "likes": 187,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -3526,7 +3622,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 54. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 430,
+    "likes": 434,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -3760,7 +3856,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 104. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
    "hf": {
-    "likes": 122,
+    "likes": 127,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -5997,7 +6093,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, workflow, video, audio, text-to-video, minimax-h3",
    "hf": {
-    "likes": 39,
+    "likes": 40,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7294,88 +7390,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/aXVwNjdxNWp5NGhoMT8DpuHq5sB1ZGGRer3MknMkB5_LBQWYGr0kIMjAZ09E.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=240610eed93258b92dfe2d387639364a25f76919",
    "excerpt": "submitted by /u/International_Bed77 [link] [comments]"
-  },
-  {
-   "id": "2736eafb39ac",
-   "title": "guillekenzo/aros-15a4f146-FeralZenith",
-   "link": "https://huggingface.co/guillekenzo/aros-15a4f146-FeralZenith",
-   "date": "2026-08-03T10:04:35.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a7754f051081",
-   "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-   "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-   "date": "2026-08-03T10:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
-  },
-  {
-   "id": "75c45a47b23e",
-   "title": "Indie Pop - Automatic Brain",
-   "link": "https://www.reddit.com/r/aivideo/comments/1ve920v/indie_pop_automatic_brain/",
-   "date": "2026-08-03T09:56:57.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NXM1bDdqdnh0NGhoMertgBRV22u_XLNpqPXTTMO0gnC9KUaAeFTj-5mY55RP.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c96bbf2a50b3cb1a75d00be2ec2f772566d1e758",
-   "excerpt": "submitted by /u/Trick_Bid5161 [link] [comments]"
-  },
-  {
-   "id": "cacb2d5622a3",
-   "title": "Ava2000/Gnsisir_Illustrious",
-   "link": "https://huggingface.co/Ava2000/Gnsisir_Illustrious",
-   "date": "2026-08-03T09:54:14.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:calcuis/illustrious, base_model:adapter:calcuis/illustrious",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "87b32b529f8a",
-   "title": "Conan the librarian - remake",
-   "link": "https://www.reddit.com/r/aivideo/comments/1ve84h3/conan_the_librarian_remake/",
-   "date": "2026-08-03T09:03:12.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/Tucy-did-it [link] [comments]"
-  },
-  {
-   "id": "8235f9197fef",
-   "title": "Library of Mystory indie animated film teaser what do you think?",
-   "link": "https://www.reddit.com/r/aivideo/comments/1ve80pc/library_of_mystory_indie_animated_film_teaser/",
-   "date": "2026-08-03T08:57:29.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dnJ0MnVnZGJqNGhoMakdYqUA_hJJNa_fZshnGxVbA_yjjfvKTQCmHO8IhIlp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=400049da08f5ef26663f8ea872caecb0e5e69040",
-   "excerpt": "submitted by /u/MovitoirStudios [link] [comments]"
-  },
-  {
-   "id": "24e8e9f8382e",
-   "title": "i am making adventure time style music videos , what do you think guys ?",
-   "link": "https://www.reddit.com/r/aivideo/comments/1ve7vh8/i_am_making_adventure_time_style_music_videos/",
-   "date": "2026-08-03T08:48:49.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eXNieXg2MmVpNGhoMWuNYIOtii_n4k-V6pnleO4BJ9DafnRKVOkBFFnI4ZIy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0c7cfc713611dc59520d0bc11f62adfe6df49472",
-   "excerpt": "submitted by /u/Signal_Copy_2625 [link] [comments]"
   }
  ]
 }
