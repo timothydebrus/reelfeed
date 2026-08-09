@@ -1,6 +1,52 @@
 {
- "updated": "2026-08-09T15:48:48.440Z",
+ "updated": "2026-08-09T16:56:46.950Z",
  "items": [
+  {
+   "id": "f1947846f3e5",
+   "title": "The Ash Field (1976) - A Lost Fantasy Epic",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vjutbl/the_ash_field_1976_a_lost_fantasy_epic/",
+   "date": "2026-08-09T16:50:06.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YjVmd3pzeG5wZGloMdOHPdupVJPwOS4aolfgc8Zzx6HXtUyJoRclqXlVwN0-.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1090e2b6f94d04f2e7d32c6e3a14c882fb7b71a",
+   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
+  },
+  {
+   "id": "fc8582d88feb",
+   "title": "Dragon Ride POV",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vjujzf/dragon_ride_pov/",
+   "date": "2026-08-09T16:39:50.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bmd3cHlydXVuZGloMRHMwWFV3og_Aw-GETHceYXgyJXJJqfoT2dzE_av_9sB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ae52835c170f14fe95caf613ed87154e0cd478a",
+   "excerpt": "submitted by /u/Goku_Nuko [link] [comments]"
+  },
+  {
+   "id": "9363ead538e1",
+   "title": "BennyDaBall/MiniMax-H3-Workflows",
+   "link": "https://huggingface.co/BennyDaBall/MiniMax-H3-Workflows",
+   "date": "2026-08-09T16:22:16.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, workflow, minimax-h3, text-to-video, video, audio",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "a53b3eda6624",
+   "title": "Tales From The Dirt",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vjtofn/tales_from_the_dirt/",
+   "date": "2026-08-09T16:04:57.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OWh0a202a2NoZGloMeH2dtX3XtHg_CPidtCnybHZAXWD_Vs7ATXYgRQL49N6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3b1c1dba778921bd7428f2d5c238dba37f8ab65",
+   "excerpt": "submitted by /u/Express-Pattern-8839 [link] [comments]"
+  },
   {
    "id": "dbe445eb26cc",
    "title": "silveroxides/Kroma-Quant",
@@ -243,6 +289,22 @@
    "excerpt": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models."
   },
   {
+   "id": "169645f2e202",
+   "title": "rzgar/minimax_h3_fl2va_fp8_4steps",
+   "link": "https://huggingface.co/rzgar/minimax_h3_fl2va_fp8_4steps",
+   "date": "2026-08-09T14:25:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-video, image-to-video, image-text-to-video, video-to-video, text-to-audio-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
    "id": "b564ae4fd49c",
    "title": "Playing Charades With Mom",
    "link": "https://www.reddit.com/r/aivideo/comments/1vjr5cj/playing_charades_with_mom/",
@@ -445,7 +507,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, text-to-video, qwen3-vl, text-encoder, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 15,
+    "likes": 22,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -5522,7 +5584,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 54. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 531,
+    "likes": 535,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -5756,7 +5818,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 104. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
    "hf": {
-    "likes": 216,
+    "likes": 219,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7470,80 +7532,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "d7f5204986e4",
-   "title": "lloydchristmas1231/cailbo-40",
-   "link": "https://huggingface.co/lloydchristmas1231/cailbo-40",
-   "date": "2026-08-04T17:24:22.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a44199f7ee00",
-   "title": "Mopsvogel/videogenerator",
-   "link": "https://huggingface.co/Mopsvogel/videogenerator",
-   "date": "2026-08-04T17:10:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, text-to-image, lora, fal, base_model:black-forest-labs/FLUX.1-dev",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ba801e49a83c",
-   "title": "Omnico/Flux2Klein_4B_diff_loras",
-   "link": "https://huggingface.co/Omnico/Flux2Klein_4B_diff_loras",
-   "date": "2026-08-04T16:59:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.2-klein-4B, base_model:adapter:black-forest-labs/FLUX.2-klein-4B",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9d42db4e4949",
-   "title": "FIIS/elisaplum",
-   "link": "https://huggingface.co/FIIS/elisaplum",
-   "date": "2026-08-04T16:49:59.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d51c02f961a0",
-   "title": "DJI Introduces New Mic Mini 2S Wireless Microphone System With 32-Bit Float Internal Recording",
-   "link": "https://nofilmschool.com/dji-mic-mini-2s",
-   "date": "2026-08-04T16:44:31.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/dji-mic-mini-2s.jpg?id=67571767&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "We know it’s tough covering the news of new filmmaking and video production gear and products that sound exciting, or at least like good competition to add to a healthy marketplace to keep innovation high and prices down, but likely aren’t going to be available in the United States. Such is the case with the latest news from DJI, as the company has unveiled its new Mic Mini 2S wireless microphone "
   }
  ]
 }
