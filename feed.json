@@ -1,6 +1,94 @@
 {
- "updated": "2026-08-09T09:59:15.220Z",
+ "updated": "2026-08-09T13:17:44.138Z",
  "items": [
+  {
+   "id": "de27c75ce7a8",
+   "title": "xuenchang/KOTONE_LORA1",
+   "link": "https://huggingface.co/xuenchang/KOTONE_LORA1",
+   "date": "2026-08-09T12:50:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "46364b4d3167",
+   "title": "He really bikes reality slows",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vjosfl/he_really_bikes_reality_slows/",
+   "date": "2026-08-09T12:36:05.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cGl1Zm0xcmdnY2loMazGEFb1qatD5x9iuBkWIivhVL_gVY5aNUkxUVynqIOy.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=24512b7750c1b1eb338248f9e43434e4752f52b3",
+   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
+  },
+  {
+   "id": "8ecf914ac632",
+   "title": "LkMani/Krea2-Onyx-Turbo-mlx-4bit-legacy",
+   "link": "https://huggingface.co/LkMani/Krea2-Onyx-Turbo-mlx-4bit-legacy",
+   "date": "2026-08-09T12:32:37.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, mlx, diffusion, onyx, krea-2",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "855fb014a714",
+   "title": "Paradise Lost",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vjomn7/paradise_lost/",
+   "date": "2026-08-09T12:28:00.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OW5ibHl3cHhlY2loMVA9ehonICxeAyZWuvzferCN3H1aTAJqLA3rSO_fAcX_.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c213994819d60e39420939e162e8057d96f85302",
+   "excerpt": "submitted by /u/Optimal_Room_7917 [link] [comments]"
+  },
+  {
+   "id": "094cd3baf427",
+   "title": "AI Conan eats fried chicken and crashes his private jet",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vjoltj/ai_conan_eats_fried_chicken_and_crashes_his/",
+   "date": "2026-08-09T12:26:53.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y3c0ajh5bnJlY2loMf33yPao0Czv4R-gJ0F-DLxamgsxiWhl1eqNfeBI348C.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf5938ba650da89a40343e2cb09b508111109850",
+   "excerpt": "submitted by /u/GormtheOld25 [link] [comments]"
+  },
+  {
+   "id": "acf86426dbc3",
+   "title": "AI detectors are creating a new era of distrust",
+   "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+   "date": "2026-08-09T12:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268680_AI_detection_CVirginia-.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Long before ChatGPT became a thing, educators and editors frequently used anti-plagiarism tools to see if writers were being"
+  },
+  {
+   "id": "6d526235e434",
+   "title": "ASuka41/LengChun",
+   "link": "https://huggingface.co/ASuka41/LengChun",
+   "date": "2026-08-09T10:16:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "e0b56cc4b323",
    "title": "vantrucnhu2109/Krea2LoraVTNz3",
@@ -28,9 +116,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, text-to-video, qwen3-vl, text-encoder, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 0,
+    "likes": 8,
     "downloads": 0,
-    "pipeline": "text-to-video"
+    "pipeline": "trending video"
    }
   },
   {
@@ -1817,7 +1905,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-video, image-to-video, image-text-to-video, video-to-video, text-to-audio-video",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 5,
     "pipeline": "image-to-video"
    }
@@ -4646,7 +4734,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 37. Tags: minimax-h3, lora, adapter, comfyui, pruned, pruned-model",
    "hf": {
-    "likes": 221,
+    "likes": 222,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -5105,7 +5193,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 54. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 507,
+    "likes": 518,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -5339,7 +5427,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 104. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
    "hf": {
-    "likes": 193,
+    "likes": 205,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7433,85 +7521,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "1e84990c2791",
-   "title": "Big Water Creature",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vfaup4/big_water_creature/",
-   "date": "2026-08-04T13:47:15.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/8xkj4dpk4dhh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=310b86124ce2a0a4cbc0dc0d379981247692c89a",
-   "excerpt": "submitted by /u/Sharp_Alternative845 [link] [comments]"
-  },
-  {
-   "id": "f999ae2433db",
-   "title": "Made a music video for an Indian metal band called Bhayanak Maut - Midjourney+seedance2",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfaizr/made_a_music_video_for_an_indian_metal_band/",
-   "date": "2026-08-04T13:34:19.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/azd2MnpwMDMxZGhoMcTbOCQzjSxeKkYWfhV22gStU8jcISAG_mvgetng_YvS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=246d6822a1de9529683c333bbdf048dadbdfcede",
-   "excerpt": "submitted by /u/No-Accountant-3705 [link] [comments]"
-  },
-  {
-   "id": "6dbe3c2254a2",
-   "title": "Built a 3min09 episode of my AI series in 24h at a hackathon - here's Ep 6 of WARDEN",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfa2ca/built_a_3min09_episode_of_my_ai_series_in_24h_at/",
-   "date": "2026-08-04T13:15:42.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZnV0bGIwZ2N5Y2hoMf_wtDJami20e9UGlPs23R-U-X43K_RCx4kbw8moB3Yd.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=612ed21d13f0b88e1d7060d84076bbd10e495be8",
-   "excerpt": "submitted by /u/Electrical-Shop-2076 [link] [comments]"
-  },
-  {
-   "id": "d5f472dc774a",
-   "title": "LocalMuseAI/coreml-perfectdeliberate-v10-6bit",
-   "link": "https://huggingface.co/LocalMuseAI/coreml-perfectdeliberate-v10-6bit",
-   "date": "2026-08-04T13:15:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: coreml, stable-diffusion-xl, illustrious, localmuse, text-to-image, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4a989d324628",
-   "title": "The Paineaters: A seedance 2-5 short in one take!",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vf9x0m/the_paineaters_a_seedance_25_short_in_one_take/",
-   "date": "2026-08-04T13:09:43.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/bDZwbnRreHV4Y2hoMRVCS6O5sY6RxrI8zQ13tJSy5zjocaWBqKfZgq9nxpy9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=372adae4f91c52ae74f52662ac54235759631735",
-   "excerpt": "submitted by /u/Internal_Ad_4036 [link] [comments]"
-  },
-  {
-   "id": "34a7f3824c27",
-   "title": "The latest AI news we announced in July 2026",
-   "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-   "date": "2026-08-04T13:00:00.000Z",
-   "source": "Google AI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
-   "excerpt": "Here are Google’s latest AI updates from July 2026"
-  },
-  {
-   "id": "b79c480364b4",
-   "title": "Is the future of data centers portable? Runware builds a pod to find out",
-   "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-   "date": "2026-08-04T13:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
   }
  ]
 }
