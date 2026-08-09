@@ -1,6 +1,42 @@
 {
- "updated": "2026-08-09T19:03:26.055Z",
+ "updated": "2026-08-09T19:50:13.142Z",
  "items": [
+  {
+   "id": "700247b13669",
+   "title": "Anthropic is turning Claude Code’s auto mode on by default",
+   "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+   "date": "2026-08-09T19:20:32.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Programming with Claude Code will soon require even less human oversight."
+  },
+  {
+   "id": "83e2e7460fa8",
+   "title": "sSANCHESs/PinkCherry_MiniMax-H3",
+   "link": "https://huggingface.co/sSANCHESs/PinkCherry_MiniMax-H3",
+   "date": "2026-08-09T19:13:15.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "95ba105fba59",
+   "title": "Agent Monarch | Jailbreak Final Eps",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vjyevi/agent_monarch_jailbreak_final_eps/",
+   "date": "2026-08-09T19:09:55.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/c242aGxtYTNlZWloMRbwXgG14_Oqhhq9T1ocXBf8jRbr5h0mPv7CvPxHDibp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e9a00883496e24323f1117f27bf167dd6087a00",
+   "excerpt": "submitted by /u/MKVLTA [link] [comments]"
+  },
   {
    "id": "cc4eb79d282a",
    "title": "MINIMAX H3",
@@ -85,6 +121,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/eDNjbWI0NnEzZWloMeKmbVlzjZUUUuyY4VNhJSIDOfh4QMfeL4tx_xQr62Ds.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=61067c057d2ff299728a057d7c2c3b3fc6ada3b9",
    "excerpt": "submitted by /u/Sufficient_Flow_415 [link] [comments]"
+  },
+  {
+   "id": "2451cfa78693",
+   "title": "AI is bad for the environment",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vjwk2i/ai_is_bad_for_the_environment/",
+   "date": "2026-08-09T17:58:46.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/b2hnaXBxZXcxZWloMb7r1f850inZumdqvFyu3zI-DhiAqOMsi0O_G1nNZ8pK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8daef8b9226ef95c06d79f27abd85351131d1ee1",
+   "excerpt": "submitted by /u/RackBlanger [link] [comments]"
   },
   {
    "id": "a863f807bdfa",
@@ -5955,7 +6001,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 104. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
    "hf": {
-    "likes": 221,
+    "likes": 222,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7498,58 +7544,6 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
-  },
-  {
-   "id": "5bb9164ddca0",
-   "title": "Dekonstruktio/krea-2-noir-pulp-paperback-lora",
-   "link": "https://huggingface.co/Dekonstruktio/krea-2-noir-pulp-paperback-lora",
-   "date": "2026-08-04T19:22:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, krea, krea-2, fal-ai",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ad7229e003e7",
-   "title": "singelette/samanthakrea2lora",
-   "link": "https://huggingface.co/singelette/samanthakrea2lora",
-   "date": "2026-08-04T19:21:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a108c3f4e1ac",
-   "title": "Prototype (the game) but as a live-action movie part 2",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfjwzo/prototype_the_game_but_as_a_liveaction_movie_part/",
-   "date": "2026-08-04T19:12:18.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NTdnMHJoMmpxZWhoMf6PaVM2eZ0QtSK-uHM8pDOxxsXHiTut3kULoS-WyT-E.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=19bcc590eb5404b40e433ac1c30da4edb66c1e44",
-   "excerpt": "submitted by /u/pinguluk [link] [comments]"
-  },
-  {
-   "id": "d6aaabeb53df",
-   "title": "Watch One of the First Short Films Shot on the HONOR Portable Cinema Camera Robot Phone",
-   "link": "https://nofilmschool.com/honor-robot-phone-demo",
-   "date": "2026-08-04T19:05:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/honor-robot-phone-demo.jpg?id=67571844&width=1245&height=700&coordinates=0%2C0%2C0%2C1",
-   "excerpt": "One of the more unique cameras to be announced, and now demoed, in the past few years, the HONOR Robot Phone is a high-concept gimbal-styled cinema camera that comes out of a partnership with ARRI. The idea is audacious to say the least, perhaps incredulous to say the most, but overall quite intriguing as the goal is to bring together some state-of-the-art camera and robot technologies with ARRI’s"
   }
  ]
 }
