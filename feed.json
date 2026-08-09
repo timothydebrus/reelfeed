@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-09T16:56:46.950Z",
+ "updated": "2026-08-09T17:49:30.342Z",
  "items": [
+  {
+   "id": "a863f807bdfa",
+   "title": "akshan-main/tiny-wan22-vace-modular-pipe",
+   "link": "https://huggingface.co/akshan-main/tiny-wan22-vace-modular-pipe",
+   "date": "2026-08-09T17:34:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, modular-diffusers, wan-vace, text-to-image, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b5b2450af62f",
+   "title": "perpetual3x/Female-Bondage-NSFW-LoRA",
+   "link": "https://huggingface.co/perpetual3x/Female-Bondage-NSFW-LoRA",
+   "date": "2026-08-09T17:18:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, qwen-image-2512, qwen-image, lora, text-to-image, photorealistic",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "bdb6eb8f7a26",
+   "title": "Meet Elara",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vjvg5r/meet_elara/",
+   "date": "2026-08-09T17:15:08.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cXh0NzVkd3p0ZGloMVCYv3xmFi8hmIZh2jzT9x-5LvJD0hgwmWhK9yp8PiIw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=732719cf492266f1db218cd35cfc5b5d3bd2fede",
+   "excerpt": "submitted by /u/InsertCointent [link] [comments]"
+  },
   {
    "id": "f1947846f3e5",
    "title": "The Ash Field (1976) - A Lost Fantasy Epic",
@@ -507,7 +549,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, text-to-video, qwen3-vl, text-encoder, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 22,
+    "likes": 24,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7496,42 +7538,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/c3dmZDZzcDk5ZWhoMcCulKnv2fsauQ_FRzp5G1hXQXX8OBbh_UqKGocRPy98.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5a3d3b1ee587ce65bd1311b6fa03740fef7d4e3f",
    "excerpt": "submitted by /u/Stunning_Act_1530 [link] [comments]"
-  },
-  {
-   "id": "fb8216ef75f1",
-   "title": "Magic, Cloak & Dagger - Ep4 (reupload)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfh5xj/magic_cloak_dagger_ep4_reupload/",
-   "date": "2026-08-04T17:34:35.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MDR1ZDJydnI3ZWhoMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=16ebf0d5f15a8cf059f6ef7a2b8618ea512a32b3",
-   "excerpt": "submitted by /u/Juponce [link] [comments]"
-  },
-  {
-   "id": "62a45b0de0e1",
-   "title": "‘Not healthy’ LLM use is more common than you think",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-   "date": "2026-08-04T17:33:46.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of the internet has centered on how a creator can square a brand built on authentic"
-  },
-  {
-   "id": "14e30f56c8dc",
-   "title": "oshi-pog/zimage-flat-color-v2-1",
-   "link": "https://huggingface.co/oshi-pog/zimage-flat-color-v2-1",
-   "date": "2026-08-04T17:32:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, z-image, z-image-turbo, style, flat-color, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
