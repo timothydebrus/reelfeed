@@ -1,6 +1,42 @@
 {
- "updated": "2026-08-10T22:00:26.805Z",
+ "updated": "2026-08-10T22:58:35.233Z",
  "items": [
+  {
+   "id": "6c8b063d2bf1",
+   "title": "FIIS/bimbobodyshape",
+   "link": "https://huggingface.co/FIIS/bimbobodyshape",
+   "date": "2026-08-10T22:12:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "338bb784ba48",
+   "title": "DesView Introduces Its New Flagship-Grade Wireless Video Transmission System With Insane Range",
+   "link": "https://nofilmschool.com/desview-thunderbolt-1080p",
+   "date": "2026-08-10T22:07:41.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/desview-thunderbolt-1080p-wireless-transmission-system.jpg?id=67598529&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "A new wireless transmission system from the team at Desview is here, angling to be a top option for filmmakers and crews looking to add reliable wireless video transmission to their productions. This new system is set to consist of a wireless transmitter and receiver set that will be able to provide HDMI input and output with 5 GHz line-of-sight transmission from a pretty remarkable 1300’ away. Th"
+  },
+  {
+   "id": "b6a795d1e48a",
+   "title": "Mark Zuckerberg doesn’t understand how to live",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+   "date": "2026-08-10T22:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/zuckerberg_stock_Parkin.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise. What reaction was this man looking for? He probably hoped someone, maybe me, would say it was cool or inspiring. It seemed "
+  },
   {
    "id": "a5988ae4503f",
    "title": "Pale Blue Dot",
@@ -40,6 +76,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/cDNoaXk5aTl6bGloMbRGCOJ_CfNztH7ZDfTnDlNKRgZRLKhxYmaq-Ef8Qr-m.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe9502e4741d326d3aff5e5d6a2d19c669fb671d",
    "excerpt": "submitted by /u/db_prod [link] [comments]"
+  },
+  {
+   "id": "b31454af41d6",
+   "title": "ARRI’s LiOS Software Gets Major Update Bringing Enhanced DMX Live View Functionality",
+   "link": "https://nofilmschool.com/arri-lios-update-3-3-0",
+   "date": "2026-08-10T20:16:40.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/arri-lios-update-3-3-0.jpg?id=67598626&width=1245&height=700&coordinates=2%2C0%2C2%2C0",
+   "excerpt": "Big news for those interested in high-end lighting for their film and video projects, as ARRI has announced that the latest update for the company’s Lighting Operating System (LiOS) software is out. This latest update, version 3.3.0, is set to enhance the DMX Live View functionality and introduce helpful new smoothing for DMX Zone Modes. This update should add smoother, more consistent lighting co"
   },
   {
    "id": "9f4258eff4d0",
@@ -355,7 +401,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, safetensors, minimax, minimax-h3, h3, video",
    "hf": {
-    "likes": 34,
+    "likes": 42,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -1243,7 +1289,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 19. Tags: comfyui, lora, minimax-h3, text-to-video, image-to-video, video-generation",
    "hf": {
-    "likes": 39,
+    "likes": 40,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -1369,6 +1415,28 @@
    "isModel": false,
    "thumb": "",
    "excerpt": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
+  },
+  {
+   "id": "2400bb772f76",
+   "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+   "link": "https://openai.com/index/zapier",
+   "date": "2026-08-10T00:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
+  },
+  {
+   "id": "f7be8d43b299",
+   "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+   "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+   "date": "2026-08-10T00:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
   },
   {
    "id": "d2d116b096ee",
@@ -2222,7 +2290,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, text-to-video, qwen3-vl, text-encoder, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 68,
+    "likes": 71,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -5712,7 +5780,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 15. Tags: w4a8, quantized, int4, comfyui, comfy-kitchen, convrot",
    "hf": {
-    "likes": 16,
+    "likes": 17,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -7315,7 +7383,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 54. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 596,
+    "likes": 597,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7569,84 +7637,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "fccd9b372301",
-   "title": "Nvidia and Microsoft working on more advanced SSD fallback for locally run AI models.",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vggba8/nvidia_and_microsoft_working_on_more_advanced_ssd/",
-   "date": "2026-08-05T18:51:49.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/26nl81qurlhh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=851084d0e77b175cc136acb213a982287cd768fd",
-   "excerpt": "submitted by /u/IllIlllI-IlIIll-llII [link] [comments]"
-  },
-  {
-   "id": "871e4b24e81c",
-   "title": "hdae/anima-turbo",
-   "link": "https://huggingface.co/hdae/anima-turbo",
-   "date": "2026-08-05T18:50:57.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: karume, safetensors, text-to-image, webgpu, base_model:circlestone-labs/Anima-Base-v1.0-Diffusers, base_model:quantized:circlestone-labs/Anima-Base-v1.0-Diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d75764cc0d69",
-   "title": "Why Wasn’t George A. Romero’s ‘Knightriders’ a Genre-Defining Hit Like His Zombie Films?",
-   "link": "https://nofilmschool.com/knightriders-george-a-romero",
-   "date": "2026-08-05T18:50:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/knightriders.png?id=67577786&width=1245&height=700&coordinates=0%2C72%2C0%2C72",
-   "excerpt": "Forever beloved by horror film fans from now until the end of time for his work pioneering the horror film genre, and in particular launching zombie films onto the masses, George A. Romero’s legacy is unquestioned. Yet, despite his huge genre-defining success with his zombie films in the Night of the Living Dead series, as well as a prolific career with many other horror (and even non-horror) hits"
-  },
-  {
-   "id": "b51f31984e22",
-   "title": "Norod78/flux2-klein-4b-lora-old-gods",
-   "link": "https://huggingface.co/Norod78/flux2-klein-4b-lora-old-gods",
-   "date": "2026-08-05T18:30:31.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, flux2, flux2-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0bfaaf0f281f",
-   "title": "dan71669/Nova_person",
-   "link": "https://huggingface.co/dan71669/Nova_person",
-   "date": "2026-08-05T18:27:50.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, text-to-image, lora, fal, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8bc657db033f",
-   "title": "Audio Reactive Decay (Post-Rock Music Video)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vgfgga/audio_reactive_decay_postrock_music_video/",
-   "date": "2026-08-05T18:21:25.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZmI0NWE5cWJtbGhoMWxuQivKm4BfCVj3xn_bYNyPqxqyqpjRiupsq9JSAd-4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a3cb26542e05c74f158bc8ed60a1b6be3038898",
-   "excerpt": "submitted by /u/AndyRiffeth [link] [comments]"
   }
  ]
 }
