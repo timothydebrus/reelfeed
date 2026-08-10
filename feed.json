@@ -1,6 +1,112 @@
 {
- "updated": "2026-08-10T12:01:15.076Z",
+ "updated": "2026-08-10T13:47:09.196Z",
  "items": [
+  {
+   "id": "7c16f525e780",
+   "title": "Rotten Hrólf, the Draugr who hates Hot Weather",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vkkon5/rotten_hrólf_the_draugr_who_hates_hot_weather/",
+   "date": "2026-08-10T13:20:40.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Z3NtOW1laGJ0amloMX5gOd7W8GxBGSsmegPD-g6YK7_E4D7OhFX4Nd1zhk-2.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=37ba7f666e971cf678395234b4c46822ea370658",
+   "excerpt": "submitted by /u/BrawnHistorian [link] [comments]"
+  },
+  {
+   "id": "99b66df243ea",
+   "title": "Omnico/Chroma1_diff_loras",
+   "link": "https://huggingface.co/Omnico/Chroma1_diff_loras",
+   "date": "2026-08-10T13:15:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:lodestones/Chroma1-Base, base_model:adapter:lodestones/Chroma1-Base",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d6a3a98400b4",
+   "title": "TachyHealthResearch/ltx-2.3-22b-distilled-gguf",
+   "link": "https://huggingface.co/TachyHealthResearch/ltx-2.3-22b-distilled-gguf",
+   "date": "2026-08-10T12:59:08.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, text-to-video, base_model:Lightricks/LTX-2.3, base_model:quantized:Lightricks/LTX-2.3, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "ae0aabcbec73",
+   "title": "MiniMax H3 with a 4B or 8B text encoder instead of the 32B: update, the voice matches now",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkk500/minimax_h3_with_a_4b_or_8b_text_encoder_instead/",
+   "date": "2026-08-10T12:58:21.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/MjV3cXg3bmJwamloMbVytPkDb0yFrjMAMRVnUa0aPM6xkJoIjpahZnppPySo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a965c613976ae7a81c514a0d7b41fe52349dbda5",
+   "excerpt": "MiniMax H3 loads a 32B text encoder, 15.7 GB, just to turn your prompt into a conditioning tensor. I replaced it with a Qwen3-VL 4B or 8B plus a learned map into the same space. Same DiT, same VAEs, same sampler. The video is three clips from the same prompt and seed: 32B, then 8B projected, then 4B projected. First post here if you missed it: https://www.reddit.com/r/StableDiffusion/s/VHBkPhk2Ka "
+  },
+  {
+   "id": "b44099315e9d",
+   "title": "jjyucheng123/image_2generator",
+   "link": "https://huggingface.co/jjyucheng123/image_2generator",
+   "date": "2026-08-10T12:40:08.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, arxiv:1910.09700, license:openrail, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2b72fee165c6",
+   "title": "oohfixer/PrunaVAED",
+   "link": "https://huggingface.co/oohfixer/PrunaVAED",
+   "date": "2026-08-10T12:37:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video, vae, decoder, ltx",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "b811ff836332",
+   "title": "I created a new Interactive Load Image & Crop node for easily sending reference images to H3",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkjh4w/i_created_a_new_interactive_load_image_crop_node/",
+   "date": "2026-08-10T12:29:39.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/cvdvxqzxgjih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d523f220053b714d64f986649b03c7f264e101e3",
+   "excerpt": "In trying to create my perfect MiniMax H3 ref2va workflow, I vibe coded some custom nodes to make everything easier and faster to use. They are available at: https://github.com/obvpm/comfyui-obvpm Interactive Load & Crop Image Node Probably the most immediately useful node to most people is the Load Image & Crop node. Cause when sending image refs to H3 sometimes your source image might include to"
+  },
+  {
+   "id": "b2b78cb3ed76",
+   "title": "Which would be the best way to do a loop video on MiniMax H3 for wallpapers and such ?",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkj1rh/which_would_be_the_best_way_to_do_a_loop_video_on/",
+   "date": "2026-08-10T12:10:05.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/Ym1hcDJkbDFmamloMTqciNAAwSjhqzOiBNZEl2T0s_nt23FfWa5EI5hrV-PD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=609b6494e843037bc84390e6a42600ccc9f76fdd",
+   "excerpt": "I'm trying to do a simple video to use as wallpaper but i'm running into an issue with the loop. I've tried a bunch of different prompts like fixed camera, static, no zoom, no panning, but no matter what the video always end up getting a little stretched as the video goes on, either vertically or horizontally. It's very minor, but it's enough to break the perfect loop. I'm using the same image as "
+  },
   {
    "id": "ee092482a3ff",
    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
@@ -10,6 +116,17 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips."
+  },
+  {
+   "id": "52b9c6e06b63",
+   "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+   "link": "https://openai.com/index/model-ml",
+   "date": "2026-08-10T12:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "Model ML uses GPT-5.6 Sol to carry finance work from research and analysis through editable, traceable PowerPoint decks and Excel workbooks."
   },
   {
    "id": "b304ada0da12",
@@ -46,6 +163,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "5479eb873a99",
+   "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+   "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+   "date": "2026-08-10T11:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it will work as a chatbot that can answer questions about the vehicle's capabilities or future service needs. "
   },
   {
    "id": "521113b69307",
@@ -165,6 +292,17 @@
    }
   },
   {
+   "id": "1d255ea5eead",
+   "title": "What Characters Minimax H3 knows - Part 2 - Videogames",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkfq50/what_characters_minimax_h3_knows_part_2_videogames/",
+   "date": "2026-08-10T09:11:22.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/YnUzZTE5eG9raWloMXvYhqljV8uvHyhhm1v1g6ffrY8dpdvyodg-md1PLkBD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d996ef3f7912aaa892cc6b504cfc9f349035dca2",
+   "excerpt": "Here is the second Edition, Videogames. Workflow is the same as in the first Part, its pretty simple: This is the Prompt: Brad Pitt integrated_multimodal_description: [Shot 1] Live-action, contemporary portrait cinematography shot in high definition, 16:9, clean high resolution, soft neutral key light with gentle falloff against a plain mid-grey backdrop, a medium close-up frames Brad Pitt, head a"
+  },
+  {
    "id": "3d393f8c61d9",
    "title": "RRRikarin/jingchu-bronze-motif-sdxl-lora",
    "link": "https://huggingface.co/RRRikarin/jingchu-bronze-motif-sdxl-lora",
@@ -192,6 +330,27 @@
    "excerpt": "submitted by /u/RabbitStunning7590 [link] [comments]"
   },
   {
+   "id": "cc6d91d4a396",
+   "title": "Long-Form videos (1+ min long) are very possible with H3 locally! Here's mine",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkfb49/longform_videos_1_min_long_are_very_possible_with/",
+   "date": "2026-08-10T08:46:20.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/VRoKBJuavIuuJys_vZVGRH14vZfew0iOq41uIUjcWbw.png?width=140&amp;height=70&amp;auto=webp&amp;s=c4d1a963ea9da6c909f6f37c9121f7760cb748bc",
+   "excerpt": "https://reddit.com/link/1vkfb49/video/a7gs09lfeiih1/player Original credit to Nikodemon for the original node Comfyui-H3--Motion-Context. And there are a few forks of this nodes which are all great, but I like this one by ethanfel ComfyUI-MiniMaxH3-Contex-Loop. It works by giving context to the generation by adding 22 frames from the previous clip. And to keep character and style consistency it wo"
+  },
+  {
+   "id": "4e914dbe2746",
+   "title": "Playing with physics is so cool in Minimax H3",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkeha3/playing_with_physics_is_so_cool_in_minimax_h3/",
+   "date": "2026-08-10T07:55:02.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/c3o5YW1hcDQ3aWloMWCegiHfCRbrAC0_HKuusAanxcrJtqxr5oJsmwnTHVWF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=49250513290e1a1d7689bea07938fb18cab89a11",
+   "excerpt": "Prompt: \"integrated_multimodal_description: [Shot 1] Live-action, ultra-realistic first-person footage at night on a rainy city street, filmed with authentic handheld smartphone qualities. The phone is never visible. Natural handheld shake, slight rolling shutter, wet lens droplets, low-light digital noise, autofocus breathing, and realistic exposure shifts from streetlights, headlights, sparks, a"
+  },
+  {
    "id": "b1259cc83c84",
    "title": "Sailors",
    "link": "https://www.reddit.com/r/aivideo/comments/1vkdtqx/sailors/",
@@ -200,6 +359,48 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ZWVldmlxNTYwaWloMeF1Q7ZZwNeWoH-IGlGiwtVnE6V5RBlPj1C20g0Rmx0R.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5ab96dc31a7dee3965ec92c635643b59e70634b",
    "excerpt": "submitted by /u/ainsoph00 [link] [comments]"
+  },
+  {
+   "id": "9d00b475ddee",
+   "title": "What Characters Minimax H3 knows - American Edition",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkdfqe/what_characters_minimax_h3_knows_american_edition/",
+   "date": "2026-08-10T06:52:58.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/OTZsNHY3emJ1aGloMSGos-k1s1OA7wuCyWYXwaMHq8gkzEk3wuSeWmoPltQH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=277f7d66b7ed1752f57e4179ecc0c80ed1c43e8e",
+   "excerpt": "As promised, the first Batch of Characters that Minimax knows - American knowdledge Edition. Hope this helps the Community. Workflow for this was simple: This is the Prompt: Brad Pitt integrated_multimodal_description: [Shot 1] Live-action, contemporary portrait cinematography shot in high definition, 16:9, clean high resolution, soft neutral key light with gentle falloff against a plain mid-grey "
+  },
+  {
+   "id": "23c1e41116f2",
+   "title": "Video editing on RTX 3060 64GB RAM (Minimax H3)",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkdbsj/video_editing_on_rtx_3060_64gb_ram_minimax_h3/",
+   "date": "2026-08-10T06:46:25.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/MHljdGQ3Y2l0aGloMcV9HZtbzdPWMnOh9I386NzlacIhVvc2Kug3vDLzGazv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f67b66d864c2c49cebbaf23fa80777195f1035b",
+   "excerpt": "100s/iteration, 8.5 minutes total (including VAE and model loading), 4 steps with lightx2v turbo lora v0.1. Generation resolution is 0.35MP, 5s, reference video resolution is 0.25MP. Almost 100% RAM usage (I had --high-ram flag, without it, ram usage is acceptable). It looks like for video editing 64GB of RAM is even more a bottle neck than 12GB of VRAM It also required about 5 attempts. Because f"
+  },
+  {
+   "id": "639515573787",
+   "title": "Personal Media Server Fun!",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkd03k/personal_media_server_fun/",
+   "date": "2026-08-10T06:27:02.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NDhzZm0wYW9xaGloMY6XIesKCH6bvEqngUfg3k5_yC_DofdxB3xBUZl67GQS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=684d536f0c713db9f50c2f683dee6ddd53e2b73f",
+   "excerpt": "MiniMax H3 is a boon for making these fun parodies for my Plex server. Amazing how far we've come since the Wan2.2 days. This is like having our own personal Sora. What a week for open weight models. submitted by /u/CommunicationFit3862 [link] [comments]"
+  },
+  {
+   "id": "22361f802000",
+   "title": "One of us.",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkcltl/one_of_us/",
+   "date": "2026-08-10T06:04:03.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ajcxemJ1azluaGloMdrSRGoSFbzHeUnCCI5afWmeAfHaOfuMAAP0NSyd1vk3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d699f92521998183abafb50458184ae56fc92e2",
+   "excerpt": "submitted by /u/reynadsaltynuts [link] [comments]"
   },
   {
    "id": "ff5fc7234806",
@@ -242,6 +443,28 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/bmdzNnE3ZWFnaGloMZucDs-3z-wM9FZeQD9-GpdJNPElm0nsb0R_zLtEAo0U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=55b4ec814328df3ddf590fbf60dea8b8805d936e",
    "excerpt": "submitted by /u/NeighborhoodDue4189 [link] [comments]"
+  },
+  {
+   "id": "035fa37c7886",
+   "title": "All I want to say is, thank you Minimax H3. I’ve always wanted to generate a video like this (Ref2V)",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkbu2s/all_i_want_to_say_is_thank_you_minimax_h3_ive/",
+   "date": "2026-08-10T05:20:22.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/dWxzczhma29kaGloMZggHJzhHsS8amDkEStdGgK0WulvjVU5UtSMbx7U9vwU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8e4f9fd2b2f35d307511a318a71c83fd457ce496",
+   "excerpt": "Minimax H3 achieved my dream. When Seedance 2.0 was released, I always wanted to generate something like this, but since I don’t have the money and the price is too expensive for me ($1 can cover 1 day’s food), I never attempted to create it. I generated this on my PC with a 3060 12GB VRAM and 16GB RAM. 0.9 MP for 10 seconds takes 1 hour, but it’s worth it. I don’t use Turbo LoRA because it degrad"
+  },
+  {
+   "id": "6ccc195e84d0",
+   "title": "Most Civitai 10$ checkpoint's are scams. Don't fall for it.",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vkbeuk/most_civitai_10_checkpoints_are_scams_dont_fall/",
+   "date": "2026-08-10T04:57:09.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/j7c7swdgbhih1.png?width=68&amp;height=36&amp;auto=webp&amp;s=908ba7a79129d4da9ddcc81df40e5c06ca6cc397",
+   "excerpt": "If you read -> huge claims + AI like generated presentation + no negative comment AND \"$10 to download on my patreon/whatever\" = they're scammers. Period. 1- Anyone leaving a negative comment or tiny critique gets deleted and instantly banned, so you will never read any real user experience. 2- They're not selling finetunes but poor merge. Made with Base model + some good, often freely available L"
   },
   {
    "id": "94a28534aab9",
@@ -312,7 +535,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 19. Tags: comfyui, lora, minimax-h3, text-to-video, image-to-video, video-generation",
    "hf": {
-    "likes": 19,
+    "likes": 22,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -360,6 +583,16 @@
    }
   },
   {
+   "id": "99b4b7f9fc6f",
+   "title": "Community PSA",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk7jtl/community_psa/",
+   "date": "2026-08-10T01:42:51.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZzBvOXluNjdjZ2loManA_Z_GK2omdp4Hy3khBmJXdpUUqcczIZXY9iwSIVbB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=514a2af0dc94cc2eaa0a4bde3a431f569a79adda",
+   "excerpt": "tl;dr - enjoy the models, but consider giving back when you can (P.S. done quickly & with many continuity errors, but they kind of make sense in context) EDIT: Haven't posted much here, but apparently folks can't easily see the workflow link in comments so here it is: https://pastebin.com/1nWJKEiN If anyone wants the other prompts I can share, but they all follow this format and are mostly just th"
+  },
+  {
    "id": "848af11852b3",
    "title": "\"Memories\" - A short film I made using H3 and Seedance",
    "link": "https://www.reddit.com/r/aivideo/comments/1vk7hoi/memories_a_short_film_i_made_using_h3_and_seedance/",
@@ -397,6 +630,17 @@
    "excerpt": "submitted by /u/Th3dzon33 [link] [comments]"
   },
   {
+   "id": "cf16ca70fee7",
+   "title": "\"Memories\" - a short film I made using H3, Seedance 2.5, and traditional editing techniques.",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk5hcf/memories_a_short_film_i_made_using_h3_seedance_25/",
+   "date": "2026-08-10T00:06:31.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/cWd0dGxzYzN2ZmloMZDPNWKXVGmdqoOKW7lle2Xf28ePgL52H23l4nl0op8d.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e03f65436b630b25eef7b70d4e548b830312e8f4",
+   "excerpt": "This is a topic that is close to my heart. I've lost too many in my life to this. submitted by /u/darkshark9 [link] [comments]"
+  },
+  {
    "id": "89474050a4cd",
    "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
    "link": "https://huggingface.co/blog/muse-glimmer",
@@ -422,6 +666,17 @@
     "downloads": 0,
     "pipeline": "text-to-video"
    }
+  },
+  {
+   "id": "c6b206af6d8f",
+   "title": "MiniMax H3 native character knowledge — is there a list?",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk52qb/minimax_h3_native_character_knowledge_is_there_a/",
+   "date": "2026-08-09T23:48:32.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/667i40mfsfih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e4be25e1ff133bc4ca4c6f008a62d0a316cc4e9",
+   "excerpt": "Is there an official or community-compiled list/thread of characters MiniMax H3 can generate natively from text prompts alone? No LoRAs, reference images, or reference audio/videos. If no list exists, is anyone compiling one? submitted by /u/DJB-204 [link] [comments]"
   },
   {
    "id": "06fc05bfbeb6",
@@ -466,6 +721,16 @@
    }
   },
   {
+   "id": "ac40732f8f11",
+   "title": "Looney Kombat",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk3ej3/looney_kombat/",
+   "date": "2026-08-09T22:33:37.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NjFsYjl0bHVlZmloMQM942_ZZXvrg5c2DIvgVll5bleRt0x2-a2f9Af5qgCV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=090e9c6f8bd3f10db38c88285f115df4b705c090",
+   "excerpt": "H3 prompt: integrated_multimodal_description: A cinematic playable fighting-game sequence combining realistic modern 3D rendering with a strongly cel-shaded cartoon character, presented as an authentic classic Mortal Kombat-style side-view match. A single continuous lateral gameplay camera keeps both fighters visible full-body from head to toe on a dark ancient stone arena with dramatic torchlight"
+  },
+  {
    "id": "b2e6285420d2",
    "title": "dave7k/hunyuan15-robotwin-r64attn-r16ffn",
    "link": "https://huggingface.co/dave7k/hunyuan15-robotwin-r64attn-r16ffn",
@@ -498,6 +763,17 @@
    }
   },
   {
+   "id": "cff60baad6d5",
+   "title": "It took two years, but we finally have a 'local Sora'",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk0wm8/it_took_two_years_but_we_finally_have_a_local_sora/",
+   "date": "2026-08-09T20:49:19.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/cGVkZGh1M2V2ZWloMbE6nMj4VLxns1QNV0N4qFS0BuIgLinaAqqY0UvfpyGW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=628ff571f3af89298a4aebfb5f999ee00935430b",
+   "excerpt": "Who remembers when OpenAI previewed Sora two years ago and the quality felt unreal? We had never seen anything like it. Back then, Sora 1 didn't even generate audio and was heavily censored. Prompt: integrated_multimodal_description: [Shot 1] Live-action, cinematic, a close-up static shot frames a glass passenger train window facing outward toward the residential houses and streets of the Tokyo su"
+  },
+  {
    "id": "f893fb1dc932",
    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -506,6 +782,16 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "The AI-focused hedge fund is still making some big bets."
+  },
+  {
+   "id": "80619b750376",
+   "title": "26 sec videos on 16 gb vram(rtx 5070 ti) and only 32 gb ram",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vjztod/26_sec_videos_on_16_gb_vramrtx_5070_ti_and_only/",
+   "date": "2026-08-09T20:05:55.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Mmdwd3F2bGVuZWloMUdOgYQXia0noE-hGlftS7Tjb4IED1BESvxVfoMuUunF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=22d999900a960ebfe92bec5865ad070807f65326",
+   "excerpt": "just a bit of fun but with some of the improvements over the last few days (Spectrum Apply MiniMax H3),(turbo_lora),(MiniMax H3 Low VRAM Attention) (MiniMax H3 Chunk FeedForward) 12 step with 0.7 mp i can make this video in 16 min on just 16 gb vram(rtx 5070 ti) and only 32 gb ram submitted by /u/InternationalBid831 [link] [comments]"
   },
   {
    "id": "700247b13669",
@@ -595,6 +881,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "61dc29961064",
+   "title": "MiniMax H3 Physics Test (+ SeedVR2 + RTX VSR)",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vjxn9l/minimax_h3_physics_test_seedvr2_rtx_vsr/",
+   "date": "2026-08-09T18:40:25.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/bHM4bG9mNTU5ZWloMdNpvTiZpQklSl12gtqofQ1p8ufLfX3xZLVOcxBJzo5n.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=45956ca64bcc732d0c0d9355c2606be6fe004a80",
+   "excerpt": "We all know how LTX 2.3 struggles with real-world physics out of the box. So I decided to perform a little test to see how well MiniMax H3 will handle it throwing different objects. Model used: minimax_h3_fl2va_pruned_int8_convrot.safetensors SeedVR2 + RTX VSR are on top. Prompts: https://pastebin.com/YziAKJhe submitted by /u/alisitskii [link] [comments]"
   },
   {
    "id": "47eba8366553",
@@ -1206,7 +1503,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, text-to-video, qwen3-vl, text-encoder, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 57,
+    "likes": 59,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -6533,7 +6830,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 104. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
    "hf": {
-    "likes": 240,
+    "likes": 243,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7337,287 +7634,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/MzEyZjA3bXZ1amhoMbbhs1g5KXJVpPGtQwU-oXmiKrdQhF-IwRisdqV1j0hW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c83e81199785a965fec5a5efc5b52d78e20fbc0",
    "excerpt": "submitted by /u/metr0punk [link] [comments]"
-  },
-  {
-   "id": "5f39663cf096",
-   "title": "Fantasy RPG Portraits",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vg5py9/fantasy_rpg_portraits/",
-   "date": "2026-08-05T12:17:01.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/m44jy2y2sjhh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a2ae5acf35456c558eea3305316bfa6d74b9c099",
-   "excerpt": "Reposted from r/dndai submitted by /u/Zenchilada [link] [comments]"
-  },
-  {
-   "id": "dfe0cd713e60",
-   "title": "HAPPY WASH | A Laundromat Horror Short",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vg5j9z/happy_wash_a_laundromat_horror_short/",
-   "date": "2026-08-05T12:08:24.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OGg0bXluY3VxamhoMTnbw0SW7AuXMgAxGEdTnUL6A6fv9nxKL37q50nk46m3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=655ac15dc73758a25bc76b0cfdd7dd253e307502",
-   "excerpt": "submitted by /u/matsam999 [link] [comments]"
-  },
-  {
-   "id": "be0971bc1041",
-   "title": "Follow The Light",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vg56ka/follow_the_light/",
-   "date": "2026-08-05T11:52:02.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Y3BpbHNhanhvamhoMbJ4Mna-1ZmeB8ol0HOcvV9N1ug-CdcmbyEXBwbXQ-oU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab7158dbefbb8c19ee308b7d99e3a31acb3c11b4",
-   "excerpt": "submitted by /u/Witty-Relation5743 [link] [comments]"
-  },
-  {
-   "id": "470f6d9608ff",
-   "title": "Atlantis - The Lost Empire",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vg4uec/atlantis_the_lost_empire/",
-   "date": "2026-08-05T11:35:16.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/c2RidGlwMXRsamhoMdAtaeI4K9Tr0nZfTvIUG4jgg5aC7MJUV0XRapzglmnQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2ccd700f3658777bbf33a5283e1d0f2343255f65",
-   "excerpt": "submitted by /u/RioNReedus [link] [comments]"
-  },
-  {
-   "id": "f91b380ba63e",
-   "title": "Google Assistant will disappear from your phone next month",
-   "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-   "date": "2026-08-05T11:12:50.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/19482921/acastro_180510_1777_google_assistant_0001.0.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Farewell, Google Assistant art, we hardly knew ye. | Illustration by Alex Castro / The Verge Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and tablets, along with paired devices like smartwatches or headphones, from September 4th. The announcement came in"
-  },
-  {
-   "id": "8b3b35a1cad7",
-   "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-   "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-   "date": "2026-08-05T11:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
-  },
-  {
-   "id": "0a9b3e2da9ee",
-   "title": "joeygambino/MiniMax-H3-curve-GGUF  (♥ 1)",
-   "link": "https://huggingface.co/joeygambino/MiniMax-H3-curve-GGUF",
-   "date": "2026-08-05T10:59:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: gguf, video, audio, text-to-video, image-to-video, comfyui",
-   "hf": {
-    "likes": 2,
-    "downloads": 1846,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "f935ce44e996",
-   "title": "IMAGINATION",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vg3yr1/imagination/",
-   "date": "2026-08-05T10:51:21.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/M3htZjR0cndkamhoMfG66C35p_0oSBo9ZFEtULkyP2p-QNNhii2rN5m_jzHV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1af743eb75a4fc5e69912e4de53239c22589ed9f",
-   "excerpt": "submitted by /u/TheCultRustle [link] [comments]"
-  },
-  {
-   "id": "7c876a0aca77",
-   "title": "Sexy and beautiful nine-tailed fox girl",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vg3uz1/sexy_and_beautiful_ninetailed_fox_girl/",
-   "date": "2026-08-05T10:45:52.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OTlyNWUyejZjamhoMd8WbYTpoZsdRmvYNXHgCobiqDtYsnlUMLE_UpVbtF4U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b3971d032a16caff7e9a442b7776b093d1b00bb9",
-   "excerpt": "submitted by /u/Rainsi_hk [link] [comments]"
-  },
-  {
-   "id": "b654b838a5d8",
-   "title": "Trump’s AI testing plan is limited and vague",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-   "date": "2026-08-05T10:29:47.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary guidelines outright exclude open models - meaning anyone can download them and inspect their core components - but the framework explicitly says it can't be used to restrict open models after they've be"
-  },
-  {
-   "id": "b6911db31152",
-   "title": "Fleurrr/Prophet-World-Model",
-   "link": "https://huggingface.co/Fleurrr/Prophet-World-Model",
-   "date": "2026-08-05T08:35:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: cosmos, robotics, world-model, action-conditioned-video, image-to-video, arxiv:2511.20633",
-   "hf": {
-    "likes": 0,
-    "downloads": 23,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "a1dbd5813398",
-   "title": "Farolas del Paseo[OC]",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vg12ig/farolas_del_paseooc/",
-   "date": "2026-08-05T08:07:54.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/k35k6zyykihh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=daa3d09555f84e14eb70319e77c789cf30a618d9",
-   "excerpt": "submitted by /u/Gold-Lengthiness-760 [link] [comments]"
-  },
-  {
-   "id": "3f54adeaaf08",
-   "title": "Star fae",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vg0l5r/star_fae/",
-   "date": "2026-08-05T07:39:32.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/5wc814gwfihh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dea60de8d0b0aa9921cffdba58cf92f05ab5405c",
-   "excerpt": "submitted by /u/EleanorKalatheraine [link] [comments]"
-  },
-  {
-   "id": "207511ef1944",
-   "title": "Kung Fu Milo",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vg0b4l/kung_fu_milo/",
-   "date": "2026-08-05T07:23:03.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OTZrdDRyN25jaWhoMfphtYcUNyHt_Ns12_m38RVNPT3kmEgr2Q3tqG1qf3EC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6bcabb0b8a7c0f50a600bdc0a92b4850141f22b",
-   "excerpt": "submitted by /u/HanjoneChan [link] [comments]"
-  },
-  {
-   "id": "d5a5f7c84aaa",
-   "title": "MiniMax H3 just came out—used Velorn to make a Music Video",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vg0591/minimax_h3_just_came_outused_velorn_to_make_a/",
-   "date": "2026-08-05T07:13:48.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/eGM1eDBpZG05aWhoMYQxvqGBbdr5Egn4TCv0Iu33H4yud0H2YWn1Vt-QmuNh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a8c7e2e9fa2e88e8289bef4977406c501675d45",
-   "excerpt": "Everyone is posting about the new MiniMax H3, so now it's my turn. I wanted to see what the new MiniMax H3 model could do, so I used it to help create a Music Video \"When the Streetlights Bloom\". So, admittedly about half the shots are MiniMax H3, and the others are LTX 2.3 and seedance 2.0. Even on my 5090, H3 took quite a while to generate. I lost patience and decided to run some shots through L"
-  },
-  {
-   "id": "d900351ab0a3",
-   "title": "GenshinImpactyuan/Wan2.2-I2V-A14B-GGUF",
-   "link": "https://huggingface.co/GenshinImpactyuan/Wan2.2-I2V-A14B-GGUF",
-   "date": "2026-08-05T06:17:22.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, image-to-video, en, zh, base_model:Wan-AI/Wan2.2-I2V-A14B, base_model:quantized:Wan-AI/Wan2.2-I2V-A14B",
-   "hf": {
-    "likes": 0,
-    "downloads": 86,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "fa36422f30e6",
-   "title": "Realmz of the redeemers / ETHER escapes",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfyon3/realmz_of_the_redeemers_ether_escapes/",
-   "date": "2026-08-05T05:53:34.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dHhtbGx2cXF3aGhoMUM_SbYCQcu1qzfPNVI5UWR3dyu-xYHCz9ezcu617ylr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a1dce7f527bca6a912d793a4c787cd0ddcd20627",
-   "excerpt": "submitted by /u/Kindly_Poet_7878 [link] [comments]"
-  },
-  {
-   "id": "e3818ec128cf",
-   "title": "What the fukc",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfyjr1/what_the_fukc/",
-   "date": "2026-08-05T05:46:11.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/d3ZtMDh5aW92aGhoMb8Z84JKaLGjiNuX7bzm327VWQlT_dMQJT_zzGM3W5Qe.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9223ef7eb3d30b7951c6e17d1d8a7d87bc04b0e2",
-   "excerpt": "submitted by /u/Sweet_Struggle_1372 [link] [comments]"
-  },
-  {
-   "id": "256033faa4a9",
-   "title": "THE SMUGGLER",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfy6mh/the_smuggler/",
-   "date": "2026-08-05T05:25:58.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dnRlNGp2MjJzaGhoMRXGm6BNDqF4wVrIK2mVk3u8iSADRgOkHA9Rj3TxI2hJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d236ca118191f016355cc98de120c7c01d090f4",
-   "excerpt": "submitted by /u/sangshuduo [link] [comments]"
-  },
-  {
-   "id": "b4c157771f65",
-   "title": "POV Ancient War | This is a tough one Same Prompt Comparison",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfy5wg/pov_ancient_war_this_is_a_tough_one_same_prompt/",
-   "date": "2026-08-05T05:24:56.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MzdrZTJnd3ByaGhoMYqeYPcp7PZUJfrcVoO_l2TfTBWR65sIuC6MiJchducC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f94c968ff14f595a5c7aa133e0956ed83a3fc941",
-   "excerpt": "submitted by /u/GooseUpset1275 [link] [comments]"
-  },
-  {
-   "id": "0adcf677f7de",
-   "title": "MiniMax H3 is going to be big...",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vfxrlu/minimax_h3_is_going_to_be_big/",
-   "date": "2026-08-05T05:03:39.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "Only 3 days in, looks amazing out of the box. Once we get a proper 2 stage workflow, perhaps if the H3 devs release a latent upscale model publicly, would be unbelievable. You could possibly do close to 2560 x 1440 in latent space before degradation then push it up to 4k with Topaz. I can allready see it. It would probably collapse some of the western paywalled ones. Maybe there's some psy op behi"
-  },
-  {
-   "id": "3a675372708d",
-   "title": "Ross and Joey, Tit for Tat",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfwilo/ross_and_joey_tit_for_tat/",
-   "date": "2026-08-05T03:59:25.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Z3dyN2I5bG1jaGhoMame8K3arsZUAzKUalqZGyiW5uc-hL7cbOkiQXaDU89l.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6420972f465619b36d68a066cff17aa9ef5d1645",
-   "excerpt": "submitted by /u/notsoaveragemind [link] [comments]"
-  },
-  {
-   "id": "c8c72cd5de26",
-   "title": "Mischief #169",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vfvogv/mischief_169/",
-   "date": "2026-08-05T03:18:18.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/rxv7o8oa5hhh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=46194343f9fd445e9329a981ad5b5d24b4dc731f",
-   "excerpt": "submitted by /u/Slave_Human [link] [comments]"
-  },
-  {
-   "id": "3b136bb39227",
-   "title": "Minimax ref2va is AI Filmmaking gold, so I made a high level workflow for it.",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vfvg3r/minimax_ref2va_is_ai_filmmaking_gold_so_i_made_a/",
-   "date": "2026-08-05T03:07:04.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/OTN6cWxidGEzaGhoMR9eq6EJVGppI_X9rqmzinFeHQjE4N6HizOgE_5olymC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e806ff919ae3231fcf71031d7df03b6b259e0609",
-   "excerpt": "submitted by /u/foxdit [link] [comments]"
-  },
-  {
-   "id": "f112db83deb1",
-   "title": "Phoebe and Kramer goes on a date",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfvdwl/phoebe_and_kramer_goes_on_a_date/",
-   "date": "2026-08-05T03:04:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cHBkcWpyYm8yaGhoMUndHEhcAWSzAOTgCyIGV832Bb3NNWyflufEljS00uL5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b60a7e2091385373b046e010fa644fe66f4d8626",
-   "excerpt": "submitted by /u/Time-Ad-7720 [link] [comments]"
-  },
-  {
-   "id": "55206d923709",
-   "title": "Surf’s Up, Beans Down",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vfv5d1/surfs_up_beans_down/",
-   "date": "2026-08-05T02:53:35.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cnpjdng5NXYwaGhoMUE4IRsxPv75SMq4FnapYuks_-d-ZuymbZ6JFLqQxgUq.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=54e8094c17116016726181e93ca6d9d23479fae6",
-   "excerpt": "submitted by /u/RobZomboyd [link] [comments]"
   }
  ]
 }
