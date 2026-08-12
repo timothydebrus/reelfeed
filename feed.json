@@ -1,6 +1,262 @@
 {
- "updated": "2026-08-12T12:01:27.507Z",
+ "updated": "2026-08-12T16:14:01.971Z",
  "items": [
+  {
+   "id": "75a1cb54fcd2",
+   "title": "twfx4062/stable-diffusion-inpainting",
+   "link": "https://huggingface.co/twfx4062/stable-diffusion-inpainting",
+   "date": "2026-08-12T16:06:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, stable-diffusion-diffusers, text-to-image, arxiv:2207.12598, arxiv:2112.10752",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a8dd77df5184",
+   "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+   "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+   "date": "2026-08-12T16:04:27.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
+  },
+  {
+   "id": "0268aeed91a7",
+   "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+   "date": "2026-08-12T15:52:07.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/1583922033086.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Maybe don’t let the AI shred next time. | Image: D’Addario After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denied the allegations, even as evidence piled up against it. It offered various explanations, from low-quality exports, to combinations of plugin"
+  },
+  {
+   "id": "4aad83926644",
+   "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+   "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+   "date": "2026-08-12T15:44:56.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
+  },
+  {
+   "id": "1cf78b2a71f4",
+   "title": "seahorse12/MiniMax-H3-Turbo-Lora",
+   "link": "https://huggingface.co/seahorse12/MiniMax-H3-Turbo-Lora",
+   "date": "2026-08-12T15:40:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-video, text-to-audio, audio-video, lora, minimax-h3, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "5c8a3e80c2e3",
+   "title": "The DJI Drone Ban Set to Potential Ramp Up Again With FCC Targeting More Models",
+   "link": "https://nofilmschool.com/the-dji-drone-ban-latest-news",
+   "date": "2026-08-12T15:36:02.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/the-dji-drone-ban-latest-news.jpg?id=67607494&width=1245&height=700&coordinates=0%2C67%2C0%2C67",
+   "excerpt": "If you’re a drone operator, or—excuse us—an aerial cinematographer living and working in the United States, you’ve likely been following this DJI drone ban story as it’s been evolving over the past year. For a quick catch-up, the FCC has added DJI and all foreign-made drones to a “covered list,” which effectively bans the sale of new drones by the company and other foreign ones here in the US. Thi"
+  },
+  {
+   "id": "9c054076b34e",
+   "title": "Tiny0528/Qwen-Image-Lightning",
+   "link": "https://huggingface.co/Tiny0528/Qwen-Image-Lightning",
+   "date": "2026-08-12T15:24:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, Qwen-Image, distillation, LoRA, lora, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f11abd31645c",
+   "title": "Toilet Soldiers",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vmh0n7/toilet_soldiers/",
+   "date": "2026-08-12T15:16:26.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bjh4M3NjaXNueWloMX6mcmdNXBAy420bazd5Yul9dC-3WXrXzTNS0N76mp_E.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=393b0311f9cd4405dfba981924b49f370519c3b5",
+   "excerpt": "submitted by /u/fiftypence [link] [comments]"
+  },
+  {
+   "id": "578d531f80a6",
+   "title": "Film Quote of the Day: The 1996 'Trainspotting' Line That Still Challenges How We Live",
+   "link": "https://nofilmschool.com/trainspotting-choose-life-quote",
+   "date": "2026-08-12T15:03:02.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/trainspotting.jpg?id=62150117&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "The most quoted thing in Trainspotting started life as an advertisement for staying clean. Kind ironic, right? \"Choose life\" was a wholesome anti-drug slogan before the iconic character of Mark Renton got hold of it, essentially turning a public-health message into a battle cry for anyone who ever wanted to opt out of what he feels is a normal, boring lifestyle. Here we are, 30 years later, and th"
+  },
+  {
+   "id": "c8dc0f2aa3b0",
+   "title": "Seaborn Queen",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vmg1a5/seaborn_queen/",
+   "date": "2026-08-12T14:40:40.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MGRtN3luczRoeWloMSAOUDZ8UMztdbKukO1kUHndIJqkmSfJYkK-mzFJByTm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5442495bdbaf8525bc0370e1aac5ffcef98747b",
+   "excerpt": "submitted by /u/TheAverySageAi [link] [comments]"
+  },
+  {
+   "id": "a472a237c5e4",
+   "title": "Xrenya/TheGhostInTheShell",
+   "link": "https://huggingface.co/Xrenya/TheGhostInTheShell",
+   "date": "2026-08-12T14:25:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, arxiv:1910.09700, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6a49c4b6a0a3",
+   "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+   "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+   "date": "2026-08-12T14:20:33.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event."
+  },
+  {
+   "id": "618d4dfa5f6e",
+   "title": "Putting sign language AI into users’ hands",
+   "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+   "date": "2026-08-12T14:01:59.000Z",
+   "source": "Google DeepMind",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://lh3.googleusercontent.com/8RcynTx1ujudyw8Fs05Pv8WJahe2FQ3z1Y7gNHm-xvOTJLdMp9hNDsIIoQbJsnav6evNLgY1iT9B9ercsyIn0U1N51pzScvSfe6IHk2SjDJx-MaVzQ=w528-h297-n-nu-rw-lo",
+   "excerpt": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+  },
+  {
+   "id": "5e8556277923",
+   "title": "Jackass Extreme: Episode 001",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vmezsa/jackass_extreme_episode_001/",
+   "date": "2026-08-12T14:01:17.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aHpicDBjODdheWloMWYaN4elNRt14JdfL0KMDMFhL18fpguf_9F0pdJdW19j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c8923366fcadd461cf010cee11b00aa57c810d5f",
+   "excerpt": "submitted by /u/jackass-extreme [link] [comments]"
+  },
+  {
+   "id": "9fea4b35a86f",
+   "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+   "date": "2026-08-12T14:00:51.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
+   "id": "8da3243e4c60",
+   "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+   "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+   "date": "2026-08-12T14:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-Watch-5-on-stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, beca"
+  },
+  {
+   "id": "8a789ffcdda3",
+   "title": "Insta360 Takes a Big Swing With Its Bold New X6 360° Camera Capable of 8K50p Video",
+   "link": "https://nofilmschool.com/insta360-x6",
+   "date": "2026-08-12T13:58:18.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/insta360-x6.jpg?id=67608014&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "Insta360 is taking a pretty major step forward with the official introduction of its latest 360-degree action camera, the new X6, which is set to deliver quite impressive high-end video recording specs and features. Powered by a large 1.1.1” sensor and a triple AI chip system, the Insta360 X6 will likely instantly become the new benchmark for 360-degree video capture thanks to this new sensor tech"
+  },
+  {
+   "id": "40d69b2d0014",
+   "title": "Breaking bean",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vmevwn/breaking_bean/",
+   "date": "2026-08-12T13:57:07.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cTZsMXFpam05eWloMcgMtgIQzm55MuE--DytDK06UI8RJuRBvQbgxzirSk4f.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=861c69e202865ba6056cdd82445acdde127747bd",
+   "excerpt": "submitted by /u/Then_Editor_7958 [link] [comments]"
+  },
+  {
+   "id": "7bdac29725e4",
+   "title": "'Scrap'",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vmesq3/scrap/",
+   "date": "2026-08-12T13:53:26.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/b3VsaGtkZnQ4eWloMbHZPQiYpMOVR0soi_rAdKaPu1S5Jp6XGMeNVD9ORsD9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7403e0954aef4d437dfd0cd8ef394bb9929d5f71",
+   "excerpt": "submitted by /u/ScriptLurker [link] [comments]"
+  },
+  {
+   "id": "284a37f09f45",
+   "title": "Everything burned",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vmeo3g/everything_burned/",
+   "date": "2026-08-12T13:48:19.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NTRuYXE2ejI4eWloMZChw4sOcwb6-U9TGoYMmEOv8wPw2sBYGm5jSlzY1cDE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=44a3d4297b98fbfc8ed9000426a60859510d44ba",
+   "excerpt": "submitted by /u/Sufficient-Ice8225 [link] [comments]"
+  },
+  {
+   "id": "60607c3214e6",
+   "title": "Dax:Crew of the Clarion | Something on the Hull",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vmdqei/daxcrew_of_the_clarion_something_on_the_hull/",
+   "date": "2026-08-12T13:10:35.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YXZ0MWhkZWIxeWloMasbeSrx8bv7aHKFOzQ2WdmU6RXidSSYLhfVVXeN0DsB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b6945d3c259b428621a7cc1d0de4cba6306455a1",
+   "excerpt": "submitted by /u/Zealousideal_Nail584 [link] [comments]"
+  },
+  {
+   "id": "f92610e6301b",
+   "title": "Video inspired by the upcoming solar eclipse that Imade for the Audi dealer I work at",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vmcstd/video_inspired_by_the_upcoming_solar_eclipse_that/",
+   "date": "2026-08-12T12:31:07.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dHkybHAyajZ1eGloMevw2bl9YdZshdfYlICNCkGR3Bv00JurMN8jWH3mhFBj.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=85c9970667c4e5636c6a3f875f8c231a1d4b44ac",
+   "excerpt": "submitted by /u/DanTheSausageMan [link] [comments]"
+  },
+  {
+   "id": "4361bd4cf51a",
+   "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+   "date": "2026-08-12T12:09:34.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/acastro_201217_1777_vaccine_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup. That entrepreneur is Paul Conyngham, who says he is launching Gamgee to offer \"personalised mRNA cancer vaccines for dogs.\" But his ambitions go well beyond dogs - and pets - with Gamgee's website p"
+  },
   {
    "id": "9ebfb3cbe9d9",
    "title": "Grok is now an AI ‘teammate’ you can assign work",
@@ -85,6 +341,26 @@
    "excerpt": "submitted by /u/RabbitStunning7590 [link] [comments]"
   },
   {
+   "id": "121a78d8dbeb",
+   "title": "Retro Anime OVA - Squad37: Osaka Bay Blood Part1",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vmb5tw/retro_anime_ova_squad37_osaka_bay_blood_part1/",
+   "date": "2026-08-12T11:12:42.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OG42cWd4eXVmeGloMWS1FbNTWGW1Zh7TmyiszCyHKVC5Dk3AZM1VLl97PPZ6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4b81e1b8f44b5d34f54e386b18faa35fd61df98",
+   "excerpt": "submitted by /u/Slow_Opposite [link] [comments]"
+  },
+  {
+   "id": "618c36a0317e",
+   "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+   "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+   "date": "2026-08-12T11:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Blacksmith says revenue has grown more than tenfold over the past year."
+  },
+  {
    "id": "293edb2cadc4",
    "title": "Grandma Theft Auto",
    "link": "https://www.reddit.com/r/aivideo/comments/1vman6e/grandma_theft_auto/",
@@ -93,6 +369,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/b3Y5NjBqNmdieGloMdubuE7-Xf_7Z6MQeEvOk_-X_tuzm1a8tNmkXhjl4Xsw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1232bafab286f796e133045b0f192c245fc34058",
    "excerpt": "submitted by /u/Mother-Pear-2392 [link] [comments]"
+  },
+  {
+   "id": "5638ddfa3552",
+   "title": "EdittLab/valentina",
+   "link": "https://huggingface.co/EdittLab/valentina",
+   "date": "2026-08-12T10:25:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "b35706b1cfcd",
@@ -141,7 +433,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text, to, image, generation, text-to-image, ru",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-image"
    }
@@ -157,7 +449,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: text-to-video, image-to-video, video-generation, ltx-video, quantized, int4",
    "hf": {
-    "likes": 2,
+    "likes": 3,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -210,9 +502,25 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 7,
+    "likes": 45,
     "downloads": 0,
-    "pipeline": "text-to-image"
+    "pipeline": "trending image"
+   }
+  },
+  {
+   "id": "04ada9625f47",
+   "title": "vantagewithai/LTX-2.5-GGUF",
+   "link": "https://huggingface.co/vantagewithai/LTX-2.5-GGUF",
+   "date": "2026-08-12T07:22:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, gguf, image-to-video, text-to-video, video-to-video, image-text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
    }
   },
   {
@@ -274,6 +582,17 @@
    }
   },
   {
+   "id": "143a56c3831e",
+   "title": "From assistance to execution: How enterprises put AI to work",
+   "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+   "date": "2026-08-12T06:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+  },
+  {
    "id": "6567c3d6dee7",
    "title": "Dive Into ‘Sharksploitation’, the Shark Horror Documentary You Need to See",
    "link": "https://nofilmschool.com/dive-into-this-shark-horror-documentary",
@@ -326,7 +645,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: gguf, quantized, image-to-video, text-to-video, video-to-video, audio-to-video",
    "hf": {
-    "likes": 4,
+    "likes": 8,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -578,7 +897,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, comfyui, ltx, ltxv, text-to-video",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1805,7 +2124,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, text-to-video, image-to-video, audio-video-generation, diffusion-transformer, merge",
    "hf": {
-    "likes": 20,
+    "likes": 24,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -2927,7 +3246,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, safetensors, minimax, minimax-h3, h3, video",
    "hf": {
-    "likes": 126,
+    "likes": 137,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4938,7 +5257,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, text-to-video, qwen3-vl, text-encoder, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 81,
+    "likes": 82,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7328,360 +7647,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5294c3469af0",
-   "title": "rachel-luxangel-ai/zit-cowgirl",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-cowgirl",
-   "date": "2026-08-07T17:40:50.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "27a3137d0c1f",
-   "title": "rachel-luxangel-ai/zit-cum",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-cum",
-   "date": "2026-08-07T17:40:37.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "853de7272542",
-   "title": "rachel-luxangel-ai/zit-doggy",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-doggy",
-   "date": "2026-08-07T17:40:30.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d937c35980f4",
-   "title": "rachel-luxangel-ai/zit-missionary",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-missionary",
-   "date": "2026-08-07T17:40:22.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d41a473c2355",
-   "title": "Surreal Music Video | Welcome to the Carnival | Original Techno",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vi6vry/surreal_music_video_welcome_to_the_carnival/",
-   "date": "2026-08-07T17:23:32.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eHRhY2FmbnFsemhoMRf-syu0qn1oCbhzgu1haDT1XleGI4uU-oZ-6KpXytXw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=50e8e4e384554e25ed56e6302c21658c169e95f6",
-   "excerpt": "submitted by /u/Hellish_NDE [link] [comments]"
-  },
-  {
-   "id": "998b0d6a483d",
-   "title": "The Ending of 'Evil Dead Burn' Explained",
-   "link": "https://nofilmschool.com/evil-dead-burn-ending-explained",
-   "date": "2026-08-07T17:20:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/souheila-yacoub-as-alice-price-screaming-on-the-poster-for-evil-dead-burn.jpg?id=67582571&width=980",
-   "excerpt": "Evil Dead Burn is the sixth theatrical installment in the iconic Evil Dead franchise, a horror series that is growing increasingly complicated. While 2023’s Evil Dead Rise was a standalone sequel that largely ignored the continuities of the original trilogy and the 2013 remake (instead simply taking place in the same universe), that movie introduced a number of characters and storylines that have "
-  },
-  {
-   "id": "d1dc5b719624",
-   "title": "That one nightmare we've all had [MiniMax H3]",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vi6949/that_one_nightmare_weve_all_had_minimax_h3/",
-   "date": "2026-08-07T17:00:18.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/NmtpZnI3aWJoemhoMaPz4KdBk4HWLpe0HvxtFgrvE2FKm-ikgn4NaNEbm-NF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=04b744997aa9bfd85239a73a2f14b21a85c910f2",
-   "excerpt": "For anyone who is fan of The Critic submitted by /u/unt1tled [link] [comments]"
-  },
-  {
-   "id": "8931a930f3e8",
-   "title": "CarolVorders/ltxvideo-2b-nsfw",
-   "link": "https://huggingface.co/CarolVorders/ltxvideo-2b-nsfw",
-   "date": "2026-08-07T16:51:27.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, base_model:Lightricks/LTX-Video-0.9.5, base_model:finetune:Lightricks/LTX-Video-0.9.5, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "a4ee93b0bbdc",
-   "title": "oxrynajtae/khoosbhu",
-   "link": "https://huggingface.co/oxrynajtae/khoosbhu",
-   "date": "2026-08-07T16:50:43.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, LoRA, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:finetune:Tongyi-MAI/Z-Image-Turbo, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3eb3071de195",
-   "title": "This New 30mm f/2.4 Lens Aims to Expand the Range of Your Medium Format Cameras",
-   "link": "https://nofilmschool.com/zhong-yi-pittura-30mm-f-2-4-prime-lens",
-   "date": "2026-08-07T16:50:03.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/zhong-yi-pittura-30mm-f-2-4-prime-lens.png?id=67588966&width=1245&height=700&coordinates=11%2C0%2C12%2C0",
-   "excerpt": "While more tailored to the needs of medium-format photographers, this new Pittura 30mm f/2.4 from Zhong Yi Optics could be an interesting option for medium-format videographers and hybrid content creators looking for a unique wide-angle prime for their various shooting needs. Designed specifically for high-res medium-format shooting, this Zhong Yi Pittura 30mm f/2.4 looks quite capable across a ra"
-  },
-  {
-   "id": "dd5cef8da111",
-   "title": "jakohist/y3b1ne4",
-   "link": "https://huggingface.co/jakohist/y3b1ne4",
-   "date": "2026-08-07T16:47:12.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "764f9d70a7a9",
-   "title": "What s behind the Google AI shake-up",
-   "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-   "date": "2026-08-07T16:45:14.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a sign of Google in turmoil? Is it about Demis Hassabis wanting something more interesting to work on than virtual assistants? O"
-  },
-  {
-   "id": "8412012cea6c",
-   "title": "rachel-luxangel-ai/zit-oral",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-oral",
-   "date": "2026-08-07T16:36:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "b7203dc015a4",
-   "title": "How I use Ableton and AI",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vi5jrv/how_i_use_ableton_and_ai/",
-   "date": "2026-08-07T16:34:25.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZGJsa2Y4NDVkemhoMfPCaBdD61BnCHseYgjV38wIvuk8JTDlgeE-hkdN4S0V.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bc7e65feaa7bdb5a7b4ed2d05f0cbb4a8594f7c",
-   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
-  },
-  {
-   "id": "365725e1788f",
-   "title": "selfmate32/lorakrea",
-   "link": "https://huggingface.co/selfmate32/lorakrea",
-   "date": "2026-08-07T16:32:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a77e7102e71c",
-   "title": "Heavy Metal Fantasy",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vi5hdu/heavy_metal_fantasy/",
-   "date": "2026-08-07T16:31:57.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/pgmyl7pnczhh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=64977688b3e23b93870fcf25c7137ac1580112d1",
-   "excerpt": "Didn't know what to call these but they felt Metal to me, haha 😆 submitted by /u/NeoShaolin47 [link] [comments]"
-  },
-  {
-   "id": "fc92279a1bd3",
-   "title": "Omnico/Flux.1_Schnell-Dev_diff_loras",
-   "link": "https://huggingface.co/Omnico/Flux.1_Schnell-Dev_diff_loras",
-   "date": "2026-08-07T16:31:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "7093976546be",
-   "title": "Warrior on Pegasus",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vi5csk/warrior_on_pegasus/",
-   "date": "2026-08-07T16:27:21.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/foa1l1jwbzhh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=f8944cfddaa29484e2c4fd6969af14ce8fe2975f",
-   "excerpt": "submitted by /u/CrookedtalePirates [link] [comments]"
-  },
-  {
-   "id": "639163d9e969",
-   "title": "Hollywood Throwback: The Story Behind Indiana Jones’ Hat",
-   "link": "https://nofilmschool.com/indiana-jones-hat",
-   "date": "2026-08-07T16:20:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/indiana-jones-and-the-temple-of-doom.jpg?id=67589408&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "My favorite character of all time is Indiana Jones. At my core, I am a sucker for adventure movies that keep you on the edge of your seat, and from the time I was 5 all the way through now, that's the one guy I'd like to trade places with in the mythical movie world. The thing about Indy is that it's not just his personality, but he exudes this coolness from his costume, too. The jacket. The whip."
-  },
-  {
-   "id": "26676827c4d5",
-   "title": "Black Thunder - Seedance 2'5",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vi52lx/black_thunder_seedance_25/",
-   "date": "2026-08-07T16:17:03.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/bXl5Z28wcXk5emhoMc12HGobNbdvsYpqax67JMIJiKAY36qJzzg7zOdO2L84.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d315cd977e9326432f5afb0307c9798e3042af14",
-   "excerpt": "submitted by /u/ryanlightbourn [link] [comments]"
-  },
-  {
-   "id": "62678037a7fe",
-   "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-   "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-   "date": "2026-08-07T16:16:09.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
-  },
-  {
-   "id": "17a721e08484",
-   "title": "Leaf Island (Episode 1)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vi50gw/leaf_island_episode_1/",
-   "date": "2026-08-07T16:14:57.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cGZqNGNvdm85emhoMUQj5-vo8AJGqF-l27V_g5pD14Kb1iIvAX3Q76cPzDxl.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=8ca1a30ab21d68b39f488e039d658c5b58cf646d",
-   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
-  },
-  {
-   "id": "81714189b98b",
-   "title": "📦Boxx boy ep:02 Everything is new to him 👀",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vi4t7e/boxx_boy_ep02_everything_is_new_to_him/",
-   "date": "2026-08-07T16:07:30.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MWx3M3F6amM3emhoMZE0h5SidRiSCBj884gD_uOobPuZZYqoqyhEKCRAvpiX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9e2f4d3f3f37c4b7b0fa01a129a46f91b44e12c",
-   "excerpt": "submitted by /u/miarc_880818 [link] [comments]"
-  },
-  {
-   "id": "027eec5c2265",
-   "title": "THE SPACE SHOW - A SCI-FI MINI SERIES TRAILER",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vi4o7l/the_space_show_a_scifi_mini_series_trailer/",
-   "date": "2026-08-07T16:02:20.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bWY1N2M5emc2emhoMe9NStu6iQKHXxuolDOCT5RIJ9VRe20CcDKYLrdWzVvc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c060bff5ac63bea3be188533e3952ada4da6a29",
-   "excerpt": "submitted by /u/punkylex78 [link] [comments]"
-  },
-  {
-   "id": "5da307cf7a18",
-   "title": "Elite discussion",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vi4jpz/elite_discussion/",
-   "date": "2026-08-07T15:58:00.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZTdxNjA5Mm42emhoMVbag7iMqdkXRa-83ZsTJ5LPO5Z_ZD_aVkDAItS6EIll.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f9874a5ef34cb5ae04a0b07eb485440b27bf1e7c",
-   "excerpt": "submitted by /u/Big-Advertising6278 [link] [comments]"
-  },
-  {
-   "id": "240da6c62cc9",
-   "title": "Moonrise",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vi4ipf/moonrise/",
-   "date": "2026-08-07T15:56:56.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/keoc28fc6zhh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c233396e0a4110a54da5b96e455da006ada00800",
-   "excerpt": "1920 x 1080 submitted by /u/Zenchilada [link] [comments]"
-  },
-  {
-   "id": "bc298337892e",
-   "title": "Shooter57/mw1_krea2_v1",
-   "link": "https://huggingface.co/Shooter57/mw1_krea2_v1",
-   "date": "2026-08-07T15:55:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "15b31e2f26c8",
-   "title": "Shooter57/ama1_krea2_v1",
-   "link": "https://huggingface.co/Shooter57/ama1_krea2_v1",
-   "date": "2026-08-07T15:53:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
    "hf": {
     "likes": 0,
     "downloads": 0,
