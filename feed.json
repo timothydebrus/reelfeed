@@ -1,6 +1,90 @@
 {
- "updated": "2026-08-11T22:06:54.909Z",
+ "updated": "2026-08-12T00:02:07.453Z",
  "items": [
+  {
+   "id": "e1e8d5826cde",
+   "title": "BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy",
+   "link": "https://huggingface.co/BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy",
+   "date": "2026-08-11T23:55:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx, ltx-2.5, nvfp4, comfyui, diffusion-single-file, quantized",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "f910d0f965f5",
+   "title": "ibyteohdear/ltx-2-packages",
+   "link": "https://huggingface.co/ibyteohdear/ltx-2-packages",
+   "date": "2026-08-11T23:20:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "9832ebe6ae6e",
+   "title": "FIIS/bellabellz",
+   "link": "https://huggingface.co/FIIS/bellabellz",
+   "date": "2026-08-11T23:09:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a7ebd10c31fc",
+   "title": "Help, what dubbing AI tool is this? (Original in spanish, AI dub in french)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vlx3lo/help_what_dubbing_ai_tool_is_this_original_in/",
+   "date": "2026-08-11T23:07:21.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y2o0MHowcWx1dGloMWOHdAzuWy5Ige7rXpqRXS7mMLcFtlBb6ixj6f2ooF9v.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cf2f1e5f5549d50f52d1d04ac7eca14460ee3f83",
+   "excerpt": "submitted by /u/PhilosopherPrize3776 [link] [comments]"
+  },
+  {
+   "id": "d8642105406c",
+   "title": "guillekenzo/aros-814dffc8-Josh",
+   "link": "https://huggingface.co/guillekenzo/aros-814dffc8-Josh",
+   "date": "2026-08-11T23:01:30.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6011300d83ed",
+   "title": "Promo vids for my upcoming comic",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vlvk3v/promo_vids_for_my_upcoming_comic/",
+   "date": "2026-08-11T22:05:14.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dTQwbWY0emtqdGloMR-pWH0n8DemuV2oVrvLC5KZeZg4kYvVRjcv8MRRkBda.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1eee1322c92ca72d376e5820c809b8cb499d702",
+   "excerpt": "submitted by /u/LeagueWild709 [link] [comments]"
+  },
   {
    "id": "09ecceab532b",
    "title": "guillaume127/ltx-2.5-22b-distilled-transformer-fp8",
@@ -15,6 +99,22 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "88d2539d6a18",
+   "title": "guillaume127/LTX-2.5-FP8",
+   "link": "https://huggingface.co/guillaume127/LTX-2.5-FP8",
+   "date": "2026-08-11T22:01:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, fp8, float8_e4m3fn, ltx-2.5, ltx-video, lightricks",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
    }
   },
   {
@@ -153,7 +253,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: ltx-video, ltx-2.5, gguf, torchao, quantized, comfyui",
    "hf": {
-    "likes": 2,
+    "likes": 5,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -219,6 +319,26 @@
     "downloads": 0,
     "pipeline": "text-to-video"
    }
+  },
+  {
+   "id": "5a3e5c8b740e",
+   "title": "Medusa Gaze",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vls48r/medusa_gaze/",
+   "date": "2026-08-11T19:55:02.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/s6u9kc9lwsih1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a210918ab78413c0b7143725975eed4b60f89c83",
+   "excerpt": "80's style illustration of Medusa with snakes, in the style of Hajime Sorayama, --ar 2:3 --sref https://s.mj.run/G4tNpDwR9Bs https://s.mj.run/Bl6U7MQs1Uk https://s.mj.run/g4tnUcs2zJo https://s.mj.run/-HZ4gNTgGR8 https://s.mj.run/-GV8ElJ38Yg --stylize 1000 --hd --v 8.2 submitted by /u/WorldstarBandit [link] [comments]"
+  },
+  {
+   "id": "e4c0ffb51edf",
+   "title": "Baroque UFO",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vlrz3n/baroque_ufo/",
+   "date": "2026-08-11T19:49:51.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/pm8dyi5ovsih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9280f4a71e8cdfea51f40bc88d290cd6f7e7e45",
+   "excerpt": "submitted by /u/screwaudi [link] [comments]"
   },
   {
    "id": "7cea10866b17",
@@ -289,6 +409,22 @@
    }
   },
   {
+   "id": "c87e4bb59c7c",
+   "title": "tsolful/LTX_2.5_INT4_W4A8_ConvRot  (♥ 1)",
+   "link": "https://huggingface.co/tsolful/LTX_2.5_INT4_W4A8_ConvRot",
+   "date": "2026-08-11T19:25:03.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusion-single-file, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
    "id": "7aa6e09ac5b6",
    "title": "vonkaiser/LTX-2.5-FP8-NVFP4",
    "link": "https://huggingface.co/vonkaiser/LTX-2.5-FP8-NVFP4",
@@ -299,7 +435,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx-video, ltx-2.5, fp8, nvfp4, torchao, quantized",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -345,7 +481,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, ltx2.5, nvfp4, convrot, quantized, text-to-video",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -660,6 +796,16 @@
    "excerpt": "submitted by /u/Arman64 [link] [comments]"
   },
   {
+   "id": "c85370a23aec",
+   "title": "/// --profile 2p19y37///",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vlkypx/profile_2p19y37/",
+   "date": "2026-08-11T15:39:12.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/hzbezr8tmrih1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=0205e0b1cde45af8e44a5875aaf6a99c2b766c93",
+   "excerpt": "Prompt fixing : vintage matchbox style illustration, shoulder length portrait of a silhouette of a city burning, soft glowing white eyes, black rice paper texture, smooth texture, grainy, dither charcoal, Cel-Shading, dark background, no cartoon submitted by /u/Voxo-32 [link] [comments]"
+  },
+  {
    "id": "d1d2844e821f",
    "title": "mansan88/mhz2",
    "link": "https://huggingface.co/mansan88/mhz2",
@@ -674,6 +820,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "de7d8c19f71b",
+   "title": "Recent creative direction experiments with 8.2",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vlkshm/recent_creative_direction_experiments_with_82/",
+   "date": "2026-08-11T15:32:52.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/bgc0e73tlrih1.jpg?width=140&amp;height=93&amp;auto=webp&amp;s=e209ea0ac5750a6bf3968ffae101807f561058c6",
+   "excerpt": "Been using Midjourney on & off the past few months but really dialled in my workflow the past week, loving the results so far!! Would love to hear which one’s your favourite submitted by /u/thedeathbydna [link] [comments]"
   },
   {
    "id": "30c8c0ffcbe2",
@@ -700,6 +856,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "e51c0c4cae35",
+   "title": "Short Movie",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vlk0bi/short_movie/",
+   "date": "2026-08-11T15:05:03.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/7GFJPm3ow_8YrDOutsDBHeuVbOKiF8eNnQWWGvGYse8.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=6d58ae16856bfbd847c93845a35df0e403817aa3",
+   "excerpt": "Hello everyone, I'm happy to share my latest project with you. I used various AI tools to create this video, and you can see all of them listed at the end of the video. I hope you enjoy it. submitted by /u/DeusExMagicka [link] [comments]"
   },
   {
    "id": "fa830ce9c845",
@@ -929,6 +1095,16 @@
    }
   },
   {
+   "id": "0a178fabd551",
+   "title": "Onslaught!",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vlfzic/onslaught/",
+   "date": "2026-08-11T12:25:01.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/j1r1qjc0nqih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c0fe9a7b8ed7bfd0e15b8ca4e6c8fa7647f5f9ca",
+   "excerpt": "1920 x 1080 Wallpaper submitted by /u/Zenchilada [link] [comments]"
+  },
+  {
    "id": "b721078c06e4",
    "title": "The Cornball Endgame of Cornball",
    "link": "https://www.reddit.com/r/aivideo/comments/1vlfy68/the_cornball_endgame_of_cornball/",
@@ -989,6 +1165,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "989cd7546abd",
+   "title": "Wraiths",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vlf1k9/wraiths/",
+   "date": "2026-08-11T11:40:37.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/e92nkawdgqih1.png?width=140&amp;height=140&amp;auto=webp&amp;s=a3bafbb488c79c21cbcb642583c53bb0096be0a3",
+   "excerpt": "submitted by /u/Dropdeadlegs84 [link] [comments]"
   },
   {
    "id": "4589abbb5d8d",
@@ -2123,7 +2309,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, safetensors, minimax, minimax-h3, h3, video",
    "hf": {
-    "likes": 106,
+    "likes": 111,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7449,195 +7635,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ZmR3YXFwcGF2d2hoMRUOAWvBDN7vrYJths8TGpEUSmfb5xQyxbV-PcxzvAM-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa605d6bec34cc6a2a42469195594f48ccbe52cc",
    "excerpt": "submitted by /u/Swimming-Tooth2422 [link] [comments]"
-  },
-  {
-   "id": "043317c34a7a",
-   "title": "Lightx2v has just released a Prompt generator for the Minimax H3. Simply enter a short Prompt and let it work magic: no need more \"Chadgpt Prompts\"...👍",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vhugqo/lightx2v_has_just_released_a_prompt_generator_for/",
-   "date": "2026-08-07T08:07:17.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://preview.redd.it/5zf16r5auwhh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=32a8e61afb776c0abb162e9809960aada736c8ed",
-   "excerpt": "Info https://huggingface.co/lightx2v/MiniMax-H3-Prompt-Rewriter-LoRA An open, local prompt rewriter for text-to-audio-video (T2VA) generation with MiniMax-H3, fine-tuned as a LoRA adapter on top of Qwen3.6-27B. Short prompt ──► this Prompt Rewriter LoRA ──► structured H3 prompt │ Official MiniMax-H3 weights ──► LightX2V inference ◄─────┘ │ ▼ synchronized video + audio submitted by /u/ayakitodev [l"
-  },
-  {
-   "id": "a9346084f50c",
-   "title": "cornbox/krea2-raw-merge-v1_2",
-   "link": "https://huggingface.co/cornbox/krea2-raw-merge-v1_2",
-   "date": "2026-08-07T07:46:48.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, license:other, diffusers:Krea2Pipeline",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3477ccc00245",
-   "title": "Amber Batik #171",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vhty56/amber_batik_171/",
-   "date": "2026-08-07T07:35:42.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/8wbgzdi1pwhh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=afea204a51c56097f1fef8399fd142589129a697",
-   "excerpt": "submitted by /u/Slave_Human [link] [comments]"
-  },
-  {
-   "id": "286cb6430876",
-   "title": "MelloModels/Mellos_HTTYD_Lora_for_WAN2.2_t2v",
-   "link": "https://huggingface.co/MelloModels/Mellos_HTTYD_Lora_for_WAN2.2_t2v",
-   "date": "2026-08-07T07:30:39.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-video, wan2.2, lora, how-to-train-your-dragon, httyd",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "9c91176d0dc7",
-   "title": "[Original TV] When a Smuggler, a Robot, and a Giant Eagle meet in a Cyberpunk Bar | ShinWatcher 06",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vhts0a/original_tv_when_a_smuggler_a_robot_and_a_giant/",
-   "date": "2026-08-07T07:24:59.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/c2NuNHc0YW9td2hoMSTv2Xq65gJiXLv8zAUZIYe2AGZRlEppUlF3hLAzLZcQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=25ceda7b658b96a4074d21ba0ff8b9936f323490",
-   "excerpt": "submitted by /u/keaterge [link] [comments]"
-  },
-  {
-   "id": "07555d76cfbd",
-   "title": "Flying to the Island",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vhtjfg/flying_to_the_island/",
-   "date": "2026-08-07T07:10:56.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bjB2ZWYycWxrd2hoMTO-SKoIUDr_5lP8O2n_xDj6X8m17hdcTZK8FytZ492u.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1de843d6da3df38b6e1d41c47f85c92921ab3aa7",
-   "excerpt": "submitted by /u/love1008 [link] [comments]"
-  },
-  {
-   "id": "b19db7df7c7a",
-   "title": "Meritxell[OC]",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vhtgb4/meritxelloc/",
-   "date": "2026-08-07T07:05:55.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/mhxcfqfqjwhh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d80836be9aaf499ce56b9e932de76e340d0f4dce",
-   "excerpt": "submitted by /u/Gold-Lengthiness-760 [link] [comments]"
-  },
-  {
-   "id": "6dbad843653a",
-   "title": "The Diner.",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vhtccc/the_diner/",
-   "date": "2026-08-07T06:59:54.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/835b8tmniwhh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e85ca5dd4390d427aec709a3bc6f03ff5245c23a",
-   "excerpt": "submitted by /u/This_is_McCarth [link] [comments]"
-  },
-  {
-   "id": "633214038040",
-   "title": "Thank you to the open-source community. MiniMax H3 literally helped me through my depression.",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vhsopm/thank_you_to_the_opensource_community_minimax_h3/",
-   "date": "2026-08-07T06:21:46.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "For the past several months, I’ve been in a pretty dark place mentally. Dealing with depression has completely drained my energy, and one of the only things that kept me going was diving into my creative projects. It was my escape and my way of processing everything. For a while, I was relying heavily on Seedance 2.0 to bring my ideas to life. Don't get me wrong, it's a fantastic tool, and I loved"
-  },
-  {
-   "id": "64a286cdcd45",
-   "title": "Kubrick's dolly camera zoom prompt Minimax H3 local",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vhsmvh/kubricks_dolly_camera_zoom_prompt_minimax_h3_local/",
-   "date": "2026-08-07T06:18:57.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/MmZrZWw0ZzNid2hoMQfwhwBXcuBqrjo8S-MazuoDSLWgGpRRh6-GJkJ9PWaH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=56619cb1da1d3360e4f10b981e0909578d704076",
-   "excerpt": "Set in Saul Goodman's waiting room. Walter breaks the environment itself, violently tearing away the set to reveal Tuco's junkyard. integrated_multimodal_description: [Shot 1] Live-action, cinematic. Saul Goodman's cramped waiting room. Walter and Jesse sit rigidly on a couch. A slow dolly zoom unnervingly distorts the background. The stoic man (S1) states: [English] This entire room is just a fra"
-  },
-  {
-   "id": "e5ffe241b559",
-   "title": "SoitMal/Qwen-Image-Edit-Rapid-AIO",
-   "link": "https://huggingface.co/SoitMal/Qwen-Image-Edit-Rapid-AIO",
-   "date": "2026-08-07T06:14:04.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyUI, qwen, qwen-edit, t2i, i2i, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "545324b5bcbc",
-   "title": "unsloth/HiDream-I1-Fast",
-   "link": "https://huggingface.co/unsloth/HiDream-I1-Fast",
-   "date": "2026-08-07T06:07:09.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-generation, HiDream.ai, text-to-image, en",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c4436b665287",
-   "title": "unsloth/HiDream-I1-Dev  (♥ 1)",
-   "link": "https://huggingface.co/unsloth/HiDream-I1-Dev",
-   "date": "2026-08-07T06:05:38.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, image-generation, HiDream.ai, text-to-image, en",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c43c456a804a",
-   "title": "realrebelai/Rebels_w4a8s  (♥ 15)",
-   "link": "https://huggingface.co/realrebelai/Rebels_w4a8s",
-   "date": "2026-08-07T05:42:18.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 15. Tags: w4a8, quantized, int4, comfyui, comfy-kitchen, convrot",
-   "hf": {
-    "likes": 23,
-    "downloads": 19,
-    "pipeline": "trending image"
-   }
-  },
-  {
-   "id": "e4de2c41bb3d",
-   "title": "I was Reincarnated as a Mosquito",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vhrtl5/i_was_reincarnated_as_a_mosquito/",
-   "date": "2026-08-07T05:33:44.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZHdlNGsxczgzd2hoMVgPiyOnhazDwRvhxVIV587862iPodQke9etL1kWfpA7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=34cff20d29b6c8b5b5b34b1bc2dd896c621398c1",
-   "excerpt": "submitted by /u/SupperTime [link] [comments]"
   }
  ]
 }
