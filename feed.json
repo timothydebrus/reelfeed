@@ -1,6 +1,32 @@
 {
- "updated": "2026-08-13T06:47:58.808Z",
+ "updated": "2026-08-13T08:45:23.477Z",
  "items": [
+  {
+   "id": "5118453b153f",
+   "title": "RESIDENT EVIL",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vn4wdy/resident_evil/",
+   "date": "2026-08-13T08:29:46.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NHQ5ZmJodTFzM2poMeetHkVTQH6z44yq3PdlesiJjsdE-ZBpBWTbl0U9giUL.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c9b6b5eceef35a7aa81af1dccf803a9736b9e65f",
+   "excerpt": "submitted by /u/No-Invite8044 [link] [comments]"
+  },
+  {
+   "id": "d8905ac9eebd",
+   "title": "ZelenyshMolokosos/VozduhanAi",
+   "link": "https://huggingface.co/ZelenyshMolokosos/VozduhanAi",
+   "date": "2026-08-13T06:54:28.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: pytorch, svinnoe, rylo, text-to-image, ru, uk",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "08c43333496e",
    "title": "galactoid34/ananyav3_klein",
@@ -322,6 +348,22 @@
    "excerpt": "submitted by /u/earthsaver77 [link] [comments]"
   },
   {
+   "id": "dbef7ac51f9e",
+   "title": "bghira/flux-anyflow-e621-stage1",
+   "link": "https://huggingface.co/bghira/flux-anyflow-e621-stage1",
+   "date": "2026-08-12T23:01:00.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, flux-diffusers, text-to-image, image-to-image, simpletuner",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
    "id": "7d625cfee351",
    "title": "guillekenzo/aros-174d2b0c-SereneVertex",
    "link": "https://huggingface.co/guillekenzo/aros-174d2b0c-SereneVertex",
@@ -419,6 +461,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/dnhkd25mMzRrMGpoMX0Qg6sdchG-ffC6jKqF2MYkV_XgRSX7uPZ6LSSXr4RK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d73d4236fa7d62972db8feb4fe1a6642843a1e65",
    "excerpt": "submitted by /u/refututrends [link] [comments]"
+  },
+  {
+   "id": "66ca1e1d7fd8",
+   "title": "TheDivergentAI/ltx25-turbo-distill-lora  (♥ 2)",
+   "link": "https://huggingface.co/TheDivergentAI/ltx25-turbo-distill-lora",
+   "date": "2026-08-12T21:36:16.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: ltx, text-to-video, lora, ltx-2.5, distillation, template:diffusion-lora",
+   "hf": {
+    "likes": 2,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
   },
   {
    "id": "8a7ac9d552d7",
@@ -1580,7 +1638,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 104,
+    "likes": 110,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -1745,7 +1803,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: gguf, quantized, image-to-video, text-to-video, video-to-video, audio-to-video",
    "hf": {
     "likes": 14,
-    "downloads": 0,
+    "downloads": 190,
     "pipeline": "image-to-video"
    }
   },
@@ -7530,58 +7588,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ZHhzdjBrbXFvNWloMU_1UqbjWrWMGtMib5F4aOQ8-n0l0zUzSOOBjCeqD6G7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e4d6f238d477e029c13b7b96a3c32546d938370",
    "excerpt": "submitted by /u/PomegranateFine7427 [link] [comments]"
-  },
-  {
-   "id": "5dc697394e8b",
-   "title": "Victory",
-   "link": "https://www.reddit.com/r/midjourney/comments/1viv3nz/victory/",
-   "date": "2026-08-08T12:45:14.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bzNlZmk1aTZkNWloMcDaaML064tUFbVVX8gqU1xDMh5SHZOJZqPxytkNcvYU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a2ec0bc5bd35cc033e0b5b0038a202046964759",
-   "excerpt": "submitted by /u/Dropdeadlegs84 [link] [comments]"
-  },
-  {
-   "id": "f4592c49b835",
-   "title": "CaptainPollutionTV/True-Multiverse",
-   "link": "https://huggingface.co/CaptainPollutionTV/True-Multiverse",
-   "date": "2026-08-08T12:32:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, captainpollutiontv, snapperzaff",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "05b714f6425b",
-   "title": "6lockisha/B_size_slider",
-   "link": "https://huggingface.co/6lockisha/B_size_slider",
-   "date": "2026-08-08T12:20:56.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d3cb8440ab54",
-   "title": "The Ancient Aliens Awakening by SeN Art",
-   "link": "https://www.reddit.com/r/aivideo/comments/1viu5mb/the_ancient_aliens_awakening_by_sen_art/",
-   "date": "2026-08-08T11:59:25.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZGUyZnpoeHo0NWloMVPo_dUOOdbuIS8WfZ96cOC3uzWpRPtTbto3nDs36rMi.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbbccbfabbcc186de3e378a8f8e985aa56f5160f",
-   "excerpt": "submitted by /u/SeN_Art [link] [comments]"
   }
  ]
 }
