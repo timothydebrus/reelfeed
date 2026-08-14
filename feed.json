@@ -1,6 +1,70 @@
 {
- "updated": "2026-08-14T11:59:32.971Z",
+ "updated": "2026-08-14T13:46:16.031Z",
  "items": [
+  {
+   "id": "f717354c74a8",
+   "title": "asd44633/flux0.1",
+   "link": "https://huggingface.co/asd44633/flux0.1",
+   "date": "2026-08-14T13:21:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "54d2c19ce76e",
+   "title": "Hit 100K views overnight on this on | WARDEN Ep 7 | Still zero dialogue 🎬 🍿",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vo6n9u/hit_100k_views_overnight_on_this_on_warden_ep_7/",
+   "date": "2026-08-14T13:00:32.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eXJlczd4ZHA4Y2poMf_wtDJami20e9UGlPs23R-U-X43K_RCx4kbw8moB3Yd.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=187f631e2bda7566bba208da576494ad1ef78b16",
+   "excerpt": "submitted by /u/Electrical-Shop-2076 [link] [comments]"
+  },
+  {
+   "id": "e13497217547",
+   "title": "Minimax H3 SFW ♥: Stripe Strobe",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vo6cdw/minimax_h3_sfw_stripe_strobe/",
+   "date": "2026-08-14T12:47:27.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/YjE5NGtlbHI2Y2poMV2LAwpZKQZITlwLwaNjnWaZPqoRQrwad4idZzFlmmpt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=83ae2af7ebeeaaa86174cae3b448936366e2c69b",
+   "excerpt": "submitted by /u/freestylez79 [link] [comments]"
+  },
+  {
+   "id": "751bd49f4187",
+   "title": "Still Loading — Ep 2, \"Available\" (office sitcom, made with MiniMax H3)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vo6a3x/still_loading_ep_2_available_office_sitcom_made/",
+   "date": "2026-08-14T12:44:44.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/cTJ4NTcwaGg2Y2poMQzOL8vrcOApdn1cC5yTUDSq46-SkACECqKggk3EBIiH.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9fd9331274432b44f7607d0fbb7bee1a32e0142d",
+   "excerpt": "submitted by /u/Last-Health3222 [link] [comments]"
+  },
+  {
+   "id": "1f4acc1d7981",
+   "title": "yeoj34760/Anima-2.9B",
+   "link": "https://huggingface.co/yeoj34760/Anima-2.9B",
+   "date": "2026-08-14T12:27:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, anima, comfyui, text-to-image, en, arxiv:2401.02415",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "9b5b6aa74cfa",
    "title": "Tridactylus",
@@ -46,6 +110,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "1fbb84a48b75",
+   "title": "THE FIGHT(AI Shortfilm)how is it?",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vo35qp/the_fightai_shortfilmhow_is_it/",
+   "date": "2026-08-14T10:08:12.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aWd2MzQ3cWdlYmpoMWtwb7-qMNiRoFL9hsRgGQ5A3-4Rdygy5tk_szB3f6hl.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=99c256a4ebce04c271efd92888d38ce57df4b398",
+   "excerpt": "submitted by /u/MusicLover99977 [link] [comments]"
   },
   {
    "id": "96b3256cd837",
@@ -3326,7 +3400,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 145,
+    "likes": 149,
     "downloads": 10106,
     "pipeline": "trending image"
    }
@@ -5064,7 +5138,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, text-to-video, image-to-video, audio-video-generation, diffusion-transformer, merge",
    "hf": {
-    "likes": 28,
+    "likes": 30,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7456,72 +7530,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/Mmdwd3F2bGVuZWloMUdOgYQXia0noE-hGlftS7Tjb4IED1BESvxVfoMuUunF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=22d999900a960ebfe92bec5865ad070807f65326",
    "excerpt": "just a bit of fun but with some of the improvements over the last few days (Spectrum Apply MiniMax H3),(turbo_lora),(MiniMax H3 Low VRAM Attention) (MiniMax H3 Chunk FeedForward) 12 step with 0.7 mp i can make this video in 16 min on just 16 gb vram(rtx 5070 ti) and only 32 gb ram submitted by /u/InternationalBid831 [link] [comments]"
-  },
-  {
-   "id": "cb48bd7ac73f",
-   "title": "Welcome to the DCC",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vjz9mq/welcome_to_the_dcc/",
-   "date": "2026-08-09T19:43:53.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/bktyjv96keih1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d784e6689a6cc581f23fb57975e10fb6ec65151c",
-   "excerpt": "Nothing But Thieves - Welcome to the DCC submitted by /u/Sapere_aude_69 [link] [comments]"
-  },
-  {
-   "id": "a89a484b8d42",
-   "title": "Vintage Japanese print shop",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vjz31p/vintage_japanese_print_shop/",
-   "date": "2026-08-09T19:36:28.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/3nxu4sscjeih1.png?width=140&amp;height=140&amp;auto=webp&amp;s=76bb8801d822eb81b3c066a9ce70579859e550b0",
-   "excerpt": "Prompts are just the objects like \"vending machine\", \"ramen\", and \"cassette tape\" Use this moodboard to get the same style: --p m7485417010721980455 I noticed using the images themselves as \"image references\" is more effective to replicate the style submitted by /u/BenAttanasio [link] [comments]"
-  },
-  {
-   "id": "700247b13669",
-   "title": "Anthropic is turning Claude Code’s auto mode on by default",
-   "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-   "date": "2026-08-09T19:20:32.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Programming with Claude Code will soon require even less human oversight."
-  },
-  {
-   "id": "899f386c81d6",
-   "title": "Gen AI Hospital | Episode 1",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vjynf0/gen_ai_hospital_episode_1/",
-   "date": "2026-08-09T19:19:11.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dWQ2dWg4aGNnZWloMd5H61CQkOxEYhvxtK8d2E8zDC54rU9R6CMj2I4nd3JX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c24088e5e4cefdba7bcc2887ed4a8dc1bb60f369",
-   "excerpt": "submitted by /u/ScriptLurker [link] [comments]"
-  },
-  {
-   "id": "83e2e7460fa8",
-   "title": "sSANCHESs/PinkCherry_MiniMax-H3",
-   "link": "https://huggingface.co/sSANCHESs/PinkCherry_MiniMax-H3",
-   "date": "2026-08-09T19:13:15.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, text-to-video, minimax-h3, license:apache-2.0, endpoints_compatible, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "95ba105fba59",
-   "title": "Agent Monarch | Jailbreak Final Eps",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vjyevi/agent_monarch_jailbreak_final_eps/",
-   "date": "2026-08-09T19:09:55.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/c242aGxtYTNlZWloMRbwXgG14_Oqhhq9T1ocXBf8jRbr5h0mPv7CvPxHDibp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1e9a00883496e24323f1117f27bf167dd6087a00",
-   "excerpt": "submitted by /u/MKVLTA [link] [comments]"
   }
  ]
 }
