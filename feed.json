@@ -1,6 +1,63 @@
 {
- "updated": "2026-08-14T15:09:06.520Z",
+ "updated": "2026-08-14T16:07:32.847Z",
  "items": [
+  {
+   "id": "282839fea88f",
+   "title": "We Stole a UFO TrishaCode DOT COM",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vobb8x/we_stole_a_ufo_trishacode_dot_com/",
+   "date": "2026-08-14T16:02:23.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YnR5MzAzZ3I1ZGpoMS-hCqUI_3JsACrUdYcNJpXRNuE6LfhnLh_y9oVmHMc-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb069e7fbcf872c0b5a48b293908bd808e771c1f",
+   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
+  },
+  {
+   "id": "8e9fd5bf233d",
+   "title": "Elara meets the Dragon",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vobafl/elara_meets_the_dragon/",
+   "date": "2026-08-14T16:01:31.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OGI5ZnJ4dmo1ZGpoMcIcheRm_sVyWS6lWPaufthzji76XTpvuwU5MSugFNIj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7f31f5742f7d63a9b3fabdf543cc13318714181",
+   "excerpt": "submitted by /u/InsertCointent [link] [comments]"
+  },
+  {
+   "id": "07140dc7980b",
+   "title": "The Fetch Machine - My first narrative short in Seedance",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vob01a/the_fetch_machine_my_first_narrative_short_in/",
+   "date": "2026-08-14T15:50:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/OXZ5NDQ1YWozZGpoMYp4wCCZIEEQ-1C6nwCfu3woTSCC5AKdxrNYyKWvKq1_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=856c852da036ff68f25f11affa72b77a0c62439e",
+   "excerpt": "submitted by /u/grajagans [link] [comments]"
+  },
+  {
+   "id": "d0a06ebad8a6",
+   "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+   "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+   "date": "2026-08-14T15:43:28.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]"
+  },
+  {
+   "id": "00a63471df08",
+   "title": "FIIS/pennybarber",
+   "link": "https://huggingface.co/FIIS/pennybarber",
+   "date": "2026-08-14T15:05:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "042796346f67",
    "title": "Kog is going deeper to squeeze more inference out of GPUs",
@@ -82,6 +139,16 @@
    "cat": "community",
    "thumb": "",
    "excerpt": "I‘m running on a tiny 16GB MacBook, so the biggest I managed to run is a Q4 quant in 960x720 up to 17 seconds. The quality was OKish but far from great. Now I wanted to see, if LTX2.5 brings some improvement. So I downloaded all I needed (Gemma4, the VAEs, the distilled model … but this time as Q3). I‘m using a single pass workflow, so no upscaler. I took my old workflow and replaced all the files"
+  },
+  {
+   "id": "81e5cc10e8e1",
+   "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+   "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+   "date": "2026-08-14T14:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]"
   },
   {
    "id": "ed8afca34ed0",
@@ -633,6 +700,17 @@
     "downloads": 0,
     "pipeline": "text-to-video"
    }
+  },
+  {
+   "id": "ef1921536119",
+   "title": "State of Open Models: Summer 2026 Observations",
+   "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+   "date": "2026-08-14T00:00:00.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
   },
   {
    "id": "abd5e6986263",
@@ -3704,7 +3782,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 151,
+    "likes": 152,
     "downloads": 10106,
     "pipeline": "trending image"
    }
@@ -7413,106 +7491,6 @@
    "isModel": true,
    "thumb": "https://preview.redd.it/j7c7swdgbhih1.png?width=68&amp;height=36&amp;auto=webp&amp;s=908ba7a79129d4da9ddcc81df40e5c06ca6cc397",
    "excerpt": "If you read -> huge claims + AI like generated presentation + no negative comment AND \"$10 to download on my patreon/whatever\" = they're scammers. Period. 1- Anyone leaving a negative comment or tiny critique gets deleted and instantly banned, so you will never read any real user experience. 2- They're not selling finetunes but poor merge. Made with Base model + some good, often freely available L"
-  },
-  {
-   "id": "94a28534aab9",
-   "title": "LazyHuman/maria-thumbnail",
-   "link": "https://huggingface.co/LazyHuman/maria-thumbnail",
-   "date": "2026-08-10T04:53:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, flux, lora, template:sd-lora, fluxgym",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "b478b75f4ced",
-   "title": "JohJohnJohn/Z-Image-Turbo",
-   "link": "https://huggingface.co/JohJohnJohn/Z-Image-Turbo",
-   "date": "2026-08-10T04:32:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1759194c8bc1",
-   "title": "Dekonstruktio/28",
-   "link": "https://huggingface.co/Dekonstruktio/28",
-   "date": "2026-08-10T04:25:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, krea, krea-2, fal-ai",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "496c69df70de",
-   "title": "Burned 5 mins and no money for 10 second fantasy segment using gemini",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vkat6k/burned_5_mins_and_no_money_for_10_second_fantasy/",
-   "date": "2026-08-10T04:24:24.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/N2kwbzhyZG41aGloMTtQIMjg7s-eepIERxx7h3e1-LNo-qe75J_CzJPFRPIO.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a8e5da4ca111c1ad5ac6ae5f4ad89640c8deae9",
-   "excerpt": "submitted by /u/Et4546 [link] [comments]"
-  },
-  {
-   "id": "f6e7ac4c2bef",
-   "title": "joyfox/MiniMax-H3-Turbo  (♥ 19)",
-   "link": "https://huggingface.co/joyfox/MiniMax-H3-Turbo",
-   "date": "2026-08-10T04:20:19.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 19. Tags: comfyui, lora, minimax-h3, text-to-video, image-to-video, video-generation",
-   "hf": {
-    "likes": 50,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "f03dd427f702",
-   "title": "Dekonstruktio/15",
-   "link": "https://huggingface.co/Dekonstruktio/15",
-   "date": "2026-08-10T04:13:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, krea, krea-2, fal-ai",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "abdd8acbafb1",
-   "title": "Smoking at the back door of the mini market - EP 7",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vk9rlu/smoking_at_the_back_door_of_the_mini_market_ep_7/",
-   "date": "2026-08-10T03:30:58.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aHdjZzlzNjF3Z2loMWFg2Nbr4aYrR0_Di50j2U4DPifc4N04TVaaqVEe2fwh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=295fe609e9353b659528118428b7b919668fcaf2",
-   "excerpt": "submitted by /u/Stunning_Act_1530 [link] [comments]"
   }
  ]
 }
