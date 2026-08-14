@@ -1,6 +1,124 @@
 {
- "updated": "2026-08-14T13:46:16.031Z",
+ "updated": "2026-08-14T15:09:06.520Z",
  "items": [
+  {
+   "id": "042796346f67",
+   "title": "Kog is going deeper to squeeze more inference out of GPUs",
+   "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+   "date": "2026-08-14T14:50:11.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+  },
+  {
+   "id": "c6854d9a1627",
+   "title": "DUEL",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vo9d0t/duel/",
+   "date": "2026-08-14T14:49:32.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MDVnaWt3MXBzY2poMd5nv3VmTtOEUP0padEVqx0eFEwwLJrOWYhggn6YHytx.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5846fbb44217e3430e7f46987348f20be3665034",
+   "excerpt": "submitted by /u/FastkitNic [link] [comments]"
+  },
+  {
+   "id": "c5a49098ff73",
+   "title": "I have the ability to enter ppl dreams",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vo912w/i_have_the_ability_to_enter_ppl_dreams/",
+   "date": "2026-08-14T14:36:36.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eDhnZmkzZGdxY2poMaHUMXjTXaiGkDRzp3mlX1I07iRWxma1pl0qdamJSfX4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=73a565e803cc80c874e5ecd0235ce40103e697c3",
+   "excerpt": "submitted by /u/Interesting_Emu4922 [link] [comments]"
+  },
+  {
+   "id": "bd26745e187d",
+   "title": "Superklok/SunnyChuxemLoRA",
+   "link": "https://huggingface.co/Superklok/SunnyChuxemLoRA",
+   "date": "2026-08-14T14:18:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, stable-diffusion, stable-diffusion-3.5, base_model:stabilityai/stable-diffusion-3.5-large",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c568c36f0a82",
+   "title": "Unilinear/KinDiffusion",
+   "link": "https://huggingface.co/Unilinear/KinDiffusion",
+   "date": "2026-08-14T14:11:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion, sdxl, pulid, kinship-image-generation, text-to-image, license:apache-2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0fccedf8ea19",
+   "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+   "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+   "date": "2026-08-14T14:05:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+  },
+  {
+   "id": "86f5b1134732",
+   "title": "I accidentally ran a LTX2.5 workflow with a LTX2.3 model …",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo86sb/i_accidentally_ran_a_ltx25_workflow_with_a_ltx23/",
+   "date": "2026-08-14T14:04:08.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "I‘m running on a tiny 16GB MacBook, so the biggest I managed to run is a Q4 quant in 960x720 up to 17 seconds. The quality was OKish but far from great. Now I wanted to see, if LTX2.5 brings some improvement. So I downloaded all I needed (Gemma4, the VAEs, the distilled model … but this time as Q3). I‘m using a single pass workflow, so no upscaler. I took my old workflow and replaced all the files"
+  },
+  {
+   "id": "ed8afca34ed0",
+   "title": "How do you get fast-moving projectiles (arrows hitting cavalry) to work in I2V?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo7wva/how_do_you_get_fastmoving_projectiles_arrows/",
+   "date": "2026-08-14T13:53:32.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/b85547wuhcjh1.jpg?width=140&amp;height=78&amp;auto=webp&amp;s=f267b6bd09b01e5f5b3039f57bbca854128d8033",
+   "excerpt": "submitted by /u/nikhilprasanth [link] [comments]"
+  },
+  {
+   "id": "1ba59deea3ed",
+   "title": "MiniMaxH3 vs Flux3",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo7kj8/minimaxh3_vs_flux3/",
+   "date": "2026-08-14T13:39:08.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/jefharris [link] [comments]"
+  },
+  {
+   "id": "eeda587fcaff",
+   "title": "mickmumpitz/Wan2.1-Pano360-LoRA",
+   "link": "https://huggingface.co/mickmumpitz/Wan2.1-Pano360-LoRA",
+   "date": "2026-08-14T13:24:12.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, wan2.1, text-to-video, image-to-video, panorama, 360",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
   {
    "id": "f717354c74a8",
    "title": "asd44633/flux0.1",
@@ -26,6 +144,33 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/eXJlczd4ZHA4Y2poMf_wtDJami20e9UGlPs23R-U-X43K_RCx4kbw8moB3Yd.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=187f631e2bda7566bba208da576494ad1ef78b16",
    "excerpt": "submitted by /u/Electrical-Shop-2076 [link] [comments]"
+  },
+  {
+   "id": "3b8f04701b19",
+   "title": "hook171/sofia",
+   "link": "https://huggingface.co/hook171/sofia",
+   "date": "2026-08-14T12:59:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f482f01856db",
+   "title": "Same 2:47 mini-documentary, rebuilt shot-for-shot with LTX-2.5 — an honest head-to-head vs MiniMax H3 on 16 GB (152 takes, same audio, same edit)",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo6enw/same_247_minidocumentary_rebuilt_shotforshot_with/",
+   "date": "2026-08-14T12:50:14.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/OGIxYnp6eGQ3Y2poMR16T52GXPVCbBB0SBBTlDjqAGdwGuvRAEFZDefqqkmy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=970b1df398ab0e40cdcf12c18e874d1f979ff3a3",
+   "excerpt": "Two days ago LTX-2.5 dropped with day-0 ComfyUI support, so I did the only reasonable thing: I rebuilt my entire H3 Socrates mini-documentary (previous post: https://www.reddit.com/r/comfyui/comments/1vknr0v/comment/p36vh29/) with it, shot for shot — same narrator track, same audio chunking, same storyboard, same audio-driven edit, same QA pipeline. Only the video model changed. RTX 5060 Ti 16 GB,"
   },
   {
    "id": "e13497217547",
@@ -112,6 +257,27 @@
    }
   },
   {
+   "id": "384c5fc5de71",
+   "title": "[Update v1.1.0 & v1.2.0] ComfyUI-MiniMax-H3-Promptor: Native Settings API Hub, Autogrow Sockets, L2VA & Audio Sync",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo3i0e/update_v110_v120_comfyuiminimaxh3promptor_native/",
+   "date": "2026-08-14T10:27:12.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/vgziyznohbjh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1985745a731a342af6076c3ddd4e4541c8416ecf",
+   "excerpt": "Hey everyone! With MiniMax H3 blowing up everywhere right now, we figured it was the perfect time to share what we’ve been building to help level up your H3 prompt workflows. When we released v1.1.0 a while back, we were so deep in dev mode that we forgot to post an update! Now that v1.2.0 is live, we’ve bundled all the new features and overhauls from both releases into one post. What’s New in v1."
+  },
+  {
+   "id": "34a384c4f900",
+   "title": "Was option to filter out workflows with api nodes removed?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo39fh/was_option_to_filter_out_workflows_with_api_nodes/",
+   "date": "2026-08-14T10:13:56.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/xwq2nljgfbjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa20608503ec89b660c69039ff7ce4df36d7e620",
+   "excerpt": "submitted by /u/kortax9889 [link] [comments]"
+  },
+  {
    "id": "1fbb84a48b75",
    "title": "THE FIGHT(AI Shortfilm)how is it?",
    "link": "https://www.reddit.com/r/aivideo/comments/1vo35qp/the_fightai_shortfilmhow_is_it/",
@@ -148,6 +314,26 @@
    "excerpt": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. Dev"
   },
   {
+   "id": "59b3839c78e1",
+   "title": "H3 as a single-image edit model",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo1aq5/h3_as_a_singleimage_edit_model/",
+   "date": "2026-08-14T08:17:22.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/Patient_Ratio4177 [link] [comments]"
+  },
+  {
+   "id": "a8ec359ddb29",
+   "title": "Wife modeled for this",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo0sao/wife_modeled_for_this/",
+   "date": "2026-08-14T07:47:20.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NjBzdDlkbWZwYWpoMfgskazSaf0GdeJZg0ebcPN2PCC5--XW35VpyDVgDORS.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=91ea4aafec6ba06795f4572de722dba108166539",
+   "excerpt": "That’s my girl! LORA trained on images of my wife. Depth maps based on recordings of her. Then added enhancements with seedance via API in comfyu submitted by /u/alecubudulecu [link] [comments]"
+  },
+  {
    "id": "6e17a1adc6a2",
    "title": "Derdisirtlan/MiniMax-H3-GGUF",
    "link": "https://huggingface.co/Derdisirtlan/MiniMax-H3-GGUF",
@@ -162,6 +348,27 @@
     "downloads": 0,
     "pipeline": "image-to-video"
    }
+  },
+  {
+   "id": "a05bc59617a0",
+   "title": "I tested EVERY sampler × scheduler combo for MiniMax-H3 + LightX2V FL2V Turbo 4-step 1.0 so you DON'T need to",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo0o5r/i_tested_every_sampler_scheduler_combo_for/",
+   "date": "2026-08-14T07:40:18.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "What I tested The setup uses MiniMax-H3 with LightX2V's minimax_h3_fl2v_turbo_4step_v1.0_768p_comfyui_bf16.safetensors LoRA: I tested the full sampler × scheduler combination matrix. Interestingly, there are quite a few combinations that produce good results besides the ones that have been discussed so far. I also included combinations that normally benefit from higher step counts. They're not nec"
+  },
+  {
+   "id": "2234729d0a6a",
+   "title": "PROJECTIFY: Projects images generated with ComfyUI onto 3D models.",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vo0gck/projectify_projects_images_generated_with_comfyui/",
+   "date": "2026-08-14T07:26:49.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y3RrbjB5cHNrYWpoMZ6Ac1p1jEU2JcU_AjEMsATzyzZ84r87i5ep2LnlLkwQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b48dd271bde83553384474e0d0374352c6074b6a",
+   "excerpt": "Intuitive projection system for AI-generated images: Ipadapter_Controlnet_Text to image pipeline. We generate the reference that will be projected onto the 3D model. We view the image to check that it has good detail. We project the image using the projection system. submitted by /u/AccordingInspector58 [link] [comments]"
   },
   {
    "id": "f4d6af468cf9",
@@ -222,6 +429,28 @@
    }
   },
   {
+   "id": "667d50472439",
+   "title": "MiniMax h3 only using 20gb vram?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vny3ib/minimax_h3_only_using_20gb_vram/",
+   "date": "2026-08-14T05:14:06.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/migynh9qx9jh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c2894e2a441ac5bbf65714a864072a3d5e642f0",
+   "excerpt": "no matter my settings h3 uses only 20gb vram, LTX uses 30gb whats pinned memory 25250?? : [INFO] Total VRAM 32607 MB, total RAM 63126 MB [INFO] pytorch version: 2.11.0+cu130 [INFO] Set vram state to: NORMAL_VRAM [INFO] Device: cuda:0 NVIDIA GeForce RTX 5090 : cudaMallocAsync [INFO] Using async weight offloading with 2 streams [INFO] Enabled pinned memory 25250.0 [INFO] Using pytorch attention [INF"
+  },
+  {
+   "id": "564ecc082d39",
+   "title": "Found a way to apply Closed Captioning over the Minimax H3 video",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vnxl9u/found_a_way_to_apply_closed_captioning_over_the/",
+   "date": "2026-08-14T04:47:18.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/1dbrwbl7t9jh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=40db00e8b2bea97a4592444832fe326839c2f158",
+   "excerpt": "It is actually simple and solved by adding this line at the end of the prompt. At the bottom-center of the screen, clean, bold white sans-serif text appears as open captions word by word. The text matches mouth movements perfectly. Hope this community will improve upon it to make it more interesting with new prompts. Example: https://reddit.com/link/1vnxl9u/video/y829gu2st9jh1/player https://previ"
+  },
+  {
    "id": "3e8dcf7a945d",
    "title": "SL-OP OR NOT! — The 1987 Game Show That Can’t Tell What’s AI",
    "link": "https://www.reddit.com/r/aivideo/comments/1vnwj5h/slop_or_not_the_1987_game_show_that_cant_tell/",
@@ -264,6 +493,17 @@
    }
   },
   {
+   "id": "abfc19c62181",
+   "title": "Really I like H3+LTX upscaler",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vnvw7x/really_i_like_h3ltx_upscaler/",
+   "date": "2026-08-14T03:21:20.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/MW9wNG94ZTFlOWpoMWm6_7sUOyatZctGtjW2VZZBnIGQlRmglhgVR__TWlp0.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9785f2f8e5c85724fe5e6a970d21ff0c98bef783",
+   "excerpt": "submitted by /u/Budget-Bunch8157 [link] [comments]"
+  },
+  {
    "id": "64db2a431972",
    "title": "What do you sell at The Strangest Flea Market?",
    "link": "https://www.reddit.com/r/aivideo/comments/1vnvl1p/what_do_you_sell_at_the_strangest_flea_market/",
@@ -288,6 +528,27 @@
     "downloads": 0,
     "pipeline": "image-to-video"
    }
+  },
+  {
+   "id": "866995872f0b",
+   "title": "MiniMax i2v (first frame) with voice cloning using either (fl2va or ref2va)",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vnv314/minimax_i2v_first_frame_with_voice_cloning_using/",
+   "date": "2026-08-14T02:42:13.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "Have seen the question of adding a cloned voice (with new dialogue) in image to video generations (starting from an exact first frame image), but have not seen a solution posted yet (I might have missed it). I stumbled on this by mistake, assigning the wrong model fl2va to a ref2va workflow. Both models work with the example prompt (prompt could probably be improved further as I was just quickly t"
+  },
+  {
+   "id": "cd2a87d89b3c",
+   "title": "First Image to Video!!!!",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vnti47/first_image_to_video/",
+   "date": "2026-08-14T01:27:34.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NjYybDdhaXlzOGpoMXakXEmUJZ2es-dUwOhmgCxeTzmNC4w9stRxtxB3bHeU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e0db44ab1a070ece26e9de5c5a4fef8a5ac22852",
+   "excerpt": "Hello! I,ve been really struggling to get image to video to work on my PC (9070XT and 32gigs of ram) and tonight I finally made this!!! Ive been struggling to learn Comfyui to create short looping videos/GIFs for a while... but now I finally got some results!!! I know its not the best, or maybe even considered good but I'm proud because it show progress!!! I'd love some feedback or even help! Than"
   },
   {
    "id": "96d9f0a00a70",
@@ -633,6 +894,16 @@
    "excerpt": "submitted by /u/kango888 [link] [comments]"
   },
   {
+   "id": "1713e6545592",
+   "title": "ComfyUI Kitchen Attention vs SageAttention",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vnl3cz/comfyui_kitchen_attention_vs_sageattention/",
+   "date": "2026-08-13T19:41:52.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "I did a quick comparison between no attention acceleration, SageAttention, and ComfyUI-Kitchen on an RTX 5090. Workflow Diffusion Model: minimax_h3_ref2va_pruned_int8_convrot.safetensors Text Encoder: qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors Video Settings Length: 5s Resolution: 1376×768 (~1 MP) Steps: 20 Sampler: res_multistep Scheduler: simple Inputs: 2 images Execution Times Attention / Acc"
+  },
+  {
    "id": "45947aa8ee00",
    "title": "OpenAI is losing its second executive this week",
    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
@@ -723,6 +994,17 @@
     "downloads": 0,
     "pipeline": "text-to-video"
    }
+  },
+  {
+   "id": "a87e61c591ff",
+   "title": "MiniMax Music 3 is live in ComfyUI! Enjoy state of the art open weight music generation 🎵",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vni9fq/minimax_music_3_is_live_in_comfyui_enjoy_state_of/",
+   "date": "2026-08-13T18:01:36.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/rmultnzzl6jh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9790bc3b1cc561a8dac023c57c37fd50fa3273bd",
+   "excerpt": "Give it lyrics and a description of the sound you're going for, and it renders a full song: intro/verse/chorus/bridge structure, consistent vocal identity, up to 5 minutes long, 32kHz 16-bit stereo out. Actual songs! Not just loops or clips. Quick flag upfront: this needs ComfyUI 0.33.0+ (or Comfy Cloud), as new model support currently ships tied to a version bump. What else to know before you try"
   },
   {
    "id": "e5b23a06de41",
@@ -1015,6 +1297,17 @@
    }
   },
   {
+   "id": "10b51a2accdd",
+   "title": "Comfy-Org/MiniMax-Music-3 · Hugging Face now online",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vnf0p2/comfyorgminimaxmusic3_hugging_face_now_online/",
+   "date": "2026-08-13T16:06:53.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/6_ySzdmmxH9zs7C5Y9ELWce67fg9jeK5h02Oq_tHlRA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a272ca08e95993be680ecd8d383ce9fcbf99284",
+   "excerpt": "submitted by /u/LadyQuacklin [link] [comments]"
+  },
+  {
    "id": "e59ddde2a482",
    "title": "We Stole a UFO off the Greys",
    "link": "https://www.reddit.com/r/aivideo/comments/1vnew43/we_stole_a_ufo_off_the_greys/",
@@ -1135,6 +1428,17 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
+  },
+  {
+   "id": "3e998d476250",
+   "title": "ComfyUI Krea 2 Edit + MiniMax H3 Prompts Generated Locally (Ep30)",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vnda0z/comfyui_krea_2_edit_minimax_h3_prompts_generated/",
+   "date": "2026-08-13T15:04:24.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/iejuDV-H8y070999JoyQbiKW5-5XopGeArg4ty6FbmQ.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=dd11cc7cf364610d5075c219efa1dd7210dbf635",
+   "excerpt": "Learn how to use Krea 2 Edit in ComfyUI to edit images, preserve character identity, replace outfits and backgrounds, and place characters into new scenes. I’ll also show you how to generate MiniMax H3 prompts locally in ComfyUI using the Video Prompt Pixaroma node. In this tutorial, I cover the complete Krea 2 editing workflow, including the required models, Edit LoRA, Krea 2 Identity node, image"
   },
   {
    "id": "1620fb35eed9",
@@ -3400,7 +3704,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 149,
+    "likes": 151,
     "downloads": 10106,
     "pipeline": "trending image"
    }
@@ -7209,327 +7513,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/aHdjZzlzNjF3Z2loMWFg2Nbr4aYrR0_Di50j2U4DPifc4N04TVaaqVEe2fwh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=295fe609e9353b659528118428b7b919668fcaf2",
    "excerpt": "submitted by /u/Stunning_Act_1530 [link] [comments]"
-  },
-  {
-   "id": "bd26a98754d8",
-   "title": "JuuRiYanaGi/wai17",
-   "link": "https://huggingface.co/JuuRiYanaGi/wai17",
-   "date": "2026-08-10T03:07:06.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, endpoints_compatible, diffusers:StableDiffusionXLPipeline, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "99b4b7f9fc6f",
-   "title": "Community PSA",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk7jtl/community_psa/",
-   "date": "2026-08-10T01:42:51.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZzBvOXluNjdjZ2loManA_Z_GK2omdp4Hy3khBmJXdpUUqcczIZXY9iwSIVbB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=514a2af0dc94cc2eaa0a4bde3a431f569a79adda",
-   "excerpt": "tl;dr - enjoy the models, but consider giving back when you can (P.S. done quickly & with many continuity errors, but they kind of make sense in context) EDIT: Haven't posted much here, but apparently folks can't easily see the workflow link in comments so here it is: https://pastebin.com/1nWJKEiN If anyone wants the other prompts I can share, but they all follow this format and are mostly just th"
-  },
-  {
-   "id": "848af11852b3",
-   "title": "\"Memories\" - A short film I made using H3 and Seedance",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vk7hoi/memories_a_short_film_i_made_using_h3_and_seedance/",
-   "date": "2026-08-10T01:40:07.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/NzEwc280czNjZ2loMW8gwDJQavZIW7JeTHN0v9PrMRX6rY3XJ-Cn851B5x-q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b634478ffb40de031bc8a3eb8464e97b257f2128",
-   "excerpt": "submitted by /u/darkshark9 [link] [comments]"
-  },
-  {
-   "id": "8e6e33cd8c0f",
-   "title": "Environmental Change - Midjourney Explorations - Landscape",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vk7g1m/environmental_change_midjourney_explorations/",
-   "date": "2026-08-10T01:38:00.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://preview.redd.it/lpvifl5bbgih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f0d7ee406fb1c85c2e8b2fc102b048e53eb2a111",
-   "excerpt": "Prompt : An Australian image of environmental change as an urban landscape acrylic painting Environmental Change - Midjourney Explorations www.tladb.com submitted by /u/tladb [link] [comments]"
-  },
-  {
-   "id": "53e6543f63b9",
-   "title": "Futuristic Alien Planet with Metallic Gold Patterns Above a Frozen Cosmic Ocean",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vk7dgv/futuristic_alien_planet_with_metallic_gold/",
-   "date": "2026-08-10T01:34:34.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/kdelgxlcbgih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bbe76e07ce3be7b082557e89f1a25ec7a3326d6",
-   "excerpt": "submitted by /u/Separate-Way5095 [link] [comments]"
-  },
-  {
-   "id": "ea2b6c048151",
-   "title": "portbreeze1223/Wan2.1-T2V-1.3B",
-   "link": "https://huggingface.co/portbreeze1223/Wan2.1-T2V-1.3B",
-   "date": "2026-08-10T01:01:33.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, t2v, video, video-generation, text-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "fb0fe4893b59",
-   "title": "Woodcut on white vellum illustrations of steam-powered biomechanicals arms",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vk5sy3/woodcut_on_white_vellum_illustrations_of/",
-   "date": "2026-08-10T00:20:59.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/le4yuc53yfih1.png?width=140&amp;height=140&amp;auto=webp&amp;s=e0b743ad30cb8ea374ad98e020e644683d9886d3",
-   "excerpt": "No srefs, just a prompt. submitted by /u/aastle [link] [comments]"
-  },
-  {
-   "id": "354a35cd06ba",
-   "title": "Luxury Lich Dom - UNDR'DRK - Midnight Drip",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vk5pdp/luxury_lich_dom_undrdrk_midnight_drip/",
-   "date": "2026-08-10T00:16:30.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/Th3dzon33 [link] [comments]"
-  },
-  {
-   "id": "cf16ca70fee7",
-   "title": "\"Memories\" - a short film I made using H3, Seedance 2.5, and traditional editing techniques.",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk5hcf/memories_a_short_film_i_made_using_h3_seedance_25/",
-   "date": "2026-08-10T00:06:31.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/cWd0dGxzYzN2ZmloMZDPNWKXVGmdqoOKW7lle2Xf28ePgL52H23l4nl0op8d.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e03f65436b630b25eef7b70d4e548b830312e8f4",
-   "excerpt": "This is a topic that is close to my heart. I've lost too many in my life to this. submitted by /u/darkshark9 [link] [comments]"
-  },
-  {
-   "id": "89474050a4cd",
-   "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-   "link": "https://huggingface.co/blog/muse-glimmer",
-   "date": "2026-08-10T00:00:00.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "70ce1451328e",
-   "title": "Premium seats are coming to ChatGPT Business",
-   "link": "https://openai.com/index/premium-seats-chatgpt-business",
-   "date": "2026-08-10T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
-  },
-  {
-   "id": "2400bb772f76",
-   "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-   "link": "https://openai.com/index/zapier",
-   "date": "2026-08-10T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
-  },
-  {
-   "id": "f7be8d43b299",
-   "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-   "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-   "date": "2026-08-10T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
-  },
-  {
-   "id": "d2d116b096ee",
-   "title": "siraxe/Venom_transformation_H3  (♥ 1)",
-   "link": "https://huggingface.co/siraxe/Venom_transformation_H3",
-   "date": "2026-08-09T23:54:52.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, image-to-video, text-to-audio, lora, minimax-h3, text-to-video",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "c6b206af6d8f",
-   "title": "MiniMax H3 native character knowledge — is there a list?",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk52qb/minimax_h3_native_character_knowledge_is_there_a/",
-   "date": "2026-08-09T23:48:32.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://preview.redd.it/667i40mfsfih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e4be25e1ff133bc4ca4c6f008a62d0a316cc4e9",
-   "excerpt": "Is there an official or community-compiled list/thread of characters MiniMax H3 can generate natively from text prompts alone? No LoRAs, reference images, or reference audio/videos. If no list exists, is anyone compiling one? submitted by /u/DJB-204 [link] [comments]"
-  },
-  {
-   "id": "06fc05bfbeb6",
-   "title": "Burned $300 to make this trailer for a REAL game",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vk40pp/burned_300_to_make_this_trailer_for_a_real_game/",
-   "date": "2026-08-09T23:00:51.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cDJ1amx1YnVqZmloMeAX3tMSvhBJ8-T63GHq0y1jluxmb6J46cVBMa23RV4Z.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ac0d9dbf221ac574292d1992078e915ceb4ac6f",
-   "excerpt": "submitted by /u/KaLoiCus [link] [comments]"
-  },
-  {
-   "id": "12cf6af3a98e",
-   "title": "yoseph97/Wan2.2-TI2V-5B",
-   "link": "https://huggingface.co/yoseph97/Wan2.2-TI2V-5B",
-   "date": "2026-08-09T22:53:22.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, diffusers, safetensors, ti2v, text-to-video, en",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "d9cd1df9a484",
-   "title": "I used just a letter from the alphabet and a moodboard. MJ generated some cool, dark images.",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vk3p2y/i_used_just_a_letter_from_the_alphabet_and_a/",
-   "date": "2026-08-09T22:46:28.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/f9sjz2mhgfih1.png?width=140&amp;height=78&amp;auto=webp&amp;s=4d6becb6cb71353894a2afff40387b4ddb8a73ea",
-   "excerpt": "submitted by /u/Lopsided-Ad-1858 [link] [comments]"
-  },
-  {
-   "id": "6b44ab764321",
-   "title": "nyxia/H3-Loras",
-   "link": "https://huggingface.co/nyxia/H3-Loras",
-   "date": "2026-08-09T22:43:37.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, minimax-h3, text-to-video, audio-video, base_model:MiniMaxAI/MiniMax-H3, base_model:adapter:MiniMaxAI/MiniMax-H3",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "d79e3417b396",
-   "title": "Red Memory",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vk3g0f/red_memory/",
-   "date": "2026-08-09T22:35:26.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/pishm2n3ffih1.png?width=140&amp;height=78&amp;auto=webp&amp;s=29c8ef883c4d180777b3d64ba78e13d7c63617f8",
-   "excerpt": "submitted by /u/WorkLucky4366 [link] [comments]"
-  },
-  {
-   "id": "ac40732f8f11",
-   "title": "Looney Kombat",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk3ej3/looney_kombat/",
-   "date": "2026-08-09T22:33:37.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NjFsYjl0bHVlZmloMQM942_ZZXvrg5c2DIvgVll5bleRt0x2-a2f9Af5qgCV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=090e9c6f8bd3f10db38c88285f115df4b705c090",
-   "excerpt": "H3 prompt: integrated_multimodal_description: A cinematic playable fighting-game sequence combining realistic modern 3D rendering with a strongly cel-shaded cartoon character, presented as an authentic classic Mortal Kombat-style side-view match. A single continuous lateral gameplay camera keeps both fighters visible full-body from head to toe on a dark ancient stone arena with dramatic torchlight"
-  },
-  {
-   "id": "b2e6285420d2",
-   "title": "dave7k/hunyuan15-robotwin-r64attn-r16ffn",
-   "link": "https://huggingface.co/dave7k/hunyuan15-robotwin-r64attn-r16ffn",
-   "date": "2026-08-09T22:11:39.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: peft, lora, video-generation, image-to-video, robotics, robotwin",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "e2e07ea1ec83",
-   "title": "Sweeney666999/Wan2.1-I2V-14B-480P-l40",
-   "link": "https://huggingface.co/Sweeney666999/Wan2.1-I2V-14B-480P-l40",
-   "date": "2026-08-09T21:15:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, i2v, video, video-generation, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 7,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "cff60baad6d5",
-   "title": "It took two years, but we finally have a 'local Sora'",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vk0wm8/it_took_two_years_but_we_finally_have_a_local_sora/",
-   "date": "2026-08-09T20:49:19.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/cGVkZGh1M2V2ZWloMbE6nMj4VLxns1QNV0N4qFS0BuIgLinaAqqY0UvfpyGW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=628ff571f3af89298a4aebfb5f999ee00935430b",
-   "excerpt": "Who remembers when OpenAI previewed Sora two years ago and the quality felt unreal? We had never seen anything like it. Back then, Sora 1 didn't even generate audio and was heavily censored. Prompt: integrated_multimodal_description: [Shot 1] Live-action, cinematic, a close-up static shot frames a glass passenger train window facing outward toward the residential houses and streets of the Tokyo su"
-  },
-  {
-   "id": "f893fb1dc932",
-   "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-   "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-   "date": "2026-08-09T20:35:17.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The AI-focused hedge fund is still making some big bets."
-  },
-  {
-   "id": "af558b6ac416",
-   "title": "CREATURES FROM BEYOND HELL",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vk02qf/creatures_from_beyond_hell/",
-   "date": "2026-08-09T20:15:57.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/4ctsp8e0qeih1.png?width=140&amp;height=140&amp;auto=webp&amp;s=8ae2b53de26b71786ffdfdacf18bcc33cb94d83d",
-   "excerpt": "submitted by /u/GaryWray [link] [comments]"
-  },
-  {
-   "id": "80619b750376",
-   "title": "26 sec videos on 16 gb vram(rtx 5070 ti) and only 32 gb ram",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vjztod/26_sec_videos_on_16_gb_vramrtx_5070_ti_and_only/",
-   "date": "2026-08-09T20:05:55.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Mmdwd3F2bGVuZWloMUdOgYQXia0noE-hGlftS7Tjb4IED1BESvxVfoMuUunF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=22d999900a960ebfe92bec5865ad070807f65326",
-   "excerpt": "just a bit of fun but with some of the improvements over the last few days (Spectrum Apply MiniMax H3),(turbo_lora),(MiniMax H3 Low VRAM Attention) (MiniMax H3 Chunk FeedForward) 12 step with 0.7 mp i can make this video in 16 min on just 16 gb vram(rtx 5070 ti) and only 32 gb ram submitted by /u/InternationalBid831 [link] [comments]"
   }
  ]
 }
