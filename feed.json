@@ -1,6 +1,126 @@
 {
- "updated": "2026-08-14T18:08:57.232Z",
+ "updated": "2026-08-14T19:16:27.765Z",
  "items": [
+  {
+   "id": "bc05ca57160a",
+   "title": "What We Can Learn from These Dark Comedies",
+   "link": "https://nofilmschool.com/learn-from-dark-comedies",
+   "date": "2026-08-14T19:02:04.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/heathers.jpg?id=67625448&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "Sometimes, you're not in the mood for rainbows and cotton candy. You need something with a bit more edge, for whatever reason. There are times as a movie viewer (or human being) that you don't feel like sunshine and want comedy with a bite. Enter the dark comedy. It's a genre I love, and it's also one of the most risky, razor-thin tones to hit as a writer and/or director. The humor still has to hi"
+  },
+  {
+   "id": "3bd02409ae0e",
+   "title": "Principles of Love | EP1",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vofys9/principles_of_love_ep1/",
+   "date": "2026-08-14T18:51:03.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dWVjamdmYXJ6ZGpoMW0Obxe07OBxvpuDAW4RuR_5-a6upl2teR8DqNGN3Sph.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fca9517446a4a6e58ffe13499bedd386177d74cb",
+   "excerpt": "submitted by /u/Kev_Ba [link] [comments]"
+  },
+  {
+   "id": "75981249a5e9",
+   "title": "TheBaldDudeCo/CineForge-Wan-Models",
+   "link": "https://huggingface.co/TheBaldDudeCo/CineForge-Wan-Models",
+   "date": "2026-08-14T18:48:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, wan, wan2.2, image-to-video, video-generation, cineforge",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "dd12ef85cf72",
+   "title": "alvdansen/h3-keyframe-animation",
+   "link": "https://huggingface.co/alvdansen/h3-keyframe-animation",
+   "date": "2026-08-14T18:36:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, minimax-h3, animation, keyframe-animation, inbetweening",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "4b7aad3873b1",
+   "title": "Film Quote of the Day: 'The Godfather Part: III' Quote That Revealed Don Corleone's Philosophy",
+   "link": "https://nofilmschool.com/the-godfather-part-iii-quote",
+   "date": "2026-08-14T18:35:31.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/the-godfather-part-iii-quote.jpg?id=67623995&width=1245&height=700&coordinates=0%2C2%2C0%2C2",
+   "excerpt": "It's safe to say that The Godfather trilogy is one of the greatest of all time. It covers the Corleone family from their time in Italy to America and then back to Italy once again. There are whole lives, a lot of death, and it plays out like a tragedy. All this is wound into three distinct mafia movies. Francis Ford Coppola and Mario Puzo built the trilogy around the friction between personal loya"
+  },
+  {
+   "id": "5a258f10d102",
+   "title": "kaddzie/My-Stars-Mira",
+   "link": "https://huggingface.co/kaddzie/My-Stars-Mira",
+   "date": "2026-08-14T18:31:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "edcd9c11df04",
+   "title": "perpetual3x/Chinese-Female-NudeShot-NSFW-LoRA-v2",
+   "link": "https://huggingface.co/perpetual3x/Chinese-Female-NudeShot-NSFW-LoRA-v2",
+   "date": "2026-08-14T18:28:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, qwen-image-2512, qwen-image, lora, text-to-image, photorealistic",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "7d6f56406dcd",
+   "title": "kaminoke0731/wan22-qx-encoders-gguf",
+   "link": "https://huggingface.co/kaminoke0731/wan22-qx-encoders-gguf",
+   "date": "2026-08-14T18:27:03.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, gguf, wan, text-to-video, image-generation, text-encoder",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "43584d1d4be1",
+   "title": "Cat Tree Upgrade",
+   "link": "https://www.reddit.com/r/aivideo/comments/1voezsk/cat_tree_upgrade/",
+   "date": "2026-08-14T18:16:30.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bXBtZTBzcnF0ZGpoMayhyA4aOAgBq0w8XM2LnIGjUEQyVeKavXYOhWEl27-_.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a520cc7e1b8f89e84b65c69595d3ed6bf4a417f6",
+   "excerpt": "submitted by /u/8bitcollective [link] [comments]"
+  },
   {
    "id": "19202950838b",
    "title": "Angeline001/angelina-lora",
@@ -84,7 +204,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 6. Tags: diffusers, video-generation, image-to-video, multi-reference, LTX-2.5, base_model:Lightricks/LTX-2.5",
    "hf": {
-    "likes": 6,
+    "likes": 7,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -902,7 +1022,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, video-generation, text-to-video, image-to-video, ltx-2.5",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -7372,123 +7492,6 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5479eb873a99",
-   "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-   "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-   "date": "2026-08-10T11:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988518/acastro_STK056_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile apps, where it will work as a chatbot that can answer questions about the vehicle's capabilities or future service needs. "
-  },
-  {
-   "id": "521113b69307",
-   "title": "KryptykAngel/QWEN_IMAGE_fp4_w_AbliteratedTE_Diffusers",
-   "link": "https://huggingface.co/KryptykAngel/QWEN_IMAGE_fp4_w_AbliteratedTE_Diffusers",
-   "date": "2026-08-10T10:30:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, fp4, Abliterated, quantized, 4-bit",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "f59d91c9dc8d",
-   "title": "Humanity has to fight nightmares of its own making when AI begins resurrecting the dead | QUANTUM 13",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vkgz5t/humanity_has_to_fight_nightmares_of_its_own/",
-   "date": "2026-08-10T10:23:36.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZWplaDVqdWh3aWloMf8Q350vRjYM4Jx824-zE7wBFwllBMBuEpzXBvagfd4F.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=08c1f68687fb678f660ee604b9a3e64c62e2c3e2",
-   "excerpt": "submitted by /u/SomexStudios [link] [comments]"
-  },
-  {
-   "id": "2a36feaa49d1",
-   "title": "PeterD69/b",
-   "link": "https://huggingface.co/PeterD69/b",
-   "date": "2026-08-10T10:14:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "98a69bb3881b",
-   "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-   "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-   "date": "2026-08-10T10:05:36.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "dd3ed843f279",
-   "title": "Putting frontier cyber models in more trusted hands",
-   "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-   "date": "2026-08-10T10:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
-  },
-  {
-   "id": "d570d2706121",
-   "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-   "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-   "date": "2026-08-10T10:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
-  },
-  {
-   "id": "e2c3dd968780",
-   "title": "Idk222222636366/Flux-NSFW-uncensored",
-   "link": "https://huggingface.co/Idk222222636366/Flux-NSFW-uncensored",
-   "date": "2026-08-10T09:26:49.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, en, base_model:black-forest-labs/FLUX.1-dev, base_model:finetune:black-forest-labs/FLUX.1-dev, license:creativeml-openrail-m, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1fee64c0bda8",
-   "title": "SOLRICKS/Mila",
-   "link": "https://huggingface.co/SOLRICKS/Mila",
-   "date": "2026-08-10T09:15:59.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, character, consistency, mila, ltx-2.3, z-image-turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
    }
   }
  ]
