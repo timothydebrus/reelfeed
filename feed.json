@@ -1,6 +1,58 @@
 {
- "updated": "2026-08-15T18:49:38.626Z",
+ "updated": "2026-08-15T19:37:34.024Z",
  "items": [
+  {
+   "id": "c1a8116b5273",
+   "title": "perpetual3x/TumblrAsian-NudeShot-NSFW-LoRA-v1",
+   "link": "https://huggingface.co/perpetual3x/TumblrAsian-NudeShot-NSFW-LoRA-v1",
+   "date": "2026-08-15T19:16:19.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, qwen-image, qwen-image-2512, lora, text-to-image, photorealistic",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "eb5d92f8d1ee",
+   "title": "anshuldudeja/testinglora",
+   "link": "https://huggingface.co/anshuldudeja/testinglora",
+   "date": "2026-08-15T19:13:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:wikeeyang/Flux2-Klein-9B-True-V3, base_model:adapter:wikeeyang/Flux2-Klein-9B-True-V3",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "73cbb223a27a",
+   "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+   "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+   "date": "2026-08-15T18:58:39.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+  },
+  {
+   "id": "1fe298713236",
+   "title": "guess im walking",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vpavtu/guess_im_walking/",
+   "date": "2026-08-15T18:52:53.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MnI2cGltczA1bGpoMeyyzjzFVfzbQ746pxNmJueJCipKCH_wG4zIZf7ZGrDF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e08040ad2e151564054512d13bfc878966b8c9f8",
+   "excerpt": "submitted by /u/superfatbeagle [link] [comments]"
+  },
   {
    "id": "553ae3e7d1ba",
    "title": "MATLOWAI/MiniMax-H3-Motion-Adapter",
@@ -12,7 +64,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, minimax-h3, lora, video, comfyui, motion",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -26,6 +78,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/NDA1ZmNpc3IxbGpoMcsAZC_tteByWl59LP7svnmSJ_GsHavho-UqArYeRHNB.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e5a0d00c05a20fb2ae20e979d9f546d2de432e3",
    "excerpt": "submitted by /u/feral-trashpanda [link] [comments]"
+  },
+  {
+   "id": "9e7bfeead18d",
+   "title": "debugdll/Blind-Image",
+   "link": "https://huggingface.co/debugdll/Blind-Image",
+   "date": "2026-08-15T18:06:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, stable-diffusion, pytorch, russian, ukrainian, english",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "92ba3dd0e172",
@@ -5345,7 +5413,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 185,
+    "likes": 186,
     "downloads": 16829,
     "pipeline": "trending image"
    }
@@ -7468,68 +7536,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "a9942745ac55",
-   "title": "h1oo7lap/Z-Image-Turbo",
-   "link": "https://huggingface.co/h1oo7lap/Z-Image-Turbo",
-   "date": "2026-08-11T03:08:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3f3ace6f7ff1",
-   "title": "siraxe/vault_dweller_H3_slider",
-   "link": "https://huggingface.co/siraxe/vault_dweller_H3_slider",
-   "date": "2026-08-11T03:05:28.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, image-to-video, text-to-audio, lora, minimax-h3, text-to-video",
-   "hf": {
-    "likes": 2,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "2b436dae6434",
-   "title": "His suit just got a promotion 😅",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vl5gmj/his_suit_just_got_a_promotion/",
-   "date": "2026-08-11T02:53:48.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YnY0MXdnOGV1bmloMcVun82rrQ_a8mC_qetDS5w_B6fpW5ASxqshKKwT8MC_.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b20ebae4ede52a4c0268c094b7607da97a3ca948",
-   "excerpt": "submitted by /u/kuldeepakkatwal [link] [comments]"
-  },
-  {
-   "id": "cd8646f464c4",
-   "title": "Leper-Con",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vl5amk/lepercon/",
-   "date": "2026-08-11T02:45:46.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZDkybXNtaHdzbmloMUsox8AtU9BcyfTU7WMd9Fd3qaCmPSDOdN2YJ_SsJyrJ.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=c7b4bd868bf6c821943eff4af1f34e48d934e725",
-   "excerpt": "submitted by /u/SonicBlink [link] [comments]"
-  },
-  {
-   "id": "5b5b03795c19",
-   "title": "Lone Traveler Standing Beneath a Gigantic Crimson Tree in a Dystopian City",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vl4xok/lone_traveler_standing_beneath_a_gigantic_crimson/",
-   "date": "2026-08-11T02:28:44.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/x5xup93xpnih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbdf3b8152f5fbc8ea007990ed33e38735d9a8bc",
-   "excerpt": "submitted by /u/Separate-Way5095 [link] [comments]"
   }
  ]
 }
