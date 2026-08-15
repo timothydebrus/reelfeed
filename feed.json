@@ -1,6 +1,54 @@
 {
- "updated": "2026-08-15T08:47:55.816Z",
+ "updated": "2026-08-15T09:43:29.225Z",
  "items": [
+  {
+   "id": "66f69b4a7811",
+   "title": "joeygambino/MiniMax-H3-comfy-native-fl2va",
+   "link": "https://huggingface.co/joeygambino/MiniMax-H3-comfy-native-fl2va",
+   "date": "2026-08-15T09:33:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, minimax-h3, comfyui, quantized, video, fl2va",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "66c1b749a070",
+   "title": "kvanrum/Chroma1-HD",
+   "link": "https://huggingface.co/kvanrum/Chroma1-HD",
+   "date": "2026-08-15T09:11:59.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, license:apache-2.0, diffusers:ChromaPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "272ddeecf178",
+   "title": "FastVideo/Wan2.2-S2V-14B-Diffusers",
+   "link": "https://huggingface.co/FastVideo/Wan2.2-S2V-14B-Diffusers",
+   "date": "2026-08-15T08:59:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, base_model:Wan-AI/Wan2.2-S2V-14B, base_model:finetune:Wan-AI/Wan2.2-S2V-14B, license:apache-2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
   {
    "id": "190bd0c28350",
    "title": "EastsideNinja88/Anima-2.9B",
@@ -4844,7 +4892,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 176,
+    "likes": 178,
     "downloads": 16829,
     "pipeline": "trending image"
    }
@@ -7429,54 +7477,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/cHFzZnlxcmprbGloMc7-_AxDKnNeAEnWOIKi4OpI4TLWOtQ-4ugWuSCreZng.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a94c2aa79f3fd01260dfdcb868be8aee772c1e0",
    "excerpt": "submitted by /u/MKVLTA [link] [comments]"
-  },
-  {
-   "id": "4c714ed72a3c",
-   "title": "Ava2000/Min_47_Illustrious",
-   "link": "https://huggingface.co/Ava2000/Min_47_Illustrious",
-   "date": "2026-08-10T19:09:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:calcuis/illustrious, base_model:adapter:calcuis/illustrious",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3d73aba28aae",
-   "title": "CH522/WAN-f4c3",
-   "link": "https://huggingface.co/CH522/WAN-f4c3",
-   "date": "2026-08-10T18:51:56.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:rzgar/Wan2.2_I2V_LightX2V_2Step, base_model:adapter:rzgar/Wan2.2_I2V_LightX2V_2Step",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ef786ac1fb1b",
-   "title": "CH522/WAN-25Real",
-   "link": "https://huggingface.co/CH522/WAN-25Real",
-   "date": "2026-08-10T18:43:04.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:rzgar/Wan2.2_I2V_LightX2V_2Step, base_model:adapter:rzgar/Wan2.2_I2V_LightX2V_2Step",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
