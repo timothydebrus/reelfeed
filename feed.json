@@ -1,6 +1,101 @@
 {
- "updated": "2026-08-15T03:07:01.556Z",
+ "updated": "2026-08-15T06:59:55.590Z",
  "items": [
+  {
+   "id": "8409ec793abb",
+   "title": "xalexmoon/hmpussy_v6_epoch30.safetensors",
+   "link": "https://huggingface.co/xalexmoon/hmpussy_v6_epoch30.safetensors",
+   "date": "2026-08-15T06:28:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:MiniMaxAI/MiniMax-H3, base_model:adapter:MiniMaxAI/MiniMax-H3",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e29b2d9f0a83",
+   "title": "AbrahamPJ/chilloutmix-inpainting-qnn",
+   "link": "https://huggingface.co/AbrahamPJ/chilloutmix-inpainting-qnn",
+   "date": "2026-08-15T06:00:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: stable-diffusion, inpainting, qualcomm, qnn, npu, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "66f2526f06e6",
+   "title": "fyhf/Hu_Tao",
+   "link": "https://huggingface.co/fyhf/Hu_Tao",
+   "date": "2026-08-15T05:15:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Muapi/hu-tao-genshin-impact, base_model:adapter:Muapi/hu-tao-genshin-impact",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0a5c637597f1",
+   "title": "Asilarkness/animegen-latent-diffusion",
+   "link": "https://huggingface.co/Asilarkness/animegen-latent-diffusion",
+   "date": "2026-08-15T03:49:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: latent-diffusion, anime, diffusion, text-to-image, pytorch, ddim",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "eea3873a8a37",
+   "title": "Random Video: This happens when you ask Seedance to generate whatever it wants",
+   "link": "https://www.reddit.com/r/aivideo/comments/1voscnq/random_video_this_happens_when_you_ask_seedance/",
+   "date": "2026-08-15T03:46:40.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/czR0MGF5MDJuZ2poMe4cj1leL-mwI3KnF192WQHiZv_uYQPjj63WSc_wchEF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e51bc73b1224dd6bf1588aac0436713e363d317a",
+   "excerpt": "submitted by /u/AthleteArtistic3121 [link] [comments]"
+  },
+  {
+   "id": "622926d5dd4d",
+   "title": "INCIDENT UE-227: TILDEN MINE — 28 MAR 92",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vos5u3/incident_ue227_tilden_mine_28_mar_92/",
+   "date": "2026-08-15T03:36:59.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dW9veDBodHBsZ2poMc-Iso0M425TZBITp3-QqFUbrhM97VDrcTUwD5zbbsJz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=08eafe912ae7e276c5e73d06472c9ee92febf733",
+   "excerpt": "submitted by /u/VIV-AF-D [link] [comments]"
+  },
+  {
+   "id": "ca51c15751bc",
+   "title": "Training",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vornsv/training/",
+   "date": "2026-08-15T03:11:36.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZWJ0YWFqZDFoZ2poMfOoMUrlEvPLdDfX8b9nDNjDqXJNydTSf1E_x1ztiMpy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=67d537949eb90a49aabdaa9eeb4d7ab0c9265cf9",
+   "excerpt": "submitted by /u/Certain_End6434 [link] [comments]"
+  },
   {
    "id": "cd1350eea7f1",
    "title": "biali/stable-diffusion-2-base",
@@ -1089,6 +1184,22 @@
    "excerpt": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with the matter. Dev"
   },
   {
+   "id": "6c6a985f6a47",
+   "title": "lxxxy6/LTX-2.5",
+   "link": "https://huggingface.co/lxxxy6/LTX-2.5",
+   "date": "2026-08-14T08:43:13.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
    "id": "59b3839c78e1",
    "title": "H3 as a single-image edit model",
    "link": "https://www.reddit.com/r/comfyui/comments/1vo1aq5/h3_as_a_singleimage_edit_model/",
@@ -1246,7 +1357,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx, ltx-video, ltx-2.3, lora, chinese-drama, audio-video",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -4490,7 +4601,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 162,
+    "likes": 171,
     "downloads": 10106,
     "pipeline": "trending image"
    }
@@ -6228,7 +6339,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, text-to-video, image-to-video, audio-video-generation, diffusion-transformer, merge",
    "hf": {
-    "likes": 31,
+    "likes": 32,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7427,92 +7538,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/d3o3a3B1YTJxa2loMUw0MZFGiDmNpbUAEqm4L2Vddfc5mODCkEIhIwD9igyg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec3887567baf10e3c83637b7fc8c5e7438bc2d93",
    "excerpt": "submitted by /u/Hamlet517 [link] [comments]"
-  },
-  {
-   "id": "4662a98c4da9",
-   "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-   "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-   "date": "2026-08-10T16:20:13.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access."
-  },
-  {
-   "id": "577558b85297",
-   "title": "Surreal Arty Moodboard Share: 001-025",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vkpg8q/surreal_arty_moodboard_share_001025/",
-   "date": "2026-08-10T16:19:36.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Zjd2bGRhMDdwa2loMRfHkDK-kXOZH2S9sWkbKEPuIrgZOxbtHkPWZ-idw5D5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5285c5cab3fc1832937f22ca547df58527d028ba",
-   "excerpt": "I love making arty mad stuff. Here are some codes, and all the rest you'll find here: https://www.goonwrite.com/select/16-surreal.htm ... have fun going crazy with them. Sharing is caring. Sur-001 : --profile 1nwjm9a Sur-002 : --profile zsazl9h Sur-003 : --profile z7k4tfg Sur-004 : --profile y3u95sz Sur-005 : --profile sc4yei1 Sur-006 : --profile sa4yyph Sur-007 : --profile o5d5h9l Sur-008 : --pro"
-  },
-  {
-   "id": "8066d6f9084f",
-   "title": "Sawfwair/MiniMax-H3-Ref2VA-MLX-8bit",
-   "link": "https://huggingface.co/Sawfwair/MiniMax-H3-Ref2VA-MLX-8bit",
-   "date": "2026-08-10T16:12:35.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, minimax_h3, minimax-h3, ref2va, apple-silicon, video-generation",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "e9a7af09abc5",
-   "title": "Rainbow Jamming",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vkoxui/rainbow_jamming/",
-   "date": "2026-08-10T16:01:28.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NGJ5MG5oMDBta2loMRr_Dk4_4gMgbqVVATNZh8hpjxHApX5gscHJuipf17Yu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2ea3dfe94eb9fd91260e4607e1c1516624f1ddf",
-   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
-  },
-  {
-   "id": "eaf83efa5207",
-   "title": "Paradise Lost - The Rigged Council",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vkoalt/paradise_lost_the_rigged_council/",
-   "date": "2026-08-10T15:38:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NWpubWNna25oa2loMbiJXDheq_2-T3NroXJQ6zt80KpKxfyiOAilpWWUYl2K.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1663d867d979a9306992457e106064fc5d1f61f7",
-   "excerpt": "submitted by /u/Optimal_Room_7917 [link] [comments]"
-  },
-  {
-   "id": "8146f3b7fccd",
-   "title": "Four takeaways from Mark Zuckerberg s massive AI manifesto",
-   "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-   "date": "2026-08-10T15:19:05.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the technology should be developed, expanded, and regulated, and how"
-  },
-  {
-   "id": "9346125d148f",
-   "title": "When You Run From You Mom",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vknhuf/when_you_run_from_you_mom/",
-   "date": "2026-08-10T15:08:28.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YW9nOXp5djBja2loMTm449eXlBGSBiXN5fO9uJSjwvaMAY2LNZuhSTCR_-6S.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3c10f410c3837a5e1896d6a295d313926f5f7c6a",
-   "excerpt": "submitted by /u/kaiwai_81 [link] [comments]"
-  },
-  {
-   "id": "cd37a613f2b0",
-   "title": "Should You Turn the 180 Rule into a 360?",
-   "link": "https://nofilmschool.com/break-180-rule-confusion",
-   "date": "2026-08-10T15:00:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/bad-boys.jpg?id=67577638&width=1200&height=800&coordinates=125%2C0%2C125%2C0",
-   "excerpt": "If you get on a set and start to discuss shot ideas and camera set-ups with your DP, you might, in the moment, hear them say, \"We can't do that. It crosses the line.\" Not some metaphysical or moral line, hopefully. They mean the line that you establish to follow the 180-degree rule. The 180-degree rule is one of the first things they drill into you when you're learning cinematography. Draw an imag"
   }
  ]
 }
