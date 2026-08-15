@@ -1,6 +1,58 @@
 {
- "updated": "2026-08-15T17:37:20.542Z",
+ "updated": "2026-08-15T18:49:38.626Z",
  "items": [
+  {
+   "id": "553ae3e7d1ba",
+   "title": "MATLOWAI/MiniMax-H3-Motion-Adapter",
+   "link": "https://huggingface.co/MATLOWAI/MiniMax-H3-Motion-Adapter",
+   "date": "2026-08-15T18:35:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, minimax-h3, lora, video, comfyui, motion",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "d082afe014ae",
+   "title": "Tricycling Reaper",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vpaeij/tricycling_reaper/",
+   "date": "2026-08-15T18:34:03.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NDA1ZmNpc3IxbGpoMcsAZC_tteByWl59LP7svnmSJ_GsHavho-UqArYeRHNB.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e5a0d00c05a20fb2ae20e979d9f546d2de432e3",
+   "excerpt": "submitted by /u/feral-trashpanda [link] [comments]"
+  },
+  {
+   "id": "92ba3dd0e172",
+   "title": "zuanfilm/H3_Minimax_res2s_rkmk2e_Workflow",
+   "link": "https://huggingface.co/zuanfilm/H3_Minimax_res2s_rkmk2e_Workflow",
+   "date": "2026-08-15T17:39:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, workflow, minimax, minimax-h3, video-generation, image-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "9219c8e42d9c",
+   "title": "Cursed 1990s News Bloopers",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vp8hhw/cursed_1990s_news_bloopers/",
+   "date": "2026-08-15T17:18:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MWtldHc0Yjlva2poMaREOMw9CpyRI5J9AO9rcd0BIQcu1AubKTwbOC-Im-ks.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=67253a5223a3d099ccf9382b29b3701fd415b827",
+   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
+  },
   {
    "id": "e061ba39792e",
    "title": "Clublou/gemma",
@@ -32,6 +84,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "8c7460b6f23a",
+   "title": "The Kosha",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vp7har/the_kosha/",
+   "date": "2026-08-15T16:39:02.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MGNyZTdpNHlna2poMb9bj4kEzEiAf180TAgO1yGlDowwtOGiGeFsHXrnq8Lw.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=83f083055684fbe076e148274ffeb1b29cd7c9e9",
+   "excerpt": "submitted by /u/Beautiful_Parking_70 [link] [comments]"
   },
   {
    "id": "10feb90d7274",
@@ -5283,7 +5345,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 184,
+    "likes": 185,
     "downloads": 16829,
     "pipeline": "trending image"
    }
@@ -7021,7 +7083,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, text-to-video, image-to-video, audio-video-generation, diffusion-transformer, merge",
    "hf": {
-    "likes": 37,
+    "likes": 38,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7468,64 +7530,6 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/x5xup93xpnih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbdf3b8152f5fbc8ea007990ed33e38735d9a8bc",
    "excerpt": "submitted by /u/Separate-Way5095 [link] [comments]"
-  },
-  {
-   "id": "1bef117919bc",
-   "title": "Cowboys on dinosaurs - Seedance",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vl4tvg/cowboys_on_dinosaurs_seedance/",
-   "date": "2026-08-11T02:23:39.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/OW1obnZmMXdvbmloMShc0QiZAT9J8dO4Uunq1eipWKXwXn3uNdZqm0OClb7o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9d2de5004e44f3a217c483a2dfd0717e717b273",
-   "excerpt": "submitted by /u/Necessary-Use-3820 [link] [comments]"
-  },
-  {
-   "id": "bbb8160efe36",
-   "title": "tango with seedance",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vl4jq5/tango_with_seedance/",
-   "date": "2026-08-11T02:10:38.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/ZTlmZHZvazJsbmloMVGKe9Q-3Fm2XN5Yk_b4U0SF-ieBEqVogonhnunijZsX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2931b475801f4f079ad48fd1a575158d7c59e767",
-   "excerpt": "submitted by /u/RabbitStunning7590 [link] [comments]"
-  },
-  {
-   "id": "d51c1d7d95a3",
-   "title": "Planet Spaniel, a nature documentary",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vl3ze8/planet_spaniel_a_nature_documentary/",
-   "date": "2026-08-11T01:44:36.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MHJ6YXhkZzBobmloMQ32LcMMKB4y8qK-1AzN6FJeGFLCwtAD5xr5P8YAvKfV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3f62201c1a1aa7318fa8d1a41bc82816c0f31ba9",
-   "excerpt": "submitted by /u/dawndrain [link] [comments]"
-  },
-  {
-   "id": "eb903d4402d9",
-   "title": "The Longest Theatrical Runs in Film History",
-   "link": "https://nofilmschool.com/longest-theatrical-runs-film-history",
-   "date": "2026-08-11T01:30:01.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/the-rocky-horror-picture-show.jpg?id=61734970&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "A story with universal themes. Characters who are endlessly quotable. Not every movie has achieved the record-breaking longevity of the ones on this list, with theatrical runs lasting a year or even decades. The movies that did earn this popularity were more than just crowd-pleasers, too. One is a Bollywood rom-com with lifelong fans. Another has roaring dinosaurs breaking free of their cages. An "
-  },
-  {
-   "id": "bd1aa70325a0",
-   "title": "xuenchang/KOTONE_LORA2",
-   "link": "https://huggingface.co/xuenchang/KOTONE_LORA2",
-   "date": "2026-08-11T01:28:43.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
