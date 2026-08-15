@@ -1,6 +1,32 @@
 {
- "updated": "2026-08-15T07:46:08.700Z",
+ "updated": "2026-08-15T08:47:55.816Z",
  "items": [
+  {
+   "id": "190bd0c28350",
+   "title": "EastsideNinja88/Anima-2.9B",
+   "link": "https://huggingface.co/EastsideNinja88/Anima-2.9B",
+   "date": "2026-08-15T08:36:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, anima, comfyui, text-to-image, en, arxiv:2401.02415",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "497fb83e385f",
+   "title": "The Forest: The Crash | Live-Action Episode 01",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vowsev/the_forest_the_crash_liveaction_episode_01/",
+   "date": "2026-08-15T07:53:06.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dnE3aGttMHp1aGpoMYvrSIKfhs1caEaj0ufYO1tI5KwzLUlF2Okm02bfuFmD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=45c67ee35d3d7ed7205b169b83e5886c4149bfd3",
+   "excerpt": "submitted by /u/Tatsu_Vision [link] [comments]"
+  },
   {
    "id": "11cec672869f",
    "title": "ENTANGLEMENT - Made with MiniMax H3",
@@ -175,7 +201,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, text-to-image, arxiv:2112.10752, arxiv:2202.00512",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 4,
     "pipeline": "text-to-image"
    }
   },
@@ -191,7 +217,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, not-for-all-audiences",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 2,
     "pipeline": "text-to-image"
    }
   },
@@ -217,7 +243,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, text-to-image, sensenova, mot, all-in-one",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 25,
     "pipeline": "text-to-image"
    }
   },
@@ -539,7 +565,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, stable-diffusion, stable-diffusion-3.5, base_model:stabilityai/stable-diffusion-3.5-large",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 22,
     "pipeline": "text-to-image"
    }
   },
@@ -555,7 +581,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, cogvideox, video-generation, thudm, text-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 10,
     "pipeline": "text-to-video"
    }
   },
@@ -721,7 +747,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, gguf, wan, text-to-video, image-generation, text-encoder",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 819,
     "pipeline": "text-to-video"
    }
   },
@@ -773,7 +799,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, text-to-video, base_model:SulphurAI/Sulphur-2-base, base_model:quantized:SulphurAI/Sulphur-2-base, region:us",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 45,
     "pipeline": "text-to-video"
    }
   },
@@ -1372,7 +1398,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 41,
     "pipeline": "image-to-video"
    }
   },
@@ -1408,7 +1434,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, text-to-video, image-to-video, image-text-to-video, video-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 122,
     "pipeline": "image-to-video"
    }
   },
@@ -1555,7 +1581,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx, ltx-video, ltx-2.3, lora, chinese-drama, audio-video",
    "hf": {
     "likes": 1,
-    "downloads": 0,
+    "downloads": 26,
     "pipeline": "text-to-video"
    }
   },
@@ -1608,7 +1634,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, image-to-video, text-to-video, video-to-video, audio-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 136,
     "pipeline": "image-to-video"
    }
   },
@@ -1723,7 +1749,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, video-generation, text-to-video, image-to-video, ltx-2.5",
    "hf": {
     "likes": 1,
-    "downloads": 0,
+    "downloads": 225,
     "pipeline": "text-to-video"
    }
   },
@@ -1880,7 +1906,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, text-to-video, image-to-video, video-generation, ltx-video, ltx-2.5",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 65,
     "pipeline": "image-to-video"
    }
   },
@@ -1963,7 +1989,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, text-to-video, image-to-video, image-text-to-video, video-to-video",
    "hf": {
     "likes": 1,
-    "downloads": 0,
+    "downloads": 86,
     "pipeline": "image-to-video"
    }
   },
@@ -2069,7 +2095,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, t2v, video, video-generation, text-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 1,
     "pipeline": "text-to-video"
    }
   },
@@ -2360,7 +2386,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, not-for-all-audiences, wan-2.2-i2v, piss, lora, template:sd-lora",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 33,
     "pipeline": "image-to-video"
    }
   },
@@ -4818,8 +4844,8 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 174,
-    "downloads": 10106,
+    "likes": 176,
+    "downloads": 16829,
     "pipeline": "trending image"
    }
   },
@@ -7451,32 +7477,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "5299900cdf5c",
-   "title": "diobrando0/ariaof2_french",
-   "link": "https://huggingface.co/diobrando0/ariaof2_french",
-   "date": "2026-08-10T18:42:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, text-to-image, krea, license:apache-2.0, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "76894e08b959",
-   "title": "Why Is There So Much Junk Food in 'Teenage Sex & Death at Camp Miasma'?",
-   "link": "https://nofilmschool.com/junk-food-in-teenage-sex-death-at-camp-miasma",
-   "date": "2026-08-10T18:38:30.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/why-is-there-so-much-junk-food-in-teenage-sex-death-at-camp-miasma.jpg?id=67599548&width=1245&height=700&coordinates=0%2C61%2C0%2C102",
-   "excerpt": "On Saturday night, I grabbed a big bag of gummy bears and settled in for a really cool horror and sex deconstruction from Jane Schoenbrun’s Teenage Sex & Death at Camp Miasma. If you saw it this weekend, you probably walked away with both the brilliant deconstruction of '80s slasher movies and a sudden, irresistible urge to buy even more junk food on the way out. One of the major themes of the mov"
   }
  ]
 }
