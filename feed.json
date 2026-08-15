@@ -1,6 +1,111 @@
 {
- "updated": "2026-08-15T15:36:56.539Z",
+ "updated": "2026-08-15T17:37:20.542Z",
  "items": [
+  {
+   "id": "e061ba39792e",
+   "title": "Clublou/gemma",
+   "link": "https://huggingface.co/Clublou/gemma",
+   "date": "2026-08-15T16:54:51.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a3cfe0b5b824",
+   "title": "Bliney/krea2-pinklips",
+   "link": "https://huggingface.co/Bliney/krea2-pinklips",
+   "date": "2026-08-15T16:52:55.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "10feb90d7274",
+   "title": "jump123/nsomob",
+   "link": "https://huggingface.co/jump123/nsomob",
+   "date": "2026-08-15T16:34:16.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:OnomaAIResearch/Illustrious-xl-early-release-v0, base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e68ddcb83011",
+   "title": "SpaceX officially closes its Cursor acquisition",
+   "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+   "date": "2026-08-15T16:30:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "AI coding startup Cursor is now officially a part of SpaceX."
+  },
+  {
+   "id": "9d5a4cdf7151",
+   "title": "Animated film trailer with Kreas + LTX + MiniMax H3",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vp73oh/animated_film_trailer_with_kreas_ltx_minimax_h3/",
+   "date": "2026-08-15T16:23:42.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/ZzkzcXZ1eHNka2poMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=554813ad5b78db53fcaed6e1b6383491f2756e64",
+   "excerpt": "submitted by /u/sixfingerlogic [link] [comments]"
+  },
+  {
+   "id": "a1358d3c37f3",
+   "title": "Bambi the Destroyer: Episode 10",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vp6s5n/bambi_the_destroyer_episode_10/",
+   "date": "2026-08-15T16:10:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aWd4enhhZDdja2poMWVNLbfXiow4D7oBUbF4V9ek8Vpgj0ggwcuO4LXtG_Zz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=54d4c24f30f2513c24ff31e8aa6cb52109832b02",
+   "excerpt": "submitted by /u/rad_city [link] [comments]"
+  },
+  {
+   "id": "836ffa1f548c",
+   "title": "when you put all of your stat points into strength",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vp6kuc/when_you_put_all_of_your_stat_points_into_strength/",
+   "date": "2026-08-15T16:02:47.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/enJwc2ptcnJha2poMebttyGwfGGVQZoiZ9u4IJQ574HZAnbGck2uwP4j863t.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a3e877c28aadd7cc7b4382cdb5d3bb2afc389e6",
+   "excerpt": "submitted by /u/Cloud_Reviews [link] [comments]"
+  },
+  {
+   "id": "599d14bbca6d",
+   "title": "HuffingGang/Flux-NSFW-uncensored",
+   "link": "https://huggingface.co/HuffingGang/Flux-NSFW-uncensored",
+   "date": "2026-08-15T15:40:56.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, en, base_model:black-forest-labs/FLUX.1-dev, base_model:finetune:black-forest-labs/FLUX.1-dev, license:creativeml-openrail-m, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "a8276f03fbdf",
    "title": "ovi054/ltx-2-3-color-grade-transfer-ic-lora",
@@ -78,6 +183,32 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/cHJjdmFjOGx5ampoMeeczbbo4RY7XlqUXXHa7IRDvNygzI265iUR_PjubtMB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27aa21fee6d6b069f6e2ced87a33da982ad4d25b",
    "excerpt": "submitted by /u/Beginning_Call2989 [link] [comments]"
+  },
+  {
+   "id": "22d258193e00",
+   "title": "Eats Everything Saves Ibiza",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vp4f4l/eats_everything_saves_ibiza/",
+   "date": "2026-08-15T14:33:58.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YWpiaHh4Ynl1ampoMS2D3LzddfVTHJ2HiN3jGKsH7avIdbqmeCxomJ85OOde.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a6beb1d1211dca8f9cfb23cd383b4ee337055119",
+   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
+  },
+  {
+   "id": "3e8c4a3eda03",
+   "title": "rekty1988/KREA2_BY_REKTY",
+   "link": "https://huggingface.co/rekty1988/KREA2_BY_REKTY",
+   "date": "2026-08-15T14:20:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, krea-2, text-to-image, comfyui, en, base_model:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "992167600523",
@@ -2056,7 +2187,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, video-generation, text-to-video, image-to-video, ltx-2.5",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 225,
     "pipeline": "text-to-video"
    }
@@ -5152,7 +5283,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 182,
+    "likes": 184,
     "downloads": 16829,
     "pipeline": "trending image"
    }
@@ -6890,7 +7021,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, text-to-video, image-to-video, audio-video-generation, diffusion-transformer, merge",
    "hf": {
-    "likes": 35,
+    "likes": 37,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7390,130 +7521,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "12f3e4ef1e56",
-   "title": "Iconic Film Introductions: Anton Chigurh’s First Few Minutes Are a Masterclass in Fear",
-   "link": "https://nofilmschool.com/anton-chigurh-character-introduction",
-   "date": "2026-08-11T01:05:01.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/javier-bardem-in-no-country-for-old-men.jpg?id=67600496&width=980",
-   "excerpt": "One of the most chilling performances of the 21st century is Javier Bardem’s turn as serial killer Anton Chigurh in the Best Picture winner, No Country for Old Men. The film dissects the nature of evil and the cynicism of human nature through the film’s narration, combined with his performance. Let’s take a look at the opening sequence of the film and why Bardem’s introduction has always stuck wit"
-  },
-  {
-   "id": "2617dce7edcb",
-   "title": "DDhaven/lyra-vex",
-   "link": "https://huggingface.co/DDhaven/lyra-vex",
-   "date": "2026-08-11T00:53:27.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, flux, lora, template:sd-lora, ai-toolkit",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4cbca57a2658",
-   "title": "10 Years Before 'Iron Man', This R-Rated Marvel Movie Changed Superhero Cinema",
-   "link": "https://nofilmschool.com/blade-1998-superhero-genre-influence-explained",
-   "date": "2026-08-11T00:40:25.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/robert-downey-jr-as-tony-stark-holding-out-a-glowing-metal-hand-in-iron-man-2008.jpg?id=67600441&width=980",
-   "excerpt": "2008’s Iron Man is often credited with establishing the modern boom of superhero movies. While the blockbuster was indeed a zeitgeist-defining hit that kicked off the Marvel Cinematic Universe (which is now the highest-grossing film franchise of all time with a cumulative worldwide box office gross of more than $32 billion), it arrived in a cinematic landscape that had already been primed to recei"
-  },
-  {
-   "id": "2811d64fd8a5",
-   "title": "FIIS/vittoriadivine",
-   "link": "https://huggingface.co/FIIS/vittoriadivine",
-   "date": "2026-08-11T00:11:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "b5e0104f574c",
-   "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-   "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-   "date": "2026-08-11T00:03:18.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "San Francisco's housing market is in trouble again."
-  },
-  {
-   "id": "ab98d6ab9b7d",
-   "title": "After-Hour Zoo in a grocery",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vl1mqn/afterhour_zoo_in_a_grocery/",
-   "date": "2026-08-11T00:00:03.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OXkxMnd4YzZ6bWloMSedkG5i4-_nfIoOws7nssFs-mXnAwDzPpeV_sfdL23x.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=da5b399c8ee1c891553e26a990a9bb93ad6b9e15",
-   "excerpt": "submitted by /u/Direct_Independent33 [link] [comments]"
-  },
-  {
-   "id": "48cf888df404",
-   "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-   "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-   "date": "2026-08-10T23:56:15.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
-  },
-  {
-   "id": "170f37f0ae86",
-   "title": "Applications Are Open for This Filmmaker Sabbatical in Colorado",
-   "link": "https://nofilmschool.com/ouray-film-sabbatical-2027",
-   "date": "2026-08-10T23:40:01.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/image.jpg?id=67598506&width=1245&height=700&coordinates=0%2C187%2C0%2C188",
-   "excerpt": "Rest is not a word the film industry uses much. It's the entire premise of the Ouray Film Sabbatical, a four-day, fully funded residency in the San Juan Mountains that just announced its 2027 facilitator lineup. The dates are Jan. 7-10, 2027, in Ouray, Colorado, which is a tiny town tucked into a canyon that markets itself as the \"Little Switzerland of America.\" The sabbatical is a spinoff of the "
-  },
-  {
-   "id": "4c1828d1b65b",
-   "title": "jegly/neo_dragon",
-   "link": "https://huggingface.co/jegly/neo_dragon",
-   "date": "2026-08-10T23:39:47.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: litert, tflite, text-to-video, on-device, android, base_model:Qualcomm-AI-Research/Neodragon",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "0cbaf505c5a5",
-   "title": "kkkkk26/lustify_v9",
-   "link": "https://huggingface.co/kkkkk26/lustify_v9",
-   "date": "2026-08-10T23:14:15.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, endpoints_compatible, diffusers:StableDiffusionXLPipeline, region:us",
    "hf": {
     "likes": 0,
     "downloads": 0,
