@@ -1,6 +1,90 @@
 {
- "updated": "2026-08-15T19:37:34.024Z",
+ "updated": "2026-08-15T21:37:30.285Z",
  "items": [
+  {
+   "id": "a17d0cbb65ba",
+   "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+   "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+   "date": "2026-08-15T21:29:19.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+  },
+  {
+   "id": "eb4c556e1ec3",
+   "title": "AI Sci-Fi Horror: The Engineers | Extraction Protocol 🛸Описание (вставляй в",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vpdfij/ai_scifi_horror_the_engineers_extraction_protocol/",
+   "date": "2026-08-15T20:36:27.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/Kirill_ai_Srt [link] [comments]"
+  },
+  {
+   "id": "0cbb30fac97e",
+   "title": "PeachesAvicii/Slap-Wan",
+   "link": "https://huggingface.co/PeachesAvicii/Slap-Wan",
+   "date": "2026-08-15T20:30:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:nvidia/Qwen-Image-Flash, base_model:adapter:nvidia/Qwen-Image-Flash",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "683d8c8c29f6",
+   "title": "Mike0095/kleo01",
+   "link": "https://huggingface.co/Mike0095/kleo01",
+   "date": "2026-08-15T20:16:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "fa08e0fed815",
+   "title": "biali/bonsai-image-ternary-4B-FLUX2-klein-GGUF",
+   "link": "https://huggingface.co/biali/bonsai-image-ternary-4B-FLUX2-klein-GGUF",
+   "date": "2026-08-15T20:15:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, flux, flux2, text-to-image, stable-diffusion.cpp, on-device",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "daf5039b7b8b",
+   "title": "Severaljoneses/germanic-krea-2",
+   "link": "https://huggingface.co/Severaljoneses/germanic-krea-2",
+   "date": "2026-08-15T19:26:03.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "c1a8116b5273",
    "title": "perpetual3x/TumblrAsian-NudeShot-NSFW-LoRA-v1",
@@ -64,7 +148,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, minimax-h3, lora, video, comfyui, motion",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -2317,7 +2401,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, video-generation, text-to-video, image-to-video, ltx-2.5",
    "hf": {
-    "likes": 2,
+    "likes": 3,
     "downloads": 225,
     "pipeline": "text-to-video"
    }
@@ -7452,90 +7536,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/Zzg2c2xxNHg5b2loMRoXKcXVAppjdsM-pbpG6j1rq_PYQvTOSjmsY_UlxNrQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3a10ee64c61e1defc23fdbcb13ae9636df3ee1d",
    "excerpt": "submitted by /u/Kindly_Poet_7878 [link] [comments]"
-  },
-  {
-   "id": "673e735f286f",
-   "title": "ghjk654/PinkCherry_MiniMax-H3",
-   "link": "https://huggingface.co/ghjk654/PinkCherry_MiniMax-H3",
-   "date": "2026-08-11T04:17:09.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, minimax-h3, text-to-video, license:apache-2.0, endpoints_compatible, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "d42b99ea5364",
-   "title": "mflux-community/ideogram-4-mflux-q8",
-   "link": "https://huggingface.co/mflux-community/ideogram-4-mflux-q8",
-   "date": "2026-08-11T04:10:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mflux, safetensors, text-to-image, image-generation, diffusion, flow-matching",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d95da1eb1939",
-   "title": "The Movie Scene",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vl6rag/the_movie_scene/",
-   "date": "2026-08-11T03:57:41.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/j557p0rs5oih1.jpg?width=140&amp;height=87&amp;auto=webp&amp;s=d1f27df4e970cf19887d72303e92a14ab74ba772",
-   "excerpt": "--chaos 10 --ar 4:3 --profile hhsyzku --stylize 1000 --hd Let out a chuckle every once in a while. submitted by /u/WorldstarBandit [link] [comments]"
-  },
-  {
-   "id": "16abdb8a2446",
-   "title": "KAJIN NO CERBERUS — Episode 1: The Emperor",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vl6l9w/kajin_no_cerberus_episode_1_the_emperor/",
-   "date": "2026-08-11T03:48:59.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aW9tOTgyb2Qyb2loMfTRDAMDWpbwlzE6GNuOq1Hm3PQTH4RBShbf0QzyCgP0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e30854752c621599a9dcf1fe3664b83399ecf188",
-   "excerpt": "submitted by /u/gopwallos [link] [comments]"
-  },
-  {
-   "id": "a75fa42dbea5",
-   "title": "serenitymea/Myanime_model",
-   "link": "https://huggingface.co/serenitymea/Myanime_model",
-   "date": "2026-08-11T03:48:36.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:stabilityai/stable-diffusion-xl-base-1.0, base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3bea62e8d519",
-   "title": "h1oo7lap/Z-Image-Turbo-GGUF",
-   "link": "https://huggingface.co/h1oo7lap/Z-Image-Turbo-GGUF",
-   "date": "2026-08-11T03:12:43.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: ggml, gguf, quantized, unsloth, text-to-image, en",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
