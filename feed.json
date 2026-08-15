@@ -1,6 +1,64 @@
 {
- "updated": "2026-08-15T01:51:53.763Z",
+ "updated": "2026-08-15T03:07:01.556Z",
  "items": [
+  {
+   "id": "cd1350eea7f1",
+   "title": "biali/stable-diffusion-2-base",
+   "link": "https://huggingface.co/biali/stable-diffusion-2-base",
+   "date": "2026-08-15T02:41:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, text-to-image, arxiv:2112.10752, arxiv:2202.00512",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e10333b1180b",
+   "title": "linyu01/nova-furry-xl-il-v120-sdxl",
+   "link": "https://huggingface.co/linyu01/nova-furry-xl-il-v120-sdxl",
+   "date": "2026-08-15T02:40:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, not-for-all-audiences",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "852b15983851",
+   "title": "hoidhxd/SenseNova-U1.5-8B-GGUF",
+   "link": "https://huggingface.co/hoidhxd/SenseNova-U1.5-8B-GGUF",
+   "date": "2026-08-15T02:10:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, text-to-image, sensenova, mot, all-in-one",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e18b363148ed",
+   "title": "A Mermaid Sighting",
+   "link": "https://www.reddit.com/r/aivideo/comments/1voprsn/a_mermaid_sighting/",
+   "date": "2026-08-15T01:39:53.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YWY3ejE3ZW4wZ2poMdNRVrDwpQ3qJmGb0ripa7JAR5mu71BwreUMOncc2cw2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c48da076c7d0d3c81bebec9ffa4aaaf23ad0a260",
+   "excerpt": "submitted by /u/Necessary-Use-3820 [link] [comments]"
+  },
   {
    "id": "98a51ee5f434",
    "title": "v2ray/Anima-2.9B-preview-v1-diffusers",
@@ -2636,7 +2694,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx-video, ltx-2, audio-video, comfyui, int8, bfloat16",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -7455,64 +7513,6 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/bad-boys.jpg?id=67577638&width=1200&height=800&coordinates=125%2C0%2C125%2C0",
    "excerpt": "If you get on a set and start to discuss shot ideas and camera set-ups with your DP, you might, in the moment, hear them say, \"We can't do that. It crosses the line.\" Not some metaphysical or moral line, hopefully. They mean the line that you establish to follow the 180-degree rule. The 180-degree rule is one of the first things they drill into you when you're learning cinematography. Draw an imag"
-  },
-  {
-   "id": "ffdf9c61f10c",
-   "title": "deAPI-ai/minimax-h3-33b-int8",
-   "link": "https://huggingface.co/deAPI-ai/minimax-h3-33b-int8",
-   "date": "2026-08-10T14:52:47.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video, text-to-video, image-to-video, video-generation, audio-generation, minimax",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "ea9912b549b2",
-   "title": "The most offensive HR training session ever from hot tubs to office romance and \"former\" drug use 🚩",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vkn03q/the_most_offensive_hr_training_session_ever_from/",
-   "date": "2026-08-10T14:50:17.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/azEzaDVrczY5a2loMbspxdKwe3Zbwd9HlfOXw8pJSY_3ZGx_KC-mHqU4BwV9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=756661d0153e0c2bad2cb210aa7479f9b16717a9",
-   "excerpt": "submitted by /u/burrowassociates [link] [comments]"
-  },
-  {
-   "id": "e30f7c7d4740",
-   "title": "jayark/sammy-krea-v4-loras",
-   "link": "https://huggingface.co/jayark/sammy-krea-v4-loras",
-   "date": "2026-08-10T14:45:49.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, krea-2, character, style, image-generation, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "cfc7dbbec21a",
-   "title": "DiSS0245/uvubabe_2750",
-   "link": "https://huggingface.co/DiSS0245/uvubabe_2750",
-   "date": "2026-08-10T14:45:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
