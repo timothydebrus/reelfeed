@@ -1,6 +1,96 @@
 {
- "updated": "2026-08-16T07:47:26.494Z",
+ "updated": "2026-08-16T08:49:15.746Z",
  "items": [
+  {
+   "id": "5c8679362103",
+   "title": "If they made an actual movie",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vprw6w/if_they_made_an_actual_movie/",
+   "date": "2026-08-16T08:46:44.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bzNnZnFpbnM3cGpoMaszYEnWDU9CXo1iW-axnFSwz9exnb6-krC8C-vzltC8.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=864898b59a16908975aaef66619d4bbab1636688",
+   "excerpt": "submitted by /u/mhu99 [link] [comments]"
+  },
+  {
+   "id": "3bf2a2c4fb52",
+   "title": "6block/MiniMax-H3-Qwen3-VL-Abliterated-NVFP4",
+   "link": "https://huggingface.co/6block/MiniMax-H3-Qwen3-VL-Abliterated-NVFP4",
+   "date": "2026-08-16T08:36:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, qwen3-vl, text-encoder, nvfp4, abliterated, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "c851191b8dad",
+   "title": "JookEn/controlnet-union-sdxl-1.0",
+   "link": "https://huggingface.co/JookEn/controlnet-union-sdxl-1.0",
+   "date": "2026-08-16T08:34:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, Text-to-Image, ControlNet, Diffusers, Stable Diffusion",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1d6483917e50",
+   "title": "Zainccc/MeadMix",
+   "link": "https://huggingface.co/Zainccc/MeadMix",
+   "date": "2026-08-16T08:31:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: stable-diffusion, text-to-image, en, license:creativeml-openrail-m, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1a2c98570ff0",
+   "title": "98sd7fc9sdf/blowjobbbbDeep",
+   "link": "https://huggingface.co/98sd7fc9sdf/blowjobbbbDeep",
+   "date": "2026-08-16T08:23:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8ab153888a52",
+   "title": "Mike0095/saba",
+   "link": "https://huggingface.co/Mike0095/saba",
+   "date": "2026-08-16T08:00:56.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "a3f9a5e0636f",
    "title": "wolfer45/deepthroat-h3-v02",
@@ -139,7 +229,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: w4a8, quantized, int4, comfyui, comfy-kitchen, convrot",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 2,
     "pipeline": "text-to-image"
    }
   },
@@ -467,7 +557,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, minimax-h3, lora, video, comfyui, motion",
    "hf": {
     "likes": 4,
-    "downloads": 0,
+    "downloads": 56,
     "pipeline": "image-to-video"
    }
   },
@@ -650,7 +740,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, ltx-2, ltx-video, text-to-video, audio-video, en",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 18,
     "pipeline": "text-to-video"
    }
   },
@@ -920,7 +1010,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, minimax-h3, comfyui, quantized, video, fl2va",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 228,
     "pipeline": "text-to-video"
    }
   },
@@ -952,7 +1042,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, base_model:Wan-AI/Wan2.2-S2V-14B, base_model:finetune:Wan-AI/Wan2.2-S2V-14B, license:apache-2.0",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 6,
     "pipeline": "image-to-video"
    }
   },
@@ -1536,7 +1626,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, cogvideox, video-generation, thudm, text-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 10,
+    "downloads": 11,
     "pipeline": "text-to-video"
    }
   },
@@ -1702,7 +1792,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, gguf, wan, text-to-video, image-generation, text-encoder",
    "hf": {
     "likes": 0,
-    "downloads": 819,
+    "downloads": 829,
     "pipeline": "text-to-video"
    }
   },
@@ -1754,7 +1844,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, text-to-video, base_model:SulphurAI/Sulphur-2-base, base_model:quantized:SulphurAI/Sulphur-2-base, region:us",
    "hf": {
     "likes": 0,
-    "downloads": 45,
+    "downloads": 83,
     "pipeline": "text-to-video"
    }
   },
@@ -2353,7 +2443,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, image-to-video, text-to-video, video-to-video, image-text-to-video, audio-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 41,
+    "downloads": 461,
     "pipeline": "image-to-video"
    }
   },
@@ -2389,7 +2479,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, text-to-video, image-to-video, image-text-to-video, video-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 122,
+    "downloads": 130,
     "pipeline": "image-to-video"
    }
   },
@@ -2552,7 +2642,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx, ltx-video, ltx-2.3, lora, chinese-drama, audio-video",
    "hf": {
     "likes": 1,
-    "downloads": 26,
+    "downloads": 48,
     "pipeline": "text-to-video"
    }
   },
@@ -5815,8 +5905,8 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 200,
-    "downloads": 16829,
+    "likes": 201,
+    "downloads": 20860,
     "pipeline": "trending image"
    }
   },
@@ -7479,84 +7569,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/YXA4cWx3Y3lucWloMVnrJGKfW-WYeDnTLFpWTS8cCBvH3QHpzi5zrrk4oDOH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c57765b1c3fea7cbfc61c57cb87810f361a046c2",
    "excerpt": "submitted by /u/Sno294984798 [link] [comments]"
-  },
-  {
-   "id": "cc3159d6aeee",
-   "title": "Claude will apply invisible watermarks to AI text and images",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
-   "date": "2026-08-11T12:22:20.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKB364_CLAUDE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded watermarks, and generated files will include digitally signed provenance metadata where supported,\" Anthropic says on a new Claude support page. The changes are invisible to human eyes, but will make "
-  },
-  {
-   "id": "387a273ab49a",
-   "title": "Anthropic says it will watermark text generated by its AI models",
-   "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-   "date": "2026-08-11T12:13:47.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Anthropic will extend support for watermarking AI generations for older models as well."
-  },
-  {
-   "id": "59dd33701cde",
-   "title": "kipgin/krea2_raw_768_102_1280_lora",
-   "link": "https://huggingface.co/kipgin/krea2_raw_768_102_1280_lora",
-   "date": "2026-08-11T11:56:55.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, krea2, license:other, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "08d1a693705f",
-   "title": "chs35/improving-ca-lora-checkpoints",
-   "link": "https://huggingface.co/chs35/improving-ca-lora-checkpoints",
-   "date": "2026-08-11T11:55:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: calora, lora, sdxl, stable-diffusion-xl, text-to-image, cityscapes",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "989cd7546abd",
-   "title": "Wraiths",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vlf1k9/wraiths/",
-   "date": "2026-08-11T11:40:37.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/e92nkawdgqih1.png?width=140&amp;height=140&amp;auto=webp&amp;s=a3bafbb488c79c21cbcb642583c53bb0096be0a3",
-   "excerpt": "submitted by /u/Dropdeadlegs84 [link] [comments]"
-  },
-  {
-   "id": "4589abbb5d8d",
-   "title": "smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models",
-   "link": "https://huggingface.co/smhfacct/Minimax-H3-fl2va-ref2va-hybrid-models",
-   "date": "2026-08-11T11:34:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, text-to-video, image-to-video, audio-video-generation, diffusion-transformer, merge",
-   "hf": {
-    "likes": 42,
-    "downloads": 0,
-    "pipeline": "trending video"
-   }
   }
  ]
 }
