@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-16T22:39:08.835Z",
+ "updated": "2026-08-16T23:35:50.919Z",
  "items": [
   {
    "id": "b64389b22f42",
@@ -186,7 +186,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, camera-movement, cinematography, video-generation",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -717,7 +717,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, image-to-video, nvfp4, comfyui, base_model:TenStrip/10Eros-Max",
    "hf": {
-    "likes": 12,
+    "likes": 13,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -733,7 +733,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: adapter, text-encoding, video-generation, interface-distillation, minimax-h3, comfyui",
    "hf": {
-    "likes": 4,
+    "likes": 5,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
