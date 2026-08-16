@@ -1,6 +1,58 @@
 {
- "updated": "2026-08-16T04:02:59.207Z",
+ "updated": "2026-08-16T07:01:21.939Z",
  "items": [
+  {
+   "id": "c04ce331fb23",
+   "title": "lesliemore/z-image-turbo-nsfw-v2-GGUF",
+   "link": "https://huggingface.co/lesliemore/z-image-turbo-nsfw-v2-GGUF",
+   "date": "2026-08-16T06:17:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, q8_0, z-image, comfyui, not-for-all-audiences",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "bcccebe88458",
+   "title": "《武则天传》The Legend of Wu Zetian | AI Music Video — Chinese vocal version, 36 shots, 3:56",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vppbso/武则天传the_legend_of_wu_zetian_ai_music_video/",
+   "date": "2026-08-16T06:16:22.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZG5ud2p5c3Bpb2poMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6f16962f0c179c235b20b48da275daafeeadd77",
+   "excerpt": "submitted by /u/Hongyi_AI [link] [comments]"
+  },
+  {
+   "id": "a56af012d1ad",
+   "title": "Pro Gamer Strat",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vpoxi2/pro_gamer_strat/",
+   "date": "2026-08-16T05:54:06.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OWc0ZmNjbjJmb2poMTsYNqFHZ87LAPHZZVotSzcQ4riNDzUvOhwHnuwNHTOr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=97a7644b348fb9b1fac7ed32684fcc5b4ceaff25",
+   "excerpt": "submitted by /u/Hyro0o0 [link] [comments]"
+  },
+  {
+   "id": "73e0f9e02056",
+   "title": "Quiho/kroma-v0.2-turbo-fp8_by-flurryman",
+   "link": "https://huggingface.co/Quiho/kroma-v0.2-turbo-fp8_by-flurryman",
+   "date": "2026-08-16T05:32:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: krea2, kroma, fp8, quantized, comfyui, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "3c1c048420d9",
    "title": "Nicolaslas/Rebels_w4a8s",
@@ -1211,7 +1263,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, custom-nodes, video-generation, text-to-video, en",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -5689,7 +5741,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 195,
+    "likes": 200,
     "downloads": 16829,
     "pipeline": "trending image"
    }
@@ -7481,48 +7533,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/bTkxc3Zqc3cycWloMYG6SlPrAZ8vV5SnWCQ1FJWvJjdLKYN41l8ZO7t4Ctsh.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ab7e6632466e1d265f504a7954c444c9d540057",
    "excerpt": "submitted by /u/MisterViral [link] [comments]"
-  },
-  {
-   "id": "23cc5707f2ab",
-   "title": "i asked Google to create an informative video about how a bidet works",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vld79p/i_asked_google_to_create_an_informative_video/",
-   "date": "2026-08-11T10:02:01.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MTcwdmNjM3N5cGloMZ55oRiGS5zJb3O8Ke_268AzAO3Xx4qb3ylfOab72rkm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5bb5ee024e7175230cdb441bdc4e9b96d9803fd",
-   "excerpt": "submitted by /u/No_Jellyfish5511 [link] [comments]"
-  },
-  {
-   "id": "16251d7b149e",
-   "title": "Testing ads in ChatGPT",
-   "link": "https://openai.com/index/testing-ads-in-chatgpt",
-   "date": "2026-08-11T10:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
-  },
-  {
-   "id": "ca8161387cd4",
-   "title": "Daybreak models are now available on AWS",
-   "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-   "date": "2026-08-11T10:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
-  },
-  {
-   "id": "6542b4036cd3",
-   "title": "My First AI-Made Video Ad | A Sports Watch That Doesn't Even Exist",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vld2t7/my_first_aimade_video_ad_a_sports_watch_that/",
-   "date": "2026-08-11T09:55:08.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dWE4eTJwZzZ4cGloMXYUQDy-Egp1--E_pVW72CN6oAa9PfF-Uhd6X2vA1tg-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4bd79424ed8661407fa5261a0a8768440ec331ad",
-   "excerpt": "submitted by /u/DeskZenZone [link] [comments]"
   }
  ]
 }
