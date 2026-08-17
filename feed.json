@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-17T09:59:47.390Z",
+ "updated": "2026-08-17T11:43:53.772Z",
  "items": [
+  {
+   "id": "dd02c006bef4",
+   "title": "Anthropic explains how Claude s invisible text watermarks will work",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+   "date": "2026-08-17T10:57:13.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This w"
+  },
+  {
+   "id": "f2e0cc1a5d5f",
+   "title": "Margaret Hamilton, NASA Lead AAA Software Engineer",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vqov12/margaret_hamilton_nasa_lead_aaa_software_engineer/",
+   "date": "2026-08-17T10:47:28.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/anhmOXpuZmQweGpoMWZZhBuDDak3ZbVIr0LFYIsB4otX0gDh8BcecvSll1Oe.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b578587789264c2daf87cb4381461a78587db1a3",
+   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
+  },
   {
    "id": "edc56521020b",
    "title": "Newton finally gets it: I made an unofficial spec ad for a brand I admire",
@@ -52,6 +72,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "0abb35fd7957",
+   "title": "Mall Outbreak",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vqna5c/mall_outbreak/",
+   "date": "2026-08-17T09:18:38.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dDM2ajkzeXhqd2poMViFsoSSRCng8Djj4kivv3zgDvbJF1wA1UiG7A-tYn_3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c66604cff570995ea5015a43481bb35c2910cafa",
+   "excerpt": "submitted by /u/SToMBG [link] [comments]"
   },
   {
    "id": "8be4be2320fc",
@@ -191,6 +221,22 @@
    }
   },
   {
+   "id": "6691356438b3",
+   "title": "justacoderwhocodes/flattener",
+   "link": "https://huggingface.co/justacoderwhocodes/flattener",
+   "date": "2026-08-17T06:33:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
    "id": "2060f30686c4",
    "title": "七夕·乞巧｜月下乞巧，星河寄愿 花染指尖，巧果初成。 月上庭前，少女穿针乞巧，把未说出口的心愿，轻轻藏进银河。",
    "link": "https://www.reddit.com/r/aivideo/comments/1vqjzr5/七夕乞巧月下乞巧星河寄愿_花染指尖巧果初成_月上庭前少女穿针乞巧把未说出口的心愿轻轻藏进银河/",
@@ -211,7 +257,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, apple-silicon, text-to-video, image-to-video, audio-video-generation",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -257,6 +303,17 @@
    "cat": "community",
    "thumb": "",
    "excerpt": "submitted by /u/AcanthisittaStill965 [link] [comments]"
+  },
+  {
+   "id": "e5221d6f877f",
+   "title": "New policy ideas for the Intelligence Age",
+   "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+   "date": "2026-08-17T03:15:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
   },
   {
    "id": "a1ce5b1842e9",
@@ -672,7 +729,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, physics, spatial-reasoning, object-motion",
    "hf": {
-    "likes": 4,
+    "likes": 7,
     "downloads": 49,
     "pipeline": "text-to-video"
    }
@@ -1262,7 +1319,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, image-to-video, nvfp4, comfyui, base_model:TenStrip/10Eros-Max",
    "hf": {
-    "likes": 14,
+    "likes": 15,
     "downloads": 526,
     "pipeline": "image-to-video"
    }
@@ -7474,80 +7531,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/NWkxdXphOTA1eGloMad1AQQgQVQSna89RrLP4AAYEC-UP1B_sVf1aIlEyfVZ.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=fc99db4a04680d5b95b2fceb8830dc3a6a74adf7",
    "excerpt": "submitted by /u/OwlZealousideal4779 [link] [comments]"
-  },
-  {
-   "id": "9dc6bdb6cf41",
-   "title": "Sketchup + AI Rendering Workflow with Image Upscaling?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vm9ymj/sketchup_ai_rendering_workflow_with_image/",
-   "date": "2026-08-12T10:09:32.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/krishkp96 [link] [comments]"
-  },
-  {
-   "id": "2e2534a0566d",
-   "title": "Talhattqigsbs/Wan2.1-T2V-1.3B-Diffusers",
-   "link": "https://huggingface.co/Talhattqigsbs/Wan2.1-T2V-1.3B-Diffusers",
-   "date": "2026-08-12T10:09:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video, video-generation, text-to-video, en",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "ca423781b6be",
-   "title": "debugdll/nsfw_generator",
-   "link": "https://huggingface.co/debugdll/nsfw_generator",
-   "date": "2026-08-12T09:54:19.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text, to, image, generation, text-to-image, ru",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9f31edc3c91f",
-   "title": "Winnougan/ltx-2.5-w4a8-convrot-int4-convrot-Winnougan-Blessing  (♥ 2)",
-   "link": "https://huggingface.co/Winnougan/ltx-2.5-w4a8-convrot-int4-convrot-Winnougan-Blessing",
-   "date": "2026-08-12T09:48:31.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: text-to-video, image-to-video, video-generation, ltx-video, quantized, int4",
-   "hf": {
-    "likes": 6,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "dd313a603ef0",
-   "title": "bghira/wan2.1-1.3b-anyflow-wip",
-   "link": "https://huggingface.co/bghira/wan2.1-1.3b-anyflow-wip",
-   "date": "2026-08-12T09:10:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, WanPipeline, WanPipeline-diffusers, text-to-video, image-to-video, simpletuner",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
   }
  ]
 }
