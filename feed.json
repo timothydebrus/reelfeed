@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-17T03:15:01.202Z",
+ "updated": "2026-08-17T04:06:29.696Z",
  "items": [
+  {
+   "id": "8c6a6c3c21c8",
+   "title": "Game of Pitayas: The Dragon Fruit Throne",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vqhck8/game_of_pitayas_the_dragon_fruit_throne/",
+   "date": "2026-08-17T03:43:05.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/AcanthisittaStill965 [link] [comments]"
+  },
   {
    "id": "a1ce5b1842e9",
    "title": "UNCENSORED TOOL? Hey everyone! Where can I find a truly uncensored AI tool? I paid for one, but",
@@ -395,7 +405,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, physics, spatial-reasoning, object-motion",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -411,7 +421,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, camera-movement, cinematography, video-generation",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -768,6 +778,16 @@
    "excerpt": "been messing with minimax h3 for still images and its prompt adherence is honestly kind of absurd for a model that wasn't even released as an image model. this gen below is pure text to image, and while you can definitely spot some issues if you look closely, it's still really impressive what h3 can pull off at this size. h3 t2i these two images use the exact same prompt. first one below is gpt im"
   },
   {
+   "id": "5595d8918511",
+   "title": "Is this charming?",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vq0qqu/is_this_charming/",
+   "date": "2026-08-16T15:58:51.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/am44Z2F2cjBmcmpoMc0A2oeRubqJr1OULg2drkWV09rFwMsvo-o_dEtfVOKo.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=566bf030791c929598bc973564aedaf0d5535f78",
+   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
+  },
+  {
    "id": "e530cf83bacc",
    "title": "XanFloof/Wan2.1-Fun-1.3B-InP",
    "link": "https://huggingface.co/XanFloof/Wan2.1-Fun-1.3B-InP",
@@ -975,7 +995,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, image-to-video, nvfp4, comfyui, base_model:TenStrip/10Eros-Max",
    "hf": {
-    "likes": 13,
+    "likes": 14,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -6802,7 +6822,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 15, likes: 12. Tags: diffusers, safetensors, world-model, video-generation, text-to-video, image-to-video",
    "hf": {
-    "likes": 12,
+    "likes": 13,
     "downloads": 15,
     "pipeline": "trending video"
    }
@@ -7343,7 +7363,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: illustration, diffusion, text-to-image, anime, arxiv:2401.02415, base_model:circlestone-labs/Anima",
    "hf": {
-    "likes": 223,
+    "likes": 224,
     "downloads": 20860,
     "pipeline": "trending image"
    }
@@ -7521,32 +7541,6 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/the-bridge-crossing-in-sorcerer.jpg?id=67601571&width=980",
    "excerpt": "Director William Friedkin, who is best known for his films The Exorcist and The French Connection, had another masterpiece released in 1977. Unfortunately, it seemed people weren’t that ready for it at the time. Let’s take a look at the history of his 1977 film, Sorcerer, and how it came to be reappraised today. Background on the Film and the Making of Process Sorcerer is an American retelling of "
-  },
-  {
-   "id": "8a3b79c2d4ff",
-   "title": "98sd7fc9sdf/kisstongue",
-   "link": "https://huggingface.co/98sd7fc9sdf/kisstongue",
-   "date": "2026-08-12T04:49:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "97571b5a9473",
-   "title": "10 Forgotten 1980s Action Movies That Deserve a Second Chance",
-   "link": "https://nofilmschool.com/10-forgotten-1980s-action-movies",
-   "date": "2026-08-12T04:25:44.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/a-man-holding-a-bloody-knife-in-killzone.jpg?id=67601520&width=980",
-   "excerpt": "Perhaps no decade was kinder to the action genre than the 1980s. Any decade would be lucky to have just Die Hard, let alone Die Hard, The Terminator, Top Gun, Aliens, Predator, First Blood, Big Trouble in Little China, The Road Warrior, and Lethal Weapon. The list goes on and on, and that’s exactly the problem. With so many heavy-hitters stealing attention, there are quite a few 1980s action movie"
   }
  ]
 }
