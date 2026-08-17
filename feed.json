@@ -1,6 +1,106 @@
 {
- "updated": "2026-08-17T01:57:09.210Z",
+ "updated": "2026-08-17T03:15:01.202Z",
  "items": [
+  {
+   "id": "a1ce5b1842e9",
+   "title": "UNCENSORED TOOL? Hey everyone! Where can I find a truly uncensored AI tool? I paid for one, but",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vqgqiz/uncensored_tool_hey_everyone_where_can_i_find_a/",
+   "date": "2026-08-17T03:12:37.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aTFmeXJpdzdydWpoMc4EITMtcYihx238iVIKl1i_UclkxqYBDhZ6i8Nq6ups.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=37638b26294cd1ae057f78f5958411d08d2856d1",
+   "excerpt": "submitted by /u/helado-de-papa [link] [comments]"
+  },
+  {
+   "id": "413eead31b5c",
+   "title": "Dewy drippy lips",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vqgldt/dewy_drippy_lips/",
+   "date": "2026-08-17T03:05:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YjdzNnltNHlwdWpoMYXmc3dZAR-KH_oCBai3JPBnKyNK9_qR_zBqG5ns0vT-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=255e454682518f1163b220b619f829dc7030c3ce",
+   "excerpt": "submitted by /u/futureExxxpression [link] [comments]"
+  },
+  {
+   "id": "66095257c635",
+   "title": "AlayaLab/AlayaWorld-v1.1-stage3",
+   "link": "https://huggingface.co/AlayaLab/AlayaWorld-v1.1-stage3",
+   "date": "2026-08-17T02:43:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, world-model, distillation, lora, alayaworld, image-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "8e85f5bcce6c",
+   "title": "AlayaLab/AlayaWorld-v1.1-stage2b",
+   "link": "https://huggingface.co/AlayaLab/AlayaWorld-v1.1-stage2b",
+   "date": "2026-08-17T02:43:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, world-model, autoregressive, alayaworld, image-to-video, arxiv:2607.06291",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "842f1f44f1c6",
+   "title": "bkjha8/Wan2.2-S2V-14B",
+   "link": "https://huggingface.co/bkjha8/Wan2.2-S2V-14B",
+   "date": "2026-08-17T02:38:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, s2v, image-to-video, es, arxiv:2508.18621",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "392a7496db6e",
+   "title": "bkjha8/Wan2.2-TI2V-5B",
+   "link": "https://huggingface.co/bkjha8/Wan2.2-TI2V-5B",
+   "date": "2026-08-17T02:37:16.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, diffusers, safetensors, ti2v, text-to-video, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "d3b5551dd9c9",
+   "title": "beenga8/flux2-klein-4b-mirror",
+   "link": "https://huggingface.co/beenga8/flux2-klein-4b-mirror",
+   "date": "2026-08-17T02:18:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, mirror, base_model:black-forest-labs/FLUX.2-klein-4B, base_model:finetune:black-forest-labs/FLUX.2-klein-4B, license:apache-2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "f3dde6bda656",
    "title": "Absolutely INSANE, that this made this locally...",
@@ -1041,7 +1141,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, text-to-audio, lora, diffusers, text-to-video, en",
    "hf": {
-    "likes": 6,
+    "likes": 8,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -7447,107 +7547,6 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/a-man-holding-a-bloody-knife-in-killzone.jpg?id=67601520&width=980",
    "excerpt": "Perhaps no decade was kinder to the action genre than the 1980s. Any decade would be lucky to have just Die Hard, let alone Die Hard, The Terminator, Top Gun, Aliens, Predator, First Blood, Big Trouble in Little China, The Road Warrior, and Lethal Weapon. The list goes on and on, and that’s exactly the problem. With so many heavy-hitters stealing attention, there are quite a few 1980s action movie"
-  },
-  {
-   "id": "b3b47a5a240f",
-   "title": "guillekenzo/aros-ef7b2f1a-Nicolle  (♥ 1)",
-   "link": "https://huggingface.co/guillekenzo/aros-ef7b2f1a-Nicolle",
-   "date": "2026-08-12T04:17:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "074648e10936",
-   "title": "guillekenzo/aros-b9d696dd-Sydney  (♥ 1)",
-   "link": "https://huggingface.co/guillekenzo/aros-b9d696dd-Sydney",
-   "date": "2026-08-12T04:13:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3e4f79e8f7b8",
-   "title": "qgfvadfuvads/Q-Prefer-D2  (♥ 1)",
-   "link": "https://huggingface.co/qgfvadfuvads/Q-Prefer-D2",
-   "date": "2026-08-12T04:07:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: peft, safetensors, video, reward-model, qwen3-vl, text-to-video",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "46a64e1155f3",
-   "title": "guillekenzo/aros-088acae2-CrimsonRaven",
-   "link": "https://huggingface.co/guillekenzo/aros-088acae2-CrimsonRaven",
-   "date": "2026-08-12T03:45:10.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "37fb5ee4fb53",
-   "title": "New Turbo Lora MiniMax H3 768p 4step",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vm32qs/new_turbo_lora_minimax_h3_768p_4step/",
-   "date": "2026-08-12T03:40:44.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://preview.redd.it/t5e1lwli7vih1.jpg?width=140&amp;height=84&amp;auto=webp&amp;s=d03efff1e59901e6070ff96b2eb84bfb6c35963e",
-   "excerpt": "https://github.com/ModelTC/Minimax-H3-Turbo#model-specs submitted by /u/jugernaut126 [link] [comments]"
-  },
-  {
-   "id": "fb57e42f6dd1",
-   "title": "plmkoij/sd-turbo",
-   "link": "https://huggingface.co/plmkoij/sd-turbo",
-   "date": "2026-08-12T03:33:31.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, diffusers:StableDiffusionPipeline, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "60747665ddf7",
-   "title": "Relay (This is episode 1 - Any of you open to create episode 2 and make it a shared/public series?)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vm2uuw/relay_this_is_episode_1_any_of_you_open_to_create/",
-   "date": "2026-08-12T03:29:43.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cWhza2F2dmc1dmloMct_qP4C-qj3EbFl4GKsRAoP6fHwxiCYLdsx5tOPgIAR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a607ec6aaca5554245527ed05a8286e86123bdd",
-   "excerpt": "submitted by /u/nilan59 [link] [comments]"
   }
  ]
 }
