@@ -1,6 +1,68 @@
 {
- "updated": "2026-08-18T21:41:13.926Z",
+ "updated": "2026-08-18T22:43:38.923Z",
  "items": [
+  {
+   "id": "acb8bd5e62f3",
+   "title": "Ccadic/Anna-ZImage-Turbo-LoRA",
+   "link": "https://huggingface.co/Ccadic/Anna-ZImage-Turbo-LoRA",
+   "date": "2026-08-18T22:28:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, z-image, z-image-turbo, character, cinematic, photorealistic",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "721e1b46dd7e",
+   "title": "dsscv/Qwen-Image",
+   "link": "https://huggingface.co/dsscv/Qwen-Image",
+   "date": "2026-08-18T22:20:13.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, zh, arxiv:2508.02324",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "38269b8f7f4f",
+   "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+   "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+   "date": "2026-08-18T22:14:25.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
+  },
+  {
+   "id": "df94b0f61188",
+   "title": "Constructing the Emmy-Nominated Title Sequences of 'Spider-Noir and Smoke'",
+   "link": "https://nofilmschool.com/constructing-the-emmy-nominated-title-sequences-of-spider-noir-and-smoke",
+   "date": "2026-08-18T22:13:54.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/image.jpg?id=67640660&width=2000&height=1500&coordinates=155%2C0%2C155%2C0",
+   "excerpt": "Title sequences are a critical, artistic element of any TV series, designed with intense attention to detail to serve their key purpose—grabbing and keeping audiences. One creative studio, Digital Kitchen, produced two standout title sequences unlike any others this year, receiving Emmy nominations for their work on Spider-Noir and Smoke. The team used After Effects and Photoshop to bring these un"
+  },
+  {
+   "id": "3242e4e40170",
+   "title": "Jack Nicholson's Advice For Those Trying to Make It In Film and Television",
+   "link": "https://nofilmschool.com/jack-nicholson-everything-counts",
+   "date": "2026-08-18T22:04:18.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/jack-nicholson-s-advice.jpg?id=67639973&width=1245&height=700&coordinates=175%2C0%2C79%2C0",
+   "excerpt": "Hollywood is a town built on legends and legendary figures, and there are very few whose careers have been as staggering as Jack Nicholson's. The guy is a titan of American cinema whose work over six decades has helped define modern filmmaking and inspired countless actors around the world. While scrolling on YouTube, I found a video of him accepting an AFI award, and he gave a speech that I found"
+  },
   {
    "id": "dde331adf1fe",
    "title": "AhsanHareem/reelbids-ltx25-camera-lora-v2",
@@ -52,6 +114,16 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/righteous-gemstones.jpg?id=67639885&width=1245&height=700&coordinates=0%2C0%2C0%2C157",
    "excerpt": "I've randomly been on a huge Danny McBride kick lately, having come late to Righteous Gemstones after the series bowed last year and then devouring the rest of his TV series, including Vice Principals and Eastbound & Down. I've been doing it backward, which is a really fascinating way to see how his body of work has evolved. McBride appeared in the Criterion Closet recently and pulled a stack of f"
+  },
+  {
+   "id": "c5c401e1ed91",
+   "title": "LEVIATHAN — I Reworked a Few Scenes From My AI Sci-Fi Short Film Would Love Your Feedback",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vs16wz/leviathan_i_reworked_a_few_scenes_from_my_ai/",
+   "date": "2026-08-18T20:34:49.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eDhtZzE1bzAyN2toMRB6cgKpE8hPieBRpbU8IgIF1ga0ycfeBH9vCffyXRxU.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2f48b071043d5adf44117908268d6f2047a38ccb",
+   "excerpt": "submitted by /u/tuneay [link] [comments]"
   },
   {
    "id": "9337b7032486",
@@ -704,7 +776,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx-video, lora, camera-control, dolly-in, image-to-video, comfyui",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -806,6 +878,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/eWRhY2hoaDJzNGtoMYEhga-lT3SVX9_ggVpB2kS1wK_W8XDe9riwwLqdLGES.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e89ec3b5c5bc2cdce118ae85443e38fc1b9a781e",
    "excerpt": "submitted by /u/obeliskproductions [link] [comments]"
+  },
+  {
+   "id": "991bc4941dcc",
+   "title": "osantinello/LTX25_Models",
+   "link": "https://huggingface.co/osantinello/LTX25_Models",
+   "date": "2026-08-18T12:24:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx-2.5, text-to-video, comfyui, base_model:Lightricks/LTX-2.5, base_model:finetune:Lightricks/LTX-2.5, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
   },
   {
    "id": "d1906aea4a10",
@@ -7432,89 +7520,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ZDdzdjBiYTI1NmpoMaoevz_6tRpps2lFaS-KQw-4lLdq-j5U12By2TipFEaK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=963e7ff144173f626d6eb1aae3de2a2bb98bfab2",
    "excerpt": "submitted by /u/FallingKnifeFilms [link] [comments]"
-  },
-  {
-   "id": "2ea7c95e860b",
-   "title": "romonlyme/PinkCherry_MiniMax-H3",
-   "link": "https://huggingface.co/romonlyme/PinkCherry_MiniMax-H3",
-   "date": "2026-08-13T16:07:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, minimax-h3, text-to-video, license:apache-2.0, endpoints_compatible, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 3,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "10b51a2accdd",
-   "title": "Comfy-Org/MiniMax-Music-3 · Hugging Face now online",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vnf0p2/comfyorgminimaxmusic3_hugging_face_now_online/",
-   "date": "2026-08-13T16:06:53.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/6_ySzdmmxH9zs7C5Y9ELWce67fg9jeK5h02Oq_tHlRA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a272ca08e95993be680ecd8d383ce9fcbf99284",
-   "excerpt": "submitted by /u/LadyQuacklin [link] [comments]"
-  },
-  {
-   "id": "e59ddde2a482",
-   "title": "We Stole a UFO off the Greys",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vnew43/we_stole_a_ufo_off_the_greys/",
-   "date": "2026-08-13T16:02:37.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MXlpMjJ5encwNmpoMeDUufYIMJC8jwPZ6awu0Pz2vqtNHDIVULm3ovl4BbZr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=95c8dbb30355094f73418827293c0104df54c997",
-   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
-  },
-  {
-   "id": "10399f170c3b",
-   "title": "Suno is trying to look more like a real music production tool",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-   "date": "2026-08-13T16:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Suno_Studio2.0_Press_Hero.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, Suno Studio doesn't appear to support thi"
-  },
-  {
-   "id": "acd3f450fd94",
-   "title": "Smoking at the back door of the mini market - EP 8",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vnepd3/smoking_at_the_back_door_of_the_mini_market_ep_8/",
-   "date": "2026-08-13T15:56:11.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dDcxN3dra2l6NWpoMa7xJdwVVr74bi85tZhWGyvicWmEz79hREJhqhnYGTcy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d51a4b7ac34a8f57e60f13e2ba1a3b6bd553637c",
-   "excerpt": "submitted by /u/Stunning_Act_1530 [link] [comments]"
-  },
-  {
-   "id": "d10068e63282",
-   "title": "Kowloon has Fallen",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vnen0o/kowloon_has_fallen/",
-   "date": "2026-08-13T15:53:50.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OGM3dzN5NDZ6NWpoMe356rI2fO7_xVzZAGZpCR7FeMUFHuYoGZXbQLmbUjEo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=01f8f86702e571318057ed7a3c2e05904a251e20",
-   "excerpt": "submitted by /u/Risky-Trizkit [link] [comments]"
-  },
-  {
-   "id": "7b9b7c7ab25c",
-   "title": "jump123/nsotuluyen",
-   "link": "https://huggingface.co/jump123/nsotuluyen",
-   "date": "2026-08-13T15:52:41.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:OnomaAIResearch/Illustrious-xl-early-release-v0, base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
