@@ -1,6 +1,22 @@
 {
- "updated": "2026-08-18T03:10:58.177Z",
+ "updated": "2026-08-18T04:54:50.389Z",
  "items": [
+  {
+   "id": "578bec5ba506",
+   "title": "qtum/MiniMax-H3-Qwen3-VL-Abliterated-NVFP4",
+   "link": "https://huggingface.co/qtum/MiniMax-H3-Qwen3-VL-Abliterated-NVFP4",
+   "date": "2026-08-18T04:32:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, qwen3-vl, text-encoder, nvfp4, abliterated, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "6f9f3346d8c7",
    "title": "CH522/WAN-GDE",
@@ -229,6 +245,16 @@
    "source": "r/aivideo",
    "cat": "community",
    "thumb": "https://external-preview.redd.it/bTU5enYyY2tiMGtoMdU-R-9g9ajWJztNClwj6Lg9JufAvCiaNh_4s_fgapyV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=558ea562c6f04902f7e38f9d3554b8e7e639f056",
+   "excerpt": "submitted by /u/8bitcollective [link] [comments]"
+  },
+  {
+   "id": "fdfa828a475b",
+   "title": "GoPro Medieval Battle Footage",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vr5rxh/gopro_medieval_battle_footage/",
+   "date": "2026-08-17T21:40:36.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZW1yMW00a3E4MGtoMROw_-6jdHyxl4_i86Dam4_tiB44tfqR1w7Dav9yq8yu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=787312c9e1470c704f73544ada8a5277a929dc3a",
    "excerpt": "submitted by /u/8bitcollective [link] [comments]"
   },
   {
@@ -1511,7 +1537,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
    "hf": {
-    "likes": 10,
+    "likes": 12,
     "downloads": 50,
     "pipeline": "text-to-video"
    }
@@ -1527,7 +1553,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, physics, spatial-reasoning, object-motion",
    "hf": {
-    "likes": 34,
+    "likes": 37,
     "downloads": 49,
     "pipeline": "trending video"
    }
@@ -1543,7 +1569,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, camera-movement, cinematography, video-generation",
    "hf": {
-    "likes": 13,
+    "likes": 14,
     "downloads": 67,
     "pipeline": "text-to-video"
    }
@@ -7548,32 +7574,6 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
-  },
-  {
-   "id": "790c86a630cd",
-   "title": "Two and a Half Boobs: Charlie Harper Discovers AI",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmm4qv/two_and_a_half_boobs_charlie_harper_discovers_ai/",
-   "date": "2026-08-12T18:18:28.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/FallingKnifeFilms [link] [comments]"
-  },
-  {
-   "id": "b45ca3efe591",
-   "title": "Filllips67/ravenna-lora",
-   "link": "https://huggingface.co/Filllips67/ravenna-lora",
-   "date": "2026-08-12T18:17:33.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
