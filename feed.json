@@ -1,6 +1,117 @@
 {
- "updated": "2026-08-18T17:45:46.860Z",
+ "updated": "2026-08-18T18:58:36.231Z",
  "items": [
+  {
+   "id": "763933a08192",
+   "title": "Wayne-King/echo-memory-context-k1-full",
+   "link": "https://huggingface.co/Wayne-King/echo-memory-context-k1-full",
+   "date": "2026-08-18T18:45:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffsynth, t2v, wan, wan2.1, echo-memory, text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "47ea3c6cd311",
+   "title": "How Much Memory Does Your Agent Actually Need?",
+   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+   "date": "2026-08-18T18:09:38.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
+   "id": "a9262740820f",
+   "title": "DARK-MING/MiniMax-H3-Turbo-Lora",
+   "link": "https://huggingface.co/DARK-MING/MiniMax-H3-Turbo-Lora",
+   "date": "2026-08-18T18:09:19.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, text-to-audio, audio-video, lora, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "0bfb066bf07c",
+   "title": "OpenAI institutes new safeguards after Hugging Face breach",
+   "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+   "date": "2026-08-18T18:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
+  },
+  {
+   "id": "76a2af7d78a1",
+   "title": "ayushmaninbox/artificial-stupidity-asif  (♥ 1)",
+   "link": "https://huggingface.co/ayushmaninbox/artificial-stupidity-asif",
+   "date": "2026-08-18T17:59:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: onnx, text-to-image, stable-diffusion, quantization, int8, base_model:segmind/tiny-sd",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f9bf0520ec21",
+   "title": "atlas",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vrwrsd/atlas/",
+   "date": "2026-08-18T17:58:25.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NGMyY2tlZjNhNmtoMWV0uOnLLYzt6Lf3R8pu9wUKlrcELkZVP0pCEumNT77o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f3adceef466a839a466938cfb9c2f309b10c327",
+   "excerpt": "submitted by /u/superfatbeagle [link] [comments]"
+  },
+  {
+   "id": "d37f092a0d8f",
+   "title": "ayushmaninbox/artificial-stupidity-image  (♥ 1)",
+   "link": "https://huggingface.co/ayushmaninbox/artificial-stupidity-image",
+   "date": "2026-08-18T17:50:26.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: text-to-image, diffusion, tiny, from-scratch, arxiv:2203.01941, license:mit",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a2413361dde8",
+   "title": "LUANlt07/loras-eroschat",
+   "link": "https://huggingface.co/LUANlt07/loras-eroschat",
+   "date": "2026-08-18T17:43:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "506ef6f4e042",
    "title": "Etched’s valuation doubles to $21B in a month",
@@ -505,6 +616,17 @@
    "isModel": false,
    "thumb": "",
    "excerpt": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+  },
+  {
+   "id": "1204bd549a14",
+   "title": "Pacing model development in an era of cyber-critical capabilities",
+   "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+   "date": "2026-08-18T11:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
   },
   {
    "id": "8b138d736f57",
@@ -2462,7 +2584,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
    "hf": {
-    "likes": 19,
+    "likes": 20,
     "downloads": 277,
     "pipeline": "trending video"
    }
@@ -2478,7 +2600,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, physics, spatial-reasoning, object-motion",
    "hf": {
-    "likes": 44,
+    "likes": 45,
     "downloads": 611,
     "pipeline": "trending video"
    }
@@ -7357,127 +7479,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/YmgwMjZqd28yNWpoMew4HwWiKxBWDNRzn_TLWIOharVMmUHWiX7jO2aa4ui4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=872c719af40ce04b3c7456b51f175f3545862eeb",
    "excerpt": "submitted by /u/Used-Bluejay4387 [link] [comments]"
-  },
-  {
-   "id": "640b2c696a23",
-   "title": "DostavalovID/ltx-2.5-studio-h100-fp8-v1",
-   "link": "https://huggingface.co/DostavalovID/ltx-2.5-studio-h100-fp8-v1",
-   "date": "2026-08-13T12:37:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx-pipelines, ltx-video, video-generation, fp8, h100, runpod",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "bea34e8da9fb",
-   "title": "Aventura de RPG ANIMADA - O que vocês acham da ideia?",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vn9fdp/aventura_de_rpg_animada_o_que_vocês_acham_da_ideia/",
-   "date": "2026-08-13T12:33:07.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dzM0dzQzMTN6NGpoMe-iHUVQ32Z4cjaYz5E-Y2CHJaKOCIziqwoteDHWAJtv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9de9760025ef469db431e5a05a9f129c1bae958a",
-   "excerpt": "submitted by /u/Lacunauta [link] [comments]"
-  },
-  {
-   "id": "27925d72d352",
-   "title": "PocketAiHub/PocketAI-Video-MLX-LTX-2.5",
-   "link": "https://huggingface.co/PocketAiHub/PocketAI-Video-MLX-LTX-2.5",
-   "date": "2026-08-13T12:02:09.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, apple-silicon, text-to-video, image-to-video, audio-video-generation",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "3ba9cffde799",
-   "title": "Ericx67/HMNSFW-AIO",
-   "link": "https://huggingface.co/Ericx67/HMNSFW-AIO",
-   "date": "2026-08-13T11:58:55.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0c21627e8e24",
-   "title": "I’m building a cinematic universe where currencies are characters — this is Clara traveling to Egypt",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vn8d90/im_building_a_cinematic_universe_where_currencies/",
-   "date": "2026-08-13T11:44:09.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aGN3ZXA2YXJxNGpoMSNtolUiPyDLgf_wzd6Yyg742WGKT03MqrHZN9lC2yCE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2e03375f0adff74117af62c024d3e02cd7931590",
-   "excerpt": "submitted by /u/Ok-Crew-9948 [link] [comments]"
-  },
-  {
-   "id": "a3e862c6fbf0",
-   "title": "Hospital After Dark 🪩",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vn821f/hospital_after_dark/",
-   "date": "2026-08-13T11:28:39.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZHpwYnBvOTBvNGpoMW-LrUmAzkcYefMeLhZYAO3wgJKTh95mdyCphcGZsTqH.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f9e8aece71da0a2c9109ec3ecf4835b0f2531314",
-   "excerpt": "submitted by /u/East-Actuary-5089 [link] [comments]"
-  },
-  {
-   "id": "57d19be1971b",
-   "title": "SearchingMan/MiniMax-H3-Text-Encoders",
-   "link": "https://huggingface.co/SearchingMan/MiniMax-H3-Text-Encoders",
-   "date": "2026-08-13T11:02:31.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, text-encoder, qwen3-vl, int8, convrot",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "3e500ccae6c7",
-   "title": "The builder’s guide to GPT‑5.6",
-   "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-   "date": "2026-08-13T11:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
-  },
-  {
-   "id": "3d7adfdc73d4",
-   "title": "98sd7fc9sdf/layerspermOnface",
-   "link": "https://huggingface.co/98sd7fc9sdf/layerspermOnface",
-   "date": "2026-08-13T10:58:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:mgwr/M87, base_model:adapter:mgwr/M87",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
