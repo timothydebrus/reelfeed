@@ -1,6 +1,42 @@
 {
- "updated": "2026-08-18T22:43:38.923Z",
+ "updated": "2026-08-18T23:39:47.276Z",
  "items": [
+  {
+   "id": "e8a3661afef4",
+   "title": "gpt1isaribratfoundation/onetrainer",
+   "link": "https://huggingface.co/gpt1isaribratfoundation/onetrainer",
+   "date": "2026-08-18T23:34:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:wikeeyang/Flux2-Klein-9B-True-V2, base_model:adapter:wikeeyang/Flux2-Klein-9B-True-V2",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b1764b80b73a",
+   "title": "David Zucker on Why Getting Two Key Things Right Determines Your Movie's Fate",
+   "link": "https://nofilmschool.com/zucker-advice-for-filmmakers",
+   "date": "2026-08-18T23:30:01.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/david-zucker-on-why-getting-two-key-things-right-determines-your-movie-s-fate.jpg?id=67639809&width=1200&height=800&coordinates=75%2C0%2C76%2C0",
+   "excerpt": "I remember renting Airplane! on VHS and laughing so hard milk came out of my nose. That could have been last week, but it was probably 30 years ago. The comedy mastermind behind those movies, producer David Zucker, isn't holding his breath for major Hollywood studios to back his kind of movies anymore. But he still has a lot of advice for the next generation of writers and directors who want to wo"
+  },
+  {
+   "id": "97953fa7354e",
+   "title": "Messy bedroom",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vs4hh4/messy_bedroom/",
+   "date": "2026-08-18T22:42:52.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/anBxY3pxOXVvN2toMQP74prK-yFXfk4qiO_imebRAsu8O3dTaupKcjg03wsp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e4ff78cab74ca8bb73ed733dea315c758afef85",
+   "excerpt": "submitted by /u/NeighborhoodDue4189 [link] [comments]"
+  },
   {
    "id": "acb8bd5e62f3",
    "title": "Ccadic/Anna-ZImage-Turbo-LoRA",
@@ -52,6 +88,16 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/image.jpg?id=67640660&width=2000&height=1500&coordinates=155%2C0%2C155%2C0",
    "excerpt": "Title sequences are a critical, artistic element of any TV series, designed with intense attention to detail to serve their key purpose—grabbing and keeping audiences. One creative studio, Digital Kitchen, produced two standout title sequences unlike any others this year, receiving Emmy nominations for their work on Spider-Noir and Smoke. The team used After Effects and Photoshop to bring these un"
+  },
+  {
+   "id": "75f256ee1d80",
+   "title": "How This Community Is Helping Freelance Producers, Writers, and Editors Bag Fortune 500 Clients",
+   "link": "https://nofilmschool.com/we-are-rosie",
+   "date": "2026-08-18T22:12:00.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/image.png?id=67635325&width=1200&height=800&coordinates=100%2C0%2C100%2C0",
+   "excerpt": "The modern media landscape moves so fast that it can be hard to track, especially for freelancers. There are algorithms shifting overnight, AI tools reshaping post-production workflows, and social-first content that has trends that change every second. These rapid developments impact your work as a creative, but who can track it all when you’re also juggling the unseen work that comes with self-em"
   },
   {
    "id": "3242e4e40170",
@@ -150,6 +196,16 @@
     "downloads": 0,
     "pipeline": "image-to-video"
    }
+  },
+  {
+   "id": "07c031daaafd",
+   "title": "if Warhammer was a movie",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vs03np/if_warhammer_was_a_movie/",
+   "date": "2026-08-18T19:55:41.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/c2tudml1Z3B1NmtoMdudcI9UUlL2_jE81ytcFySmumMqNvW7PDb-HqxTAZDC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9535ed81f4ee10222206a237dc7c4be867caf820",
+   "excerpt": "submitted by /u/Odant [link] [comments]"
   },
   {
    "id": "d061eee8267d",
@@ -776,7 +832,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx-video, lora, camera-control, dolly-in, image-to-video, comfyui",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -792,7 +848,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: h3ddle, text-to-video, video-with-audio, int8, base_model:Lightricks/LTX-2.5, base_model:finetune:Lightricks/LTX-2.5",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1048,7 +1104,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1479,6 +1535,17 @@
    "isModel": false,
    "thumb": "",
    "excerpt": ""
+  },
+  {
+   "id": "b308f27228d7",
+   "title": "How NVIDIA scales expertise with ChatGPT Work",
+   "link": "https://openai.com/index/nvidia/chatgpt-work",
+   "date": "2026-08-18T00:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
   },
   {
    "id": "de8e9b90f004",
@@ -2977,7 +3044,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
    "hf": {
-    "likes": 20,
+    "likes": 21,
     "downloads": 277,
     "pipeline": "trending video"
    }
@@ -7442,84 +7509,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "2fac36b98b7f",
-   "title": "guillekenzo/aros-87df0152-Ella",
-   "link": "https://huggingface.co/guillekenzo/aros-87df0152-Ella",
-   "date": "2026-08-13T16:31:30.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c49689502f8a",
-   "title": "guillekenzo/aros-842bd6d1-VividEcho",
-   "link": "https://huggingface.co/guillekenzo/aros-842bd6d1-VividEcho",
-   "date": "2026-08-13T16:31:29.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "2686d177700c",
-   "title": "User387984723/wan2.2-i2v-blink-piss",
-   "link": "https://huggingface.co/User387984723/wan2.2-i2v-blink-piss",
-   "date": "2026-08-13T16:30:25.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, not-for-all-audiences, wan-2.2-i2v, piss, lora, template:sd-lora",
-   "hf": {
-    "likes": 0,
-    "downloads": 33,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "5362039f5212",
-   "title": "Bad day anyone? Here's a 90's duck skate to improve it",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vnfnbc/bad_day_anyone_heres_a_90s_duck_skate_to_improve/",
-   "date": "2026-08-13T16:29:09.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/d3YxbjQ4cTM0NmpoMXRIuJQMy5-7s_K0-9MOrL9rtYNMJNgKYZp7oXSkTbMr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=95d9ccc646971eef173e306c399302c3a25032a8",
-   "excerpt": "submitted by /u/idlecon [link] [comments]"
-  },
-  {
-   "id": "dd007e044386",
-   "title": "Film Quote of the Day: 'The Last Samurai' Line That Quietly Defined Purpose",
-   "link": "https://nofilmschool.com/the-last-samurai-destiny-line",
-   "date": "2026-08-13T16:28:12.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/the-last-samurai.jpg?id=67614430&width=1245&height=700&coordinates=0%2C0%2C0%2C1",
-   "excerpt": "Tom Cruise is such a massive star that I don't feell ike he has any forgotten hits, but I was scrolling my library last week and pulled out The Last Samurai. I mean, when was the last time you watched this movie? It's Tom Cruise and Ken Watanabe in an Ed Zwick epic that's about not only the East meeting the West but overcoming your own personal demons to be a part of something bigger than yourself"
-  },
-  {
-   "id": "c7fe3c04b0fb",
-   "title": "Will Smith Eating Spaghetti: We've Come a Long Way",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vnfkxl/will_smith_eating_spaghetti_weve_come_a_long_way/",
-   "date": "2026-08-13T16:26:42.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZDdzdjBiYTI1NmpoMaoevz_6tRpps2lFaS-KQw-4lLdq-j5U12By2TipFEaK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=963e7ff144173f626d6eb1aae3de2a2bb98bfab2",
-   "excerpt": "submitted by /u/FallingKnifeFilms [link] [comments]"
   }
  ]
 }
