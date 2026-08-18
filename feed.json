@@ -1,6 +1,128 @@
 {
- "updated": "2026-08-18T09:50:45.721Z",
+ "updated": "2026-08-18T11:43:36.218Z",
  "items": [
+  {
+   "id": "8eb7ef7a2119",
+   "title": "chldnsry/gcoder",
+   "link": "https://huggingface.co/chldnsry/gcoder",
+   "date": "2026-08-18T11:12:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, license:mit, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f7788bfa76bc",
+   "title": "Partnering with CodeAI to prepare the first AI generation",
+   "link": "https://openai.com/index/partnering-with-codeai",
+   "date": "2026-08-18T11:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+  },
+  {
+   "id": "d2f9414bcd09",
+   "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+   "link": "https://openai.com/index/introducing-chatgpt-for-teens",
+   "date": "2026-08-18T11:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+  },
+  {
+   "id": "8e365c2bc3dd",
+   "title": "Elon Musk made flying even worse so Palantir could profit",
+   "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+   "date": "2026-08-18T11:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile, nine-state airspace sector. Two days earlier, on August 4th, President Donald Trump departed the White House inside his Marine One military helicopter. As Federal Aviation Administration (FAA) proto"
+  },
+  {
+   "id": "beb2473cc8f3",
+   "title": "ChatGPT is getting a dedicated mode for teens",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+   "date": "2026-08-18T11:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens"
+  },
+  {
+   "id": "8b138d736f57",
+   "title": "Patarapoom/h3-vbvr",
+   "link": "https://huggingface.co/Patarapoom/h3-vbvr",
+   "date": "2026-08-18T10:37:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, image-to-video, audio-to-video, license:other, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "20c82044e8c4",
+   "title": "mvp-lab/MiniMax-H3-RAVEN-Streaming-LoRA",
+   "link": "https://huggingface.co/mvp-lab/MiniMax-H3-RAVEN-Streaming-LoRA",
+   "date": "2026-08-18T10:29:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "3e3867b538d4",
+   "title": "kcplummer/stable-diffusion-v1-4",
+   "link": "https://huggingface.co/kcplummer/stable-diffusion-v1-4",
+   "date": "2026-08-18T10:13:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image, arxiv:2207.12598",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c023b8809a14",
+   "title": "jdjkdjd/stable-diffusion-v1-5",
+   "link": "https://huggingface.co/jdjkdjd/stable-diffusion-v1-5",
+   "date": "2026-08-18T09:58:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image, arxiv:2207.12598",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "3935523fce10",
    "title": "SIDE QUEST (1986) — Balthazar's Armory",
@@ -1871,7 +1993,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
    "hf": {
-    "likes": 15,
+    "likes": 18,
     "downloads": 277,
     "pipeline": "trending video"
    }
@@ -1887,7 +2009,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, physics, spatial-reasoning, object-motion",
    "hf": {
-    "likes": 41,
+    "likes": 44,
     "downloads": 611,
     "pipeline": "trending video"
    }
@@ -2477,7 +2599,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, image-to-video, nvfp4, comfyui, base_model:TenStrip/10Eros-Max",
    "hf": {
-    "likes": 16,
+    "likes": 17,
     "downloads": 2533,
     "pipeline": "image-to-video"
    }
@@ -2643,7 +2765,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, text-to-audio, lora, diffusers, text-to-video, en",
    "hf": {
-    "likes": 14,
+    "likes": 15,
     "downloads": 163,
     "pipeline": "trending video"
    }
@@ -7414,139 +7536,6 @@
     "downloads": 0,
     "pipeline": "text-to-video"
    }
-  },
-  {
-   "id": "67829c1f7b23",
-   "title": "cirza/rune",
-   "link": "https://huggingface.co/cirza/rune",
-   "date": "2026-08-13T00:46:33.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "79571a3e1754",
-   "title": "wawaleed/MeiGen-MultiTalk",
-   "link": "https://huggingface.co/wawaleed/MeiGen-MultiTalk",
-   "date": "2026-08-13T00:33:28.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video generation, conversational video generation, talking human video generation, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 2,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "77804f48d3cd",
-   "title": "joeygambino/Dual-Engine-H3-LTX25",
-   "link": "https://huggingface.co/joeygambino/Dual-Engine-H3-LTX25",
-   "date": "2026-08-13T00:04:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, workflow, ltx-2, ltx-video, video-generation",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "a67f3eaa80ec",
-   "title": "What We Learned by Reproducing 2,200 papers from ICML",
-   "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-   "date": "2026-08-13T00:00:00.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "54823db12276",
-   "title": "amirsehaa72/Realistic_Vision_V4.0_noVAE",
-   "link": "https://huggingface.co/amirsehaa72/Realistic_Vision_V4.0_noVAE",
-   "date": "2026-08-12T23:53:16.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, license:creativeml-openrail-m, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "6cb50bf7c9c7",
-   "title": "guillekenzo/aros-d35d5a05-SolarVertex",
-   "link": "https://huggingface.co/guillekenzo/aros-d35d5a05-SolarVertex",
-   "date": "2026-08-12T23:36:28.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "09531c185e1b",
-   "title": "opencerebral/Lucy-2",
-   "link": "https://huggingface.co/opencerebral/Lucy-2",
-   "date": "2026-08-12T23:30:50.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: safetensors, text-to-image, diffusion, rectified-flow, diffusion-transformer, from-scratch",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "19fed1cb5c6a",
-   "title": "MrMofer/ltx-2.5-mlx-q8  (♥ 1)",
-   "link": "https://huggingface.co/MrMofer/ltx-2.5-mlx-q8",
-   "date": "2026-08-12T23:08:09.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: mlx, safetensors, AudioVideo, apple-silicon, text-to-video, audio-to-video",
-   "hf": {
-    "likes": 2,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "08bf7afbfb80",
-   "title": "TOC(May3)A Cat & His Owner's Love Story",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmtirm/tocmay3a_cat_his_owners_love_story/",
-   "date": "2026-08-12T23:01:06.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bDFqNGxvaWJ5MGpoMUqbI171-0Q0wPOBjQ8fCvc3sHtnrZcIWKBNuWl4-tg1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=3b070e1d045792f133c584aebb3c14a24c140120",
-   "excerpt": "submitted by /u/earthsaver77 [link] [comments]"
   }
  ]
 }
