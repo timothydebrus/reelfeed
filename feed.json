@@ -1,6 +1,86 @@
 {
- "updated": "2026-08-18T18:58:36.231Z",
+ "updated": "2026-08-18T19:42:42.905Z",
  "items": [
+  {
+   "id": "34d45011a3ae",
+   "title": "Sawfwair/MiniMax-H3-FL2VA-MLX-8bit",
+   "link": "https://huggingface.co/Sawfwair/MiniMax-H3-FL2VA-MLX-8bit",
+   "date": "2026-08-18T19:29:43.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, minimax_h3, minimax-h3, audio-video, int8, mere-run",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "e6e400efbbbd",
+   "title": "eastenddan/the_artist_flux  (♥ 1)",
+   "link": "https://huggingface.co/eastenddan/the_artist_flux",
+   "date": "2026-08-18T19:29:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a1296651b8f5",
+   "title": "Lauradeem/testinglora",
+   "link": "https://huggingface.co/Lauradeem/testinglora",
+   "date": "2026-08-18T19:26:51.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Runware/BFL-FLUX.2-klein-base-9B, base_model:adapter:Runware/BFL-FLUX.2-klein-base-9B",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "cccddb7be649",
+   "title": "zehen8716/jihun-firangi-lora",
+   "link": "https://huggingface.co/zehen8716/jihun-firangi-lora",
+   "date": "2026-08-18T19:11:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, krea2",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "183829461ad8",
+   "title": "Sawfwair/MiniMax-H3-FL2VA-MLX-BF16",
+   "link": "https://huggingface.co/Sawfwair/MiniMax-H3-FL2VA-MLX-BF16",
+   "date": "2026-08-18T19:00:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, minimax_h3, minimax-h3, audio-video, mere-run, text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "763933a08192",
    "title": "Wayne-King/echo-memory-context-k1-full",
@@ -7429,56 +7509,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "490998c5bd2b",
-   "title": "30 Sloth",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vnatng/30_sloth/",
-   "date": "2026-08-13T13:31:38.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cHRyeGRjY3o5NWpoMXO-zGKq_3M1qxL3_A5cjPsBJooz6KqJdHu2vafQBTrp.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=856ee7a0cd1d44e9ca01b644a1eb275732816edd",
-   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
-  },
-  {
-   "id": "ed2d0e440f58",
-   "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
-   "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-   "date": "2026-08-13T13:30:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_4636.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the \"Microsoft Copilot\" name but fea"
-  },
-  {
-   "id": "d75d28281eec",
-   "title": "If Robots are in GTA",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vnai0e/if_robots_are_in_gta/",
-   "date": "2026-08-13T13:18:58.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/N3ZtbHpwdGc3NWpoMU20Zbi3208cSzKf3i0Xk78CaKtGwHQIYJkkiXDdoiID.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bb3e52f67f8268b2e2519b4a547c5ea9c430e55",
-   "excerpt": "submitted by /u/tres_pares [link] [comments]"
-  },
-  {
-   "id": "5bad39a507c5",
-   "title": "Lora Za Ekutspuroda meets Niccolo Slime",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vnab7g/lora_za_ekutspuroda_meets_niccolo_slime/",
-   "date": "2026-08-13T13:11:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/dangerism [link] [comments]"
-  },
-  {
-   "id": "5e27beb8b607",
-   "title": "Do you find the intro of this episode 'Abrupt' ? How is the pacing of the video? Sound design ?",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vn9zwx/do_you_find_the_intro_of_this_episode_abrupt_how/",
-   "date": "2026-08-13T12:57:58.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YmgwMjZqd28yNWpoMew4HwWiKxBWDNRzn_TLWIOharVMmUHWiX7jO2aa4ui4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=872c719af40ce04b3c7456b51f175f3545862eeb",
-   "excerpt": "submitted by /u/Used-Bluejay4387 [link] [comments]"
   }
  ]
 }
