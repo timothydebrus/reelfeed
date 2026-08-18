@@ -1,6 +1,58 @@
 {
- "updated": "2026-08-18T04:54:50.389Z",
+ "updated": "2026-08-18T05:47:03.582Z",
  "items": [
+  {
+   "id": "1c0dfe5e9747",
+   "title": "5 Horror Western Movies That Prove the Wild West Was Terrifying",
+   "link": "https://nofilmschool.com/horror-western-movies",
+   "date": "2026-08-18T05:45:02.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/guy-pearce-as-captain-john-boyd-in-the-1999-cannibal-black-comedy-horror-film-ravenous.png?id=67626359&width=980",
+   "excerpt": "The sun is setting as you arrive at a dusty, sun-bleached town in the middle of nowhere, looking for safety, but you may not find it with the community here. With no other choice, however, this place is your only refuge, and you can only hope that you make it through until sunrise. You’ve stepped into the territory where the Western meets horror, and a creepy frontier town is far from the only pla"
+  },
+  {
+   "id": "99e48b76e90e",
+   "title": "Renting out my RTX PRO 6000 96GB — price negotiable",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vrgc5s/renting_out_my_rtx_pro_6000_96gb_price_negotiable/",
+   "date": "2026-08-18T05:41:32.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "Hey guys, I have an RTX PRO 6000 Blackwell (96GB VRAM) that isn’t being fully utilized right now, so I figured I’d see if anyone here needs some GPU compute. Happy to rent it out remotely for things like: LLM inference / fine-tuning Stable Diffusion / ComfyUI / video generation CUDA workloads AI research / experiments Other GPU-heavy projects I’m pretty flexible on how we set things up depending o"
+  },
+  {
+   "id": "f3b72893e847",
+   "title": "The 1973 Horror Classic Overshadowed by ‘The Exorcist’",
+   "link": "https://nofilmschool.com/horror-classic-overshadowed-by-the-exorcist",
+   "date": "2026-08-18T05:21:26.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/sharon-williams-in-dont-look-now.jpg?id=67626343&width=980",
+   "excerpt": "1973 was a pretty major year for film, in general. Films like Mean Streets, Serpico, Fantastic Planet, and The Sting, among others, are still hailed as all-timers by today’s standards. The crown horror jewel of the year, however, remains William Friedkin’s The Exorcist. While this accolade is certainly deserved, as that film changed cinema forever, another horror film in 1973, as a result of that "
+  },
+  {
+   "id": "14cb02da92a3",
+   "title": "Minimax H3 - Argument between mother and daughter 2",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vrf9e9/minimax_h3_argument_between_mother_and_daughter_2/",
+   "date": "2026-08-18T04:43:49.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/enNmZm5zbjljMmtoMWEl_7t-EHLTlyDaeKMPkg4-TVLEtT6MhtenNGIjiQXS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2dac4e170df0b234f2eac3234e06ef77cb63c59a",
+   "excerpt": "Minimax H3 - Argument between mother and daughter 2 - 1980 soap opera style submitted by /u/princeMacX [link] [comments]"
+  },
+  {
+   "id": "607a21f1533f",
+   "title": "Minimax h3",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vrf5l4/minimax_h3/",
+   "date": "2026-08-18T04:38:19.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/bHJiajE1cmViMmtoMfdn_mNg1Bh4YiHNdAF5WMUh9m7ragdMmsTZy0iUC-bE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e6fae445bdc09288c36c73dfb9a84a29a236033",
+   "excerpt": "submitted by /u/NapoletanoPizzaiolo [link] [comments]"
+  },
   {
    "id": "578bec5ba506",
    "title": "qtum/MiniMax-H3-Qwen3-VL-Abliterated-NVFP4",
@@ -18,6 +70,17 @@
    }
   },
   {
+   "id": "c5353f75a768",
+   "title": "Made an anime fantasy magic battle scene in a few days, $0 budget, 100% local stable diffusion",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vrda7f/made_an_anime_fantasy_magic_battle_scene_in_a_few/",
+   "date": "2026-08-18T03:05:16.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/bTByYnNrc3R1MWtoMfe17agXpRP28JvQBz_zeB2izGj0BO_skBgwA86BIyr6.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3755edb853647fcc6f260146ae26188911e4d7a2",
+   "excerpt": "submitted by /u/foxdit [link] [comments]"
+  },
+  {
    "id": "6f9f3346d8c7",
    "title": "CH522/WAN-GDE",
    "link": "https://huggingface.co/CH522/WAN-GDE",
@@ -32,6 +95,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "743ba5a49b73",
+   "title": "Dynamic Workflow Generation to work w/ 16GB VRAM (4 sec steps)",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vrcn98/dynamic_workflow_generation_to_work_w_16gb_vram_4/",
+   "date": "2026-08-18T02:35:33.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/3zmg8l83p1kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=189e9d738789131c9f8dafb6b225e9ea0c6d1886",
+   "excerpt": "https://github.com/daexchef/Minimax_Grok MiniMax_H3 - ComfyUI eGPU RTX 5060Ti 16 GB VRAM MSI GS76 Stealth 32GB System submitted by /u/DaExChef [link] [comments]"
   },
   {
    "id": "bf30c176af53",
@@ -198,6 +271,16 @@
    "excerpt": "The model maker added $18 billion in annualized revenue in two months."
   },
   {
+   "id": "eb67c7745be8",
+   "title": "Are there any nodes I should use when generating NSFW images?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vr903v/are_there_any_nodes_i_should_use_when_generating/",
+   "date": "2026-08-17T23:52:56.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "The workflow I'm using is just the basic nodes with a LORA node added; I'd like to know how I can improve the quality of my illustrations going forward. My goal is to create high-quality illustrations like those by RedIlus and toratora. submitted by /u/Lower-Tank-9561 [link] [comments]"
+  },
+  {
    "id": "bc3f4088baba",
    "title": "The siege of the citadel (Callaway Line) dieselpunk noir",
    "link": "https://www.reddit.com/r/aivideo/comments/1vr8j2j/the_siege_of_the_citadel_callaway_line_dieselpunk/",
@@ -208,6 +291,26 @@
    "excerpt": "submitted by /u/Lyre_e [link] [comments]"
   },
   {
+   "id": "11e014419e76",
+   "title": "Can AMD get under 4 minutes on Krea 2?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vr8hwc/can_amd_get_under_4_minutes_on_krea_2/",
+   "date": "2026-08-17T23:30:40.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "Hey all, I've been running ComfyUI through Linux. I have a Radeon RX 7800 XT and am doing image generation through a Krea 2 model. The fastest I've been able to generate a simple 1024x1024 image with no latent upscaling is 4 minutes. I've heard of people with the same graphics card generating images within the 30 to 60 second range on Krea 2, however no matter what I try I cannot get under the 4 m"
+  },
+  {
+   "id": "2a50e2b7a216",
+   "title": "The one where Kramer is retired as a replicant.",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vr8hh9/the_one_where_kramer_is_retired_as_a_replicant/",
+   "date": "2026-08-17T23:30:13.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/wazandy [link] [comments]"
+  },
+  {
    "id": "d40cd4e4c31a",
    "title": "Data’s Day 2: The Enterprise Crew Knows They’re on TV",
    "link": "https://www.reddit.com/r/aivideo/comments/1vr86uw/datas_day_2_the_enterprise_crew_knows_theyre_on_tv/",
@@ -216,6 +319,37 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/bWhlajU3ZnpvMGtoMfwWNSNXOVf6xAQGUAPOKHXA9mw9v4cbeqm_n2aiDXCM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca4618d9d2cc586f791bc319ce3ae75312e6e44a",
    "excerpt": "submitted by /u/Glad-Hat-5094 [link] [comments]"
+  },
+  {
+   "id": "d20719734a2a",
+   "title": "MiniMax H3 Reference to Video workflow doesn't use all available VRAM",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vr7v4p/minimax_h3_reference_to_video_workflow_doesnt_use/",
+   "date": "2026-08-17T23:04:04.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/nvj9eymcn0kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=942c1add77a142a5155d45ec8e12b1a57348729d",
+   "excerpt": "Am I doing something wrong? Rendering 2 MP. It could surely use more VRAM and less RAM. submitted by /u/Select_Question5 [link] [comments]"
+  },
+  {
+   "id": "6f9aeabd5487",
+   "title": "Does Anyone Know What Causes This Smudgy/Blotchy Effect When Using Krea 2 Turbo? It Happens Kinda Randomly For Me. I Think Lora's Do Effect It Some..",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vr7gq4/does_anyone_know_what_causes_this_smudgyblotchy/",
+   "date": "2026-08-17T22:47:55.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/szi76vfok0kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6aab62a9bd1296675c9d53fff034965d49c50019",
+   "excerpt": "Any tips to generate clearer pictures? I tried increasing resolution size too but it still looks similar -_- submitted by /u/DeltaWaffleSyrup [link] [comments]"
+  },
+  {
+   "id": "66da254e453c",
+   "title": "Using H3 as a Character Reference Sheet Generator",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vr72n1/using_h3_as_a_character_reference_sheet_generator/",
+   "date": "2026-08-17T22:31:53.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/bstr3k [link] [comments]"
   },
   {
    "id": "291a422cc753",
@@ -256,6 +390,17 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ZW1yMW00a3E4MGtoMROw_-6jdHyxl4_i86Dam4_tiB44tfqR1w7Dav9yq8yu.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=787312c9e1470c704f73544ada8a5277a929dc3a",
    "excerpt": "submitted by /u/8bitcollective [link] [comments]"
+  },
+  {
+   "id": "03813644e211",
+   "title": "Qwen Image Edit or Flux Klein 9b for editing",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vr5ops/qwen_image_edit_or_flux_klein_9b_for_editing/",
+   "date": "2026-08-17T21:37:03.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "Which model (qwen-image-edit-2511-fp8mixed or flux-2-klein-9b-fp8) is best for editing primarily digital art? Especially with nsfw edits. I've tried some workflows and both models seem hit or miss based on the change or image. I've also seen \"Qwen-Image-Edit-Rapid-AIO\" should I use that? submitted by /u/FUCKCKK [link] [comments]"
   },
   {
    "id": "5b8dbc23aeee",
@@ -444,6 +589,16 @@
    "excerpt": "submitted by /u/theodore_70 [link] [comments]"
   },
   {
+   "id": "fa244fae7f99",
+   "title": "Pulp Fiction experiment using Ingi Erlingsson’s ComfyUI workflows and a custom time-slice pipeline",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vr1030/pulp_fiction_experiment_using_ingi_erlingssons/",
+   "date": "2026-08-17T18:45:40.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZjBqdmx5Nm5kempoMbnX4XX4ah5X6WSZvtI27Pz6J64kPZ1X8-06nzIX8sUt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f0ca8a183f49a4adfdfc529f7096c79503bfe73",
+   "excerpt": "All generative stages of this experiment were created with open-source models. I developed the characters and character sheets through an agent-assisted design process, then created the animated shots and transitions in ComfyUI using workflows by Ingi Erlingsson. After layering, rotoscoping, and compositing the sequence in After Effects, I processed the complete edit through my own agentic time-sl"
+  },
+  {
    "id": "3be170e79205",
    "title": "These Edibles Ain't Shit",
    "link": "https://www.reddit.com/r/aivideo/comments/1vr0unb/these_edibles_aint_shit/",
@@ -530,6 +685,17 @@
    "excerpt": "Well, this is pretty cool and possibly a nice option to consider for the forgetful filmmaker. And, let’s face it, we’ve all been that guy leaving gear behind on sets before. While you’d like to think that’s more often memory cards or XLR cables, it does happen with cameras every once in a while, and it can be devastating, to say the least. A new, clever smart battery solution aims to solve this, t"
   },
   {
+   "id": "09ed1ba6a774",
+   "title": "MiniMax H3 Realism LoRA best usage case",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vqz4jo/minimax_h3_realism_lora_best_usage_case/",
+   "date": "2026-08-17T17:40:25.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/YnVycWtrYmJ6eWpoMeEjY23sVfzRoAs8qw7J_3xQdRMzYrh3--1_yNJtdO2O.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=13c4821081d29307092be1859ec256e66441ecad",
+   "excerpt": "So i tried couple of LoRA's with Realism LoRA to see which one gives the best results, all results were with the REF2VA model with the exact prompt at 0.7 Mp and here are my interpretations (feel free to comment what you also think): | use RealismLoRA | Order No RlsmLoRA | Order with RlsmLoRA | FL2V 4step V0.1 | Yes | #3 | #1 | FL2V 8step V1.0 | No | #2 | #2 | FL2V 4step V1.0 | Yes | #4 | #3 | RF2"
+  },
+  {
    "id": "ae201af5acc8",
    "title": "punk girl with her pet rat at comic-con 🩶",
    "link": "https://www.reddit.com/r/aivideo/comments/1vqz460/punk_girl_with_her_pet_rat_at_comiccon/",
@@ -538,6 +704,17 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ejR0cGY1dWUxempoMRYSVQSORUsRDA16GxHh57iiDJIHzZLSmOKhPEDkjkPJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7067807f85757ef79d3ebfdfbfd5cccce9bbdd20",
    "excerpt": "submitted by /u/bananapudding877 [link] [comments]"
+  },
+  {
+   "id": "e631388b73ca",
+   "title": "A quick Minimax H3 news round-up - 17th August 2026",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vqyn8p/a_quick_minimax_h3_news_roundup_17th_august_2026/",
+   "date": "2026-08-17T17:23:57.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "Another quick Minimax H3 news and goodies round-up, for those who may have missed some items. -> Minimax_H3_Latent_Upscaler models, with matching custom nodes for ComfyUI. \"Trained on ~80,000 paired samples (low-resolution latent + high-resolution target)\". https://huggingface.co/LBH-123-AI/Minimax_h3_latent_Upscaler (models) https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler (nodes)"
   },
   {
    "id": "a02e71cdbaf7",
@@ -748,6 +925,17 @@
    }
   },
   {
+   "id": "d9eb9c5555f2",
+   "title": "MiniMax H3 Native 1080p Video Generation | Dual-Sampling Latent Upscaling Method | Balanced Speed & Quality",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vqtkpm/minimax_h3_native_1080p_video_generation/",
+   "date": "2026-08-17T14:15:46.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/MmIwamk3eDcxeWpoMXy3B6cYZWiPJyNwnfSw0QJxtlJoA9_6d4jrAlHLmp_B.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=39bb1f8cd06c0ea3d5f08e1472e023c745c5d357",
+   "excerpt": "I tested a MiniMax H3 workflow that upscales the video latent directly between two sampling stages. Instead of finishing a video, upscaling it, encoding it, and sampling it again, this workflow separates the audio and video latents after the first denoising stage, upscales only the video latent, aligns it, and continues with the remaining sigma schedule. The main reason for using this approach is "
+  },
+  {
    "id": "597d27414ca2",
    "title": "Imagining what a vintage ad for space cruises would've looked like",
    "link": "https://www.reddit.com/r/aivideo/comments/1vqtdhk/imagining_what_a_vintage_ad_for_space_cruises/",
@@ -792,6 +980,27 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Wispr’s total funding is now over $361 million."
+  },
+  {
+   "id": "8c9f9270fb2b",
+   "title": "Testing MiniMax h3 on RTX 5050",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vqrr87/testing_minimax_h3_on_rtx_5050/",
+   "date": "2026-08-17T13:03:04.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/ZTVsc2w0d3VteGpoMX7TveUl-t8L_xY3YAlpGDd03VeJpmEbUCY461ppW9dF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bbbc17030b3a487da25a09e406451d8b1196fcc7",
+   "excerpt": "Some random generations that i made while tuning the fl2v version. Average generation time is 4 min per 11 sec clips. Few clips where refinde by LTX that took another 3 min per gen. all posible thanks to this: https://huggingface.co/DmitryDB/MiniMax-H3-ComfyUI-Quants/blob/main/FL2VA/MiniMax-H3_FL2VA-NVFP4-HQ.safetensors - the only nvfp4 quant that actually working. submitted by /u/Creative_aidumps"
+  },
+  {
+   "id": "02ae063ac4c8",
+   "title": "new to comfyui, What ComfyUI workflow is being used here?",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vqrc8e/new_to_comfyui_what_comfyui_workflow_is_being/",
+   "date": "2026-08-17T12:45:35.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/a3E5Z3pud2JreGpoMSzoJt66Z1oN0vQjPfiqDWjMY462mTQNDgI9Zj4A0G_p.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e138e4f14b11113f8d5da77be8f324441d9700e5",
+   "excerpt": "I'm new to ComfyUI, so sorry if this is obvious. In the video, he starts with a normal image of a building. Then there’s this rough 3D version of the same building inside a 3D viewport. He says it was “extracted from the scene,” so I assume some model or node is turning the image into a rough 3D model. He can rotate the camera, change the angle/framing, and then Qwen Image Edit generates the same "
   },
   {
    "id": "46539d6c8f0b",
@@ -931,6 +1140,17 @@
    "isModel": false,
    "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
    "excerpt": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
+  },
+  {
+   "id": "6ac9485cf2d1",
+   "title": "ComfyUI Tutorial MiniMax H3 4 Steps Lora + Upscaling + 2X Faster Generation! Best Settings for 2K AI",
+   "link": "https://www.reddit.com/r/comfyui/comments/1vqly0i/comfyui_tutorial_minimax_h3_4_steps_lora/",
+   "date": "2026-08-17T07:58:32.000Z",
+   "source": "r/comfyui",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/ZmY1NDV1bzc2d2poMWk8oMs1nMJtJv34oFSM_biuTip6M5mhOsxnWgHAmBDt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=654edb2d0968c5962c6463276cfd34d60fd3a474",
+   "excerpt": "Hello everyone Want to get faster MiniMax H3 video generation without sacrificing quality? In this tutorial, I’m testing the new H3 LoRA together with Sage Attention, Sol Attention, and Spectrum nodes to find the best combination for speed and quality. The goal is to push MiniMax H3 as far as possible while cutting generation times by up to 2×, then upscale the results with LTX Upscaler to reach a"
   },
   {
    "id": "90b305184340",
@@ -1537,7 +1757,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
    "hf": {
-    "likes": 12,
+    "likes": 13,
     "downloads": 50,
     "pipeline": "text-to-video"
    }
@@ -7328,252 +7548,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/dnhkd25mMzRrMGpoMX0Qg6sdchG-ffC6jKqF2MYkV_XgRSX7uPZ6LSSXr4RK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d73d4236fa7d62972db8feb4fe1a6642843a1e65",
    "excerpt": "submitted by /u/refututrends [link] [comments]"
-  },
-  {
-   "id": "66ca1e1d7fd8",
-   "title": "TheDivergentAI/ltx25-turbo-distill-lora  (♥ 2)",
-   "link": "https://huggingface.co/TheDivergentAI/ltx25-turbo-distill-lora",
-   "date": "2026-08-12T21:36:16.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: ltx, text-to-video, lora, ltx-2.5, distillation, template:diffusion-lora",
-   "hf": {
-    "likes": 2,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "8a7ac9d552d7",
-   "title": "Stada 2.0 is Live: Here’s What You Need to Know About This Next-Gen Remote Storage Platform",
-   "link": "https://nofilmschool.com/strada-2-0-live",
-   "date": "2026-08-12T21:32:58.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/strada-2-0-live.png?id=67607814&width=1245&height=700&coordinates=201%2C0%2C202%2C0",
-   "excerpt": "Since its launch in 2023 by brothers Michael Cioni and Peter Cioni, who worked at notable companies such as Frame.io and Netflix, Strada has been one of the more intriguing brands in the collaborative remote storage space. And while it might be hard to imagine now, before the AI revolution swept all of film and video technology into a vacuum, cloud storage was the big topic, hotly debated and view"
-  },
-  {
-   "id": "d19227712c6d",
-   "title": "Peaky Blinders Meets Modern Sensitivity",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmqtnx/peaky_blinders_meets_modern_sensitivity/",
-   "date": "2026-08-12T21:13:16.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Zmdlb2ZrYWVmMGpoMcMYe4xP5K1VQus5G1xX52NmKaccGUwsC-doFR8tu-20.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ae00f70437e04d04055cb07e8d80db93f2ffb56b",
-   "excerpt": "submitted by /u/JustARedditUser33 [link] [comments]"
-  },
-  {
-   "id": "f8dd78a53d3b",
-   "title": "ARCHIVE 003 | Humans Don't Remember Where They Came From 👽",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmqipd/archive_003_humans_dont_remember_where_they_came/",
-   "date": "2026-08-12T21:01:34.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MWJwanpmODNkMGpoMZbGc-WxjQPnUsyj7xHB3m6OJCMcDguspT2xO4BnvpRb.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=663c1bf080b7d92cae95bd75903973646add715c",
-   "excerpt": "submitted by /u/ThAIandTed [link] [comments]"
-  },
-  {
-   "id": "abd32ffb5dc7",
-   "title": "kaddzie/My-Flowers-Remy",
-   "link": "https://huggingface.co/kaddzie/My-Flowers-Remy",
-   "date": "2026-08-12T20:54:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "75fa0c4e18f6",
-   "title": "Rani",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmpxbl/rani/",
-   "date": "2026-08-12T20:38:46.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OTlvejRnYjE5MGpoMTlPRWPbimU5N365OwBkfkKzUjTi2cbJO_LITOWzsSux.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b92994d7684480a68cdcc4683392924ececb8cb2",
-   "excerpt": "submitted by /u/Optimal_Room_7917 [link] [comments]"
-  },
-  {
-   "id": "7fa16360fb4e",
-   "title": "Crunchy Bucks: A 1970s Australian Cereal Commercial",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmpwuq/crunchy_bucks_a_1970s_australian_cereal_commercial/",
-   "date": "2026-08-12T20:38:16.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MDA1OGtpdzQ5MGpoMXr7VHjuaj9dGYKVEIq2lGcYXSIzvOXIWJAcPcLvZEOn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a89680d9ecfb06d63f8f4c5a2099cba921ec9b45",
-   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
-  },
-  {
-   "id": "eaaff39cf21b",
-   "title": "guillekenzo/aros-5f8bc415-EmberOnyx",
-   "link": "https://huggingface.co/guillekenzo/aros-5f8bc415-EmberOnyx",
-   "date": "2026-08-12T20:20:22.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3172f5ac1a9a",
-   "title": "guillekenzo/aros-9b44f970-WildEcho",
-   "link": "https://huggingface.co/guillekenzo/aros-9b44f970-WildEcho",
-   "date": "2026-08-12T20:17:33.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0e1a976108c7",
-   "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-   "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-   "date": "2026-08-12T20:10:40.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
-  },
-  {
-   "id": "7958f57ff514",
-   "title": "Andresdossa/Z-Image-Turbo",
-   "link": "https://huggingface.co/Andresdossa/Z-Image-Turbo",
-   "date": "2026-08-12T19:38:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "fd11decaa911",
-   "title": "Desilver1234/dariusz-kwiatkowski-osei-ULTRA-lora",
-   "link": "https://huggingface.co/Desilver1234/dariusz-kwiatkowski-osei-ULTRA-lora",
-   "date": "2026-08-12T19:37:52.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-video, image-to-video, ltx-video, character-consistency",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "18edf089dce2",
-   "title": "The Future of Smartphone Cameras is Here With the ARRI x HONOR Robot Phone",
-   "link": "https://nofilmschool.com/honor-robot-phone-launched",
-   "date": "2026-08-12T19:32:02.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/honor-robot-phone-launched.jpg?id=67607894&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "Well, after months of teasers and reporting, that weird ARRI x HONOR Robot Phone camera thing is now officially alive—in China at least. The companies have issued press releases announcing that the HONOR Robot Phone is now officially available, which they celebrate as the mobile debut of ARRI Image Science and HONOR’s gimbal camera technology. Set to be a “new species of smartphone” that integrate"
-  },
-  {
-   "id": "e3bae0af4773",
-   "title": "Comfy UI error",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vmnxz6/comfy_ui_error/",
-   "date": "2026-08-12T19:24:08.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/vrdgqniwvzih1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c14745ac4ab7aa93b3b9fe072052c0c7b35c604",
-   "excerpt": "I have attached my log down below. Anytime i hit \"run\" to generate a video on minimax h3, it goes directly to error message. Anyone know what this means? any fixes? AMD 9070xt. omfyUI\\standalone-env\\Lib\\asyncio\\runners.py\", line 118 in run File \"D:\\comfyui\\ComfyUI\\standalone-env\\Lib\\asyncio\\runners.py\", line 195 in run File \"D:\\comfyui\\ComfyUI\\ComfyUI\\execution.py\", line 728 in execute File \"D:\\co"
-  },
-  {
-   "id": "b7e09f395a05",
-   "title": "Early 2000's channel surfing",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmnxly/early_2000s_channel_surfing/",
-   "date": "2026-08-12T19:23:43.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/M2g5NTVland2emloMdU55NlDHIERslwPnH4OfjaMgxtDpHKnNAQoyg150jF9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6528d102c8920bec1dd64251fb75d9ee924d7cc4",
-   "excerpt": "submitted by /u/Nihilistic_Snail [link] [comments]"
-  },
-  {
-   "id": "09349855adb4",
-   "title": "Moses had a staff bro brought 808s 😭",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmnt33/moses_had_a_staff_bro_brought_808s/",
-   "date": "2026-08-12T19:18:53.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/M3FvZHd1ZTB2emloMZL9719OeJm5S2wUbM0l_pKy32MBQAVIWTFFqQ8LmzjJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=183dddd5607c97872330b426e2d89f1bc2963024",
-   "excerpt": "submitted by /u/Street_Bee23 [link] [comments]"
-  },
-  {
-   "id": "abeddcd5deba",
-   "title": "Roku Created a New Channel That's Only AI Slop 24/7",
-   "link": "https://nofilmschool.com/roku-ai-channel",
-   "date": "2026-08-12T19:02:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/roku-created-a-new-channel-that-s-only-ai-slop-24-7.webp?id=67608628&width=1245&height=700&coordinates=0%2C187%2C0%2C188",
-   "excerpt": "Tired of not being able to decide what to watch on TV? What if you just turned your brain completely off and let AI feed slop through your eyeballs and into your frontal cortex non-stop 24/7? That may sound like the obese future from Wall-E, but I have to inform you it is already here. Last week, The Roku Channel launched Fairground AI, a 24/7 channel that runs entirely on AI-generated content. Yo"
-  },
-  {
-   "id": "c435c24daa18",
-   "title": "ComfyUI-H3Studio for Single Node Long video Creation - Out Now",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vmn91p/comfyuih3studio_for_single_node_long_video/",
-   "date": "2026-08-12T18:58:54.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/shootthesound [link] [comments]"
-  },
-  {
-   "id": "4c8683d4885e",
-   "title": "You guys seen that new pixgnar film yet?",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmmn0l/you_guys_seen_that_new_pixgnar_film_yet/",
-   "date": "2026-08-12T18:37:01.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MGtmMTc1NWFuemloMaZImx8z8qFJqSxv1t9XPFkuNJylme49wWg_iPBjkRuz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5b6af89d5293259423d095a92a4a129b0fa2ac21",
-   "excerpt": "submitted by /u/mercuriNg8rade [link] [comments]"
-  },
-  {
-   "id": "38bf6780950a",
-   "title": "Stop Trying to Decode Christopher Nolan’s Movies While Watching Them",
-   "link": "https://nofilmschool.com/decode-christopher-nolan",
-   "date": "2026-08-12T18:36:31.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/stop-trying-to-decode-christopher-nolans-movies-while-watching-them.webp?id=38221616&width=1245&height=700&coordinates=0%2C204%2C0%2C116",
-   "excerpt": "Let me know if you feel the same, but I have trouble watching many movies. As a writer, I am frequently engaging on a craft level, even with new films. It's very rare that I enjoy a movie so much that it sweeps me off my feet and takes me out of my analytical brain and into my entertainment one. And I have to admit, this happens a lot to me with Nolan. Because I know he's a masterful craftsman, I "
-  },
-  {
-   "id": "fedb51cc07b1",
-   "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-   "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-   "date": "2026-08-12T18:19:12.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
   }
  ]
 }
