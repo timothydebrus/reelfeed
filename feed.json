@@ -1,6 +1,57 @@
 {
- "updated": "2026-08-18T13:10:38.389Z",
+ "updated": "2026-08-18T13:58:46.919Z",
  "items": [
+  {
+   "id": "6ddef915690d",
+   "title": "Sharing a new way to work with Stable Audio",
+   "link": "https://stability.ai/news-updates/sharing-a-new-way-to-work-with-stable-audio",
+   "date": "2026-08-18T13:55:14.000Z",
+   "source": "Stability AI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "We’re sharing two new ways for you to use Stable Audio 3.0. We now have a DAW plugin and a more advanced generation experience on StableAudio.com."
+  },
+  {
+   "id": "d1b640f192f6",
+   "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+   "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+   "date": "2026-08-18T13:50:30.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework."
+  },
+  {
+   "id": "e9529c23366c",
+   "title": "Perplexity’s free AI offer left it with millions more users in India",
+   "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+   "date": "2026-08-18T13:45:40.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
+  },
+  {
+   "id": "c99c4fc90930",
+   "title": "Firefox s Smart Window promises a better AI browser",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+   "date": "2026-08-18T13:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Firefox_SmartWindow_OrganizeTabs.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now automatically suggest tab groups and show visual previews of pages you previously visited when you search your browsing history using natural language. I saw a live demo that showed how the Smart Window "
+  },
+  {
+   "id": "a27faf7e54ea",
+   "title": "The night Romeo and Juliet escape: fan made unofficial spec ad for Ekster",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vrof36/the_night_romeo_and_juliet_escape_fan_made/",
+   "date": "2026-08-18T12:56:38.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eWRhY2hoaDJzNGtoMYEhga-lT3SVX9_ggVpB2kS1wK_W8XDe9riwwLqdLGES.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e89ec3b5c5bc2cdce118ae85443e38fc1b9a781e",
+   "excerpt": "submitted by /u/obeliskproductions [link] [comments]"
+  },
   {
    "id": "d1906aea4a10",
    "title": "a752074154/Qwen-Image-Edit-Rapid-AIO",
@@ -26,6 +77,16 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, I thought this could be the perfect solution. Pet Memory promises to teach your Google Home s"
+  },
+  {
+   "id": "4799cd1d0103",
+   "title": "Enjoying making more of these football satire videos",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vrmdoa/enjoying_making_more_of_these_football_satire/",
+   "date": "2026-08-18T11:23:23.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MTk1ZzU4a29iNGtoMZJ1Nq2irkrlapTnPo0soeBRqsXzcjfO-r3mU-1S5E2o.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0264bda2e5d285c6be8a16d0785ee699fcce5f5d",
+   "excerpt": "submitted by /u/AboKolToom [link] [comments]"
   },
   {
    "id": "8eb7ef7a2119",
@@ -269,7 +330,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, image-to-image, text-to-image, flux, lora, sanganeri",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-image"
    }
@@ -542,6 +603,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "7550eaf867a9",
+   "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+   "link": "https://huggingface.co/blog/multi-vector-encoder",
+   "date": "2026-08-18T00:00:00.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
   },
   {
    "id": "de8e9b90f004",
@@ -7449,88 +7521,6 @@
     "downloads": 344,
     "pipeline": "image-to-video"
    }
-  },
-  {
-   "id": "6fe48d90e1b1",
-   "title": "SIDE QUEST (1986) — An 80s Fantasy Movie Where the Hero Never Finishes the Main Quest",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vn1pxk/side_quest_1986_an_80s_fantasy_movie_where_the/",
-   "date": "2026-08-13T05:27:35.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YWw2MmxnMGx2MmpoMd0yp_vrGSj5EnnIMQn1ccE51voBZSAkNZlYiacYdHXG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4d05bdf99e43f81a21f2b55b624ab4e16fdb170",
-   "excerpt": "submitted by /u/fiftypence [link] [comments]"
-  },
-  {
-   "id": "aea12f6fff4e",
-   "title": "realmz of the redeemers - episode III intro",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vn14us/realmz_of_the_redeemers_episode_iii_intro/",
-   "date": "2026-08-13T04:56:12.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Zng4emh5dmVwMmpoMQRrFz9lNmw2fzHvFsab9DZd-Lh7XsvkdR4pNEx6cO7l.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fc17ac81b03b323276d8635a75cc3a78c08fd1ee",
-   "excerpt": "submitted by /u/Kindly_Poet_7878 [link] [comments]"
-  },
-  {
-   "id": "274c1fac904b",
-   "title": "short series \"The HEAD\" new episode",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vn0j2v/short_series_the_head_new_episode/",
-   "date": "2026-08-13T04:24:21.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/emY0bjdwb2NrMmpoMQ76p57jyNQK8KzLOIynKT-lURyZl9-JglhoVB0yT-7p.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=92c49a3d148e6b9a4d6a2539167b5732e3e7d74b",
-   "excerpt": "submitted by /u/mintchoi [link] [comments]"
-  },
-  {
-   "id": "1da7c2eedc4a",
-   "title": "AbstractFramework/bernini-r-1.3B-diffusers-bf16",
-   "link": "https://huggingface.co/AbstractFramework/bernini-r-1.3B-diffusers-bf16",
-   "date": "2026-08-13T04:13:43.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx-gen, diffusers, safetensors, bernini_renderer, mlx, mflux",
-   "hf": {
-    "likes": 0,
-    "downloads": 23,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "48f7375269a2",
-   "title": "guillekenzo/aros-bb6ce9db-Ana",
-   "link": "https://huggingface.co/guillekenzo/aros-bb6ce9db-Ana",
-   "date": "2026-08-13T04:06:27.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "afa666659e4b",
-   "title": "A Magic End to a First Date",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmzh3z/a_magic_end_to_a_first_date/",
-   "date": "2026-08-13T03:30:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Mm1xbTM3bW9hMmpoMU-R955Wchc2Md1I7Etw-aaeDANT34AHpOMw_MrgK_iR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b40ee0ba0b89fc4c3099bd8da45770831d11ba4",
-   "excerpt": "submitted by /u/notsoaveragemind [link] [comments]"
-  },
-  {
-   "id": "3de79ab25cfd",
-   "title": "The Man Without a Dog",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmywd9/the_man_without_a_dog/",
-   "date": "2026-08-13T03:02:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Z29yd3VzMnA1MmpoMWq8g86en8e6KfWao2ju4_Hkfih_b-YUDI0OIg0-0DDx.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f4aa2c9c8760b06b7df54c7dbd2d5cdf5c8df8a5",
-   "excerpt": "submitted by /u/yeezus-2-2-2 [link] [comments]"
   }
  ]
 }
