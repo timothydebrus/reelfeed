@@ -1,6 +1,32 @@
 {
- "updated": "2026-08-18T11:43:36.218Z",
+ "updated": "2026-08-18T13:10:38.389Z",
  "items": [
+  {
+   "id": "d1906aea4a10",
+   "title": "a752074154/Qwen-Image-Edit-Rapid-AIO",
+   "link": "https://huggingface.co/a752074154/Qwen-Image-Edit-Rapid-AIO",
+   "date": "2026-08-18T12:14:12.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyUI, qwen, qwen-edit, t2i, i2i, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ec7cbb3ceccb",
+   "title": "Google s Pet Memory forgot who my cats are",
+   "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+   "date": "2026-08-18T12:01:29.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268628_Pet_week_CVirginia_PET_RECOGNITION.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, I thought this could be the perfect solution. Pet Memory promises to teach your Google Home s"
+  },
   {
    "id": "8eb7ef7a2119",
    "title": "chldnsry/gcoder",
@@ -16,6 +42,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "ad83ad22c3bc",
+   "title": "what if",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vrlyc0/what_if/",
+   "date": "2026-08-18T11:01:39.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MDdxYjh0NnQ3NGtoMb-TnEjtLZULKAY6LSZ3avMTqWd-pl4-Nng8h-kbAO9x.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2641bedabc3fb8ef7eee1f1d6bd31d2cada9b107",
+   "excerpt": "submitted by /u/XaoS_001 [link] [comments]"
   },
   {
    "id": "f7788bfa76bc",
@@ -58,6 +94,17 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Parental-Controls-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "ChatGPT for Teens includes safeguards and parental controls. | Image: OpenAI OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks and teen-specific protections. ChatGPT for Teens"
+  },
+  {
+   "id": "48f9d5cfe56c",
+   "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+   "link": "https://openai.com/index/chatgpt-for-teens",
+   "date": "2026-08-18T11:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
   },
   {
    "id": "8b138d736f57",
@@ -7484,58 +7531,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/Z29yd3VzMnA1MmpoMWq8g86en8e6KfWao2ju4_Hkfih_b-YUDI0OIg0-0DDx.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f4aa2c9c8760b06b7df54c7dbd2d5cdf5c8df8a5",
    "excerpt": "submitted by /u/yeezus-2-2-2 [link] [comments]"
-  },
-  {
-   "id": "d842a7a98757",
-   "title": "unsloth-jobs/Model-name",
-   "link": "https://huggingface.co/unsloth-jobs/Model-name",
-   "date": "2026-08-13T02:31:41.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, lora, template:diffusion-lora, base_model:John6666/tofu-anime-base-model-050-sdxl",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "504917ce7fcc",
-   "title": "Pride and Prejudice: Episode 1",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmxgvx/pride_and_prejudice_episode_1/",
-   "date": "2026-08-13T01:54:03.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZmY3bm5ncWJ0MWpoMTTK8_tN-pBYNr4-dMJ7_62M0AFFjFva3FJCv-5gZKJE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2c7373483a397c1e7317da825baadf27f6d88995",
-   "excerpt": "submitted by /u/nima-nima-nima [link] [comments]"
-  },
-  {
-   "id": "39a92b204cfd",
-   "title": "Mr Blocksmith",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vmx2s0/mr_blocksmith/",
-   "date": "2026-08-13T01:35:57.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bXplamJkNWJxMWpoMe2D3EDgkBpnPLWm9LkCY_jvvPq9HWk6KsBJahwHiSXl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a261028d6404abd84ea07af8706da9f8ee559010",
-   "excerpt": "submitted by /u/ScriptLurker [link] [comments]"
-  },
-  {
-   "id": "0a4a9ce2fe5e",
-   "title": "ddalcu/LTX-2.5-MLX-Serve-4bit",
-   "link": "https://huggingface.co/ddalcu/LTX-2.5-MLX-Serve-4bit",
-   "date": "2026-08-13T00:54:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, AudioVideo, mlx-serve, ltx-video, ltx-2.5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
   }
  ]
 }
