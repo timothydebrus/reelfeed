@@ -1,6 +1,16 @@
 {
- "updated": "2026-08-19T01:54:55.930Z",
+ "updated": "2026-08-19T03:12:47.289Z",
  "items": [
+  {
+   "id": "e80cebbc0ee1",
+   "title": "My boss scheduled a 7am meeting",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vs9d8s/my_boss_scheduled_a_7am_meeting/",
+   "date": "2026-08-19T02:15:26.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/a3dhZ284Zm1xOGtoMbyf6hbrWlREfmg3RL_5H1JSAVN9YDw-GJIkB4gPeP6n.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=736d4cf545d5aeba4d7f06a3beffbc0731d88a0d",
+   "excerpt": "submitted by /u/yongwuwang [link] [comments]"
+  },
   {
    "id": "503484a959a8",
    "title": "oron1208/OOO_ANIMA-29B-V10",
@@ -234,6 +244,16 @@
     "downloads": 0,
     "pipeline": "image-to-video"
    }
+  },
+  {
+   "id": "42e190059d3f",
+   "title": "No ring no rules",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vs24uf/no_ring_no_rules/",
+   "date": "2026-08-18T21:10:13.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MzQycWg2amM4N2toMQ17hVonbDJn2QaxnjLafH2YbQSq6HKY6qp2DS996gYD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e89e1d36c52a973a012276245b558ea3abcc77a2",
+   "excerpt": "submitted by /u/TheCultRustle [link] [comments]"
   },
   {
    "id": "50f9a8711179",
@@ -3154,7 +3174,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
    "hf": {
-    "likes": 22,
+    "likes": 23,
     "downloads": 277,
     "pipeline": "trending video"
    }
@@ -3170,7 +3190,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, physics, spatial-reasoning, object-motion",
    "hf": {
-    "likes": 48,
+    "likes": 52,
     "downloads": 611,
     "pipeline": "trending video"
    }
@@ -7476,38 +7496,6 @@
    "isModel": false,
    "thumb": "",
    "excerpt": ""
-  },
-  {
-   "id": "44d29f9b8f85",
-   "title": "lite-infer/flux.2-klein-9b-nunchaku-lite-nvfp4_r32-bnb4-text-encoder",
-   "link": "https://huggingface.co/lite-infer/flux.2-klein-9b-nunchaku-lite-nvfp4_r32-bnb4-text-encoder",
-   "date": "2026-08-13T17:02:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, flux, nunchaku, svdquant, nvfp4",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4747765b9c1d",
-   "title": "lite-infer/flux.2-klein-9b-nunchaku-lite-int4_r32-bnb4-text-encoder",
-   "link": "https://huggingface.co/lite-infer/flux.2-klein-9b-nunchaku-lite-int4_r32-bnb4-text-encoder",
-   "date": "2026-08-13T17:00:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, flux, nunchaku, svdquant, int4",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
