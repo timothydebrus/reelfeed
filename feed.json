@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-19T20:47:51.225Z",
+ "updated": "2026-08-19T21:43:40.993Z",
  "items": [
   {
    "id": "fbd0b4f5ec20",
@@ -31,6 +31,22 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, diffusion, zyi, experimental",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5d6a6739ae44",
+   "title": "guillekenzo/aros-9e2d1e78-GildedZenith",
+   "link": "https://huggingface.co/guillekenzo/aros-9e2d1e78-GildedZenith",
+   "date": "2026-08-19T20:16:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
    "hf": {
     "likes": 0,
     "downloads": 0,
@@ -2658,7 +2674,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
    "hf": {
-    "likes": 29,
+    "likes": 32,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7416,16 +7432,6 @@
     "downloads": 0,
     "pipeline": "image-to-video"
    }
-  },
-  {
-   "id": "4e4c328037f3",
-   "title": "Sweet Dreams",
-   "link": "https://www.reddit.com/r/midjourney/comments/1voh9a4/sweet_dreams/",
-   "date": "2026-08-14T19:38:47.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ODk3eWF2aWU4ZWpoMc9sxRpbMq12dH6LD43gGCMaRV67REPwLcrY1j_QPSz_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4c818dad4e7e41971d9419c3305bf5814994c2db",
-   "excerpt": "submitted by /u/Brianshoe [link] [comments]"
   }
  ]
 }
