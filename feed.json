@@ -1,6 +1,63 @@
 {
- "updated": "2026-08-19T16:48:57.988Z",
+ "updated": "2026-08-19T17:43:27.343Z",
  "items": [
+  {
+   "id": "b75ccb581589",
+   "title": "Offering Zero Data Retention for frontier models",
+   "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+   "date": "2026-08-19T19:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+  },
+  {
+   "id": "da3d698d8f48",
+   "title": "Meet the startup helping Wall Street put a price on AI compute",
+   "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+   "date": "2026-08-19T17:26:48.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes. Silicon Data […]"
+  },
+  {
+   "id": "69aee3af08b5",
+   "title": "Amm1234/venetian-gothic-flux1-lora",
+   "link": "https://huggingface.co/Amm1234/venetian-gothic-flux1-lora",
+   "date": "2026-08-19T17:14:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, lora, text-to-image, architecture, venetian-gothic",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b7c2fec452c0",
+   "title": "OpenAI hit the brakes. Now what?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+   "date": "2026-08-19T17:10:09.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its \"latest models intended "
+  },
+  {
+   "id": "6edc23431654",
+   "title": "Meta AI is getting a Mac app",
+   "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+   "date": "2026-08-19T17:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation acros"
+  },
   {
    "id": "2f030f737e5b",
    "title": "Forget Barbenheimer: 'Dunesday' Is Shaping Up to Be a Box Office Bloodbath",
@@ -40,6 +97,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ZjhhdXZ3ZTByY2toMQjF_YM61XEHAegFP0PWt3Ar7x1IjR6VIS2x5xjoPwfL.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bdce1a5d658e097736aba82700aa11263887061e",
    "excerpt": "submitted by /u/Pale_Coyote7451 [link] [comments]"
+  },
+  {
+   "id": "69c4952b1d25",
+   "title": "Anomaly Archive 009",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vsq4ed/anomaly_archive_009/",
+   "date": "2026-08-19T15:44:54.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ajFydDF1dnhxY2toMYYKr_rKeuc3XPxX7mcDuK8Lz7pjRJ4QWuLij0gXlTOF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2be75910a8a88b5546282d192b74b73d3bec548",
+   "excerpt": "submitted by /u/misterXCV [link] [comments]"
   },
   {
    "id": "b7d34b8d601d",
@@ -124,6 +191,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "1a5547c77620",
+   "title": "Lunch Battle",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vsoxpg/lunch_battle/",
+   "date": "2026-08-19T15:01:38.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MGQ0cWRsNGZqY2toMXAyYm3zetdIdqja2wlMQw3PFHUaacDh0C3bG3pNmYCG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7523d984090e36324e6a31dc75cf63667ccef167",
+   "excerpt": "submitted by /u/Blatant_space [link] [comments]"
   },
   {
    "id": "655769ab72fd",
@@ -2319,7 +2396,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
    "hf": {
-    "likes": 22,
+    "likes": 24,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4339,7 +4416,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
    "hf": {
-    "likes": 28,
+    "likes": 29,
     "downloads": 684,
     "pipeline": "trending video"
    }
@@ -4355,7 +4432,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, physics, spatial-reasoning, object-motion",
    "hf": {
-    "likes": 55,
+    "likes": 56,
     "downloads": 1351,
     "pipeline": "trending video"
    }
@@ -7372,83 +7449,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, adapter, text-to-image, base_model:lodestones/Kroma, base_model:adapter:lodestones/Kroma",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0e0aa6481012",
-   "title": "Google will now allow users to remove visible watermark from its AI generations",
-   "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-   "date": "2026-08-14T16:13:40.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-  },
-  {
-   "id": "19a54943d419",
-   "title": "You guys liked the original so here it is, the official Dick Gun Trailer -- remastered!",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vobm8p/you_guys_liked_the_original_so_here_it_is_the/",
-   "date": "2026-08-14T16:13:33.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/b2V6enpuOGg3ZGpoMQbHbe4Vs6-ciIXGFv7Dh0mol6pJ2vLSwYalj8Zncq2B.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=03b5ef335010a67acb0f2b252f5f897a84a75c5e",
-   "excerpt": "submitted by /u/neilchacho [link] [comments]"
-  },
-  {
-   "id": "282839fea88f",
-   "title": "We Stole a UFO TrishaCode DOT COM",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vobb8x/we_stole_a_ufo_trishacode_dot_com/",
-   "date": "2026-08-14T16:02:23.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YnR5MzAzZ3I1ZGpoMS-hCqUI_3JsACrUdYcNJpXRNuE6LfhnLh_y9oVmHMc-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb069e7fbcf872c0b5a48b293908bd808e771c1f",
-   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
-  },
-  {
-   "id": "8e9fd5bf233d",
-   "title": "Elara meets the Dragon",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vobafl/elara_meets_the_dragon/",
-   "date": "2026-08-14T16:01:31.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OGI5ZnJ4dmo1ZGpoMcIcheRm_sVyWS6lWPaufthzji76XTpvuwU5MSugFNIj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7f31f5742f7d63a9b3fabdf543cc13318714181",
-   "excerpt": "submitted by /u/InsertCointent [link] [comments]"
-  },
-  {
-   "id": "07140dc7980b",
-   "title": "The Fetch Machine - My first narrative short in Seedance",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vob01a/the_fetch_machine_my_first_narrative_short_in/",
-   "date": "2026-08-14T15:50:45.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/OXZ5NDQ1YWozZGpoMYp4wCCZIEEQ-1C6nwCfu3woTSCC5AKdxrNYyKWvKq1_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=856c852da036ff68f25f11affa72b77a0c62439e",
-   "excerpt": "submitted by /u/grajagans [link] [comments]"
-  },
-  {
-   "id": "d0a06ebad8a6",
-   "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-   "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-   "date": "2026-08-14T15:43:28.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]"
-  },
-  {
-   "id": "cda5e7ad0930",
-   "title": "SynStrokes/a",
-   "link": "https://huggingface.co/SynStrokes/a",
-   "date": "2026-08-14T15:37:57.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
    "hf": {
     "likes": 0,
     "downloads": 0,
