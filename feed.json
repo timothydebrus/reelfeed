@@ -1,6 +1,58 @@
 {
- "updated": "2026-08-19T04:01:30.353Z",
+ "updated": "2026-08-19T05:48:18.789Z",
  "items": [
+  {
+   "id": "e7245bcae52f",
+   "title": "10 Classic Slasher Movies Referenced in ‘Teenage Sex and Death at Camp Miasma’",
+   "link": "https://nofilmschool.com/10-slasher-references-in-teenage-sex-and-death-at-camp-miasma",
+   "date": "2026-08-19T05:35:37.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/a-close-up-of-the-camp-sign-in-teenage-sex-and-death-at-camp-miasma.jpg?id=67639163&width=980",
+   "excerpt": "One of the posters for Teenage Sex and Death at Camp Miasma, the new movie from I Saw the TV Glow writer-director Jane Schoenbrun, boasts the tagline “a new kind of horror remake…” It’s actually a completely original movie, as it tells a meta story about a filmmaker hoping to mount a reboot of the fictional Camp Miasma slasher franchise. While that faux 14-film series isn’t real, Schoenbrun clearl"
+  },
+  {
+   "id": "f54edb125ae5",
+   "title": "Confession",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vscqrn/confession/",
+   "date": "2026-08-19T04:59:48.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aHI2ZjQxbjVrOWtoMYLL32Hi9YptR804XFrmFfCdrHrSGfpCsH1yNWWJDb4Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe32d00480795929d8c2363c58bff4ab9b7a787a",
+   "excerpt": "submitted by /u/love1008 [link] [comments]"
+  },
+  {
+   "id": "a354e0cb0bba",
+   "title": "guillekenzo/aros-1484cb06-Melany",
+   "link": "https://huggingface.co/guillekenzo/aros-1484cb06-Melany",
+   "date": "2026-08-19T04:44:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ea85ccc8f1a4",
+   "title": "qtum/MiniMax-H3-Qwen3-VL-NVFP4",
+   "link": "https://huggingface.co/qtum/MiniMax-H3-Qwen3-VL-NVFP4",
+   "date": "2026-08-19T04:29:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, qwen3-vl, text-encoder, nvfp4, comfyui, quantized",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "233a7a1fb61d",
    "title": "Haribz/test1",
@@ -1020,7 +1072,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx-video, lora, camera-control, dolly-in, image-to-video, comfyui",
    "hf": {
-    "likes": 3,
+    "likes": 4,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -1292,7 +1344,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
    "hf": {
-    "likes": 2,
+    "likes": 3,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -7464,54 +7516,6 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/2dkygz1fs6jh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=418b3de1c0e7dccd4637f34d2fb857bb984f051c",
    "excerpt": "submitted by /u/Brianshoe [link] [comments]"
-  },
-  {
-   "id": "4f7a500cee94",
-   "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-   "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-   "date": "2026-08-13T18:28:14.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems."
-  },
-  {
-   "id": "0ab9955a39f8",
-   "title": "elix3r/LTX-2.5-22b-distilled-GGUF",
-   "link": "https://huggingface.co/elix3r/LTX-2.5-22b-distilled-GGUF",
-   "date": "2026-08-13T18:04:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, gguf, q5-k-m, ltx-2.5, ltx-video, text-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "a87e61c591ff",
-   "title": "MiniMax Music 3 is live in ComfyUI! Enjoy state of the art open weight music generation 🎵",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vni9fq/minimax_music_3_is_live_in_comfyui_enjoy_state_of/",
-   "date": "2026-08-13T18:01:36.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://preview.redd.it/rmultnzzl6jh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9790bc3b1cc561a8dac023c57c37fd50fa3273bd",
-   "excerpt": "Give it lyrics and a description of the sound you're going for, and it renders a full song: intro/verse/chorus/bridge structure, consistent vocal identity, up to 5 minutes long, 32kHz 16-bit stereo out. Actual songs! Not just loops or clips. Quick flag upfront: this needs ComfyUI 0.33.0+ (or Comfy Cloud), as new model support currently ships tied to a version bump. What else to know before you try"
-  },
-  {
-   "id": "e5b23a06de41",
-   "title": "v0.33.0",
-   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.0",
-   "date": "2026-08-13T17:20:22.000Z",
-   "source": "ComfyUI Releases",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
-   "excerpt": "ComfyUI v0.33.0"
   }
  ]
 }
