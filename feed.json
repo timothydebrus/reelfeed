@@ -1,6 +1,100 @@
 {
- "updated": "2026-08-20T20:49:00.589Z",
+ "updated": "2026-08-20T21:45:43.183Z",
  "items": [
+  {
+   "id": "1924aa591722",
+   "title": "Jommarn/Qwen-Image-2512-Penis-Heretic",
+   "link": "https://huggingface.co/Jommarn/Qwen-Image-2512-Penis-Heretic",
+   "date": "2026-08-20T21:41:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, diffusers:QwenImagePipeline, region:us, not-for-all-audiences",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e8fd50b5aaff",
+   "title": "aibeefed/chinka",
+   "link": "https://huggingface.co/aibeefed/chinka",
+   "date": "2026-08-20T21:36:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d2ebb6ff937d",
+   "title": "Why Over-Researching Can Ruin a Great Scene—and How to Fix It",
+   "link": "https://nofilmschool.com/over-researching-can-ruin-scene",
+   "date": "2026-08-20T21:31:47.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/over-researching-can-ruin-a-great-scene.jpg?id=67651982&width=1245&height=700&coordinates=124%2C0%2C124%2C0",
+   "excerpt": "Let me know if this has happened to you: you have a great idea for a scene, but the more you try to add details from your research or incorporate facts, the more you end up kind of ruining it. That's because storytelling is not real life, and at the core of every scene should not be a bunch of facts; it should be a palpable soul. Writers, actors, and directors all have the same issue when it comes"
+  },
+  {
+   "id": "37db38c86063",
+   "title": "Shooter57/sc1_krea2_v1",
+   "link": "https://huggingface.co/Shooter57/sc1_krea2_v1",
+   "date": "2026-08-20T21:03:43.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "7a1149f7f0eb",
+   "title": "HALOS & HORNS",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vtvqor/halos_horns/",
+   "date": "2026-08-20T20:53:37.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZnAxd2lyODhmbGtoMUGbgCbsutJMUq__IAl62FG3LaoH0UluJKdD2fsI_xLw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f9b10531a09fcf1818d6aea61d31a9b8e45c187",
+   "excerpt": "submitted by /u/TheCultRustle [link] [comments]"
+  },
+  {
+   "id": "0e5fabfe4834",
+   "title": "Ok, can we actually cool data centers with our pee?",
+   "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+   "date": "2026-08-20T20:53:13.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- his suggestion is not completely ludicrous."
+  },
+  {
+   "id": "f349f5150eb5",
+   "title": "ModdiAdam/Lust_Z-Image-turbo_NSFW",
+   "link": "https://huggingface.co/ModdiAdam/Lust_Z-Image-turbo_NSFW",
+   "date": "2026-08-20T20:45:15.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, gguf, text-to-image, nsfw, z-image, z-image-turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "a45dc66a6356",
    "title": "jandak/dti_gui",
@@ -1190,7 +1284,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: video-generation, image-to-video, audio-video-generation, lora, distillation, sparse-attention",
    "hf": {
-    "likes": 27,
+    "likes": 28,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -7234,95 +7328,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ZHFobmF2d3FycGpoMQZ53J9JX5rATev1uB8wn9loZ-sbKbUU_88lYBGcBhid.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6afb0ee8c4bbdac5716cc9a6ccc59b97de456150",
    "excerpt": "submitted by /u/FirefighterNo584 [link] [comments]"
-  },
-  {
-   "id": "0ccdae89c501",
-   "title": "Dzoordan/lorry",
-   "link": "https://huggingface.co/Dzoordan/lorry",
-   "date": "2026-08-16T10:12:49.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "841d56f8b25d",
-   "title": "Minimax H3. Day of the Tentacle remaster.",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vpt4pz/minimax_h3_day_of_the_tentacle_remaster/",
-   "date": "2026-08-16T10:03:24.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/YzcyejVlNjducGpoMaq3AO_F07l9qzKdB3DODi7aI10NDNdKBObVKonlkTRD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=133f782703d12019b17138663075994fa79d618d",
-   "excerpt": "The video has has several sound and dialogue issues. submitted by /u/beatlepol [link] [comments]"
-  },
-  {
-   "id": "a7f7bd26573b",
-   "title": "asd44633/ren1.0",
-   "link": "https://huggingface.co/asd44633/ren1.0",
-   "date": "2026-08-16T09:58:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1afc5980acfb",
-   "title": "Don't know why reddit removed my last video",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vpsyzg/dont_know_why_reddit_removed_my_last_video/",
-   "date": "2026-08-16T09:54:08.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cXE3ZzhiOHhscGpoMW1eKrfVFtbhAltNHdyVWnQ3YrycXxwO57sZmw2GZpMB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8a77b850f4c2db7103b3d1bcac6151f4f9651a22",
-   "excerpt": "submitted by /u/MRPUMPKIN_100 [link] [comments]"
-  },
-  {
-   "id": "d24af4916fe3",
-   "title": "Edificio Futurista[OC]",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vpsqin/edificio_futuristaoc/",
-   "date": "2026-08-16T09:39:25.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/3ewa3epbjpjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac31059241fb4d5104b2e234bd25ff042e1bf180",
-   "excerpt": "submitted by /u/Gold-Lengthiness-760 [link] [comments]"
-  },
-  {
-   "id": "c58ded8a07c4",
-   "title": "The Watchmaker and the Cellist",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vpsocf/the_watchmaker_and_the_cellist/",
-   "date": "2026-08-16T09:35:35.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/f1imhz2nipjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1f1dbf64434c689c24d4e29b0fd55dac4a130d8",
-   "excerpt": "submitted by /u/MyGuardianDemon [link] [comments]"
-  },
-  {
-   "id": "95cb1adc5def",
-   "title": "kyle0518/sd15-tpu-toy-test",
-   "link": "https://huggingface.co/kyle0518/sd15-tpu-toy-test",
-   "date": "2026-08-16T09:32:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image, diffusers-training",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
