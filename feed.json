@@ -1,6 +1,64 @@
 {
- "updated": "2026-08-20T19:47:57.026Z",
+ "updated": "2026-08-20T20:49:00.589Z",
  "items": [
+  {
+   "id": "a45dc66a6356",
+   "title": "jandak/dti_gui",
+   "link": "https://huggingface.co/jandak/dti_gui",
+   "date": "2026-08-20T20:15:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, text-to-image, lora, fal, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8aa2c5ad88f4",
+   "title": "embriotapir/LTX-2.5-MSR-DualStage-Workflow",
+   "link": "https://huggingface.co/embriotapir/LTX-2.5-MSR-DualStage-Workflow",
+   "date": "2026-08-20T20:14:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, comfyui-workflow, video-generation, ltx-video, ltx-2.5, image-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "1370cb26ca6f",
+   "title": "Shooter57/gs1_krea2_v1",
+   "link": "https://huggingface.co/Shooter57/gs1_krea2_v1",
+   "date": "2026-08-20T20:10:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "208237631282",
+   "title": "shinny sea shell",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vtu5f8/shinny_sea_shell/",
+   "date": "2026-08-20T19:55:33.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZnhucWZtYXc0bGtoMdtyKqVu3qHit2I_q3wdr___CTdFLpXymlqXQCiX64yg.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ff9093ba6cd956c17c8bc76ceb5c13b52a03b967",
+   "excerpt": "submitted by /u/Fine-Wall-5445 [link] [comments]"
+  },
   {
    "id": "b3b1a1f56e80",
    "title": "I am your new lord",
@@ -592,6 +650,22 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. It caused a huge debate in the math community, and Rob spent some time "
+  },
+  {
+   "id": "ba77d3f3fb96",
+   "title": "taurusduan/Minimax-h3-Turbo",
+   "link": "https://huggingface.co/taurusduan/Minimax-h3-Turbo",
+   "date": "2026-08-20T13:35:13.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, t2v, i2v, r2v, image-to-video, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
   },
   {
    "id": "9c1bced0f19f",
@@ -7249,69 +7323,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "ec0680ea1a63",
-   "title": "Corizfuo/image2",
-   "link": "https://huggingface.co/Corizfuo/image2",
-   "date": "2026-08-16T09:26:22.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, license:openrail, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c09d9abe05bd",
-   "title": "SEEDANCE 2,5 crazy & unorthodox camera movement during chase scene - SKIN TRADE",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vpsazn/seedance_25_crazy_unorthodox_camera_movement/",
-   "date": "2026-08-16T09:12:18.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/MjNzcWlib2ZlcGpoMXTP_vaA_sJh-BGL3uDfyh-kMJWAt2siRfwQisXgg7lN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ff76424c3906288ff9dd09259b6e591c6a7c6a91",
-   "excerpt": "submitted by /u/MightyTowers [link] [comments]"
-  },
-  {
-   "id": "21dc80cdd86f",
-   "title": "Crispy Japanese Tonkatsu 🍖",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vps5vt/crispy_japanese_tonkatsu/",
-   "date": "2026-08-16T09:03:19.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Z3FqMGp6a3RjcGpoMTV4dW9TgRqWxt0CNCgRsQaUeJzyayacbFIKRlW5_EbZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cadf3c7e2f23d0694c8b27af81cac89a7e097d51",
-   "excerpt": "submitted by /u/Independent-Arm-7397 [link] [comments]"
-  },
-  {
-   "id": "936ef68024d2",
-   "title": "filulilu/aprilgirl",
-   "link": "https://huggingface.co/filulilu/aprilgirl",
-   "date": "2026-08-16T09:02:12.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5c8679362103",
-   "title": "If they made an actual movie",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vprw6w/if_they_made_an_actual_movie/",
-   "date": "2026-08-16T08:46:44.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bzNnZnFpbnM3cGpoMaszYEnWDU9CXo1iW-axnFSwz9exnb6-krC8C-vzltC8.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=864898b59a16908975aaef66619d4bbab1636688",
-   "excerpt": "submitted by /u/mhu99 [link] [comments]"
   }
  ]
 }
