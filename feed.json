@@ -1,6 +1,58 @@
 {
- "updated": "2026-08-20T08:58:07.479Z",
+ "updated": "2026-08-20T09:51:44.801Z",
  "items": [
+  {
+   "id": "aaca5ece1449",
+   "title": "Burroughs352/Laura",
+   "link": "https://huggingface.co/Burroughs352/Laura",
+   "date": "2026-08-20T09:42:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:stabilityai/stable-diffusion-3.5-large, base_model:adapter:stabilityai/stable-diffusion-3.5-large",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "112541b1dc3d",
+   "title": "Burroughs352/Grace",
+   "link": "https://huggingface.co/Burroughs352/Grace",
+   "date": "2026-08-20T09:37:25.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:stabilityai/stable-diffusion-3.5-large, base_model:adapter:stabilityai/stable-diffusion-3.5-large",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ad5059a21e1b",
+   "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+   "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+   "date": "2026-08-20T09:30:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor."
+  },
+  {
+   "id": "b3e7d5a54769",
+   "title": "Secret du Palais",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vtekye/secret_du_palais/",
+   "date": "2026-08-20T09:28:49.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bmhvZWM5aW4waWtoMZLSRd_ra-fmCeUcfm_tzcDwOgWx3ekBZ11QaGvM8Ga1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7451e4eac7bebe30e8d78c5cd9bb57073af72db3",
+   "excerpt": "submitted by /u/konibak [link] [comments]"
+  },
   {
    "id": "f4ed96b97351",
    "title": "DayZ but it’s a movie",
@@ -35,6 +87,22 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "9d0aaa93c996",
+   "title": "Weilin0/BackdoorDM",
+   "link": "https://huggingface.co/Weilin0/BackdoorDM",
+   "date": "2026-08-20T08:32:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, backdoor-attack, diffusion-models, stable-diffusion, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
    }
   },
   {
@@ -162,7 +230,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: video-generation, image-to-video, audio-video-generation, lora, distillation, sparse-attention",
    "hf": {
-    "likes": 5,
+    "likes": 9,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -7344,75 +7412,6 @@
     "downloads": 228,
     "pipeline": "text-to-video"
    }
-  },
-  {
-   "id": "66c1b749a070",
-   "title": "kvanrum/Chroma1-HD",
-   "link": "https://huggingface.co/kvanrum/Chroma1-HD",
-   "date": "2026-08-15T09:11:59.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, license:apache-2.0, diffusers:ChromaPipeline, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "272ddeecf178",
-   "title": "FastVideo/Wan2.2-S2V-14B-Diffusers",
-   "link": "https://huggingface.co/FastVideo/Wan2.2-S2V-14B-Diffusers",
-   "date": "2026-08-15T08:59:46.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, base_model:Wan-AI/Wan2.2-S2V-14B, base_model:finetune:Wan-AI/Wan2.2-S2V-14B, license:apache-2.0",
-   "hf": {
-    "likes": 0,
-    "downloads": 6,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "190bd0c28350",
-   "title": "EastsideNinja88/Anima-2.9B",
-   "link": "https://huggingface.co/EastsideNinja88/Anima-2.9B",
-   "date": "2026-08-15T08:36:31.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, anima, comfyui, text-to-image, en, arxiv:2401.02415",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "497fb83e385f",
-   "title": "The Forest: The Crash | Live-Action Episode 01",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vowsev/the_forest_the_crash_liveaction_episode_01/",
-   "date": "2026-08-15T07:53:06.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dnE3aGttMHp1aGpoMYvrSIKfhs1caEaj0ufYO1tI5KwzLUlF2Okm02bfuFmD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=45c67ee35d3d7ed7205b169b83e5886c4149bfd3",
-   "excerpt": "submitted by /u/Tatsu_Vision [link] [comments]"
-  },
-  {
-   "id": "11cec672869f",
-   "title": "ENTANGLEMENT - Made with MiniMax H3",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vovx7i/entanglement_made_with_minimax_h3/",
-   "date": "2026-08-15T07:02:03.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/dnprYWgwYzZtaGpoMY1oy1V71PHKsCrdqNKOesFbvi2KNC-8hIVMF20uf1E_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfa65fecda2ea9c66d013e96427ce20950e0fb1e",
-   "excerpt": "submitted by /u/MayaProphecy [link] [comments]"
   }
  ]
 }
