@@ -1,6 +1,68 @@
 {
- "updated": "2026-08-20T04:01:22.804Z",
+ "updated": "2026-08-20T04:55:23.524Z",
  "items": [
+  {
+   "id": "a43fb851c9cc",
+   "title": "Aqua Bar",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vt9njo/aqua_bar/",
+   "date": "2026-08-20T04:45:03.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZjZjMmhhb2ZtZ2toMcJuokvtp9VLFEp-wb6BFIrLNE6HqHn_W_m3wm9AV5GS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9de09d68dfe676223dec6af0ab27ddb04883cda6",
+   "excerpt": "submitted by /u/ainsoph00 [link] [comments]"
+  },
+  {
+   "id": "06f4a0d5ba1a",
+   "title": "Jplayz/peerpixel-flux2-klein",
+   "link": "https://huggingface.co/Jplayz/peerpixel-flux2-klein",
+   "date": "2026-08-20T04:44:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, text-to-image, webnn, onnxruntime-web, flux, base_model:Qwen/Qwen3-Embedding-4B",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1a5e0a53ea19",
+   "title": "I asked AI for a cyber news anchor: It gave me prison-hardened CLIPBY",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vt9ckq/i_asked_ai_for_a_cyber_news_anchor_it_gave_me/",
+   "date": "2026-08-20T04:28:44.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YjlrOW4wdmdqZ2toMYuu1dZOfUWnuno1OgPir6fqjzbPD7iP-8r7nRPLqU7F.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=660b2e70ac331e64c83caee8fd63f157f2010c0a",
+   "excerpt": "submitted by /u/Muddie [link] [comments]"
+  },
+  {
+   "id": "303e1daddd69",
+   "title": "At the Bus Stop",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vt9a21/at_the_bus_stop/",
+   "date": "2026-08-20T04:25:09.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dDBqcmxqeHRpZ2toMfW5u0t6GEkiC1oq8QxPazkJn93LYMWsL_KM404hNKcZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3d5ae7b39f6772398504eb158384fd8fb339f5cc",
+   "excerpt": "submitted by /u/Creative_Cook2450 [link] [comments]"
+  },
+  {
+   "id": "a952db77f85f",
+   "title": "Efficient-Large-Model/SANA-Video_2.0_5B_720p",
+   "link": "https://huggingface.co/Efficient-Large-Model/SANA-Video_2.0_5B_720p",
+   "date": "2026-08-20T04:13:34.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: sana, text-to-video, image-to-video, SANA, SANA-Video, SANA-Video-2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "9d02a3a4e079",
    "title": "Sarah's Magical Trouble - Part 3 (Magehold)",
@@ -2834,7 +2896,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
    "hf": {
-    "likes": 39,
+    "likes": 41,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7359,80 +7421,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "92c475b6e908",
-   "title": "AI-APIs/Kling-API",
-   "link": "https://huggingface.co/AI-APIs/Kling-API",
-   "date": "2026-08-14T22:21:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: kling, text-to-video, image-to-video, en, license:other, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "2742af79b9de",
-   "title": "Feeder213/KR__krea2____Edit_____V14",
-   "link": "https://huggingface.co/Feeder213/KR__krea2____Edit_____V14",
-   "date": "2026-08-14T22:21:11.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "868dd7b6bc5e",
-   "title": "D-Day From Orbit",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vol01j/dday_from_orbit/",
-   "date": "2026-08-14T22:04:34.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Znh5eHgzYWV5ZWpoMV1RiD8OWRpEW0Hjx0_RBsTINOolIftakbN_ILU9lqHr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=99d4da294ef0649a157b9578b33f7adf57ff9a8d",
-   "excerpt": "submitted by /u/refututrends [link] [comments]"
-  },
-  {
-   "id": "9cbb9e454598",
-   "title": "AI-APIs/Seedance-API",
-   "link": "https://huggingface.co/AI-APIs/Seedance-API",
-   "date": "2026-08-14T21:54:49.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: seedance, text-to-video, image-to-video, en, license:other, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "50e4bd5baf95",
-   "title": "AI-APIs/Nano-Banana-API",
-   "link": "https://huggingface.co/AI-APIs/Nano-Banana-API",
-   "date": "2026-08-14T21:51:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: nano-banana, text-to-image, image-to-image, en, license:other, region:us",
    "hf": {
     "likes": 0,
     "downloads": 0,
