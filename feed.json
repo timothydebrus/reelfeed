@@ -1,6 +1,88 @@
 {
- "updated": "2026-08-20T07:58:48.108Z",
+ "updated": "2026-08-20T08:58:07.479Z",
  "items": [
+  {
+   "id": "f4ed96b97351",
+   "title": "DayZ but it’s a movie",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vtdz0y/dayz_but_its_a_movie/",
+   "date": "2026-08-20T08:52:49.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MGE1ZW5zdmV1aGtoMTpCxjd6e2abafss3WIEH0Yn6uhQefNNU8_vqBt8Wiwj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c48d727ff9fcfac56af507a50f736c041aea4d3",
+   "excerpt": "submitted by /u/blufattanza89 [link] [comments]"
+  },
+  {
+   "id": "a582661c4d0d",
+   "title": "Japanese Tamagoyaki",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vtdyev/japanese_tamagoyaki/",
+   "date": "2026-08-20T08:51:49.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cnhwYWV5cG50aGtoMXDT_pME_4dUFZfMaJismrp-kAnCyJxgxEVTXqzkizpp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ae7ae69df3acd0f4f5a443b7588fb1a7f482dfe",
+   "excerpt": "submitted by /u/Independent-Arm-7397 [link] [comments]"
+  },
+  {
+   "id": "8d0d5508e472",
+   "title": "Perflow-Shuai/Wan2.1-T2V-14B-Resampling-Forcing-AR-LoRA",
+   "link": "https://huggingface.co/Perflow-Shuai/Wan2.1-T2V-14B-Resampling-Forcing-AR-LoRA",
+   "date": "2026-08-20T08:41:58.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: peft, safetensors, wan2.1, lora, autoregressive-video, causal-attention",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "158787f0c743",
+   "title": "The Red-Headed League | Sherlock Holmes AI Short Film — Work in Progress",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vtdglq/the_redheaded_league_sherlock_holmes_ai_short/",
+   "date": "2026-08-20T08:21:14.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bTc5dmk0bndvaGtoMU31ayictVWevCRZexcIOtTUh48TJ6K8fDz5z11RYj77.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f0fff7fa2c929251c5aeb5700be5354cdfed79c",
+   "excerpt": "submitted by /u/nikhilprasanth [link] [comments]"
+  },
+  {
+   "id": "3813444f06c8",
+   "title": "Realmz of the redeemers \" ep 3 \" : Titans Awakened scene",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vtdemn/realmz_of_the_redeemers_ep_3_titans_awakened_scene/",
+   "date": "2026-08-20T08:17:53.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZnRqcWFpYzdvaGtoMUJTZOpKFXs8h0VCbT-RV942RY1Mx54m8B0TwJI8oAlE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bed0a7a67bcf88517e59dd2b5f63e33a076e04d",
+   "excerpt": "submitted by /u/Kindly_Poet_7878 [link] [comments]"
+  },
+  {
+   "id": "c9b6c9a3ab51",
+   "title": "htdong/Loopy",
+   "link": "https://huggingface.co/htdong/Loopy",
+   "date": "2026-08-20T08:16:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: looping, RGB, RGBA, video, generation, text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "ae77764b5054",
+   "title": "The BOSS!!",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vtdc2q/the_boss/",
+   "date": "2026-08-20T08:13:31.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MmJhMWhoOWpuaGtoMXwfvBmm2HAZmumSF5nQ_7DuU0JDUg0carx808rpXtyV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a62130b1e5d853f69a758cc4d02b85db0aac14cf",
+   "excerpt": "submitted by /u/Wealth_Wise007 [link] [comments]"
+  },
   {
    "id": "5b8858b179ca",
    "title": "Borzzo/uki-loras2",
@@ -16,6 +98,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "051c4a1c74a8",
+   "title": "Tormenta de Arena[OC]",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vtcf7k/tormenta_de_arenaoc/",
+   "date": "2026-08-20T07:18:56.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/8wo6e4rwdhkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d40a1965cefa188a47354c13aaf7622534d8654",
+   "excerpt": "submitted by /u/Gold-Lengthiness-760 [link] [comments]"
   },
   {
    "id": "4802b98060f7",
@@ -42,6 +134,38 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/bzdzMmpsdmxiaGtoMX5IF5Re1OyLbuc9Z6jrC5uDFwqpNTBdVUsKHxDbg4pi.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=128e582a40d4e4f93cd9db07ac01064a9636b9e9",
    "excerpt": "submitted by /u/CremeSubject7594 [link] [comments]"
+  },
+  {
+   "id": "12f128c298c1",
+   "title": "lvladikov/Krea2-Turbo-Distill-4step-LoRA",
+   "link": "https://huggingface.co/lvladikov/Krea2-Turbo-Distill-4step-LoRA",
+   "date": "2026-08-20T07:04:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, text-to-image, distillation, step-distillation, krea-2, base_model:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3e27fea0e309",
+   "title": "lightx2v/Minimax-h3-Turbo-SLA  (♥ 5)",
+   "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo-SLA",
+   "date": "2026-08-20T07:03:25.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: video-generation, image-to-video, audio-video-generation, lora, distillation, sparse-attention",
+   "hf": {
+    "likes": 5,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
   },
   {
    "id": "bafcda44fcf5",
@@ -128,6 +252,16 @@
    }
   },
   {
+   "id": "7e14e1ef31da",
+   "title": "SAAGA | #FutureVisionXPRIZE Submission",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vta0in/saaga_futurevisionxprize_submission/",
+   "date": "2026-08-20T05:03:57.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/wXwE3iIjcE_mX1O4gBzS_qDenatWZ937rU92EoQACjg.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b51924515254d384a6736991ecacec7ea35741c6",
+   "excerpt": "Midjourney was essential for this. If you guys want to talk about the production process, I'd be happy to. I'm an ex vfx artist that exectuive produced this. submitted by /u/SAAGASolve [link] [comments]"
+  },
+  {
    "id": "a43fb851c9cc",
    "title": "Aqua Bar",
    "link": "https://www.reddit.com/r/aivideo/comments/1vt9njo/aqua_bar/",
@@ -211,7 +345,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, modular-diffusers, world-model, interactive, image-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 3,
     "pipeline": "image-to-video"
    }
   },
@@ -236,6 +370,16 @@
    "excerpt": "submitted by /u/marsplanet88 [link] [comments]"
   },
   {
+   "id": "943d62aa09df",
+   "title": "Would you sit here for a while?",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vt6heq/would_you_sit_here_for_a_while/",
+   "date": "2026-08-20T02:11:01.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/496gdmeyufkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2102aa5956d540fc925712daa8c530a2dfabe9b",
+   "excerpt": "submitted by /u/Separate-Way5095 [link] [comments]"
+  },
+  {
    "id": "84616acbf617",
    "title": "Interrogating Highly Suspicious Garden Gnomes",
    "link": "https://www.reddit.com/r/aivideo/comments/1vt4dar/interrogating_highly_suspicious_garden_gnomes/",
@@ -257,7 +401,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 2,
     "pipeline": "text-to-image"
    }
   },
@@ -283,9 +427,19 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, region:us, not-for-all-audiences",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 16,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "3102344ef7cb",
+   "title": "Hungry Like the Wolf",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vt283w/hungry_like_the_wolf/",
+   "date": "2026-08-19T23:06:24.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/m2nswr7dxekh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=37f06b3c0255af729dba2f7e91400616f3c2219d",
+   "excerpt": "Duran Duran - Hungry Like the Wolf submitted by /u/Sapere_aude_69 [link] [comments]"
   },
   {
    "id": "3a0a6309d0fc",
@@ -296,6 +450,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/Z3RnaHpkbmR0ZWtoMa79ftQqrwAKEjfPP7QtP8uRIp5VEp4IWsp349TSZIun.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=08e97a69dc6fb7e3a3638df50b03359740456e61",
    "excerpt": "submitted by /u/Infochammel [link] [comments]"
+  },
+  {
+   "id": "794bb4129165",
+   "title": "rethemed park",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vt1kyb/rethemed_park/",
+   "date": "2026-08-19T22:40:13.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/riqkjys6tekh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=a77c4d498de89f3952a0e1ce425f99602d6d0362",
+   "excerpt": "submitted by /u/KasperGHh [link] [comments]"
   },
   {
    "id": "ce7d730d7bdb",
@@ -309,7 +473,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, krea2",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 5,
     "pipeline": "text-to-image"
    }
   },
@@ -571,6 +735,16 @@
    "excerpt": "submitted by /u/Sufficient-Ice8225 [link] [comments]"
   },
   {
+   "id": "d3630ec252f1",
+   "title": "Random Ideas",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vsuhkg/random_ideas/",
+   "date": "2026-08-19T18:17:02.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/jfwwmh9eidkh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ffb48b6a2c27ef61afeded9638b18f779d6d94f4",
+   "excerpt": "submitted by /u/Doggman101 [link] [comments]"
+  },
+  {
    "id": "cdb9ad4a0f2d",
    "title": "guillekenzo/aros-994ab152-R",
    "link": "https://huggingface.co/guillekenzo/aros-994ab152-R",
@@ -601,6 +775,28 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "e25ea1dfb156",
+   "title": "Does Midjourney still do images like these?",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vstxfh/does_midjourney_still_do_images_like_these/",
+   "date": "2026-08-19T17:58:06.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/gvgds7ahedkh1.jpg?width=140&amp;height=80&amp;auto=webp&amp;s=8dddea59fd64bac8376959e5e57b68388f2b5055",
+   "excerpt": "I haven't used Midjourney, just on the early days, where I made this images. One thing I like about this AI more than others is for images like these, with this \"style\" which I find very unique. But I don't know if this is still replicable with the latest updates, or is it? submitted by /u/Basileios_Makedon_I [link] [comments]"
+  },
+  {
+   "id": "349b06d756e2",
+   "title": "Rings from Dark Souls using Midjourney Video",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vstmoa/rings_from_dark_souls_using_midjourney_video/",
+   "date": "2026-08-19T17:47:41.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/eWd5ZnpkcWRjZGtoMe_AKMcxVtYIxZYRc84PDjAZwItZG5aMHag2G8MH1sbt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f9ff2146ce9e0e38d0b82374e99474fa12e0ffc",
+   "excerpt": "(Full screen recommended) When MJ first came out with video, this was one of my first experiments to put it through its paces. Some rings worked better than others (the covetous serpent ring was virtually impossible to render!) but overall, I really like how it turned out - especially its interpretation of light and gemstones. submitted by /u/Johnny--Arcade [link] [comments]"
   },
   {
    "id": "231ac821f5ae",
@@ -647,6 +843,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "70f5d8811be9",
+   "title": "Brutalist structures in forests",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vsssmk/brutalist_structures_in_forests/",
+   "date": "2026-08-19T17:18:27.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/kd7d66rx7dkh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ce86b13c1866b836091f4bf4688ba6eab401ab3f",
+   "excerpt": "submitted by /u/Agentcooper1974 [link] [comments]"
   },
   {
    "id": "69aee3af08b5",
@@ -910,6 +1116,16 @@
    "excerpt": ""
   },
   {
+   "id": "8957315ef480",
+   "title": "Places In Dream",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vsmr1p/places_in_dream/",
+   "date": "2026-08-19T13:39:59.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/7jkdbyjy4ckh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=b6dfde50fe6d8dd2ce87360b8dc1871a679776cf",
+   "excerpt": "submitted by /u/Sharp_Alternative845 [link] [comments]"
+  },
+  {
    "id": "ad9043b186ee",
    "title": "The Prompt Must Go On",
    "link": "https://www.reddit.com/r/aivideo/comments/1vsmjzk/the_prompt_must_go_on/",
@@ -1042,6 +1258,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/aThoMW51ZGdsYmtoMZFHEUZvn07YH-_Kta9rRZj40tokwa8IiCUrpmfdCJAz.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=187d0eb1f70c934b911e6a2488901aeff3c84d6b",
    "excerpt": "submitted by /u/heresalexandria [link] [comments]"
+  },
+  {
+   "id": "682fc02147fa",
+   "title": "Sunday Slums",
+   "link": "https://www.reddit.com/r/midjourney/comments/1vsjyur/sunday_slums/",
+   "date": "2026-08-19T11:40:13.000Z",
+   "source": "r/midjourney",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/ljd7vetljbkh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=0e8412afac787c43e616af921e904d99b705d5f6",
+   "excerpt": "submitted by /u/Dropdeadlegs84 [link] [comments]"
   },
   {
    "id": "8a780887f083",
@@ -1265,7 +1491,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, minimax-h3, text-to-video, license:apache-2.0, endpoints_compatible, region:us",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 9,
     "pipeline": "text-to-video"
    }
   },
@@ -1324,7 +1550,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, t2v, i2v, r2v, image-to-video, en",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 35,
     "pipeline": "image-to-video"
    }
   },
@@ -1464,7 +1690,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, qwen3-vl, text-encoder, nvfp4, comfyui, quantized",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 7,
     "pipeline": "text-to-video"
    }
   },
@@ -1672,7 +1898,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, image-to-video, text-to-video, video-to-video, audio-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 36,
+    "downloads": 101,
     "pipeline": "image-to-video"
    }
   },
@@ -1988,7 +2214,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, t2v, video, text-to-video, image-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 10,
+    "downloads": 19,
     "pipeline": "image-to-video"
    }
   },
@@ -2207,7 +2433,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, t2v, video, text-to-video, image-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 5,
+    "downloads": 13,
     "pipeline": "image-to-video"
    }
   },
@@ -3007,7 +3233,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, image-to-video, audio-to-video, license:other, region:us",
    "hf": {
     "likes": 0,
-    "downloads": 67,
+    "downloads": 2434,
     "pipeline": "image-to-video"
    }
   },
@@ -3022,7 +3248,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
    "hf": {
-    "likes": 43,
+    "likes": 44,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -5043,7 +5269,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
    "hf": {
     "likes": 30,
-    "downloads": 684,
+    "downloads": 1003,
     "pipeline": "trending video"
    }
   },
@@ -5059,7 +5285,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, physics, spatial-reasoning, object-motion",
    "hf": {
     "likes": 58,
-    "downloads": 1351,
+    "downloads": 1858,
     "pipeline": "trending video"
    }
   },
@@ -5815,7 +6041,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, text-to-audio, lora, diffusers, text-to-video, en",
    "hf": {
     "likes": 15,
-    "downloads": 204,
+    "downloads": 242,
     "pipeline": "trending video"
    }
   },
@@ -7187,261 +7413,6 @@
    "isModel": true,
    "thumb": "https://external-preview.redd.it/dnprYWgwYzZtaGpoMY1oy1V71PHKsCrdqNKOesFbvi2KNC-8hIVMF20uf1E_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dfa65fecda2ea9c66d013e96427ce20950e0fb1e",
    "excerpt": "submitted by /u/MayaProphecy [link] [comments]"
-  },
-  {
-   "id": "73b325cc27ae",
-   "title": "Vip5200/Flux2Klein_4B_diff_loras",
-   "link": "https://huggingface.co/Vip5200/Flux2Klein_4B_diff_loras",
-   "date": "2026-08-15T06:59:56.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.2-klein-4B, base_model:adapter:black-forest-labs/FLUX.2-klein-4B",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8409ec793abb",
-   "title": "xalexmoon/hmpussy_v6_epoch30.safetensors",
-   "link": "https://huggingface.co/xalexmoon/hmpussy_v6_epoch30.safetensors",
-   "date": "2026-08-15T06:28:18.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:MiniMaxAI/MiniMax-H3, base_model:adapter:MiniMaxAI/MiniMax-H3",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9abe24358db6",
-   "title": "Crazy Combat: Mullet Man vs Sadistic Snob",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vovaqd/crazy_combat_mullet_man_vs_sadistic_snob/",
-   "date": "2026-08-15T06:25:59.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OG5lbWNjMXNmaGpoMW5apkUx_4s61Ta7iMljhhyZs-m6FOXGz60Xm0aLq7iQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=eecfdd3025bc87704ac32c647bec945052368335",
-   "excerpt": "submitted by /u/The_Whalekyries [link] [comments]"
-  },
-  {
-   "id": "e29b2d9f0a83",
-   "title": "AbrahamPJ/chilloutmix-inpainting-qnn",
-   "link": "https://huggingface.co/AbrahamPJ/chilloutmix-inpainting-qnn",
-   "date": "2026-08-15T06:00:11.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: stable-diffusion, inpainting, qualcomm, qnn, npu, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "66f2526f06e6",
-   "title": "fyhf/Hu_Tao",
-   "link": "https://huggingface.co/fyhf/Hu_Tao",
-   "date": "2026-08-15T05:15:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Muapi/hu-tao-genshin-impact, base_model:adapter:Muapi/hu-tao-genshin-impact",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0002fc5adebc",
-   "title": "The big trip",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vou18w/the_big_trip/",
-   "date": "2026-08-15T05:15:02.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NzNoZWl2ZjczaGpoMXFAlPlC4xN78d61XuEkY8HzsBm_9UDFI1WYrVFpSgNv.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9dfdcb8c1049befb052f70cf7e426802637f7f1e",
-   "excerpt": "Choppy transitions since everything is done within MJ submitted by /u/MysticLinear [link] [comments]"
-  },
-  {
-   "id": "0a5c637597f1",
-   "title": "Asilarkness/animegen-latent-diffusion",
-   "link": "https://huggingface.co/Asilarkness/animegen-latent-diffusion",
-   "date": "2026-08-15T03:49:41.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: latent-diffusion, anime, diffusion, text-to-image, pytorch, ddim",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "eea3873a8a37",
-   "title": "Random Video: This happens when you ask Seedance to generate whatever it wants",
-   "link": "https://www.reddit.com/r/aivideo/comments/1voscnq/random_video_this_happens_when_you_ask_seedance/",
-   "date": "2026-08-15T03:46:40.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/czR0MGF5MDJuZ2poMe4cj1leL-mwI3KnF192WQHiZv_uYQPjj63WSc_wchEF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e51bc73b1224dd6bf1588aac0436713e363d317a",
-   "excerpt": "submitted by /u/AthleteArtistic3121 [link] [comments]"
-  },
-  {
-   "id": "622926d5dd4d",
-   "title": "INCIDENT UE-227: TILDEN MINE — 28 MAR 92",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vos5u3/incident_ue227_tilden_mine_28_mar_92/",
-   "date": "2026-08-15T03:36:59.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dW9veDBodHBsZ2poMc-Iso0M425TZBITp3-QqFUbrhM97VDrcTUwD5zbbsJz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=08eafe912ae7e276c5e73d06472c9ee92febf733",
-   "excerpt": "submitted by /u/VIV-AF-D [link] [comments]"
-  },
-  {
-   "id": "b5a82c5afda5",
-   "title": "Morningstar deceives.",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vorw13/morningstar_deceives/",
-   "date": "2026-08-15T03:23:00.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/84hiy1y7jgjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b637d88c61ce77b96c5a05d85cb1990a3d91c2f0",
-   "excerpt": "submitted by /u/Big_Addendum_9920 [link] [comments]"
-  },
-  {
-   "id": "ca51c15751bc",
-   "title": "Training",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vornsv/training/",
-   "date": "2026-08-15T03:11:36.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZWJ0YWFqZDFoZ2poMfOoMUrlEvPLdDfX8b9nDNjDqXJNydTSf1E_x1ztiMpy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=67d537949eb90a49aabdaa9eeb4d7ab0c9265cf9",
-   "excerpt": "submitted by /u/Certain_End6434 [link] [comments]"
-  },
-  {
-   "id": "f76ad6b45b62",
-   "title": "spaces within spaces",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vorgx3/spaces_within_spaces/",
-   "date": "2026-08-15T03:02:09.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/fa4bk60hfgjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=479a8f3e6cf4118d08f9c35b2db7ff6d1fec549a",
-   "excerpt": "submitted by /u/Big_Addendum_9920 [link] [comments]"
-  },
-  {
-   "id": "cd1350eea7f1",
-   "title": "biali/stable-diffusion-2-base",
-   "link": "https://huggingface.co/biali/stable-diffusion-2-base",
-   "date": "2026-08-15T02:41:31.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, text-to-image, arxiv:2112.10752, arxiv:2202.00512",
-   "hf": {
-    "likes": 0,
-    "downloads": 4,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e10333b1180b",
-   "title": "linyu01/nova-furry-xl-il-v120-sdxl",
-   "link": "https://huggingface.co/linyu01/nova-furry-xl-il-v120-sdxl",
-   "date": "2026-08-15T02:40:57.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, not-for-all-audiences",
-   "hf": {
-    "likes": 0,
-    "downloads": 2,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e4c902c91e41",
-   "title": "Moon above. Rails ahead. No turning back.",
-   "link": "https://www.reddit.com/r/midjourney/comments/1voqrix/moon_above_rails_ahead_no_turning_back/",
-   "date": "2026-08-15T02:27:29.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/5wf5587c9gjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=067aa4393bd9c19fc526b1b5d2622fde151e2046",
-   "excerpt": "submitted by /u/Separate-Way5095 [link] [comments]"
-  },
-  {
-   "id": "852b15983851",
-   "title": "hoidhxd/SenseNova-U1.5-8B-GGUF",
-   "link": "https://huggingface.co/hoidhxd/SenseNova-U1.5-8B-GGUF",
-   "date": "2026-08-15T02:10:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, text-to-image, sensenova, mot, all-in-one",
-   "hf": {
-    "likes": 0,
-    "downloads": 25,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e18b363148ed",
-   "title": "A Mermaid Sighting",
-   "link": "https://www.reddit.com/r/aivideo/comments/1voprsn/a_mermaid_sighting/",
-   "date": "2026-08-15T01:39:53.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YWY3ejE3ZW4wZ2poMdNRVrDwpQ3qJmGb0ripa7JAR5mu71BwreUMOncc2cw2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c48da076c7d0d3c81bebec9ffa4aaaf23ad0a260",
-   "excerpt": "submitted by /u/Necessary-Use-3820 [link] [comments]"
-  },
-  {
-   "id": "98a51ee5f434",
-   "title": "v2ray/Anima-2.9B-preview-v1-diffusers",
-   "link": "https://huggingface.co/v2ray/Anima-2.9B-preview-v1-diffusers",
-   "date": "2026-08-15T01:35:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, base_model:Gazingstars123/Anima-2.9B, base_model:finetune:Gazingstars123/Anima-2.9B",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "46b8e976884f",
-   "title": "Sunōfurēku",
-   "link": "https://www.reddit.com/r/midjourney/comments/1voov37/sunōfurēku/",
-   "date": "2026-08-15T00:56:36.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/dj51jus1tfjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a6396aa6d936114d9cda1da04dd4ed992d8a726",
-   "excerpt": "submitted by /u/Sapere_aude_69 [link] [comments]"
-  },
-  {
-   "id": "d23882eb8151",
-   "title": "Wind and Fire",
-   "link": "https://www.reddit.com/r/midjourney/comments/1voot33/wind_and_fire/",
-   "date": "2026-08-15T00:53:54.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/xx4vw4o7sfjh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=21330d8b74a2e3a1776edf3a7b1790cbbbf22241",
-   "excerpt": "For Midjourney Facebook group challenge . What happens when wind becomes the main character? submitted by /u/tladb [link] [comments]"
   }
  ]
 }
