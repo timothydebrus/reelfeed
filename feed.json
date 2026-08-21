@@ -1,6 +1,38 @@
 {
- "updated": "2026-08-21T04:56:24.256Z",
+ "updated": "2026-08-21T05:49:53.846Z",
  "items": [
+  {
+   "id": "57930eb83cf0",
+   "title": "diffusionmodels1254ani/Anima-2.9B",
+   "link": "https://huggingface.co/diffusionmodels1254ani/Anima-2.9B",
+   "date": "2026-08-21T05:25:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, anima, comfyui, text-to-image, en, arxiv:2401.02415",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "842a2c7b9440",
+   "title": "Shooter57/cg1500_krea2",
+   "link": "https://huggingface.co/Shooter57/cg1500_krea2",
+   "date": "2026-08-21T05:12:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "519b2cdc4fae",
    "title": "chfm/10Eros-Max-beta2-NVFP4",
@@ -18,6 +50,22 @@
    }
   },
   {
+   "id": "b240949a571f",
+   "title": "kulta801/ryd",
+   "link": "https://huggingface.co/kulta801/ryd",
+   "date": "2026-08-21T04:46:24.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
    "id": "c533852e5db2",
    "title": "chfm/LTX-2.5-Distilled-GGUF",
    "link": "https://huggingface.co/chfm/LTX-2.5-Distilled-GGUF",
@@ -32,6 +80,16 @@
     "downloads": 0,
     "pipeline": "image-to-video"
    }
+  },
+  {
+   "id": "6099513e88fe",
+   "title": "TNT trick shot",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vu65x3/tnt_trick_shot/",
+   "date": "2026-08-21T04:30:07.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aW15a3Jzb29vbmtoMTAhMcOq1_4BUdIsEb3DVNbIrluAtZp0wDu6oTgbMsvj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd35a7a2aa5b65f57ee842732b48ae7f0dda4beb",
+   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
   },
   {
    "id": "9d4f17db9eff",
@@ -109,6 +167,22 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3b9d92351d89",
+   "title": "FastVideo/FastVideo-Minimax-FastH3-Preview-v0.1",
+   "link": "https://huggingface.co/FastVideo/FastVideo-Minimax-FastH3-Preview-v0.1",
+   "date": "2026-08-21T01:43:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, video, audio, text-to-audio-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
    }
   },
   {
@@ -7288,63 +7362,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "e7248221fced",
-   "title": "Icy Nethers",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vpzog6/icy_nethers/",
-   "date": "2026-08-16T15:16:32.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bTJ6ZW94N2U3cmpoMRlROt-SQOz4yMjMz9bgt0Cgsf91du-u-kEpnII8T4ND.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1397b01a980f1c6286d8781306ea1f11d5954e04",
-   "excerpt": "submitted by /u/feral-trashpanda [link] [comments]"
-  },
-  {
-   "id": "4a493f2763ae",
-   "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-   "date": "2026-08-16T14:56:40.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request. The feature is opt-in, rather than opt-out, and you can exclude certain apps and websi"
-  },
-  {
-   "id": "b7c8cf74690a",
-   "title": "Matt444455/ank123",
-   "link": "https://huggingface.co/Matt444455/ank123",
-   "date": "2026-08-16T14:38:48.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "92241ec70844",
-   "title": "Tried a giant-scale fantasy scene in MiniMax H3，it kept the sense of scale surprisingly well",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vpying/tried_a_giantscale_fantasy_scene_in_minimax_h3it/",
-   "date": "2026-08-16T14:29:47.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/OTFjd2s5MjJ6cWpoMacrRlS0ATyrxMaaEuHcxPjRDw4aH27-wphFSvYxin_m.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6a79d0d3ae3518e7ad44265d37973f169cc6401",
-   "excerpt": "submitted by /u/JellyfishFluffy4190 [link] [comments]"
-  },
-  {
-   "id": "f3faf5e6227c",
-   "title": "Earthquake Strikes Indonesia_What If You Were There?",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vpygxz/earthquake_strikes_indonesia_what_if_you_were/",
-   "date": "2026-08-16T14:27:44.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/azdzcHMyMDd5cWpoMXP4G37rQyJPvRIF1OeYaG500MnQdX1hLzdn5hPzaOfg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d867c6cdb3b42859291bef06c33c1172daa10da",
-   "excerpt": "submitted by /u/NotAnotherNPC_2501 [link] [comments]"
   }
  ]
 }
