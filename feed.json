@@ -1,6 +1,42 @@
 {
- "updated": "2026-08-21T18:59:07.562Z",
+ "updated": "2026-08-21T19:39:35.469Z",
  "items": [
+  {
+   "id": "b6b2cb39a8dd",
+   "title": "atlas (pilot)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vupx7s/atlas_pilot/",
+   "date": "2026-08-21T19:20:56.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZDJneHh4dDEzc2toMezfWQHiGH3N7t3ZNweY08WipMXjmVDwHxEQIajJguNn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f49d2af367a17675900d69ecf97a68e595ca97a0",
+   "excerpt": "submitted by /u/superfatbeagle [link] [comments]"
+  },
+  {
+   "id": "ed4f0b5cfec4",
+   "title": "The Hidden Cameos You Probably Missed in Django Unchained's Unmasking Scene",
+   "link": "https://nofilmschool.com/django-unchained-s-unmasking-scene",
+   "date": "2026-08-21T19:02:02.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/django-unchained-s-unmasking-scene.jpg?id=67657790&width=1245&height=700&coordinates=78%2C0%2C172%2C0",
+   "excerpt": "I saw Django Unchained on the opening weekend it came out, on a Sunday morning at The Grove. It was a bloody, kinetic triumph. A revenge movie about America from the point of view of a director trying to deconstruct the myths we tell each other through film and TV. One of the scenes that's small but I think is worth talking about is full of cameos. It's the hoods-off, or unmasking, scene where som"
+  },
+  {
+   "id": "564c689efa72",
+   "title": "kimi000/latent-meadow-41",
+   "link": "https://huggingface.co/kimi000/latent-meadow-41",
+   "date": "2026-08-21T18:54:20.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, diffusers:ZImagePipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "5af531d971b8",
    "title": "Humanity’s Yearbook: For the Living and the Dead - Future Vision XPRIZE",
@@ -62,6 +98,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/em1xemtqeHFucmtoMYaI615umr1KPjoI23fJtaBS6qUnCocNysU7I5bQHlNs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=571acee261ce4beee20a464e8100e4e693a66de3",
    "excerpt": "submitted by /u/TheGillos [link] [comments]"
+  },
+  {
+   "id": "8a7f0a4f58f8",
+   "title": "Robot Delivery Drivers: Uncensored!",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vun1pd/robot_delivery_drivers_uncensored/",
+   "date": "2026-08-21T17:36:34.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZWNpN2gwaTBrcmtoMcUyaK-ryOo-yqhgTNymG6xY9W-2sDDZcN8WpacDxyw0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1d1e56c5bdf7d73a2ec267fdfe95ca9a632fbbe",
+   "excerpt": "submitted by /u/ScriptLurker [link] [comments]"
   },
   {
    "id": "01177a527d70",
@@ -7323,59 +7369,6 @@
    "isModel": false,
    "thumb": "",
    "excerpt": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs"
-  },
-  {
-   "id": "f35685948abe",
-   "title": "tianfeng521/Qwen-Image-Edit-Rapid-AIO",
-   "link": "https://huggingface.co/tianfeng521/Qwen-Image-Edit-Rapid-AIO",
-   "date": "2026-08-17T04:57:46.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyUI, qwen, qwen-edit, t2i, i2i, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "05b3de786508",
-   "title": "Gencarmo/Z-Image-Turbo",
-   "link": "https://huggingface.co/Gencarmo/Z-Image-Turbo",
-   "date": "2026-08-17T04:12:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8c6a6c3c21c8",
-   "title": "Game of Pitayas: The Dragon Fruit Throne",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vqhck8/game_of_pitayas_the_dragon_fruit_throne/",
-   "date": "2026-08-17T03:43:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/AcanthisittaStill965 [link] [comments]"
-  },
-  {
-   "id": "e5221d6f877f",
-   "title": "New policy ideas for the Intelligence Age",
-   "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-   "date": "2026-08-17T03:15:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
   }
  ]
 }
