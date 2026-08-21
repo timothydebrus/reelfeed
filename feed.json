@@ -1,6 +1,212 @@
 {
- "updated": "2026-08-21T13:13:26.785Z",
+ "updated": "2026-08-21T15:50:17.944Z",
  "items": [
+  {
+   "id": "990653e3a4b3",
+   "title": "richardbielawski/WAN21_HWS16",
+   "link": "https://huggingface.co/richardbielawski/WAN21_HWS16",
+   "date": "2026-08-21T15:42:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:DFloat11/Wan2.1-T2V-14B-Diffusers-DF11, base_model:adapter:DFloat11/Wan2.1-T2V-14B-Diffusers-DF11",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "29acdc689ac7",
+   "title": "PlantCam: Shoot Plant Timelapses or DIY Projects With This Aptly Named Plant Camera",
+   "link": "https://nofilmschool.com/plantcam-timelapse-camera",
+   "date": "2026-08-21T15:41:12.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/plantcam-timelapse-camera.jpg?id=67572157&width=1200&height=800&coordinates=97%2C0%2C98%2C0",
+   "excerpt": "Well, this is a cool invention with a single purpose. The aptly named PlantCam is a plant camera that watches your plants grow. It’s clever repackaging and marketing for what is basically just a time-lapse camera, and a pretty sophisticated one at that. It is also a quite capable time-lapse camera that could be used either for its main purpose (plants) or for whatever else you might dream up. Let'"
+  },
+  {
+   "id": "6164e911da61",
+   "title": "Burroughs352/Gabbi-Flux",
+   "link": "https://huggingface.co/Burroughs352/Gabbi-Flux",
+   "date": "2026-08-21T15:15:34.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:ponpoke/flux2-klein-9b-uncensored-text-encoder, base_model:adapter:ponpoke/flux2-klein-9b-uncensored-text-encoder",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d575754e294f",
+   "title": "jandak/dti_thumbnail",
+   "link": "https://huggingface.co/jandak/dti_thumbnail",
+   "date": "2026-08-21T14:56:34.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, text-to-image, lora, fal, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1c0acd9bc9b9",
+   "title": "xocialize/ltx-2.5-granules",
+   "link": "https://huggingface.co/xocialize/ltx-2.5-granules",
+   "date": "2026-08-21T14:55:59.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, ltx-video, ltx-2.5, weight-streaming, text-to-video, base_model:Lightricks/LTX-2.5",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "0b6adb7dac75",
+   "title": "aibeefed/vikxlor",
+   "link": "https://huggingface.co/aibeefed/vikxlor",
+   "date": "2026-08-21T14:53:12.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "946e07ef9bab",
+   "title": "mlx-community/ltx-2.5-mlx-q8  (♥ 1)",
+   "link": "https://huggingface.co/mlx-community/ltx-2.5-mlx-q8",
+   "date": "2026-08-21T14:51:24.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: mlx, safetensors, AudioVideo, ltx-video, ltx-2.5, text-to-video",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "7202a09ce526",
+   "title": "mlx-community/ltx-2.5-mlx-ditq8",
+   "link": "https://huggingface.co/mlx-community/ltx-2.5-mlx-ditq8",
+   "date": "2026-08-21T14:50:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, ltx-video, ltx-2.5, text-to-video, image-to-video, audio-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "468240bad02e",
+   "title": "dreamkrate/Minimax-H3-Hybrid-BF16-Pruned",
+   "link": "https://huggingface.co/dreamkrate/Minimax-H3-Hybrid-BF16-Pruned",
+   "date": "2026-08-21T14:44:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, text-to-video, image-to-video, audio-video-generation, diffusion-transformer, safetensors",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "634919cbac19",
+   "title": "DetroitWobbly/Illuminate",
+   "link": "https://huggingface.co/DetroitWobbly/Illuminate",
+   "date": "2026-08-21T14:40:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: stable-diffusion-xl, sdxl, lora, concept-slider, semantic-slider, lighting",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "7df6100d1349",
+   "title": "Big Cheese Does Whatever He Wants!!",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vuhf1a/big_cheese_does_whatever_he_wants/",
+   "date": "2026-08-21T14:08:51.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/b2w1d2FucXZqcWtoMcX4hFm4Q1073Q-j8TcpAAUsfHf9Z6XMzRdxpHxG2YRK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9717ba6817276a3c4ef7e2a72e2398b5cc8bcc3e",
+   "excerpt": "submitted by /u/Wealth_Wise007 [link] [comments]"
+  },
+  {
+   "id": "f30a4a32fb60",
+   "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+   "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+   "date": "2026-08-21T14:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "There's about to be a big fight to secure access to space."
+  },
+  {
+   "id": "35445fd93f18",
+   "title": "Diwan1337/TEST",
+   "link": "https://huggingface.co/Diwan1337/TEST",
+   "date": "2026-08-21T13:39:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, text-to-image, lora, fal, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5f11d7c6278a",
+   "title": "ferdap/LivePortrait",
+   "link": "https://huggingface.co/ferdap/LivePortrait",
+   "date": "2026-08-21T13:19:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: liveportrait, onnx, image-to-video, arxiv:2407.03168, license:mit, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
   {
    "id": "8e92eb871c2e",
    "title": "Burroughs352/Magda",
@@ -16,6 +222,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "9678593ffbe8",
+   "title": "Kramer Sees Joe DiMaggio In Dinky Donuts",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vuftlt/kramer_sees_joe_dimaggio_in_dinky_donuts/",
+   "date": "2026-08-21T13:04:34.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YXViMTExd2Q4cWtoMTXOjJLcHdD2_Dxvwtgp128SqwL2IVcnme5ZUa-4uKIQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=602e19470c145d02873f8e0d93bee88eb1cd8cda",
+   "excerpt": "submitted by /u/BitsOnWaves [link] [comments]"
   },
   {
    "id": "654bcec50afe",
@@ -179,6 +395,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "c92e92382b3f",
+   "title": "What the dog doin fighting vs banana cat",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vu9157/what_the_dog_doin_fighting_vs_banana_cat/",
+   "date": "2026-08-21T07:07:41.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MXhmaWhneWpnb2toMfdSNdRSFh-fAoUnby6CH1WAr6rAu8MPRc30EEk7M430.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e440b56f8192fcd2ed5fd1ef46159b3270e0fd30",
+   "excerpt": "submitted by /u/bqnhat [link] [comments]"
   },
   {
    "id": "e7ef49612489",
@@ -425,6 +651,17 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
+  },
+  {
+   "id": "31b34c53c278",
+   "title": "Measuring benchmark optimization in speech recognition",
+   "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+   "date": "2026-08-21T00:00:00.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
   },
   {
    "id": "6cd65e0524ce",
@@ -834,6 +1071,22 @@
    "isModel": false,
    "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
    "excerpt": "ComfyUI v0.33.3"
+  },
+  {
+   "id": "f1d8fb7eb1c9",
+   "title": "FrankDase/LTX-2.5-MLX",
+   "link": "https://huggingface.co/FrankDase/LTX-2.5-MLX",
+   "date": "2026-08-20T17:55:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, AudioVideo, ltx-video, ltx-2.5, text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
   },
   {
    "id": "0d36a09696ae",
@@ -1450,7 +1703,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: lara-ltx, mlx, apple-silicon, video-generation, audio-generation, text-to-video",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -5108,7 +5361,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
    "hf": {
-    "likes": 54,
+    "likes": 55,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7128,257 +7381,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
    "hf": {
-    "likes": 35,
+    "likes": 36,
     "downloads": 1223,
     "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "5d3f0e67b7cf",
-   "title": "Jojocodex/minimax-h3-spatial-physics-lora",
-   "link": "https://huggingface.co/Jojocodex/minimax-h3-spatial-physics-lora",
-   "date": "2026-08-16T19:01:58.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, physics, spatial-reasoning, object-motion",
-   "hf": {
-    "likes": 65,
-    "downloads": 2228,
-    "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "511afad21bd5",
-   "title": "Jojocodex/minimax-h3-yunjing-lora",
-   "link": "https://huggingface.co/Jojocodex/minimax-h3-yunjing-lora",
-   "date": "2026-08-16T19:01:57.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, camera-movement, cinematography, video-generation",
-   "hf": {
-    "likes": 14,
-    "downloads": 67,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "d20fd985dae3",
-   "title": "Jojocodex/minimax-h3-Camera-Motion-lora  (♥ 16)",
-   "link": "https://huggingface.co/Jojocodex/minimax-h3-Camera-Motion-lora",
-   "date": "2026-08-16T19:01:57.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending video model on Hugging Face. Downloads: 439, likes: 16. Tags: minimax-h3, lora, text-to-video, camera-movement, cinematography, video-generation",
-   "hf": {
-    "likes": 17,
-    "downloads": 695,
-    "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "a189ff8aa98b",
-   "title": "Matt444455/anka123",
-   "link": "https://huggingface.co/Matt444455/anka123",
-   "date": "2026-08-16T18:53:46.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "23e92fb4948f",
-   "title": "When Umbrella gives up and just imports bioweapons now. MiniMax H3",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vq58np/when_umbrella_gives_up_and_just_imports/",
-   "date": "2026-08-16T18:51:52.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/OHMwNmNwZnA5c2poMZdBYcIVezJQrhQPm3fkTf5hspHdsqROmaB60qDEIiVi.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c36d01174e82d036e773fdecce31482ce3f7688b",
-   "excerpt": "**[Scene Start]** **[Style]** Resident Evil 4 Gameplay Footage; Gritty, high-contrast, survival horror aesthetic with heavy particle effects. **[Setting]** A dense, dark forest trail at twilight. Overgrown ferns, moss-covered logs, and deep shadows dominate the background. The ground is littered with damp leaves. **[Shot 1]** Medium tracking shot following Leon Kennedy from behind as he strides fo"
-  },
-  {
-   "id": "eaa41e411396",
-   "title": "Super Ghouls ’n Ghosts But It’s Photorealistic",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vq4rsm/super_ghouls_n_ghosts_but_its_photorealistic/",
-   "date": "2026-08-16T18:33:42.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/N3g4ZTA5Mm42c2poMV55KoMkOCVti_FcKoPprtKl6cZbCXn42NZIcHhR_ZqS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1c9a425466fee8f798a7fbd19870467d0c5b57a3",
-   "excerpt": "submitted by /u/demondisc [link] [comments]"
-  },
-  {
-   "id": "ee7693bc76b0",
-   "title": "polokotoqied/timsan_lora",
-   "link": "https://huggingface.co/polokotoqied/timsan_lora",
-   "date": "2026-08-16T18:33:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "2a32c1381a2d",
-   "title": "agosh/LTX-2.5-Comfy-GGUF",
-   "link": "https://huggingface.co/agosh/LTX-2.5-Comfy-GGUF",
-   "date": "2026-08-16T18:32:39.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, video-generation, text-to-video, image-to-video, ltx-2.5",
-   "hf": {
-    "likes": 1,
-    "downloads": 119,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "bb2a6635e5e9",
-   "title": "MiniMax H3: How to use a first image and reference images without losing I2V quality (hybrid FL+REF merge + prompting)",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vq4m4b/minimax_h3_how_to_use_a_first_image_and_reference/",
-   "date": "2026-08-16T18:27:47.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "Edit: The first post was hard to read, so hopefully this version of the post is better. MiniMax H3 can make video from images, but the two official video models split the job in a way that is easy to miss. One model is good at matching your first photo. The other can take several photos at once (a location plus a logo, or several frames you want at exact times). This post is how to get both: a str"
-  },
-  {
-   "id": "cc61264ae21b",
-   "title": "lynaNSFW/MMH3_moawxx",
-   "link": "https://huggingface.co/lynaNSFW/MMH3_moawxx",
-   "date": "2026-08-16T18:22:40.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "755ea0b855fa",
-   "title": "I AM THE DANGER!",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vq4dkg/i_am_the_danger/",
-   "date": "2026-08-16T18:18:45.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZGkwZm5taXkzc2poMbh2pdB_UiEgQGhoyYE6KSIpf1jk4yG-IrWK6XH6m9Jm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b73027ee1567a0dc50f0aa4b40ea8a50cdd7c876",
-   "excerpt": "submitted by /u/No_Tomatillo1695 [link] [comments]"
-  },
-  {
-   "id": "0e7966f567f3",
-   "title": "Halloran - A Life In Full",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vq40ec/halloran_a_life_in_full/",
-   "date": "2026-08-16T18:05:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aDNtYzZ5M2oxc2poMfDbIyCya1NBmKrKNDO9qzYX68_is4Htw2ieU2F8e8_H.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d1cd5ae17f650803a26a5fb06bcf87d0113b13f",
-   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
-  },
-  {
-   "id": "a048af60f4cc",
-   "title": "SouthernBoots/krea2-mckenna-grace-v2",
-   "link": "https://huggingface.co/SouthernBoots/krea2-mckenna-grace-v2",
-   "date": "2026-08-16T18:04:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e8b88e0c9f74",
-   "title": "[Japanese Kawaii Metal] Adrenaline by KiraHz / Music Video + Story",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vq3rdd/japanese_kawaii_metal_adrenaline_by_kirahz_music/",
-   "date": "2026-08-16T17:55:58.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NjExdHdjanB6cmpoMfEkOApFKmHehsK1J50YREsL24TXw6PfnSo_8YrYI5x_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=29b6427b4fc0dde230008fcbdbbc84bd28b78c0c",
-   "excerpt": "submitted by /u/Fabulous-Snow4366 [link] [comments]"
-  },
-  {
-   "id": "bfaf5602eb79",
-   "title": "Ghaxalll/ghaxal-face-v2",
-   "link": "https://huggingface.co/Ghaxalll/ghaxal-face-v2",
-   "date": "2026-08-16T17:49:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c1dd0f675716",
-   "title": "bonewinder",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vq33xo/bonewinder/",
-   "date": "2026-08-16T17:30:50.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eDJiZnZ1Njl2cmpoMefMn0dY8wtaT-2HE8mYtTlNHjiKlAJd2EdiUS8iR28Q.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9939f1e1a842a25dd0bfba209b5f097c5d6e762a",
-   "excerpt": "submitted by /u/superfatbeagle [link] [comments]"
-  },
-  {
-   "id": "b0ec4f52607a",
-   "title": "BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy-v2",
-   "link": "https://huggingface.co/BennyDaBall/LTX-2.5-22b-distilled-nvfp4-comfy-v2",
-   "date": "2026-08-16T17:20:05.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx, ltx-2.5, nvfp4, comfyui, diffusion-single-file, quantized",
-   "hf": {
-    "likes": 1,
-    "downloads": 56,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "e10cbb34ad1f",
-   "title": "zehen8716/kashish-lora",
-   "link": "https://huggingface.co/zehen8716/kashish-lora",
-   "date": "2026-08-16T17:19:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, krea2",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
    }
   }
  ]
