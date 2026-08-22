@@ -1,6 +1,98 @@
 {
- "updated": "2026-08-22T14:40:56.672Z",
+ "updated": "2026-08-22T16:43:11.815Z",
  "items": [
+  {
+   "id": "39119bad22db",
+   "title": "OpenAI says California should strengthen its AI safety bill",
+   "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+   "date": "2026-08-22T16:30:34.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+  },
+  {
+   "id": "d005d51c442f",
+   "title": "0 chance - 0 risk",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vvgaof/0_chance_0_risk/",
+   "date": "2026-08-22T16:05:21.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YzRtaWMxYms5eWtoMW1vBhEUHy3J4s3LXUSoTKIBFdMGgFu5gvBkeUT8ddAi.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d87992ab10ce7ed84461f94545d019037e2dc2fc",
+   "excerpt": "submitted by /u/Own_Difference577 [link] [comments]"
+  },
+  {
+   "id": "796f7a9c48e9",
+   "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+   "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+   "date": "2026-08-22T16:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+  },
+  {
+   "id": "b17c509704b0",
+   "title": "Bambi the Destroyer: Episode 11",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vvfpz2/bambi_the_destroyer_episode_11/",
+   "date": "2026-08-22T15:42:48.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZGc2bXI0eXJ3eGtoMX5UTTaFtHsl_Ho0W0nqJVNXPonDpg47Er4uIPm_pnVX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1af64b2f6629ad97b1acb390044346293acdf788",
+   "excerpt": "submitted by /u/rad_city [link] [comments]"
+  },
+  {
+   "id": "4622918c5ffe",
+   "title": "Praelatus/Wuwuren_Style",
+   "link": "https://huggingface.co/Praelatus/Wuwuren_Style",
+   "date": "2026-08-22T14:51:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:circlestone-labs/Anima, base_model:adapter:circlestone-labs/Anima",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "30df236f4e54",
+   "title": "\"Still looking\"",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vve8zb/still_looking/",
+   "date": "2026-08-22T14:43:24.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/plastkort [link] [comments]"
+  },
+  {
+   "id": "9b538842cb79",
+   "title": "Contra But It’s Photorealistic",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vvdwg5/contra_but_its_photorealistic/",
+   "date": "2026-08-22T14:28:47.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dDBlOTB5eGVzeGtoMSK3-FoeCXjz9aMypyypb1s1GkolSPFDbTQV2F1f8ZXv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dcc9627e8f936a1b38cd7cc194fba8c764c6a8d2",
+   "excerpt": "submitted by /u/demondisc [link] [comments]"
+  },
+  {
+   "id": "d9f993421640",
+   "title": "guillekenzo/aros-d5e0315f-Mafercastam",
+   "link": "https://huggingface.co/guillekenzo/aros-d5e0315f-Mafercastam",
+   "date": "2026-08-22T14:14:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "dc5dfafa6fd5",
    "title": "Black Hole Night",
@@ -7334,98 +7426,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "Which model (qwen-image-edit-2511-fp8mixed or flux-2-klein-9b-fp8) is best for editing primarily digital art? Especially with nsfw edits. I've tried some workflows and both models seem hit or miss based on the change or image. I've also seen \"Qwen-Image-Edit-Rapid-AIO\" should I use that? submitted by /u/FUCKCKK [link] [comments]"
-  },
-  {
-   "id": "5b8dbc23aeee",
-   "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-   "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-   "date": "2026-08-17T21:27:05.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
-  },
-  {
-   "id": "14750d944360",
-   "title": "Three Musketeers by Absurd",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vr5bf3/three_musketeers_by_absurd/",
-   "date": "2026-08-17T21:22:33.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dm85NnpkbWw1MGtoMcc0DCX7QElJ6q4QhwLImDGqLJaCqPDcaQkaQs2Y3rMa.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ce2a6d713cab2faaeceea4ab9747f0891d4659b7",
-   "excerpt": "submitted by /u/Able-Big9639 [link] [comments]"
-  },
-  {
-   "id": "a71c17317bde",
-   "title": "How to Build Production Value Into a No-Budget Feature",
-   "link": "https://nofilmschool.com/how-to-build-production-value-into-a-no-budget-feature",
-   "date": "2026-08-17T21:10:02.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/contradiction.png?id=67635410&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "When people hear that my feature film Contradiction was made with a zero-dollar budget, they usually imagine a chaotic production held together by luck. Parts of it were. Over nearly a decade of writing, filming, and editing, I realized that no-budget filmmaking is less about surviving limitations and more about learning how to see cinematic value in the world already around you. I started buildin"
-  },
-  {
-   "id": "a0dc358820c1",
-   "title": "Old church murals",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vr4otp/old_church_murals/",
-   "date": "2026-08-17T20:59:01.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/vt2ao58f10kh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=efac810eeb46f78096c4216acbe4e86f3c9e9321",
-   "excerpt": "submitted by /u/SolarFlr2k20 [link] [comments]"
-  },
-  {
-   "id": "8b8885f9e761",
-   "title": "tokyo goth (80s ova)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vr4d7g/tokyo_goth_80s_ova/",
-   "date": "2026-08-17T20:46:49.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/superfatbeagle [link] [comments]"
-  },
-  {
-   "id": "2e78908190d9",
-   "title": "Movie Myth Monday: Did 'The Good, the Bad and the Ugly' Blow Up the Bridge Twice?",
-   "link": "https://nofilmschool.com/langstone-bridge-blow-up-the-good-the-bad-and-the-ugly",
-   "date": "2026-08-17T20:23:59.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/did-the-good-the-bad-and-the-ugly-blow-up-the-bridge-twice.jpg?id=67634756&width=1245&height=700&coordinates=30%2C0%2C206%2C0",
-   "excerpt": "There are so many crazy stories in Hollywood. We have legends about all sorts of production hurdles and behavior. One of my favorites is the idea that deep into the dusty landscapes of Burgos, Spain, set to look like the American West, there was a bridge that needed exploding twice to get the right shots in camera. That's right, today we travel to the set of Sergio Leone’s Spaghetti Western master"
-  },
-  {
-   "id": "dbf9127a6b38",
-   "title": "Patarapoom/ltx25-render",
-   "link": "https://huggingface.co/Patarapoom/ltx25-render",
-   "date": "2026-08-17T20:14:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx-2.5, comfyui, image-to-video, audio-to-video, license:other, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "a1f9824d642b",
-   "title": "berryber09/MiniMax-H3-10Eros-beta2-fl2va-w4a8",
-   "link": "https://huggingface.co/berryber09/MiniMax-H3-10Eros-beta2-fl2va-w4a8",
-   "date": "2026-08-17T19:53:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, w4a8, quantized, text-to-video, base_model:TenStrip/10Eros-Max",
-   "hf": {
-    "likes": 0,
-    "downloads": 26,
-    "pipeline": "text-to-video"
-   }
   }
  ]
 }
