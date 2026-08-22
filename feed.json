@@ -1,6 +1,64 @@
 {
- "updated": "2026-08-22T04:52:06.829Z",
+ "updated": "2026-08-22T07:01:43.344Z",
  "items": [
+  {
+   "id": "bae0e23acb4a",
+   "title": "flower45670/text-to-video-ms-1.7b",
+   "link": "https://huggingface.co/flower45670/text-to-video-ms-1.7b",
+   "date": "2026-08-22T06:25:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, arxiv:2308.06571, license:cc-by-nc-4.0, diffusers:TextToVideoSDPipeline",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "7e40e09c5b5f",
+   "title": "Walee09/Seedance-2-AI-Video-Generator-free",
+   "link": "https://huggingface.co/Walee09/Seedance-2-AI-Video-Generator-free",
+   "date": "2026-08-22T05:58:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-video, image-to-video, multimodal, diffusion, dit, lip-sync",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "22f9c651bf85",
+   "title": "Oberkrainer",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vv3kaj/oberkrainer/",
+   "date": "2026-08-22T05:26:22.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bGRrc2g3MW4zdmtoMXkYOGINcEgEwOB9Nm-W3kUwD49xAVFXp0ZkxGsRg9DN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=07c21719132c7e0bcd2f2dd89fbe3438a999c2e9",
+   "excerpt": "submitted by /u/VR-AI [link] [comments]"
+  },
+  {
+   "id": "2047f7591ab1",
+   "title": "toilaluan/dmd2-sd1.5",
+   "link": "https://huggingface.co/toilaluan/dmd2-sd1.5",
+   "date": "2026-08-22T05:21:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "6f04440d50aa",
    "title": "DavidBaloches/Mythic_Fantasy_Styles",
@@ -18,10 +76,36 @@
    }
   },
   {
+   "id": "1a506620d32a",
+   "title": "Random Granny Moment",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vv21le/random_granny_moment/",
+   "date": "2026-08-22T04:07:33.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cGV1czE0NWtwdWtoMWcAombA8WW8hoHlfrhDcZkVvfow_rfAt_DHJJJatlUg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ba253d5b198d769dffeba7b74d00c593f03428d4",
+   "excerpt": "submitted by /u/Independent-Arm-7397 [link] [comments]"
+  },
+  {
    "id": "95018381490b",
    "title": "Lonuhbow/horse1",
    "link": "https://huggingface.co/Lonuhbow/horse1",
    "date": "2026-08-22T04:06:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "349ba9a01bb6",
+   "title": "tmtmtm45/shavedpit",
+   "link": "https://huggingface.co/tmtmtm45/shavedpit",
+   "date": "2026-08-22T04:01:46.000Z",
    "source": "Hugging Face Models",
    "cat": "news",
    "isModel": true,
@@ -7302,80 +7386,6 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/falcam-tagbatt.jpg?id=67568422&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
    "excerpt": "Well, this is pretty cool and possibly a nice option to consider for the forgetful filmmaker. And, let’s face it, we’ve all been that guy leaving gear behind on sets before. While you’d like to think that’s more often memory cards or XLR cables, it does happen with cameras every once in a while, and it can be devastating, to say the least. A new, clever smart battery solution aims to solve this, t"
-  },
-  {
-   "id": "09ed1ba6a774",
-   "title": "MiniMax H3 Realism LoRA best usage case",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vqz4jo/minimax_h3_realism_lora_best_usage_case/",
-   "date": "2026-08-17T17:40:25.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/YnVycWtrYmJ6eWpoMeEjY23sVfzRoAs8qw7J_3xQdRMzYrh3--1_yNJtdO2O.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=13c4821081d29307092be1859ec256e66441ecad",
-   "excerpt": "So i tried couple of LoRA's with Realism LoRA to see which one gives the best results, all results were with the REF2VA model with the exact prompt at 0.7 Mp and here are my interpretations (feel free to comment what you also think): | use RealismLoRA | Order No RlsmLoRA | Order with RlsmLoRA | FL2V 4step V0.1 | Yes | #3 | #1 | FL2V 8step V1.0 | No | #2 | #2 | FL2V 4step V1.0 | Yes | #4 | #3 | RF2"
-  },
-  {
-   "id": "ae201af5acc8",
-   "title": "punk girl with her pet rat at comic-con 🩶",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vqz460/punk_girl_with_her_pet_rat_at_comiccon/",
-   "date": "2026-08-17T17:40:04.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ejR0cGY1dWUxempoMRYSVQSORUsRDA16GxHh57iiDJIHzZLSmOKhPEDkjkPJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7067807f85757ef79d3ebfdfbfd5cccce9bbdd20",
-   "excerpt": "submitted by /u/bananapudding877 [link] [comments]"
-  },
-  {
-   "id": "e631388b73ca",
-   "title": "A quick Minimax H3 news round-up - 17th August 2026",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vqyn8p/a_quick_minimax_h3_news_roundup_17th_august_2026/",
-   "date": "2026-08-17T17:23:57.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "Another quick Minimax H3 news and goodies round-up, for those who may have missed some items. -> Minimax_H3_Latent_Upscaler models, with matching custom nodes for ComfyUI. \"Trained on ~80,000 paired samples (low-resolution latent + high-resolution target)\". https://huggingface.co/LBH-123-AI/Minimax_h3_latent_Upscaler (models) https://github.com/LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler (nodes)"
-  },
-  {
-   "id": "a02e71cdbaf7",
-   "title": "Every Disney Announcement from D23 2026",
-   "link": "https://nofilmschool.com/d23-2026",
-   "date": "2026-08-17T17:18:44.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/d23-2026.jpg?id=67634439&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "The reason Comic-Con isn't as huge anymore is that Disney basically decided it was done paying San Diego and sharing headlines with other studios. So, while they still play nice, they focus all their energy on D23, their own festival that they charge Disney fanatics to attend, where they just market their movies and TV shows and charge a premium for park access. And they do it in Anaheim, right at"
-  },
-  {
-   "id": "7e451ab45b36",
-   "title": "d0gr/dreamshaper-xl-lightning-unet-onnx",
-   "link": "https://huggingface.co/d0gr/dreamshaper-xl-lightning-unet-onnx",
-   "date": "2026-08-17T17:12:05.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, webgpu, stable-diffusion-xl, text-to-image, base_model:Lykon/dreamshaper-xl-lightning, base_model:quantized:Lykon/dreamshaper-xl-lightning",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "b278cd9d3d6f",
-   "title": "WaveCut/Krea-2-Turbo-OrbitQuant-W4A4  (♥ 1)",
-   "link": "https://huggingface.co/WaveCut/Krea-2-Turbo-OrbitQuant-W4A4",
-   "date": "2026-08-17T16:51:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, image-generation, krea2, orbitquant, w4a4",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
