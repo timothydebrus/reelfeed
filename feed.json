@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-22T08:49:43.713Z",
+ "updated": "2026-08-22T09:45:11.814Z",
  "items": [
+  {
+   "id": "fdd5d01b4139",
+   "title": "Breton Crime Lord marries a Dremora (Tsundere)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vv7kjw/breton_crime_lord_marries_a_dremora_tsundere/",
+   "date": "2026-08-22T09:16:41.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aWx2d254Z3E4d2toMbCGhSArIaPaUTKaScCi_gzHAUVrWHHq8BcYqeJx8St6.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=6eee2447a0b188aa8e53ee7f39a29cfda7389715",
+   "excerpt": "submitted by /u/D4NK51N4TR45R [link] [comments]"
+  },
+  {
+   "id": "af451b5c0b1a",
+   "title": "Japanese Takoyaki",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vv7850/japanese_takoyaki/",
+   "date": "2026-08-22T08:57:05.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cjM5cGFqajY1d2toMbMHEzQ4uvIuYPFzQJycZJ3FD2CHgQPehVYKZqpAqlQY.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e6262adb7135ec1b8e21a612523412a685ec03c0",
+   "excerpt": "submitted by /u/Altruistic_Idea9478 [link] [comments]"
+  },
+  {
+   "id": "8c944b6b61ec",
+   "title": "Above & Below",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vv72uz/above_below/",
+   "date": "2026-08-22T08:48:11.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y2U0Z2ExOWgzd2toMZjwdiq_bUcylDGNbU_-9jsrUdvdMji-CbqCNhoQVUcQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=25615798384dc66fbb157aca53ecbaaef4b24c2c",
+   "excerpt": "submitted by /u/stackpooled [link] [comments]"
+  },
   {
    "id": "0536908f3f30",
    "title": "Buster Heatstrike Part 4 Episode 2 Teaser \"let her do it\"",
@@ -249,7 +279,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: pruna-ai, safetensors, qwen3, openvino, openvino-export, text-to-image",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 12,
     "pipeline": "text-to-image"
    }
   },
@@ -265,7 +295,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 4,
     "pipeline": "text-to-image"
    }
   },
@@ -357,7 +387,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 5,
     "pipeline": "text-to-image"
    }
   },
@@ -425,7 +455,7 @@
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 10,
     "pipeline": "text-to-image"
    }
   },
@@ -493,7 +523,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, onnx, safetensors, image-to-video, arxiv:2502.10841, base_model:zai-org/CogVideoX-5b-I2V",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 6,
     "pipeline": "image-to-video"
    }
   },
@@ -1083,7 +1113,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: mlx, safetensors, AudioVideo, ltx-video, ltx-2.5, text-to-video",
    "hf": {
     "likes": 2,
-    "downloads": 0,
+    "downloads": 46,
     "pipeline": "text-to-video"
    }
   },
@@ -1213,7 +1243,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: liveportrait, onnx, image-to-video, arxiv:2407.03168, license:mit, region:us",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 1,
     "pipeline": "image-to-video"
    }
   },
@@ -1520,7 +1550,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 31370, likes: 0. Tags: minimax-h3, nvfp4, fp8, quantized, text-to-video, image-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 31370,
+    "downloads": 31439,
     "pipeline": "text-to-video"
    }
   },
@@ -1579,7 +1609,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, image-to-video, nvfp4, comfyui, base_model:TenStrip/10Eros-Max",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 14,
     "pipeline": "image-to-video"
    }
   },
@@ -1611,7 +1641,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, image-to-video, text-to-video, video-to-video, audio-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 78,
     "pipeline": "image-to-video"
    }
   },
@@ -1725,7 +1755,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, video, audio, text-to-audio-video",
    "hf": {
     "likes": 3,
-    "downloads": 0,
+    "downloads": 11,
     "pipeline": "text-to-video"
    }
   },
@@ -2231,7 +2261,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, AudioVideo, ltx-video, ltx-2.5, text-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 19,
     "pipeline": "image-to-video"
    }
   },
@@ -3321,9 +3351,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, text-to-image, distillation, step-distillation, krea-2, base_model:krea/Krea-2-Turbo",
    "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
+    "likes": 16,
+    "downloads": 829,
+    "pipeline": "trending image"
    }
   },
   {
@@ -7368,36 +7398,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/eHg1MWR0Z3o4empoMTRzVuw3ZAI54UFkQnalAGL2BakMVRoMihFiUsYakMCk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ff1ec71b75c335d92a260f329bcb22240632001",
    "excerpt": "submitted by /u/theodore_70 [link] [comments]"
-  },
-  {
-   "id": "fa244fae7f99",
-   "title": "Pulp Fiction experiment using Ingi Erlingsson’s ComfyUI workflows and a custom time-slice pipeline",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vr1030/pulp_fiction_experiment_using_ingi_erlingssons/",
-   "date": "2026-08-17T18:45:40.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZjBqdmx5Nm5kempoMbnX4XX4ah5X6WSZvtI27Pz6J64kPZ1X8-06nzIX8sUt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0f0ca8a183f49a4adfdfc529f7096c79503bfe73",
-   "excerpt": "All generative stages of this experiment were created with open-source models. I developed the characters and character sheets through an agent-assisted design process, then created the animated shots and transitions in ComfyUI using workflows by Ingi Erlingsson. After layering, rotoscoping, and compositing the sequence in After Effects, I processed the complete edit through my own agentic time-sl"
-  },
-  {
-   "id": "3be170e79205",
-   "title": "These Edibles Ain't Shit",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vr0unb/these_edibles_aint_shit/",
-   "date": "2026-08-17T18:40:14.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YnVoOGFlbW5jempoMQuGlftfXAL02haEJXpnXGu1GHi7GWBjPVSZGtsqhqnw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8755db046c8781884617a094e78934f60c13f1fc",
-   "excerpt": "submitted by /u/8bitcollective [link] [comments]"
-  },
-  {
-   "id": "c37f39a29928",
-   "title": "Kitten Launcher",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vr0m0h/kitten_launcher/",
-   "date": "2026-08-17T18:31:56.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cjllY2VvbTViempoMUfeWfNWWvJO0rOf_GnDeNBkjDHfQDqDIyFi6zK8BpRM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=227b8fdd58f777518e2e085f51acf262934f7504",
-   "excerpt": "submitted by /u/8bitcollective [link] [comments]"
   }
  ]
 }
