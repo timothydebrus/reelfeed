@@ -1,6 +1,96 @@
 {
- "updated": "2026-08-22T17:38:31.399Z",
+ "updated": "2026-08-22T19:38:24.563Z",
  "items": [
+  {
+   "id": "f264c057671c",
+   "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+   "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+   "date": "2026-08-22T19:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+  },
+  {
+   "id": "8763f805e0ee",
+   "title": "Moaz2011/NOV_v3_5_Master",
+   "link": "https://huggingface.co/Moaz2011/NOV_v3_5_Master",
+   "date": "2026-08-22T18:49:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, endpoints_compatible, diffusers:StableDiffusionXLPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5ce7cc935e62",
+   "title": "tmtmtm45/geeLokr",
+   "link": "https://huggingface.co/tmtmtm45/geeLokr",
+   "date": "2026-08-22T18:46:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c46410bb9426",
+   "title": "dc-ai/DC-Gen-FLUX.1-Krea-Dev-Res1K",
+   "link": "https://huggingface.co/dc-ai/DC-Gen-FLUX.1-Krea-Dev-Res1K",
+   "date": "2026-08-22T18:36:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, endpoints_compatible, diffusers:FluxPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "603a31d0e8e1",
+   "title": "dc-ai/DC-Gen-FLUX.1-Krea-Dev-Res4K",
+   "link": "https://huggingface.co/dc-ai/DC-Gen-FLUX.1-Krea-Dev-Res4K",
+   "date": "2026-08-22T18:36:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, arxiv:1910.09700, endpoints_compatible, diffusers:FluxPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f1c3e5adc7b9",
+   "title": "tmtmtm45/g33-lokr",
+   "link": "https://huggingface.co/tmtmtm45/g33-lokr",
+   "date": "2026-08-22T17:43:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, lokr, krea2, character",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "8616f6e4c64f",
    "title": "The Great Exchange",
@@ -106,6 +196,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/ZGc2bXI0eXJ3eGtoMX5UTTaFtHsl_Ho0W0nqJVNXPonDpg47Er4uIPm_pnVX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1af64b2f6629ad97b1acb390044346293acdf788",
    "excerpt": "submitted by /u/rad_city [link] [comments]"
+  },
+  {
+   "id": "d1a7ab758a36",
+   "title": "Pitch Meeting (Saturday morning cartoon)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vvewqt/pitch_meeting_saturday_morning_cartoon/",
+   "date": "2026-08-22T15:09:56.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eTBpeGE5OHJ6eGtoMRd5hCi91ICgCSJH2XdJkIF7ho36PqFKUKS_nTXVYUhC.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=12e7130d739de9a86a778835228fc983914f5b84",
+   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
   },
   {
    "id": "4622918c5ffe",
@@ -388,7 +488,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, text-to-video, qwen3-vl, text-encoder, base_model:Comfy-Org/MiniMax-H3",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -6868,7 +6968,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
    "hf": {
-    "likes": 60,
+    "likes": 61,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7360,77 +7460,6 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "The model maker added $18 billion in annualized revenue in two months."
-  },
-  {
-   "id": "eb67c7745be8",
-   "title": "Are there any nodes I should use when generating NSFW images?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vr903v/are_there_any_nodes_i_should_use_when_generating/",
-   "date": "2026-08-17T23:52:56.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "The workflow I'm using is just the basic nodes with a LORA node added; I'd like to know how I can improve the quality of my illustrations going forward. My goal is to create high-quality illustrations like those by RedIlus and toratora. submitted by /u/Lower-Tank-9561 [link] [comments]"
-  },
-  {
-   "id": "bc3f4088baba",
-   "title": "The siege of the citadel (Callaway Line) dieselpunk noir",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vr8j2j/the_siege_of_the_citadel_callaway_line_dieselpunk/",
-   "date": "2026-08-17T23:32:01.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dWJtYnA0bmpzMGtoMc87GM4qcYUloLYqsSJO5LGsjPrelpMqXDEgZGN3gZQB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e8bb6c6354f7dea200208a0bba7f9c8a25a28c0f",
-   "excerpt": "submitted by /u/Lyre_e [link] [comments]"
-  },
-  {
-   "id": "11e014419e76",
-   "title": "Can AMD get under 4 minutes on Krea 2?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vr8hwc/can_amd_get_under_4_minutes_on_krea_2/",
-   "date": "2026-08-17T23:30:40.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "Hey all, I've been running ComfyUI through Linux. I have a Radeon RX 7800 XT and am doing image generation through a Krea 2 model. The fastest I've been able to generate a simple 1024x1024 image with no latent upscaling is 4 minutes. I've heard of people with the same graphics card generating images within the 30 to 60 second range on Krea 2, however no matter what I try I cannot get under the 4 m"
-  },
-  {
-   "id": "2a50e2b7a216",
-   "title": "The one where Kramer is retired as a replicant.",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vr8hh9/the_one_where_kramer_is_retired_as_a_replicant/",
-   "date": "2026-08-17T23:30:13.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/wazandy [link] [comments]"
-  },
-  {
-   "id": "d40cd4e4c31a",
-   "title": "Data’s Day 2: The Enterprise Crew Knows They’re on TV",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vr86uw/datas_day_2_the_enterprise_crew_knows_theyre_on_tv/",
-   "date": "2026-08-17T23:17:39.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bWhlajU3ZnpvMGtoMfwWNSNXOVf6xAQGUAPOKHXA9mw9v4cbeqm_n2aiDXCM.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca4618d9d2cc586f791bc319ce3ae75312e6e44a",
-   "excerpt": "submitted by /u/Glad-Hat-5094 [link] [comments]"
-  },
-  {
-   "id": "d20719734a2a",
-   "title": "MiniMax H3 Reference to Video workflow doesn't use all available VRAM",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vr7v4p/minimax_h3_reference_to_video_workflow_doesnt_use/",
-   "date": "2026-08-17T23:04:04.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://preview.redd.it/nvj9eymcn0kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=942c1add77a142a5155d45ec8e12b1a57348729d",
-   "excerpt": "Am I doing something wrong? Rendering 2 MP. It could surely use more VRAM and less RAM. submitted by /u/Select_Question5 [link] [comments]"
-  },
-  {
-   "id": "6f9aeabd5487",
-   "title": "Does Anyone Know What Causes This Smudgy/Blotchy Effect When Using Krea 2 Turbo? It Happens Kinda Randomly For Me. I Think Lora's Do Effect It Some..",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vr7gq4/does_anyone_know_what_causes_this_smudgyblotchy/",
-   "date": "2026-08-17T22:47:55.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/szi76vfok0kh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6aab62a9bd1296675c9d53fff034965d49c50019",
-   "excerpt": "Any tips to generate clearer pictures? I tried increasing resolution size too but it still looks similar -_- submitted by /u/DeltaWaffleSyrup [link] [comments]"
   }
  ]
 }
