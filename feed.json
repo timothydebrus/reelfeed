@@ -1,6 +1,138 @@
 {
- "updated": "2026-08-22T09:45:11.814Z",
+ "updated": "2026-08-22T14:40:56.672Z",
  "items": [
+  {
+   "id": "dc5dfafa6fd5",
+   "title": "Black Hole Night",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vvczku/black_hole_night/",
+   "date": "2026-08-22T13:50:40.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/N3YwcmowZGtseGtoMTcnpkqMMfQL51EO3CbllLjgGG7Hmz1YsWcxWqsKAl0X.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd12a2a82769a06e214ff66f55484e3972507740",
+   "excerpt": "submitted by /u/TheCultRustle [link] [comments]"
+  },
+  {
+   "id": "bceb247be00d",
+   "title": "The Hell",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vvchlf/the_hell/",
+   "date": "2026-08-22T13:29:16.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cHZtZ2hud2toeGtoMeBItGNNp75qQ_Y1yYfXtRNo_ULfphdTJuhTRf_A0vgl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1079b51a73dd2ee4b020156e7c45c6bff0a60874",
+   "excerpt": "submitted by /u/tcapb [link] [comments]"
+  },
+  {
+   "id": "1d76570ccebe",
+   "title": "lijin3777/Qwen-Image-2512-Penis-Heretic",
+   "link": "https://huggingface.co/lijin3777/Qwen-Image-2512-Penis-Heretic",
+   "date": "2026-08-22T12:45:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, qwen, qwen-image, nsfw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d959c6c14abc",
+   "title": "kirusanth08/flux-dev-sty1ref-lora",
+   "link": "https://huggingface.co/kirusanth08/flux-dev-sty1ref-lora",
+   "date": "2026-08-22T12:16:32.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: flux, lora, text-to-image, style, kohya-ss, base_model:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "eccc35461edc",
+   "title": "xnachtwolfx/Wan2.2-S2V-14B",
+   "link": "https://huggingface.co/xnachtwolfx/Wan2.2-S2V-14B",
+   "date": "2026-08-22T11:55:09.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, s2v, image-to-video, es, arxiv:2508.18621",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "a38384290492",
+   "title": "Raxephion/Krea2-Solstice-V1  (♥ 1)",
+   "link": "https://huggingface.co/Raxephion/Krea2-Solstice-V1",
+   "date": "2026-08-22T11:37:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, checkpoint, finetuned, krea2, realism",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "10a9f2ede305",
+   "title": "hdae/karume-anima",
+   "link": "https://huggingface.co/hdae/karume-anima",
+   "date": "2026-08-22T11:32:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: karume, safetensors, text-to-image, webgpu, base_model:circlestone-labs/Anima-Base-v1.0-Diffusers, base_model:quantized:circlestone-labs/Anima-Base-v1.0-Diffusers",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "bb42834cc8a5",
+   "title": "anlord/Flux-12B-abliterated-V2-GGUF",
+   "link": "https://huggingface.co/anlord/Flux-12B-abliterated-V2-GGUF",
+   "date": "2026-08-22T11:13:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, flux, flux.1-dev, quantized, image-generation, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "dbc90a2927f0",
+   "title": "rhombus18/resinAI-fossil",
+   "link": "https://huggingface.co/rhombus18/resinAI-fossil",
+   "date": "2026-08-22T10:10:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "fdd5d01b4139",
    "title": "Breton Crime Lord marries a Dremora (Tsundere)",
@@ -6578,7 +6710,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: autoregressive, acceleration, streaming, realtime, lora, text-to-video",
    "hf": {
-    "likes": 59,
+    "likes": 60,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7294,110 +7426,6 @@
     "downloads": 26,
     "pipeline": "text-to-video"
    }
-  },
-  {
-   "id": "c88853c14dbc",
-   "title": "KOFIblto/chey1",
-   "link": "https://huggingface.co/KOFIblto/chey1",
-   "date": "2026-08-17T19:53:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "74fdd9bd89c5",
-   "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-   "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-   "date": "2026-08-17T19:46:21.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "026f0030c900",
-   "title": "Fiscal Sponsorship Explained",
-   "link": "https://nofilmschool.com/fiscal-sponsorship-explained",
-   "date": "2026-08-17T19:45:02.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/money.jpg?id=67635014&width=1245&height=700&coordinates=0%2C0%2C0%2C1",
-   "excerpt": "Fiscal sponsorship can give independent filmmakers access to tax-deductible donations, in-kind contributions, corporate partnerships, and other fundraising opportunities without changing how they monetize their films after completion. In this episode of the No Film School Podcast, host GG Hawkins talks with filmmaker Lindsay St. Laurent and New Hollywood's Ian Mark about how fiscal sponsorship wor"
-  },
-  {
-   "id": "84b3e324793e",
-   "title": "The Adult Room",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vr2mev/the_adult_room/",
-   "date": "2026-08-17T19:43:10.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/FallingKnifeFilms [link] [comments]"
-  },
-  {
-   "id": "daf751c51977",
-   "title": "v0.33.2",
-   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.2",
-   "date": "2026-08-17T19:31:22.000Z",
-   "source": "ComfyUI Releases",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
-   "excerpt": "ComfyUI v0.33.2"
-  },
-  {
-   "id": "a6f51de32182",
-   "title": "perpetual3x/Hentai-NSFW-LoRA-v3",
-   "link": "https://huggingface.co/perpetual3x/Hentai-NSFW-LoRA-v3",
-   "date": "2026-08-17T19:25:40.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, qwen-image, qwen-image-2512, lora, text-to-image, anime",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "89f37aa6318f",
-   "title": "What Are The Best Pirate Movies?",
-   "link": "https://nofilmschool.com/best-movies",
-   "date": "2026-08-17T18:54:45.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/11-best-live-action-disney-movies-ranked.jpg?id=34061324&width=1245&height=700&coordinates=0%2C68%2C0%2C68",
-   "excerpt": "When you're a little kid, one of the topics they have you read about is pirates. I feel like I had pirate books (shoutout Terry Deary, Horrible Histories changed my life), pirate costumes, Legos, and birthday parties. Then, as you get older, piracy just becomes something you knew a ton about as a kid. Or that happens on the high seas around the Horn of Africa. But in film and TV, pirates come in a"
-  },
-  {
-   "id": "67c7c416e88b",
-   "title": "Scuba Diving Horse",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vr12vn/scuba_diving_horse/",
-   "date": "2026-08-17T18:48:15.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eWcyNGo5bzRlempoMUI2heLCH95isCxufjoLzs7-816t0jWFuVahrqYnWMmZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1d4cea84e48d5a907449b6c25624b8ad7139861",
-   "excerpt": "submitted by /u/8bitcollective [link] [comments]"
-  },
-  {
-   "id": "ab70cfd5d841",
-   "title": "Teutonic Knights: The War That Destroyed Them - Grunwald 1410",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vr10eb/teutonic_knights_the_war_that_destroyed_them/",
-   "date": "2026-08-17T18:45:56.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eHg1MWR0Z3o4empoMTRzVuw3ZAI54UFkQnalAGL2BakMVRoMihFiUsYakMCk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ff1ec71b75c335d92a260f329bcb22240632001",
-   "excerpt": "submitted by /u/theodore_70 [link] [comments]"
   }
  ]
 }
