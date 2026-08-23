@@ -1,6 +1,90 @@
 {
- "updated": "2026-08-23T09:45:53.171Z",
+ "updated": "2026-08-23T11:38:29.342Z",
  "items": [
+  {
+   "id": "6c169df34a39",
+   "title": "hnnguyen/CyberRealisticPony",
+   "link": "https://huggingface.co/hnnguyen/CyberRealisticPony",
+   "date": "2026-08-23T11:31:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, sdxl, text-to-image, photorealistic, cyberrealistic",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3a5b37896ee4",
+   "title": "meet your new lord",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vw4nk4/meet_your_new_lord/",
+   "date": "2026-08-23T11:23:50.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Z2F3ZmQ1bGEwNGxoMS2l4s7u6QPnikEgMaW1j4YCSjC9CZOhiQbER6Xgd6o-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=865dcd955cb866b4cbb28f682abbd5e08c438790",
+   "excerpt": "submitted by /u/Odant [link] [comments]"
+  },
+  {
+   "id": "888a68abefa0",
+   "title": "nasooh1/Qwen-Image",
+   "link": "https://huggingface.co/nasooh1/Qwen-Image",
+   "date": "2026-08-23T11:16:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, zh, arxiv:2508.02324",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1b76d867532b",
+   "title": "STATIC AWAKENING",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vw40l7/static_awakening/",
+   "date": "2026-08-23T10:49:53.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/N3JrdXU5OTV1M2xoMTGv1R7Fx4J2KzDMErFV8XKkRg0eT6PygTUcsvttQ24d.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c46d1e25f97a35ddabd9956157348a8fec1ab9e2",
+   "excerpt": "submitted by /u/Tulang_Papeda [link] [comments]"
+  },
+  {
+   "id": "c0306e1bd1c2",
+   "title": "Burroughs352/Gabbi",
+   "link": "https://huggingface.co/Burroughs352/Gabbi",
+   "date": "2026-08-23T10:47:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "10a7c6413928",
+   "title": "Burroughs352/Magda-Flux",
+   "link": "https://huggingface.co/Burroughs352/Magda-Flux",
+   "date": "2026-08-23T09:50:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:ponpoke/flux2-klein-9b-uncensored-text-encoder, base_model:adapter:ponpoke/flux2-klein-9b-uncensored-text-encoder",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "99a69bf669c0",
    "title": "Monster Grand Prix-seedance 2 5 VS Wan 3, which one wins",
@@ -315,6 +399,22 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/k8t98lw112lh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=cc5e2c3837b8e333807223271d64ee2080ab211e",
    "excerpt": "https://preview.redd.it/k8t98lw112lh1.png?width=1920&format=png&auto=webp&s=be59da5b0884aceab4a3ecc61daaadd5b4d2ef06 This is the workflow that i have right now and I'm having a problem when generating images in landscape: Half of the images come with more than 1 person even though i'm trying as i can to explain in the prompt that I want 1 person in the image. What I want is to create a loop that g"
+  },
+  {
+   "id": "d33a69410b78",
+   "title": "FastVideo/FastVideo-Minimax-FastH3-Preview-v0.2",
+   "link": "https://huggingface.co/FastVideo/FastVideo-Minimax-FastH3-Preview-v0.2",
+   "date": "2026-08-23T04:46:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, video, audio, text-to-audio-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
   },
   {
    "id": "5a60374b85ed",
@@ -7327,94 +7427,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "f9bf0520ec21",
-   "title": "atlas",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vrwrsd/atlas/",
-   "date": "2026-08-18T17:58:25.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NGMyY2tlZjNhNmtoMWV0uOnLLYzt6Lf3R8pu9wUKlrcELkZVP0pCEumNT77o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f3adceef466a839a466938cfb9c2f309b10c327",
-   "excerpt": "submitted by /u/superfatbeagle [link] [comments]"
-  },
-  {
-   "id": "d37f092a0d8f",
-   "title": "ayushmaninbox/artificial-stupidity-image  (♥ 1)",
-   "link": "https://huggingface.co/ayushmaninbox/artificial-stupidity-image",
-   "date": "2026-08-18T17:50:26.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: text-to-image, diffusion, tiny, from-scratch, arxiv:2203.01941, license:mit",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a2413361dde8",
-   "title": "LUANlt07/loras-eroschat",
-   "link": "https://huggingface.co/LUANlt07/loras-eroschat",
-   "date": "2026-08-18T17:43:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "f6206476814e",
-   "title": "Buttons: The Model American Cat",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vrvwq1/buttons_the_model_american_cat/",
-   "date": "2026-08-18T17:27:38.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZDJhOXE5aG80NmtoMeeQ43O5zv934l4D4vw4pO6CwgBvd_pd6pn_Oydq9jWD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f0d58f6ac3a8c6c10a8446f7a1df46d833cf194",
-   "excerpt": "submitted by /u/indiegameplus [link] [comments]"
-  },
-  {
-   "id": "506ef6f4e042",
-   "title": "Etched’s valuation doubles to $21B in a month",
-   "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-   "date": "2026-08-18T17:21:58.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
-  },
-  {
-   "id": "86f51bb587bc",
-   "title": "Praelatus/Melty_Style",
-   "link": "https://huggingface.co/Praelatus/Melty_Style",
-   "date": "2026-08-18T17:21:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:circlestone-labs/Anima, base_model:adapter:circlestone-labs/Anima",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "df9857fcc499",
-   "title": "AI attempts improv theater for 5 Minutes, things get liminal",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vrvjh9/ai_attempts_improv_theater_for_5_minutes_things/",
-   "date": "2026-08-18T17:15:01.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OHI4N21iam0xNmtoMcpaqxMc6dkSRj47RsgO9fOFG8U2L_IqCASvJ27GvQpv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=807a6998b970701c2e41073d7200b5a9c51724e9",
-   "excerpt": "submitted by /u/AndyRiffeth [link] [comments]"
   }
  ]
 }
