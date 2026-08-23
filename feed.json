@@ -1,6 +1,32 @@
 {
- "updated": "2026-08-23T19:38:16.787Z",
+ "updated": "2026-08-23T20:41:48.654Z",
  "items": [
+  {
+   "id": "be28f1428bf3",
+   "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+   "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+   "date": "2026-08-23T20:01:36.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+  },
+  {
+   "id": "4b0c61f79b6a",
+   "title": "dekes1/cindycfr20",
+   "link": "https://huggingface.co/dekes1/cindycfr20",
+   "date": "2026-08-23T19:22:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "fc3e349b3942",
    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
@@ -44,6 +70,38 @@
    }
   },
   {
+   "id": "c979415bde03",
+   "title": "dekes1/cindycfr17",
+   "link": "https://huggingface.co/dekes1/cindycfr17",
+   "date": "2026-08-23T18:44:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "92e37a2c8bbe",
+   "title": "dekes1/cindycfr16",
+   "link": "https://huggingface.co/dekes1/cindycfr16",
+   "date": "2026-08-23T18:36:43.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
    "id": "981ec9be1fb3",
    "title": "The Diverse Earth Initiative",
    "link": "https://www.reddit.com/r/aivideo/comments/1vwe9vi/the_diverse_earth_initiative/",
@@ -72,6 +130,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/Y2JjNTh2NzB3NWxoMWwleCnTJOP5pqSlB8XmpIqsFLo8xuoZRr-QoyXnWotG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=85381ec4577cbb5e053299976576a2bca223cb3f",
    "excerpt": "submitted by /u/No_Tomatillo1695 [link] [comments]"
+  },
+  {
+   "id": "512b99ed941b",
+   "title": "ASTRA | PART ONE",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vwdk3v/astra_part_one/",
+   "date": "2026-08-23T17:38:32.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NXFpbXRrN3F1NWxoMUIVh2fJrKLeCUf0vhQXParJgHh6Ue0VQ1meJ5b3RNL_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf97f30275df12b804ebe585aad671a95f5f099b",
+   "excerpt": "submitted by /u/More_Consideration_2 [link] [comments]"
   },
   {
    "id": "7de21b7a1c47",
@@ -1713,6 +1781,54 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/dWRvODM0bDU4emtoMWf4WBwc-pAtXMQ-Dduoa2XKLYLshC6fUKaGlHcyZuD2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4d9b1824bcf14a5ff3b9fa81ffcf0c1019430d8e",
    "excerpt": "A tribute to a forgotten golden age. Hope you enjoy it! submitted by /u/Oatilis [link] [comments]"
+  },
+  {
+   "id": "f2022f76ec55",
+   "title": "RareConcepts/soad-h3-xm-20260822",
+   "link": "https://huggingface.co/RareConcepts/soad-h3-xm-20260822",
+   "date": "2026-08-22T19:09:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, minimaxh3, minimaxh3-diffusers, text-to-video, image-to-video, simpletuner",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "647fc8171e47",
+   "title": "RareConcepts/soad-h3-nextlat-xm-20260822",
+   "link": "https://huggingface.co/RareConcepts/soad-h3-nextlat-xm-20260822",
+   "date": "2026-08-22T19:09:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, minimaxh3, minimaxh3-diffusers, text-to-video, image-to-video, simpletuner",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "f3e01033b506",
+   "title": "RareConcepts/soad-h3-vanilla-20260822",
+   "link": "https://huggingface.co/RareConcepts/soad-h3-vanilla-20260822",
+   "date": "2026-08-22T19:08:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, minimaxh3, minimaxh3-diffusers, text-to-video, image-to-video, simpletuner",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
   },
   {
    "id": "f264c057671c",
@@ -7290,106 +7406,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/bzN5OTE1amxwOWtoMRf1HV_aMoE-i0HMMwfet21RGDvasF6NJBocxdjBVL5z.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=99313cc75259e6c903fde78d530e86d43f7d6758",
    "excerpt": "submitted by /u/kaizen___________ [link] [comments]"
-  },
-  {
-   "id": "e7245bcae52f",
-   "title": "10 Classic Slasher Movies Referenced in ‘Teenage Sex and Death at Camp Miasma’",
-   "link": "https://nofilmschool.com/10-slasher-references-in-teenage-sex-and-death-at-camp-miasma",
-   "date": "2026-08-19T05:35:37.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/a-close-up-of-the-camp-sign-in-teenage-sex-and-death-at-camp-miasma.jpg?id=67639163&width=980",
-   "excerpt": "One of the posters for Teenage Sex and Death at Camp Miasma, the new movie from I Saw the TV Glow writer-director Jane Schoenbrun, boasts the tagline “a new kind of horror remake…” It’s actually a completely original movie, as it tells a meta story about a filmmaker hoping to mount a reboot of the fictional Camp Miasma slasher franchise. While that faux 14-film series isn’t real, Schoenbrun clearl"
-  },
-  {
-   "id": "4a35849117e6",
-   "title": "Is there any open weight model that treat reference image of characters like nano banana ?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vsdczs/is_there_any_open_weight_model_that_treat/",
-   "date": "2026-08-19T05:31:48.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "Hello! I have been playing around with Krea 2, but it does accept only upto 3 image references and if characters are custom or not know by model train base it produces bad quality characters on final generated image. I have been using nano banana before and it worked well, wondering if there is open weight model that treats character references as as nano banana. (highly trying to avoid to train l"
-  },
-  {
-   "id": "f54edb125ae5",
-   "title": "Confession",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vscqrn/confession/",
-   "date": "2026-08-19T04:59:48.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aHI2ZjQxbjVrOWtoMYLL32Hi9YptR804XFrmFfCdrHrSGfpCsH1yNWWJDb4Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fe32d00480795929d8c2363c58bff4ab9b7a787a",
-   "excerpt": "submitted by /u/love1008 [link] [comments]"
-  },
-  {
-   "id": "69a439545d9b",
-   "title": "Drawing to Video - Minimax H3",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vscpet/drawing_to_video_minimax_h3/",
-   "date": "2026-08-19T04:57:49.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/bGNiMXA1bXRqOWtoMVE4UIjN_JlmlPgP-IjoPZte4XDcUqQm2rvpRxyGmHqT.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ad41ac52c8bdd6b54f00e314f13a586c2f9f43a7",
-   "excerpt": "MiniMax H3 image-to-video on ComfyUI, running locally on an RTX 3090 (24GB) with the Q4 GGUF quantization. Used a digital sketch as the first frame, then prompted a timed metamorphosis where the drawing becomes a photorealistic office with an airplane flying by. Took about 10 minutes to generate a 5-second clip. (drawing perspective-style inspired by @paulheaston) submitted by /u/Important-Radish-"
-  },
-  {
-   "id": "a354e0cb0bba",
-   "title": "guillekenzo/aros-1484cb06-Melany",
-   "link": "https://huggingface.co/guillekenzo/aros-1484cb06-Melany",
-   "date": "2026-08-19T04:44:41.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "7cdd38969613",
-   "title": "Comfyui Faceswap",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vsc6jg/comfyui_faceswap/",
-   "date": "2026-08-19T04:30:45.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "I am looking for a decent up to date faceswap, i am asking it here because after the 6th attempt i got tired of these old workflows. Yes i got everything and i installed every app and note. And on the latest one, Face Swap that Really Works on civitai i got an error called, Caching Image to not Waste. The biggest problem is that these people have installed so many modules that it cost me a bulk of"
-  },
-  {
-   "id": "ea85ccc8f1a4",
-   "title": "qtum/MiniMax-H3-Qwen3-VL-NVFP4",
-   "link": "https://huggingface.co/qtum/MiniMax-H3-Qwen3-VL-NVFP4",
-   "date": "2026-08-19T04:29:31.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, qwen3-vl, text-encoder, nvfp4, comfyui, quantized",
-   "hf": {
-    "likes": 0,
-    "downloads": 7,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "233a7a1fb61d",
-   "title": "Haribz/test1",
-   "link": "https://huggingface.co/Haribz/test1",
-   "date": "2026-08-19T03:30:36.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: art, code, biology, chemistry, music, not-for-all-audiences",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
