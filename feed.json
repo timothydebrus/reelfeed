@@ -1,6 +1,104 @@
 {
- "updated": "2026-08-23T16:45:08.956Z",
+ "updated": "2026-08-23T18:50:21.020Z",
  "items": [
+  {
+   "id": "d90dc46d3828",
+   "title": "Arisa009/bgakajut",
+   "link": "https://huggingface.co/Arisa009/bgakajut",
+   "date": "2026-08-23T18:45:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "981ec9be1fb3",
+   "title": "The Diverse Earth Initiative",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vwe9vi/the_diverse_earth_initiative/",
+   "date": "2026-08-23T18:05:09.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bDJtazZ5a2p6NWxoMWIxAQX7hNtUp6YXKYkJ1MXd8SWLP0cIBR9-y5EMb7f9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=195dc2e7808840ab6493e1538921af22febd7dd7",
+   "excerpt": "submitted by /u/FRAK_KTUR [link] [comments]"
+  },
+  {
+   "id": "b6d297163c8c",
+   "title": "The human body is a flawed design",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vwdtrk/the_human_body_is_a_flawed_design/",
+   "date": "2026-08-23T17:48:55.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/MysteriousSlice007 [link] [comments]"
+  },
+  {
+   "id": "723e2221d54b",
+   "title": "Did she ruin it? 🎓",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vwdol0/did_she_ruin_it/",
+   "date": "2026-08-23T17:43:19.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y2JjNTh2NzB3NWxoMWwleCnTJOP5pqSlB8XmpIqsFLo8xuoZRr-QoyXnWotG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=85381ec4577cbb5e053299976576a2bca223cb3f",
+   "excerpt": "submitted by /u/No_Tomatillo1695 [link] [comments]"
+  },
+  {
+   "id": "7de21b7a1c47",
+   "title": "PROJECT A-KO",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vwde0l/project_ako/",
+   "date": "2026-08-23T17:32:18.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cDcwcm1mZ3Z0NWxoMXrbepm0NhOBxwaIW4TBdfbYIrP3uYFlHPm-lCbjyXD4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=87d0e91332396d6121891704e8bed3358f80722e",
+   "excerpt": "submitted by /u/philbriggsphoto [link] [comments]"
+  },
+  {
+   "id": "e82e6aac9495",
+   "title": "Average day in Russia",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vwd3qq/average_day_in_russia/",
+   "date": "2026-08-23T17:21:19.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/a2h1N3ZwdzNzNWxoMQR1orQo2ji3twRk_8HoHbEd4odguTAVsRB5GBN9M3W4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=809276a55bbb8ad64a3db9f3f3ee2e6e3cabdb17",
+   "excerpt": "submitted by /u/AloneCoffee4538 [link] [comments]"
+  },
+  {
+   "id": "7183620c9a7a",
+   "title": "ovi054/ltx-2-3-color-grade-transfer-lora",
+   "link": "https://huggingface.co/ovi054/ltx-2-3-color-grade-transfer-lora",
+   "date": "2026-08-23T16:52:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, ltx-2, ltx-video, text-to-video, audio-video, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "4b4e9af885cc",
+   "title": "Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B",
+   "link": "https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B",
+   "date": "2026-08-23T16:28:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, mixture-of-experts, video-generation, vbvr",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
   {
    "id": "07cde7a66f49",
    "title": "Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B",
@@ -191,7 +289,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:LyliaEngine/anima_baseV10, base_model:adapter:LyliaEngine/anima_baseV10",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-image"
    }
@@ -977,7 +1075,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, video, audio, text-to-audio-video",
    "hf": {
-    "likes": 2,
+    "likes": 3,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1846,7 +1944,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, gguf, comfyui, z-image, video-generation, audio-video",
    "hf": {
-    "likes": 4,
+    "likes": 5,
     "downloads": 170,
     "pipeline": "text-to-video"
    }
@@ -1862,7 +1960,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 5,
+    "likes": 7,
     "downloads": 186,
     "pipeline": "text-to-video"
    }
@@ -5578,7 +5676,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, text-to-image, distillation, step-distillation, krea-2, base_model:krea/Krea-2-Turbo",
    "hf": {
-    "likes": 18,
+    "likes": 19,
     "downloads": 2184,
     "pipeline": "trending image"
    }
@@ -7292,87 +7390,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/dnhhMmRjMXoxOWtoMd-geKFZgp9Imt2Cb3jdbLHFWa-OK_reLHwGj0teaG1x.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2dea50019e755292dc81b2342dddfc40c12f6c4",
    "excerpt": "submitted by /u/metr0punk [link] [comments]"
-  },
-  {
-   "id": "dc17ce154c67",
-   "title": "MAKE ROOM",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vsabv9/make_room/",
-   "date": "2026-08-19T02:59:49.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/Human_Journalist_758 [link] [comments]"
-  },
-  {
-   "id": "3f809be03f45",
-   "title": "Using AI to make corny kids fantasy movies still I guess",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vsa7e1/using_ai_to_make_corny_kids_fantasy_movies_still/",
-   "date": "2026-08-19T02:54:11.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cDA0dTg3dWp4OGtoMdwqOWexwl2Pn6M9PtXUYoU0rVdloBpGvlCrEq4BPUmx.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=87342b46fcabc4bdd1842ec824fe79008fb02dd4",
-   "excerpt": "submitted by /u/MosskeepForest [link] [comments]"
-  },
-  {
-   "id": "96b5cae2973e",
-   "title": "Lora for video-image enhancing, upscaling and restoring",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vsa0m7/lora_for_videoimage_enhancing_upscaling_and/",
-   "date": "2026-08-19T02:45:32.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/F2h3gYLPiS89CO3VmDhugN-eeKZviwKpuoVNt0QVsJI.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=26b49dd2a18361d35b66792089231c43fa0f9cfd",
-   "excerpt": "submitted by /u/CQDSN [link] [comments]"
-  },
-  {
-   "id": "798e6de1ed88",
-   "title": "This looks like the beginning of a very long journey",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vs9dt7/this_looks_like_the_beginning_of_a_very_long/",
-   "date": "2026-08-19T02:16:04.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/sjbjbzxxq8kh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9634380f40c1f44b4e3d4cba379d82369e34c6e2",
-   "excerpt": "submitted by /u/Separate-Way5095 [link] [comments]"
-  },
-  {
-   "id": "e80cebbc0ee1",
-   "title": "My boss scheduled a 7am meeting",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vs9d8s/my_boss_scheduled_a_7am_meeting/",
-   "date": "2026-08-19T02:15:26.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/a3dhZ284Zm1xOGtoMbyf6hbrWlREfmg3RL_5H1JSAVN9YDw-GJIkB4gPeP6n.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=736d4cf545d5aeba4d7f06a3beffbc0731d88a0d",
-   "excerpt": "submitted by /u/yongwuwang [link] [comments]"
-  },
-  {
-   "id": "e33ae8bb2d91",
-   "title": "Call for Additional Mod(s)",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vs93gd/call_for_additional_mods/",
-   "date": "2026-08-19T02:03:06.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "I've come to the realization that my life is busy enough that we could use at least one more moderator on this subreddit. Please consider this a formal request for nominations. Rather than just picking someone myself, I’d like input from the community. If there’s someone here who you think would make a good moderator, nominate them in the comments. You can also nominate yourself if you’re interest"
-  },
-  {
-   "id": "9eace0455b88",
-   "title": "Train any Neural Net in Comfy",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vs8pcm/train_any_neural_net_in_comfy/",
-   "date": "2026-08-19T01:45:29.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/9BB1UTR4_DTRE6cxreVQblelwYIy3v_g0xLJv0nllUg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5109a87b9956d5a2f83d068cfc987028b49de434",
-   "excerpt": "Workflows included for autoencoder, unet, and other basic architectures as workflows. Really great to use with Claude. I made this to experiment with Machine Learning submitted by /u/enspiralart [link] [comments]"
-  },
-  {
-   "id": "e468cc90e0c5",
-   "title": "Is There a Way to Add \"Video\" LoRAs to LTX 2.3? (Fight Scene LoRAs?)",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vs8gjx/is_there_a_way_to_add_video_loras_to_ltx_23_fight/",
-   "date": "2026-08-19T01:34:24.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/YzA5ZjJqcnJpOGtoMVQ-rK6TsIIdw6VxFNtH_a9gEZYmgS7o-LmvOAOlExQt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=047f7d128428307c1f67cf8856218d6157a55c48",
-   "excerpt": "I am looking for a way to add a LoRA to LTX 2.3 to help with fight scene animations. I am new to ComfyUI, but have built a workflow that is working pretty well for simple animations, but fight scenes are horrible. lol Subtle animations are great. Anything where there is too much camera movement or the character goes out of frame, it falls apart and looks really bad. I want to make a crazy fight sc"
   }
  ]
 }
