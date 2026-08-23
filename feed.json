@@ -1,6 +1,32 @@
 {
- "updated": "2026-08-23T18:50:21.020Z",
+ "updated": "2026-08-23T19:38:16.787Z",
  "items": [
+  {
+   "id": "fc3e349b3942",
+   "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+   "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+   "date": "2026-08-23T19:14:08.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
+  },
+  {
+   "id": "1e76ead0e2a8",
+   "title": "dekes1/cindycfr18",
+   "link": "https://huggingface.co/dekes1/cindycfr18",
+   "date": "2026-08-23T18:56:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "d90dc46d3828",
    "title": "Arisa009/bgakajut",
@@ -1075,7 +1101,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, video, audio, text-to-audio-video",
    "hf": {
-    "likes": 3,
+    "likes": 5,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1944,7 +1970,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, gguf, comfyui, z-image, video-generation, audio-video",
    "hf": {
-    "likes": 5,
+    "likes": 6,
     "downloads": 170,
     "pipeline": "text-to-video"
    }
@@ -1960,7 +1986,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 7,
+    "likes": 9,
     "downloads": 186,
     "pipeline": "text-to-video"
    }
@@ -7364,32 +7390,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "0920ddde741e",
-   "title": "R-Kentaren/PSWG-Style",
-   "link": "https://huggingface.co/R-Kentaren/PSWG-Style",
-   "date": "2026-08-19T03:28:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, safetensors, text-to-image, base_model:John6666/wai-ani-nsfw-ponyxl-v5-sdxl, base_model:finetune:John6666/wai-ani-nsfw-ponyxl-v5-sdxl, license:mit",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "2e18c5c1f0f8",
-   "title": "Swanson Residence Incident",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vsaqh4/swanson_residence_incident/",
-   "date": "2026-08-19T03:18:27.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dnhhMmRjMXoxOWtoMd-geKFZgp9Imt2Cb3jdbLHFWa-OK_reLHwGj0teaG1x.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a2dea50019e755292dc81b2342dddfc40c12f6c4",
-   "excerpt": "submitted by /u/metr0punk [link] [comments]"
   }
  ]
 }
