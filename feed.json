@@ -1,6 +1,116 @@
 {
- "updated": "2026-08-23T15:40:06.538Z",
+ "updated": "2026-08-23T16:45:08.956Z",
  "items": [
+  {
+   "id": "07cde7a66f49",
+   "title": "Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B",
+   "link": "https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B",
+   "date": "2026-08-23T16:27:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, image-to-video, video-generation, vbvr",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "6031336fbc04",
+   "title": "Video-Reason/VBVR-Pro-Wan2.1-I2V-14B-diffsynth",
+   "link": "https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.1-I2V-14B-diffsynth",
+   "date": "2026-08-23T16:27:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffsynth, lora, image-to-video, video-generation, vbvr, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "81aa0f0d3132",
+   "title": "Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B-diffsynth",
+   "link": "https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-I2V-A14B-diffsynth",
+   "date": "2026-08-23T16:25:28.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffsynth, lora, image-to-video, mixture-of-experts, video-generation, vbvr",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "e9379f06c81b",
+   "title": "Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-diffsynth",
+   "link": "https://huggingface.co/Video-Reason/VBVR-Pro-Wan2.2-TI2V-5B-diffsynth",
+   "date": "2026-08-23T16:25:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffsynth, lora, image-to-video, text-to-video, video-generation, vbvr",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "472acd36ac96",
+   "title": "If AI tools had existed in the past",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vwb3qj/if_ai_tools_had_existed_in_the_past/",
+   "date": "2026-08-23T16:04:47.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/a21lzyzvd5lh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=81495c8bbc052ccdd28d2047a360f595de4f1c1d",
+   "excerpt": "Not just a meme... submitted by /u/takayatodoroki [link] [comments]"
+  },
+  {
+   "id": "cdde47e0c0e5",
+   "title": "Video-Reason/VBVR-Pro-LTX2.3",
+   "link": "https://huggingface.co/Video-Reason/VBVR-Pro-LTX2.3",
+   "date": "2026-08-23T16:03:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, text-to-video, audio-video, ltx-2-3",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "29eb8a7dddea",
+   "title": "What if Walter White met Tony Soprano? | AI Fan-Made Parody",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vwac07/what_if_walter_white_met_tony_soprano_ai_fanmade/",
+   "date": "2026-08-23T15:35:04.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OTc1bmpjdTE1NWxoMRtUjPTbkp8-9VeQrgFCNO2Xb0hSo4PJFxRe1CjRMCvs.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c9c59d3012a8181dc2f3ab0f6cac9b33d485760",
+   "excerpt": "submitted by /u/TheodorPetrenkoFilms [link] [comments]"
+  },
+  {
+   "id": "d26899ffdb40",
+   "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+   "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+   "date": "2026-08-23T15:30:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+  },
   {
    "id": "2af5651d8134",
    "title": "Fantasy Toons",
@@ -10,6 +120,28 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/ude3z6ah65lh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cefc7b284432be19be1493cb0f38114bb286594a",
    "excerpt": "submitted by /u/Zenchilada [link] [comments]"
+  },
+  {
+   "id": "f711ccf89969",
+   "title": "MiniMax-Music 3: “EDM? No idea. WTF is that?” Meanwhile, MiniMax H3:",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw9vf4/minimaxmusic_3_edm_no_idea_wtf_is_that_meanwhile/",
+   "date": "2026-08-23T15:17:12.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/N2Ixd3N4OW8xNWxoMZGdwa8jzCdmxQ3FTsjmfQdcV6d0cJY5q5qHyYAlnkCR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d412229d6e00d2bc3098893206dac5aa8a527cb2",
+   "excerpt": "As you probably know, MiniMax-Music3 is pretty limited when it comes to genres and seems to have absolutely no idea what electronic dance music is. I tried different EDM styles, but it always ended up sounding either like rap or some kind of generic pop-ish stuff. Meanwhile, MiniMax H3 seems to know a lot more about electronic music than MiniMax-Music3. The 40-second video at 0.2MP, with 17 steps "
+  },
+  {
+   "id": "0cf038a105b3",
+   "title": "Alibaba might release a new open image model Swift-Image 6B",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw9tfl/alibaba_might_release_a_new_open_image_model/",
+   "date": "2026-08-23T15:15:02.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/wzu57gqi45lh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=e4c957a3c4fa4b82f9c50eaa11cbbb93c3f8a1d1",
+   "excerpt": "Paper: https://arxiv.org/pdf/2608.20334 \"We present Swift-Image, a compact unified model for text-to-image generation, single-image editing, and multi image editing. Its visual renderer is a 6B parallel single stream DiT conditioned on multimodal representations from a vision-language encoder [6, 7, 57]. The architecture adopts block-shared timestep modulation, parallel attention and MLP computati"
   },
   {
    "id": "51e08aafe693",
@@ -26,6 +158,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "87b7206c8837",
+   "title": "Comfy UI with Minimax H3 can work with an Intel GPU.",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw9mm7/comfy_ui_with_minimax_h3_can_work_with_an_intel/",
+   "date": "2026-08-23T15:07:28.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/6bJpRvlCnOllowss7yU65vTD-PRqlDr8rwW7wBFgmHM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=90ba26d19d5a83fbe08888fe37ed44395258f721",
+   "excerpt": "Lon TV did a video of Comfy UI with Minimax H3 running on a 32GB Intel GPU. So its possible to run it on any GPU other then nvidia GPUs. submitted by /u/TigerClaw305 [link] [comments]"
   },
   {
    "id": "6f8aa09445c1",
@@ -158,6 +301,17 @@
    }
   },
   {
+   "id": "f7e7853bd5cd",
+   "title": "The River That Forgot How To Shine-Minimax H3 Shortfilm",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw7sis/the_river_that_forgot_how_to_shineminimax_h3/",
+   "date": "2026-08-23T13:52:57.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/bmZsNWNubHhxNGxoMZHjRf_hTCFaYSdgf9w1e0x33oNteKgv_S0xP2ay1Jgp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=921a266e8394b299e2d738577b854fc7a9a512fb",
+   "excerpt": "All audio was done in Minimax, little work in post for stitching clips. r2v Workflow in ComfyUI with character sheets and prompts from claude submitted by /u/Repulsive-Rush3505 [link] [comments]"
+  },
+  {
    "id": "bc0948b9f29b",
    "title": "The River That Forgot How To Shine",
    "link": "https://www.reddit.com/r/aivideo/comments/1vw7pv2/the_river_that_forgot_how_to_shine/",
@@ -166,6 +320,17 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/OGYwaXllcGNxNGxoMZHjRf_hTCFaYSdgf9w1e0x33oNteKgv_S0xP2ay1Jgp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4e8841a798627e5a76ef376021734bb00420e95c",
    "excerpt": "submitted by /u/Repulsive-Rush3505 [link] [comments]"
+  },
+  {
+   "id": "2fe09335dff8",
+   "title": "Fixed my trauma with Minimax h3 local",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw7l4n/fixed_my_trauma_with_minimax_h3_local/",
+   "date": "2026-08-23T13:44:04.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/NDhlMHVpYndvNGxoMeRpOyjmd-52K7UsGlBLzr4YeYNFfx0_OxfRHBu5c5bw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=95ff8371c8d3e4a72705b5ed61a9100de8ac798a",
+   "excerpt": "Used latent upscaler so with resolution 0.3 i got 20 seconds generation on 4090 submitted by /u/AndrewJumpen [link] [comments]"
   },
   {
    "id": "ae200b87b965",
@@ -198,6 +363,38 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "0ca579e7758f",
+   "title": "MiniMax H3 Helps Me with Sprites Animation.",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw755b/minimax_h3_helps_me_with_sprites_animation/",
+   "date": "2026-08-23T13:24:50.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/MXNqZmRiaWVsNGxoMelY1FPDz-qCpwgymlX9tYk-ytoL3g6kaLbZjN5Kbzg-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8b377430edd9470a009b40345b71f8a4a537b174",
+   "excerpt": "submitted by /u/-Ellary- [link] [comments]"
+  },
+  {
+   "id": "c805fce312c9",
+   "title": "Krea2 Turbo Distill 4 step LoRA - new checkpoint (chk14K) released (cuts 4-step error vs. the 8-step Turbo teacher by 44%)",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw6x9i/krea2_turbo_distill_4_step_lora_new_checkpoint/",
+   "date": "2026-08-23T13:15:11.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/1ei2tnwpi4lh1.jpg?width=140&amp;height=55&amp;auto=webp&amp;s=72e5cf47754074d9bcd4c9380461c59b50c7f3cb",
+   "excerpt": "Krea 2 Turbo — 4-Step Distillation LoRA (work in progress) A LoRA for Krea 2 Turbo that reduces the minimum usable step count from 8 to 4. This is an update release, following up from my previous posts where you can find full details: Initial: https://www.reddit.com/r/StableDiffusion/comments/1vtf1b7/krea2_turbo_distill_4_step_lora_trained_for_turbo/ Previous: https://www.reddit.com/r/StableDiffus"
+  },
+  {
+   "id": "e04a65750ba1",
+   "title": "Christopher Nolan has Impeccable Taste in Cinema",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw6imf/christopher_nolan_has_impeccable_taste_in_cinema/",
+   "date": "2026-08-23T12:57:01.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ajdhejh1NHlnNGxoMd6VopQoniuDNMiDzj0uII3QXUMAPc8pS1yByfP1MkUI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a3d18b4f0f6f2b56066d0ed8297a3fa4ca4d503b",
+   "excerpt": "Minimax H3 submitted by /u/FirefighterNo584 [link] [comments]"
   },
   {
    "id": "dcbcff9ac53e",
@@ -318,6 +515,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "67bc73515d5c",
+   "title": "Minimax H3 Huge Quality Difference between Cloud and Local use",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw4cgy/minimax_h3_huge_quality_difference_between_cloud/",
+   "date": "2026-08-23T11:07:25.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "Hi. I have a decent h3 workflow that I built for a loca use. It use turbo lora etc... If i use the defaut settings in the goal of getting the highest quality possible, meaning res_multistep simple 20 steps or more, I got also good results, but this is not even close to the results you can get on platforms like kie or wavespeed at 768P. I already convert properly the prompt to the correct H3 digest"
   },
   {
    "id": "6c1920bf3937",
@@ -445,6 +653,16 @@
    }
   },
   {
+   "id": "4e40580711e3",
+   "title": "H3 Infinite Continuation Suite v1.4 (FL2VA): Using native Masked AV after your feedback",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw1ytx/h3_infinite_continuation_suite_v14_fl2va_using/",
+   "date": "2026-08-23T08:51:22.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/d3cybmhhNnE1M2xoMb6d7_bhQW8BdlgyTYRJoVX9PsMxRb8krlBQqmyPX3zE.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=73ed5da88859e74d79c32519babc909ce3513d99",
+   "excerpt": "The example video was generated entirely with the stock MiniMax H3 First Frame / Last Frame checkpoint and the included v1.4 example Workflows. If you want to compare the result to v1.3, take a look at my last post. The final video consists of 11 individually generated Clips that were automatically stitched together. Settings: H3 First Frame / Last Frame checkpoint 11 individual Clips 15 Steps inc"
+  },
+  {
    "id": "2b895ca5fe29",
    "title": "Car wash",
    "link": "https://www.reddit.com/r/aivideo/comments/1vw1qcp/car_wash/",
@@ -455,6 +673,17 @@
    "excerpt": "submitted by /u/NeighborhoodDue4189 [link] [comments]"
   },
   {
+   "id": "2919558f648a",
+   "title": "[WanGP] Minimax H3 FL2VA Pruned 20B - Originally 832x480 - upres'd to 1664x960 using LTX 2.3 Pixel Spatial Upscaler at a scale of x2 - 12 second duration. Wow!",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw1ow6/wangp_minimax_h3_fl2va_pruned_20b_originally/",
+   "date": "2026-08-23T08:35:06.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/YnYyY2xoM2Y1M2xoMbjLljff4hUF22edj7DxVfK5DOEbLNLlHZLT3qkJRELF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=20339f3c04c4bf69d1bb76925d838cd156f93886",
+   "excerpt": "submitted by /u/call-lee-free [link] [comments]"
+  },
+  {
    "id": "fde1bb95ab44",
    "title": "Shroom Pt 3 #175",
    "link": "https://www.reddit.com/r/midjourney/comments/1vw1ntt/shroom_pt_3_175/",
@@ -463,6 +692,16 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/v40mxykw53lh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=809c7a707013fd7ff86441425799c46d96011ddf",
    "excerpt": "submitted by /u/Slave_Human [link] [comments]"
+  },
+  {
+   "id": "ce2f0b6bcc13",
+   "title": "Cinematic World Building - H3 r2v",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw1nqk/cinematic_world_building_h3_r2v/",
+   "date": "2026-08-23T08:33:11.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dno2OWk3M3E1M2xoMSyXFxXBxNvlWNFjyEn9k8fBo8cXbRsWkaRfMfs5HNel.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d4da6c6270fd1196c7a9bef8ae3f48cd40b72c4d",
+   "excerpt": "Trying out cinematic shots and cuts with H3. This is a work in progress. Will be working on another 2 minutes worth of clips. EDIT: From reading the comments, she isn't going to drink the salt water in the final, though I will keep her scooping up water since it's such a good establishing shot. She will do something with the water to tie it back. submitted by /u/R34vspec [link] [comments]"
   },
   {
    "id": "bd52e9d8d8da",
@@ -495,6 +734,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "0312ba458be5",
+   "title": "Sparse Attention, Harder, Better, Faster, Stronger",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vw1ad0/sparse_attention_harder_better_faster_stronger/",
+   "date": "2026-08-23T08:11:14.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "The nodes in https://github.com/Zironic/H3-Optimizations have been rewritten to replace the default Sparge Attention backend with a custom Sparse Comfy Kitchen backend. This comes with some benefits. Users no longer have to worry about Sparge being installed properly. All required kernels for supported GPUs are provided directly. Should work on both Windows and Linux. Most users should be seeing 5"
   },
   {
    "id": "8e634546698f",
@@ -586,6 +835,17 @@
    "isModel": true,
    "thumb": "https://external-preview.redd.it/a3cwNnlmYnprMmxoMaWZvvxuSwhngvLddQzqVACKnAYgZUs0pa3Bkz7FYi_a.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c773c84af80b7b2a85274a2a83e2823a07260216",
    "excerpt": "ComfyUI MiniMax H3 30-Second Long-Form Generation Workflow Deeply Optimized for Low/Mid-Range GPUs (12GB VRAM) CivitAi workflow link: https://civitai.com/models/2882332/minimax-h3-30-second-seamless-image-to-video-w-full-audio-workflow-for-12gb-gpus Mega link for those who cannot access CivitAi: /file/DmJy3LhA#i1iF7IxR-7ju-uXWyLMhZ8AsovH9ykOJv8nCKHuUl9s How to use: 1: Open ComfyUI and load the JSO"
+  },
+  {
+   "id": "766454366188",
+   "title": "Testing some Minimax H3 capabilities",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vvzyoe/testing_some_minimax_h3_capabilities/",
+   "date": "2026-08-23T06:54:42.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/Z2I0ang0ZjluMmxoMQRlOzNIJHtIfez6x5eo2akXxqZFlC_Qvsac-n1Vxive.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fa739f16a22b31f383202981603377364cd1e931",
+   "excerpt": "I tried to think of complex situations for the model to handle and tested them. I would say it went very well, although not perfect (except for the first one and the one before last, where I could not find a flaw). Prompts below: VIDEO 1 (10/10): Create a side by side video with two angles of the same scene: one frontal and one from the side. The scene: a woman wearing a yellow summer dress is sta"
   },
   {
    "id": "68aa0a1ba5af",
@@ -717,7 +977,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, video, audio, text-to-audio-video",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -773,6 +1033,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "976ee26fd9a3",
+   "title": "Best opensource image model?",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vvwxhp/best_opensource_image_model/",
+   "date": "2026-08-23T04:06:22.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/p90tt3gru1lh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cf949dc674a94c60b494028883b3f42a762dd3f5",
+   "excerpt": "https://preview.redd.it/p90tt3gru1lh1.jpg?width=1232&format=pjpg&auto=webp&s=167847b7b1328ca1abafec942370fdf6f69406f3 opensource AI has been dominating LLMs and video generation but what about image gen? is there any opensource model that can match gpt-image2? Edit: The reason I am asking this is because lately I haven't been active much on image generation communities. And the leaderboards are a "
   },
   {
    "id": "45d56279ed68",
@@ -1575,7 +1846,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, gguf, comfyui, z-image, video-generation, audio-video",
    "hf": {
-    "likes": 2,
+    "likes": 4,
     "downloads": 170,
     "pipeline": "text-to-video"
    }
@@ -1591,7 +1862,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 3,
+    "likes": 5,
     "downloads": 186,
     "pipeline": "text-to-video"
    }
@@ -5307,7 +5578,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, text-to-image, distillation, step-distillation, krea-2, base_model:krea/Krea-2-Turbo",
    "hf": {
-    "likes": 17,
+    "likes": 18,
     "downloads": 2184,
     "pipeline": "trending image"
    }
@@ -7102,299 +7373,6 @@
    "isModel": true,
    "thumb": "https://external-preview.redd.it/YzA5ZjJqcnJpOGtoMVQ-rK6TsIIdw6VxFNtH_a9gEZYmgS7o-LmvOAOlExQt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=047f7d128428307c1f67cf8856218d6157a55c48",
    "excerpt": "I am looking for a way to add a LoRA to LTX 2.3 to help with fight scene animations. I am new to ComfyUI, but have built a workflow that is working pretty well for simple animations, but fight scenes are horrible. lol Subtle animations are great. Anything where there is too much camera movement or the character goes out of frame, it falls apart and looks really bad. I want to make a crazy fight sc"
-  },
-  {
-   "id": "503484a959a8",
-   "title": "oron1208/OOO_ANIMA-29B-V10",
-   "link": "https://huggingface.co/oron1208/OOO_ANIMA-29B-V10",
-   "date": "2026-08-19T01:30:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, image-generation, anime, illustration, fine-tune",
-   "hf": {
-    "likes": 0,
-    "downloads": 3,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "724df9c52659",
-   "title": "Minimax H3 15 second clip, last 3 seconds nothing but noise",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vs85qk/minimax_h3_15_second_clip_last_3_seconds_nothing/",
-   "date": "2026-08-19T01:20:29.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "Hey everyone, I'm just wondering if anyone else has experienced this? I'm using the standard Reference to Video workflow from Comfyui, 20 steps, 1MP, with one reference image and one reference audio clip. Everything looks good until the last 2-3 seconds where it looks like nothing but noise. It seems to only happen when i push the duration to 15 seconds. As I test I ran the same workflow but with "
-  },
-  {
-   "id": "b83cdc1d0716",
-   "title": "retronic/pixeled-image",
-   "link": "https://huggingface.co/retronic/pixeled-image",
-   "date": "2026-08-19T00:39:10.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, flux, flux2, pixeled, pixelship, lora",
-   "hf": {
-    "likes": 0,
-    "downloads": 12,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d132ea7cd2c7",
-   "title": "joeygambino/joyai-echo-ltx25-echoVid-dev",
-   "link": "https://huggingface.co/joeygambino/joyai-echo-ltx25-echoVid-dev",
-   "date": "2026-08-19T00:08:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: merge, dev, comfyui, ltx-2, ltx-2.5, joyai-echo",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "d34f3dca4c8c",
-   "title": "Talent shows",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vs6fv3/talent_shows/",
-   "date": "2026-08-19T00:05:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aXI3eHllM2l6N2toMROrhPFQhhDE--mwgZlAc8RMKNt0qfCjvAXvtNMVHvlD.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6385ee92fe2e00e5e0ffef53c4686a8ab734f3f7",
-   "excerpt": "submitted by /u/Educational-Mode-429 [link] [comments]"
-  },
-  {
-   "id": "bd69c4778389",
-   "title": "developerjeremylive/LTX-2.5-Distilled-GGUF-etheroi",
-   "link": "https://huggingface.co/developerjeremylive/LTX-2.5-Distilled-GGUF-etheroi",
-   "date": "2026-08-18T23:50:40.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, image-to-video, text-to-video, video-to-video, audio-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 101,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "dbfac6ce78a1",
-   "title": "DiegoDenis88/CarolSterman_kr2",
-   "link": "https://huggingface.co/DiegoDenis88/CarolSterman_kr2",
-   "date": "2026-08-18T23:42:28.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 10,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e8a3661afef4",
-   "title": "gpt1isaribratfoundation/onetrainer",
-   "link": "https://huggingface.co/gpt1isaribratfoundation/onetrainer",
-   "date": "2026-08-18T23:34:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:wikeeyang/Flux2-Klein-9B-True-V2, base_model:adapter:wikeeyang/Flux2-Klein-9B-True-V2",
-   "hf": {
-    "likes": 0,
-    "downloads": 5,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "b1764b80b73a",
-   "title": "David Zucker on Why Getting Two Key Things Right Determines Your Movie's Fate",
-   "link": "https://nofilmschool.com/zucker-advice-for-filmmakers",
-   "date": "2026-08-18T23:30:01.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/david-zucker-on-why-getting-two-key-things-right-determines-your-movie-s-fate.jpg?id=67639809&width=1200&height=800&coordinates=75%2C0%2C76%2C0",
-   "excerpt": "I remember renting Airplane! on VHS and laughing so hard milk came out of my nose. That could have been last week, but it was probably 30 years ago. The comedy mastermind behind those movies, producer David Zucker, isn't holding his breath for major Hollywood studios to back his kind of movies anymore. But he still has a lot of advice for the next generation of writers and directors who want to wo"
-  },
-  {
-   "id": "e5b3d948abe1",
-   "title": "Tonight at my local pub drinking some beers",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vs5fjm/tonight_at_my_local_pub_drinking_some_beers/",
-   "date": "2026-08-18T23:22:16.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/y49wt3xzu7kh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=8c385de730f0bc040a78d0a4fc7cee67daf56a3f",
-   "excerpt": "submitted by /u/Difficult_Ad2511 [link] [comments]"
-  },
-  {
-   "id": "670be2212231",
-   "title": "dekes1/cindtcfr15",
-   "link": "https://huggingface.co/dekes1/cindtcfr15",
-   "date": "2026-08-18T23:11:55.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "739d1d03292a",
-   "title": "[Custom Node] MiniMax H3 FlowDirector – Better motion & generation flow control for MiniMax H3 (Example Workflow included)",
-   "link": "https://www.reddit.com/r/comfyui/comments/1vs54ca/custom_node_minimax_h3_flowdirector_better_motion/",
-   "date": "2026-08-18T23:09:12.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "Hey all, I built MiniMax H3 FlowDirector to streamline MiniMax H3 workflows and provide cleaner control over video generation flow without spaghetti wiring. Cleaner Pipelines: Replaces complex routing with a single, dedicated node. Better Motion Flow: Helps guide generation parameters more consistently. Plug & Play: Slots directly into your current H3 setups. Example Workflow: A drag-and-drop ⁠.js"
-  },
-  {
-   "id": "97953fa7354e",
-   "title": "Messy bedroom",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vs4hh4/messy_bedroom/",
-   "date": "2026-08-18T22:42:52.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/anBxY3pxOXVvN2toMQP74prK-yFXfk4qiO_imebRAsu8O3dTaupKcjg03wsp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6e4ff78cab74ca8bb73ed733dea315c758afef85",
-   "excerpt": "submitted by /u/NeighborhoodDue4189 [link] [comments]"
-  },
-  {
-   "id": "acb8bd5e62f3",
-   "title": "Ccadic/Anna-ZImage-Turbo-LoRA",
-   "link": "https://huggingface.co/Ccadic/Anna-ZImage-Turbo-LoRA",
-   "date": "2026-08-18T22:28:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, z-image, z-image-turbo, character, cinematic, photorealistic",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ffa988630c44",
-   "title": "Retoe/shatfine2",
-   "link": "https://huggingface.co/Retoe/shatfine2",
-   "date": "2026-08-18T22:27:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, flux2-klein",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "721e1b46dd7e",
-   "title": "dsscv/Qwen-Image",
-   "link": "https://huggingface.co/dsscv/Qwen-Image",
-   "date": "2026-08-18T22:20:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, zh, arxiv:2508.02324",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "38269b8f7f4f",
-   "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-   "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-   "date": "2026-08-18T22:14:25.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
-  },
-  {
-   "id": "df94b0f61188",
-   "title": "Constructing the Emmy-Nominated Title Sequences of 'Spider-Noir and Smoke'",
-   "link": "https://nofilmschool.com/constructing-the-emmy-nominated-title-sequences-of-spider-noir-and-smoke",
-   "date": "2026-08-18T22:13:54.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/image.jpg?id=67640660&width=2000&height=1500&coordinates=155%2C0%2C155%2C0",
-   "excerpt": "Title sequences are a critical, artistic element of any TV series, designed with intense attention to detail to serve their key purpose—grabbing and keeping audiences. One creative studio, Digital Kitchen, produced two standout title sequences unlike any others this year, receiving Emmy nominations for their work on Spider-Noir and Smoke. The team used After Effects and Photoshop to bring these un"
-  },
-  {
-   "id": "75f256ee1d80",
-   "title": "How This Community Is Helping Freelance Producers, Writers, and Editors Bag Fortune 500 Clients",
-   "link": "https://nofilmschool.com/we-are-rosie",
-   "date": "2026-08-18T22:12:00.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/image.png?id=67635325&width=1200&height=800&coordinates=100%2C0%2C100%2C0",
-   "excerpt": "The modern media landscape moves so fast that it can be hard to track, especially for freelancers. There are algorithms shifting overnight, AI tools reshaping post-production workflows, and social-first content that has trends that change every second. These rapid developments impact your work as a creative, but who can track it all when you’re also juggling the unseen work that comes with self-em"
-  },
-  {
-   "id": "936644c88a90",
-   "title": "I made a bittersweet story for an indie band I'd love to know what kind of emotion it makes you feel",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vs3pmz/i_made_a_bittersweet_story_for_an_indie_band_id/",
-   "date": "2026-08-18T22:11:51.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MW9vdG41bGppN2toMVmDhDDi0vrpWH8_0V8W673sAON8SrudDbqsqwo6D5dc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ba81a5cacca8469d98a37002f9924b03c9ad0ee",
-   "excerpt": "submitted by /u/Own_Difference577 [link] [comments]"
-  },
-  {
-   "id": "d7d8b8e3fa7b",
-   "title": "MODERN RETRO ART",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vs3nlv/modern_retro_art/",
-   "date": "2026-08-18T22:09:32.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/5ppr052ji7kh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=2a06dac5846865d779e5afb281b1727095d5ed50",
-   "excerpt": "submitted by /u/GaryWray [link] [comments]"
-  },
-  {
-   "id": "3242e4e40170",
-   "title": "Jack Nicholson's Advice For Those Trying to Make It In Film and Television",
-   "link": "https://nofilmschool.com/jack-nicholson-everything-counts",
-   "date": "2026-08-18T22:04:18.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/jack-nicholson-s-advice.jpg?id=67639973&width=1245&height=700&coordinates=175%2C0%2C79%2C0",
-   "excerpt": "Hollywood is a town built on legends and legendary figures, and there are very few whose careers have been as staggering as Jack Nicholson's. The guy is a titan of American cinema whose work over six decades has helped define modern filmmaking and inspired countless actors around the world. While scrolling on YouTube, I found a video of him accepting an AFI award, and he gave a speech that I found"
-  },
-  {
-   "id": "40e57b678ada",
-   "title": "ChatGPT Ads expands across Europe",
-   "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-   "date": "2026-08-18T22:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
   }
  ]
 }
