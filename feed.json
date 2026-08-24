@@ -1,6 +1,64 @@
 {
- "updated": "2026-08-24T21:46:06.375Z",
+ "updated": "2026-08-24T22:46:46.188Z",
  "items": [
+  {
+   "id": "cfc80a597c14",
+   "title": "BlueTriangles/SDXL_Crusher_Joe_Mature",
+   "link": "https://huggingface.co/BlueTriangles/SDXL_Crusher_Joe_Mature",
+   "date": "2026-08-24T22:22:16.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:OnomaAIResearch/Illustrious-XL-v2.0, base_model:adapter:OnomaAIResearch/Illustrious-XL-v2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4d46a3484e96",
+   "title": "BlueTriangles/SDXL_Kinomoto_Sakura_Cheerio",
+   "link": "https://huggingface.co/BlueTriangles/SDXL_Kinomoto_Sakura_Cheerio",
+   "date": "2026-08-24T22:16:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:OnomaAIResearch/Illustrious-XL-v2.0, base_model:adapter:OnomaAIResearch/Illustrious-XL-v2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1ac8a3a572b8",
+   "title": "akonukbay/FLUX.1-schnell-me",
+   "link": "https://huggingface.co/akonukbay/FLUX.1-schnell-me",
+   "date": "2026-08-24T21:51:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, endpoints_compatible, diffusers:FluxPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "091f3ddc3a82",
+   "title": "Anomaly Archive 011",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxglg5/anomaly_archive_011/",
+   "date": "2026-08-24T21:46:52.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/misterXCV [link] [comments]"
+  },
   {
    "id": "efb344332122",
    "title": "colossal orbital structure",
@@ -10,6 +68,16 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/swnwgbl07elh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=0635b9e9a5c761ad42ec60169d6a29ef567a312d",
    "excerpt": "submitted by /u/KasperGHh [link] [comments]"
+  },
+  {
+   "id": "fa61f592bd82",
+   "title": "atlas - the old man",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxgbu7/atlas_the_old_man/",
+   "date": "2026-08-24T21:36:35.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cHUxeGxjZ2I2ZWxoMXiuFUJBpErd3XlZCJjykg9d0wOq-W8TNns4__Nj9s37.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f76b554db72434480ce5391e5d48c6d4c2402742",
+   "excerpt": "submitted by /u/superfatbeagle [link] [comments]"
   },
   {
    "id": "103e71d0ad67",
@@ -587,7 +655,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx, comfyui, comfy, gguf, ltx-video, ltx-2.5",
    "hf": {
-    "likes": 2,
+    "likes": 3,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -633,7 +701,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, minimax-h3-workflow, hd-video, 2k-video, video-detailer",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -3763,7 +3831,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 50,
+    "likes": 51,
     "downloads": 2323,
     "pipeline": "trending video"
    }
@@ -7536,68 +7604,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "392f1e0260a7",
-   "title": "Body Builder Ballerina",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtbtqg/body_builder_ballerina/",
-   "date": "2026-08-20T06:45:11.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZDBodzE1MHE3aGtoMXwP5tRAQJFrFC9NxR6WUtUSuTdddPYVth1TNP3Lhqc9.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5878cc545f52b399fd13562fdd2140c133d96d45",
-   "excerpt": "submitted by /u/philbriggsphoto [link] [comments]"
-  },
-  {
-   "id": "31a292a0a989",
-   "title": "MinimaxH3 for title screen animation",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vtazjl/minimaxh3_for_title_screen_animation/",
-   "date": "2026-08-20T05:57:31.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZmJucm9iZDF6Z2toMcH7MMvBm8zHcaFB9e9wx0bYICVBjsRDz6NTj8dq5JNc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=94b71e559696c4123764536924d96a465a4113b0",
-   "excerpt": "I think MinimaxH3 is great for title screen animation and motion graphic. submitted by /u/wzwowzw0002 [link] [comments]"
-  },
-  {
-   "id": "dbaf3a7ce93e",
-   "title": "RunningHubAI/ComfyUI-RH-daVinci-MagiHuman",
-   "link": "https://huggingface.co/RunningHubAI/ComfyUI-RH-daVinci-MagiHuman",
-   "date": "2026-08-20T05:56:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, image-to-video, image-text-to-audio-video, multimodal, int8, en",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "cd77cfa81f67",
-   "title": "Yevgeni324/ortalslora2",
-   "link": "https://huggingface.co/Yevgeni324/ortalslora2",
-   "date": "2026-08-20T05:52:30.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "28ace3dc70d6",
-   "title": "Dragon Reign (WIP)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtamnl/dragon_reign_wip/",
-   "date": "2026-08-20T05:37:20.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/enAxNWJjZ3B2Z2toMd0gkxkwci_dTjSnHqW7ke7bKC7OeuYnfI94tGhB4JPa.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a72c1b99eaa00d9273a8d444df7407e6591eff1",
-   "excerpt": "submitted by /u/hiprocreative [link] [comments]"
   }
  ]
 }
