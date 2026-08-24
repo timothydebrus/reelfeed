@@ -1,6 +1,96 @@
 {
- "updated": "2026-08-24T10:06:42.517Z",
+ "updated": "2026-08-24T10:55:56.330Z",
  "items": [
+  {
+   "id": "d19cb0432120",
+   "title": "ethanfel/H3_Cinematic_Multishot_Coverage",
+   "link": "https://huggingface.co/ethanfel/H3_Cinematic_Multishot_Coverage",
+   "date": "2026-08-24T10:52:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, workflow, image-to-video, multi-shot, camera-coverage",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "40a260adf6bc",
+   "title": "hodgy/luana-krea2-turbo-v1",
+   "link": "https://huggingface.co/hodgy/luana-krea2-turbo-v1",
+   "date": "2026-08-24T10:18:36.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, krea-2-turbo, ai-toolkit, runcomfy, text-to-image, base_model:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "363d940b8879",
+   "title": "Perflow-Shuai/Wan2.2-5B-NonAR-DMD-4Step-LoRA-r64-iter1600-SLT-AR-30s-Local32-Sink8-iter2450",
+   "link": "https://huggingface.co/Perflow-Shuai/Wan2.2-5B-NonAR-DMD-4Step-LoRA-r64-iter1600-SLT-AR-30s-Local32-Sink8-iter2450",
+   "date": "2026-08-24T10:15:55.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, lora, streaming-long-tuning, autoregressive, text-to-video, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "614f7f88041e",
+   "title": "bigbooob/asdxxxxxxxxxx",
+   "link": "https://huggingface.co/bigbooob/asdxxxxxxxxxx",
+   "date": "2026-08-24T10:08:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a25acbf3a945",
+   "title": "mej023/l0pez",
+   "link": "https://huggingface.co/mej023/l0pez",
+   "date": "2026-08-24T10:03:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "733d164c13a8",
+   "title": "The Great Escape",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vwy3zq/the_great_escape/",
+   "date": "2026-08-24T09:42:31.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/N2p3M2QxaTRuYWxoMSkA5MPYo1j9zqmEI3C3j4l-ARTPLKKFnckSksjCkcbC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c7731eec1a89dd632a979f3c05466b71e644db1e",
+   "excerpt": "submitted by /u/krish_munjapara [link] [comments]"
+  },
   {
    "id": "2667562c37f4",
    "title": "Beidouqixing/minimax-h3-4step-lora-flashgen",
@@ -12,9 +102,25 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, t2va, distillation, 4step, flashgen",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "2c165c88bbb7",
+   "title": "MarwenBellili/canolaxray-qwen-lora",
+   "link": "https://huggingface.co/MarwenBellili/canolaxray-qwen-lora",
+   "date": "2026-08-24T08:32:55.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, lora, text-to-image, diffusion, flow-matching",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
    }
   },
   {
@@ -32,6 +138,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "cd204a0b7941",
+   "title": "My first video creation with AI",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vww2a6/my_first_video_creation_with_ai/",
+   "date": "2026-08-24T07:40:29.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bWhlbnBwZ3QwYWxoMd1XxiKVLWRrCOKWlVMmF1HeIAI5PhSYgYaNZhCKiS-n.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ed7b6f7c576cc8af96920de14a1611bb84e9ab24",
+   "excerpt": "submitted by /u/Kevin_gato [link] [comments]"
   },
   {
    "id": "fee0dbfdfed1",
@@ -148,9 +264,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 12,
+    "likes": 23,
     "downloads": 0,
-    "pipeline": "text-to-video"
+    "pipeline": "trending video"
    }
   },
   {
@@ -2557,7 +2673,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 42,
+    "likes": 43,
     "downloads": 2323,
     "pipeline": "trending video"
    }
@@ -7344,105 +7460,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/MHl5cGtxNG43Y2toMVdL9nLroxnWGM5UNbWuCqFxMBZcvbrKl918uTEbdpTo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ca06a4f80a1eca99140590c6bc3ce6dd084a268",
    "excerpt": "submitted by /u/paulwehner [link] [comments]"
-  },
-  {
-   "id": "34372b36cf13",
-   "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-   "link": "https://huggingface.co/blog/LiquidAI/qad",
-   "date": "2026-08-19T13:48:49.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "8957315ef480",
-   "title": "Places In Dream",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vsmr1p/places_in_dream/",
-   "date": "2026-08-19T13:39:59.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/7jkdbyjy4ckh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=b6dfde50fe6d8dd2ce87360b8dc1871a679776cf",
-   "excerpt": "submitted by /u/Sharp_Alternative845 [link] [comments]"
-  },
-  {
-   "id": "ad9043b186ee",
-   "title": "The Prompt Must Go On",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vsmjzk/the_prompt_must_go_on/",
-   "date": "2026-08-19T13:32:13.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YjhzdTVud2EzY2toMSSooHuMmcX-29zLqUYfI1sicC3qNf-F6_CgkxO25YzQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9ce4dd2545123d8f6cb959f3dba1e710d89932e",
-   "excerpt": "submitted by /u/DearConstruction1705 [link] [comments]"
-  },
-  {
-   "id": "d1ef8bf2089e",
-   "title": "The forever pen: I made a spec ad for a brand I admire",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vsm4yn/the_forever_pen_i_made_a_spec_ad_for_a_brand_i/",
-   "date": "2026-08-19T13:15:52.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NzVrZDcxeWZ4YmtoMbduAHtdaNQd5n0zs3m2h6ey_qLYMRDj2gaXmefwSB4b.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=87182109b865678c18a85b3fa2c98a7d1dfc901b",
-   "excerpt": "submitted by /u/obeliskproductions [link] [comments]"
-  },
-  {
-   "id": "1e1384c6fa4d",
-   "title": "guillekenzo/aros-b4a2bab7-WanderingVertex",
-   "link": "https://huggingface.co/guillekenzo/aros-b4a2bab7-WanderingVertex",
-   "date": "2026-08-19T13:00:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d082115cc1b2",
-   "title": "What if humanity could exchange knowledge between alternate realities?",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vsl02d/what_if_humanity_could_exchange_knowledge_between/",
-   "date": "2026-08-19T12:26:53.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YzAxaTN6cndyYmtoMVWqwoUk9bF7vx9Erv4-VDxiDtE1_5-cEO1rc0xp_-z2.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7ea9fcd4c0be66a5f78146d3eb2a52e6778e6e88",
-   "excerpt": "submitted by /u/BigTutor6739 [link] [comments]"
-  },
-  {
-   "id": "b5f3f78fc078",
-   "title": "erne1234/deded",
-   "link": "https://huggingface.co/erne1234/deded",
-   "date": "2026-08-19T12:26:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "7c1744148e3a",
-   "title": "gglgdl/Z-Image-Turbo-BF16",
-   "link": "https://huggingface.co/gglgdl/Z-Image-Turbo-BF16",
-   "date": "2026-08-19T12:16:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:quantized:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
