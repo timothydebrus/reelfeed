@@ -1,6 +1,110 @@
 {
- "updated": "2026-08-24T14:06:18.626Z",
+ "updated": "2026-08-24T15:58:14.855Z",
  "items": [
+  {
+   "id": "0565e9e7b154",
+   "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+   "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+   "date": "2026-08-24T15:24:18.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
+  },
+  {
+   "id": "22d48dd82191",
+   "title": "Welcome to McCappy's",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vx5rw6/welcome_to_mccappys/",
+   "date": "2026-08-24T15:19:52.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/a3JsNGI4MThiY2xoMVMstWgXeXox4W3MkYGrLm_mRTQgdeXovN7xlY2bBKJv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0d6ccc75064320be59f85e00805ab8caa4a554d3",
+   "excerpt": "submitted by /u/drfrankius [link] [comments]"
+  },
+  {
+   "id": "1841b9f92b1b",
+   "title": "domiso/Salt  (♥ 1)",
+   "link": "https://huggingface.co/domiso/Salt",
+   "date": "2026-08-24T15:05:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: video-generation, text-to-video, diffusion, distribution-matching, distillation, wan",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "65396712fe8b",
+   "title": "TechnoBaptist/MiniMax-H3-Fun-Controlnet-Union",
+   "link": "https://huggingface.co/TechnoBaptist/MiniMax-H3-Fun-Controlnet-Union",
+   "date": "2026-08-24T15:02:43.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "e0099f0b8b45",
+   "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+   "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+   "date": "2026-08-24T15:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses."
+  },
+  {
+   "id": "a2ca5dcd7745",
+   "title": "Agent Smith eating spaghetti",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vx4hek/agent_smith_eating_spaghetti/",
+   "date": "2026-08-24T14:31:39.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aWU4am9uNnIyY2xoMXuUkId0kQjVJXJ4ETiBZ1VFwUMsWvX00H5gnmhwQMod.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=65a812906fca1728310d05cc5163126735af046b",
+   "excerpt": "submitted by /u/ctrl-shift-face [link] [comments]"
+  },
+  {
+   "id": "56bc6494b1df",
+   "title": "ChristoBotha/lora-eyes-enhancer-free-use-or-merge",
+   "link": "https://huggingface.co/ChristoBotha/lora-eyes-enhancer-free-use-or-merge",
+   "date": "2026-08-24T14:21:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, stable-diffusion-xl, sdxl, sdxl-1.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5d0670a06665",
+   "title": "A8city/MistoLine",
+   "link": "https://huggingface.co/A8city/MistoLine",
+   "date": "2026-08-24T14:13:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, art, stable diffusion, ControlNet, SDXL, Diffusion-XL",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "4ad43c17b110",
    "title": "rhombus18/resin-fossil",
@@ -144,6 +248,16 @@
    }
   },
   {
+   "id": "b5df379018eb",
+   "title": "Another night at black hole party",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vx0wjy/another_night_at_black_hole_party/",
+   "date": "2026-08-24T12:04:59.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eG82bmM5a2pjYmxoMfaUw6saRr3c0yPMdnEFwK_f2n6jhlro-ZIi95Zqbg0u.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b349b49f81dc0fc5a4d20e7e13c1302f6c3e4dce",
+   "excerpt": "submitted by /u/TheCultRustle [link] [comments]"
+  },
+  {
    "id": "6aaa4fb78272",
    "title": "GGUFGuy/roblox-blocky-or-style",
    "link": "https://huggingface.co/GGUFGuy/roblox-blocky-or-style",
@@ -196,7 +310,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, comfy-native, comfy-quant, ltx-2.5, joy-ltx, z-image",
    "hf": {
-    "likes": 0,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -350,7 +464,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, t2va, distillation, 4step, flashgen",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -512,7 +626,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 44,
+    "likes": 60,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -2921,7 +3035,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 46,
+    "likes": 47,
     "downloads": 2323,
     "pipeline": "trending video"
    }
@@ -6637,7 +6751,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, text-to-image, distillation, step-distillation, krea-2, base_model:krea/Krea-2-Turbo",
    "hf": {
-    "likes": 23,
+    "likes": 24,
     "downloads": 2967,
     "pipeline": "trending image"
    }
@@ -7411,108 +7525,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/eWduZzU1bjNjZGtoMdRTxPDpKp9DUJMTE_I5w7NPLGYiaXXtbqcJrfiQxD5i.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=00e48cb5cdb7d0f6844c9068e32f9c1b12aea4de",
    "excerpt": "submitted by /u/SalmonTunaSandwich [link] [comments]"
-  },
-  {
-   "id": "da3d698d8f48",
-   "title": "Meet the startup helping Wall Street put a price on AI compute",
-   "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-   "date": "2026-08-19T17:26:48.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there still isn’t a straightforward way to put a price on compute — or for firms to hedge their exposure when the price changes. Silicon Data […]"
-  },
-  {
-   "id": "3455de8ff6f5",
-   "title": "Amm1234/venetian-gothic-flux1-merged",
-   "link": "https://huggingface.co/Amm1234/venetian-gothic-flux1-merged",
-   "date": "2026-08-19T17:26:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, endpoints_compatible, diffusers:FluxPipeline, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "70f5d8811be9",
-   "title": "Brutalist structures in forests",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vsssmk/brutalist_structures_in_forests/",
-   "date": "2026-08-19T17:18:27.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/kd7d66rx7dkh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ce86b13c1866b836091f4bf4688ba6eab401ab3f",
-   "excerpt": "submitted by /u/Agentcooper1974 [link] [comments]"
-  },
-  {
-   "id": "69aee3af08b5",
-   "title": "Amm1234/venetian-gothic-flux1-lora",
-   "link": "https://huggingface.co/Amm1234/venetian-gothic-flux1-lora",
-   "date": "2026-08-19T17:14:31.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, flux, lora, text-to-image, architecture, venetian-gothic",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "b7c2fec452c0",
-   "title": "OpenAI hit the brakes. Now what?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
-   "date": "2026-08-19T17:10:09.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK201_SAM_ALTMAN_CVIRGINIA2C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause in reinforcement learning training on its \"latest models intended "
-  },
-  {
-   "id": "6edc23431654",
-   "title": "Meta AI is getting a Mac app",
-   "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-   "date": "2026-08-19T17:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/MacApp_ScreenShare_0818.2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation acros"
-  },
-  {
-   "id": "2f030f737e5b",
-   "title": "Forget Barbenheimer: 'Dunesday' Is Shaping Up to Be a Box Office Bloodbath",
-   "link": "https://nofilmschool.com/dunesday",
-   "date": "2026-08-19T16:35:20.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/avengers-doomsday-dune-part-3.png?id=67643819&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "The theatrical box office right around Christmas is historically one of, if not the biggest of the year. It's where studios place their biggest titles, or the movies they don't think will be challenged. But this year, two studios are preparing for what seems like a cinematic cage match. December 18 is no longer just a movie release date; it’s war. And we have Warner Bros and Denis Velleneueve taki"
-  },
-  {
-   "id": "3ae561e87a90",
-   "title": "Last one’s surely Indian 😂😂",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vsrg67/last_ones_surely_indian/",
-   "date": "2026-08-19T16:31:06.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bnIwN3pzcWd6Y2toMZ7NNHPeiD57OO1MAQeoN6WHLGNQ5lg8CCcpxz3wG--J.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f6386bb5a9d4bda06c87d77c5e66c32fb608f5ed",
-   "excerpt": "submitted by /u/No_Tomatillo1695 [link] [comments]"
-  },
-  {
-   "id": "aa6686db0b81",
-   "title": "Jim Carrey Broke The Simulation Again",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vsqlwc/jim_carrey_broke_the_simulation_again/",
-   "date": "2026-08-19T16:02:07.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OTQ5azJzejFzY2toMX5mB2b8Mx9MCLkF5MTZN101cTqWnrO_7xiFor4nh1js.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=106e3edac1ab4a943d06840ecac262b2c98efd9e",
-   "excerpt": "submitted by /u/kango888 [link] [comments]"
   }
  ]
 }
