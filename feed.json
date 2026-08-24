@@ -1,6 +1,42 @@
 {
- "updated": "2026-08-24T22:46:46.188Z",
+ "updated": "2026-08-24T23:39:30.937Z",
  "items": [
+  {
+   "id": "f16da909bf8f",
+   "title": "Family Guy Rick and Morty Cross over",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxic2f/family_guy_rick_and_morty_cross_over/",
+   "date": "2026-08-24T22:56:02.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dW9xaXFnNW9rZWxoMbgP9CQHwGWuvLS1NLW1xleubwZrcmPC4PHSgXZY_Reb.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d765a719e5aa04b1b4b249310b8b1ec6f7ebedd",
+   "excerpt": "submitted by /u/GooseUpset1275 [link] [comments]"
+  },
+  {
+   "id": "336ec40fd2d4",
+   "title": "Homeless in LA",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxi051/homeless_in_la/",
+   "date": "2026-08-24T22:42:37.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bWcxa25yM2FpZWxoMU6bAlbLVfaVyv1eO4ex9sap7YeAmN72N-oZoIjrl7pU.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d1e75c24f57c63e4ae97c9ca79865552f9048a9e",
+   "excerpt": "submitted by /u/8bitcollective [link] [comments]"
+  },
+  {
+   "id": "39a39073b620",
+   "title": "KevinDowling/LTX-2.5-Diffusers-NVFP4",
+   "link": "https://huggingface.co/KevinDowling/LTX-2.5-Diffusers-NVFP4",
+   "date": "2026-08-24T22:38:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, ltx-2.5, nvfp4, quantized, dgx-spark",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
   {
    "id": "cfc80a597c14",
    "title": "BlueTriangles/SDXL_Crusher_Joe_Mature",
@@ -701,7 +737,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, minimax-h3-workflow, hd-video, 2k-video, video-detailer",
    "hf": {
-    "likes": 2,
+    "likes": 3,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1402,7 +1438,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 83,
+    "likes": 84,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7560,49 +7596,6 @@
     "likes": 25,
     "downloads": 2967,
     "pipeline": "trending image"
-   }
-  },
-  {
-   "id": "3e27fea0e309",
-   "title": "lightx2v/Minimax-h3-Turbo-SLA  (♥ 5)",
-   "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo-SLA",
-   "date": "2026-08-20T07:03:25.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: video-generation, image-to-video, audio-video-generation, lora, distillation, sparse-attention",
-   "hf": {
-    "likes": 41,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "2e8bfa2782e5",
-   "title": "Introducing AI Futures",
-   "link": "https://openai.com/index/introducing-ai-futures",
-   "date": "2026-08-20T07:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-  },
-  {
-   "id": "bafcda44fcf5",
-   "title": "mainbrains/stable-diffusion-xl-base-1.0",
-   "link": "https://huggingface.co/mainbrains/stable-diffusion-xl-base-1.0",
-   "date": "2026-08-20T06:53:18.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, onnx, safetensors, text-to-image, stable-diffusion, arxiv:2307.01952",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
    }
   }
  ]
