@@ -1,6 +1,90 @@
 {
- "updated": "2026-08-24T15:58:14.855Z",
+ "updated": "2026-08-24T16:57:31.766Z",
  "items": [
+  {
+   "id": "50160fc31a19",
+   "title": "biali/LTX-Video-gguf",
+   "link": "https://huggingface.co/biali/LTX-Video-gguf",
+   "date": "2026-08-24T16:53:51.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, ltx-video, text-to-video, image-to-video, en, base_model:Lightricks/LTX-Video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "b3b416ea9fdf",
+   "title": "mrjackspade/Ideogram4-Natural-Language-Text-Encoder",
+   "link": "https://huggingface.co/mrjackspade/Ideogram4-Natural-Language-Text-Encoder",
+   "date": "2026-08-24T16:51:20.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, ideogram4, qwen3-vl, text-encoder, lora, fp8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "538033b5a0da",
+   "title": "hoidhxd/MiniMax-H3-x-Z-Image-hybrid-GGUF",
+   "link": "https://huggingface.co/hoidhxd/MiniMax-H3-x-Z-Image-hybrid-GGUF",
+   "date": "2026-08-24T16:40:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, minimax, minimax-h3, z-image, fl2va, ref2va",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "7840574255fc",
+   "title": "RuneXX/LTX-2.5-Workflows",
+   "link": "https://huggingface.co/RuneXX/LTX-2.5-Workflows",
+   "date": "2026-08-24T16:03:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx, comfyui, comfy, gguf, ltx-video, ltx-2.5",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "9959ecbadaf3",
+   "title": "Ambush (1992)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vx67t6/ambush_1992/",
+   "date": "2026-08-24T15:35:58.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/c3ZmcXo5d3VkY2xoMegUMzqi_KAVUrBPmIB9CwuamZuwv1Z1DUfc_v7X7xxo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=34d458589fe9383d6bd439771662154e76c2d04b",
+   "excerpt": "submitted by /u/humboldtsammo [link] [comments]"
+  },
+  {
+   "id": "0ca421334295",
+   "title": "Sparkling Standoff - Western nostalgia",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vx5yi2/sparkling_standoff_western_nostalgia/",
+   "date": "2026-08-24T15:26:38.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/andzM3RwZWZjY2xoMfdh0a7rT9rY3hT-sxAgF33qye4RubpIkqTwuJfmQPxm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=31add488b1ec9ddb493b1dc4d2b71474ca44ada8",
+   "excerpt": "submitted by /u/plentylabs [link] [comments]"
+  },
   {
    "id": "0565e9e7b154",
    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -10,6 +94,22 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six."
+  },
+  {
+   "id": "58bbe255fde4",
+   "title": "zuanfilm/H3_HD_2K_Detailer",
+   "link": "https://huggingface.co/zuanfilm/H3_HD_2K_Detailer",
+   "date": "2026-08-24T15:21:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, minimax-h3-workflow, hd-video, 2k-video, video-detailer",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
   },
   {
    "id": "22d48dd82191",
@@ -72,6 +172,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/aWU4am9uNnIyY2xoMXuUkId0kQjVJXJ4ETiBZ1VFwUMsWvX00H5gnmhwQMod.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=65a812906fca1728310d05cc5163126735af046b",
    "excerpt": "submitted by /u/ctrl-shift-face [link] [comments]"
+  },
+  {
+   "id": "5632f11104d4",
+   "title": "Historical icons if they had smartphones",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vx49y4/historical_icons_if_they_had_smartphones/",
+   "date": "2026-08-24T14:23:46.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/N3Zlcm91OWMxY2xoMfWvrdpd6eIttffqKMtc9aNOAVQIIa-CB0zi6U7r3WcZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd815d90bf34f41756b96581f5505188c02964a0",
+   "excerpt": "submitted by /u/ati29 [link] [comments]"
   },
   {
    "id": "56bc6494b1df",
@@ -374,7 +484,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, workflow, image-to-video, multi-shot, camera-coverage",
    "hf": {
-    "likes": 7,
+    "likes": 8,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -524,7 +634,7 @@
    "hf": {
     "likes": 0,
     "downloads": 0,
-    "pipeline": "text-to-video"
+    "pipeline": "image-to-video"
    }
   },
   {
@@ -626,7 +736,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 60,
+    "likes": 63,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -3035,7 +3145,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 47,
+    "likes": 48,
     "downloads": 2323,
     "pipeline": "trending video"
    }
@@ -6751,7 +6861,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, text-to-image, distillation, step-distillation, krea-2, base_model:krea/Krea-2-Turbo",
    "hf": {
-    "likes": 24,
+    "likes": 25,
     "downloads": 2967,
     "pipeline": "trending image"
    }
@@ -7431,100 +7541,6 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/to-me-a-dollar-was-a-dollar-in-any-language-johnny-farrell-gilda.jpg?id=67644032&width=1245&height=700&coordinates=0%2C90%2C0%2C91",
    "excerpt": "Here on this site, we love film noir. It's one of those essences of Hollywood I wish would come back, a retro version of the world that showed its seedy underbelly but gave us some of our most reliable heroes and femme fatales. This is a genre that lives and dies by its voiceover. You are carried in and out of worlds you may never have dreamed of seeing through the eyes of the people who go places"
-  },
-  {
-   "id": "27b982ed3cab",
-   "title": "You know him",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vsuigk/you_know_him/",
-   "date": "2026-08-19T18:17:52.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eHE2OG9ndWppZGtoMS4rgDnjt15PZIOpHTP2EAuZKd3YBX0nt2d7wORFD6Cu.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=834b0a63650751c44403d6a750dfec8268a5c55b",
-   "excerpt": "submitted by /u/Sufficient-Ice8225 [link] [comments]"
-  },
-  {
-   "id": "d3630ec252f1",
-   "title": "Random Ideas",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vsuhkg/random_ideas/",
-   "date": "2026-08-19T18:17:02.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/jfwwmh9eidkh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ffb48b6a2c27ef61afeded9638b18f779d6d94f4",
-   "excerpt": "submitted by /u/Doggman101 [link] [comments]"
-  },
-  {
-   "id": "cdb9ad4a0f2d",
-   "title": "guillekenzo/aros-994ab152-R",
-   "link": "https://huggingface.co/guillekenzo/aros-994ab152-R",
-   "date": "2026-08-19T18:06:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ef9463c1efde",
-   "title": "guillekenzo/aros-35f56149-Pm",
-   "link": "https://huggingface.co/guillekenzo/aros-35f56149-Pm",
-   "date": "2026-08-19T18:03:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e25ea1dfb156",
-   "title": "Does Midjourney still do images like these?",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vstxfh/does_midjourney_still_do_images_like_these/",
-   "date": "2026-08-19T17:58:06.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://preview.redd.it/gvgds7ahedkh1.jpg?width=140&amp;height=80&amp;auto=webp&amp;s=8dddea59fd64bac8376959e5e57b68388f2b5055",
-   "excerpt": "I haven't used Midjourney, just on the early days, where I made this images. One thing I like about this AI more than others is for images like these, with this \"style\" which I find very unique. But I don't know if this is still replicable with the latest updates, or is it? submitted by /u/Basileios_Makedon_I [link] [comments]"
-  },
-  {
-   "id": "349b06d756e2",
-   "title": "Rings from Dark Souls using Midjourney Video",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vstmoa/rings_from_dark_souls_using_midjourney_video/",
-   "date": "2026-08-19T17:47:41.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/eWd5ZnpkcWRjZGtoMe_AKMcxVtYIxZYRc84PDjAZwItZG5aMHag2G8MH1sbt.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f9ff2146ce9e0e38d0b82374e99474fa12e0ffc",
-   "excerpt": "(Full screen recommended) When MJ first came out with video, this was one of my first experiments to put it through its paces. Some rings worked better than others (the covetous serpent ring was virtually impossible to render!) but overall, I really like how it turned out - especially its interpretation of light and gemstones. submitted by /u/Johnny--Arcade [link] [comments]"
-  },
-  {
-   "id": "231ac821f5ae",
-   "title": "This Mac Backup App for Video Creators Can Help You Free Up Space Without Losing Footage",
-   "link": "https://nofilmschool.com/tusk-mac-backup-app",
-   "date": "2026-08-19T17:43:32.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/tusk-mac-backup-app.jpg?id=67578886&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "As the world of video production gets more advanced, it becomes harder to handle in many ways. Cameras record way better footage today than ever before, yes—but this better footage takes up a huge amount of space. The working videographer often has to work with smaller crews and faster, more efficiently than ever before, which often causes issues with storage and improper backup workflows. To help"
-  },
-  {
-   "id": "1dc07cf58cdc",
-   "title": "History in the making",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vstha8/history_in_the_making/",
-   "date": "2026-08-19T17:42:27.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eWduZzU1bjNjZGtoMdRTxPDpKp9DUJMTE_I5w7NPLGYiaXXtbqcJrfiQxD5i.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=00e48cb5cdb7d0f6844c9068e32f9c1b12aea4de",
-   "excerpt": "submitted by /u/SalmonTunaSandwich [link] [comments]"
   }
  ]
 }
