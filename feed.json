@@ -1,6 +1,43 @@
 {
- "updated": "2026-08-25T15:08:11.221Z",
+ "updated": "2026-08-25T16:02:55.723Z",
  "items": [
+  {
+   "id": "2b9c2c475571",
+   "title": "Make Tamriel Great Again",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vy3kyp/make_tamriel_great_again/",
+   "date": "2026-08-25T15:48:31.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cGJvZ3hhbzRsamxoMa4ZnuVMmrMo9xtLeSDCsi55ZLS6HGZ9H-vpz0JADtwX.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ea9e93f97cffdf5fed65de305369dbb579803c2",
+   "excerpt": "submitted by /u/GormtheOld25 [link] [comments]"
+  },
+  {
+   "id": "6ad1fb7a7cca",
+   "title": "Granite 4.2 LLMs: How They're Built",
+   "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+   "date": "2026-08-25T15:14:14.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
+   "id": "a7a0e4050862",
+   "title": "LyliaEngine/riMixIllustriousAnima_riMixV2",
+   "link": "https://huggingface.co/LyliaEngine/riMixIllustriousAnima_riMixV2",
+   "date": "2026-08-25T15:08:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:OnomaAIResearch/Illustrious-xl-early-release-v0, base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "f73b9a2ef9d3",
    "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
@@ -315,6 +352,22 @@
    "excerpt": ""
   },
   {
+   "id": "dace55d73f41",
+   "title": "berryber09/10Eros-Max-h3-turbo-hybrid-beta3-w4a8",
+   "link": "https://huggingface.co/berryber09/10Eros-Max-h3-turbo-hybrid-beta3-w4a8",
+   "date": "2026-08-25T11:13:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, w4a8, quantized, text-to-video, turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
    "id": "6d1992c08341",
    "title": "Playing around with H3 trying to channel my inner Guy Ritchie - Contains Blood",
    "link": "https://www.reddit.com/r/StableDiffusion/comments/1vxwc5i/playing_around_with_h3_trying_to_channel_my_inner/",
@@ -544,6 +597,17 @@
    "isModel": true,
    "thumb": "https://external-preview.redd.it/enFwbHJwaDUwaGxoMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=53bafa0988a70000b90a91f3036cb9a76a878807",
    "excerpt": "I just gave it a try; it's hard to do more than that. I have an RTX 3060 with 12 GB of VRAM and 32 GB of RAM. I used the standard workflows, t2v and r2v, with the LORA model minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors and video shift 12 and audio shift 3. Only 8 steps (res_multistep/simple). The sequences were 6–7 seconds each, and each generation took 7–8 minutes at 0.6 mpx. I gener"
+  },
+  {
+   "id": "1c0de2ab3229",
+   "title": "The full stack behind abundant intelligence",
+   "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+   "date": "2026-08-25T07:05:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
   },
   {
    "id": "31f9b254385b",
@@ -2724,7 +2788,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 114,
+    "likes": 115,
     "downloads": 2194,
     "pipeline": "trending video"
    }
@@ -5153,7 +5217,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 64,
+    "likes": 65,
     "downloads": 5698,
     "pipeline": "trending video"
    }
@@ -7608,62 +7672,6 @@
     "downloads": 0,
     "pipeline": "image-to-video"
    }
-  },
-  {
-   "id": "1370cb26ca6f",
-   "title": "Shooter57/gs1_krea2_v1",
-   "link": "https://huggingface.co/Shooter57/gs1_krea2_v1",
-   "date": "2026-08-20T20:10:18.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "208237631282",
-   "title": "shinny sea shell",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtu5f8/shinny_sea_shell/",
-   "date": "2026-08-20T19:55:33.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZnhucWZtYXc0bGtoMdtyKqVu3qHit2I_q3wdr___CTdFLpXymlqXQCiX64yg.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=ff9093ba6cd956c17c8bc76ceb5c13b52a03b967",
-   "excerpt": "submitted by /u/Fine-Wall-5445 [link] [comments]"
-  },
-  {
-   "id": "4fc137eaf3b4",
-   "title": "The Making of Jurassic Pork",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtu0mx/the_making_of_jurassic_pork/",
-   "date": "2026-08-20T19:50:25.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/FallingKnifeFilms [link] [comments]"
-  },
-  {
-   "id": "b3b1a1f56e80",
-   "title": "I am your new lord",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vttj75/i_am_your_new_lord/",
-   "date": "2026-08-20T19:32:33.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/b3gwemF6aHAwbGtoMS2l4s7u6QPnikEgMaW1j4YCSjC9CZOhiQbER6Xgd6o-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=89e057ed77a34e35c2b248c6691e5b9febe0c149",
-   "excerpt": "submitted by /u/Odant [link] [comments]"
-  },
-  {
-   "id": "c0c884d7b83f",
-   "title": "How to Reverse-Engineer Emotion in Your Editing",
-   "link": "https://nofilmschool.com/editing-exercise-sinners-emotion",
-   "date": "2026-08-20T19:27:26.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/sinners.jpg?id=67644902&width=1245&height=700&coordinates=359%2C0%2C359%2C0",
-   "excerpt": "I'll happily admit I'm not so romantic about post-production. I love the creativity and possibility of the beginning of a project, when you can imagine anything you want. You're focused on breaking story and characters. Then you can capture endless iterations on set By the time you reach the editing bay, it's more of a puzzle that can become frustrating quickly, because you've got what you've got "
   }
  ]
 }
