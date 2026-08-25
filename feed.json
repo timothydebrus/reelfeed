@@ -1,6 +1,38 @@
 {
- "updated": "2026-08-25T22:47:39.155Z",
+ "updated": "2026-08-25T23:41:02.902Z",
  "items": [
+  {
+   "id": "c1edd4dc4ebe",
+   "title": "BlueTriangles/SDXL_Ideal_Magic_Miyu",
+   "link": "https://huggingface.co/BlueTriangles/SDXL_Ideal_Magic_Miyu",
+   "date": "2026-08-25T22:50:36.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:OnomaAIResearch/Illustrious-XL-v2.0, base_model:adapter:OnomaAIResearch/Illustrious-XL-v2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "81349b928eaf",
+   "title": "Vaelico/Wulver  (♥ 1)",
+   "link": "https://huggingface.co/Vaelico/Wulver",
+   "date": "2026-08-25T22:17:28.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: text-to-image, furry, anthro, kemono, anime, krea2",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "1759194c8bc1",
    "title": "Dekonstruktio/28",
@@ -16,6 +48,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "f4c053382210",
+   "title": "v0.34.0",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.34.0",
+   "date": "2026-08-25T21:58:26.000Z",
+   "source": "ComfyUI Releases",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
+   "excerpt": "ComfyUI v0.34.0"
   },
   {
    "id": "477a973eae46",
@@ -3272,7 +3315,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 118,
+    "likes": 120,
     "downloads": 2194,
     "pipeline": "trending video"
    }
@@ -7619,54 +7662,6 @@
    "isModel": true,
    "thumb": "https://preview.redd.it/7mf6vwb3znkh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=d902e6fac5874ed6d1f3840f80f5ae7f35244e11",
    "excerpt": "recently found a style reference in Midjourney V 8.2 that I’ve been really into it feels like a mix of vintage editorial illustration, Edwardian fashion sketches, and just a tiny bit of manga influence. What I like most is the loose, expressive ink work. The palette is pretty restrained, there’s tons of negative space, and the results don’t feel overly “AI-ish.” kinda feels like an illustration fr"
-  },
-  {
-   "id": "57930eb83cf0",
-   "title": "diffusionmodels1254ani/Anima-2.9B",
-   "link": "https://huggingface.co/diffusionmodels1254ani/Anima-2.9B",
-   "date": "2026-08-21T05:25:39.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, anima, comfyui, text-to-image, en, arxiv:2401.02415",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "842a2c7b9440",
-   "title": "Shooter57/cg1500_krea2",
-   "link": "https://huggingface.co/Shooter57/cg1500_krea2",
-   "date": "2026-08-21T05:12:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "519b2cdc4fae",
-   "title": "chfm/10Eros-Max-beta2-NVFP4",
-   "link": "https://huggingface.co/chfm/10Eros-Max-beta2-NVFP4",
-   "date": "2026-08-21T04:47:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, image-to-video, nvfp4, comfyui, base_model:TenStrip/10Eros-Max",
-   "hf": {
-    "likes": 0,
-    "downloads": 22,
-    "pipeline": "image-to-video"
-   }
   }
  ]
 }
