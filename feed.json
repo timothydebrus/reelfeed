@@ -1,6 +1,32 @@
 {
- "updated": "2026-08-25T21:45:59.523Z",
+ "updated": "2026-08-25T22:47:39.155Z",
  "items": [
+  {
+   "id": "1759194c8bc1",
+   "title": "Dekonstruktio/28",
+   "link": "https://huggingface.co/Dekonstruktio/28",
+   "date": "2026-08-25T22:13:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "477a973eae46",
+   "title": "A Fan-Made Ad for WinRAR (That Nobody Asked For)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vydbq5/a_fanmade_ad_for_winrar_that_nobody_asked_for/",
+   "date": "2026-08-25T21:34:26.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eGxkbng1bzJibGxoMbxcuP-IrV3tAmwsFZBxuEGZe6Gbcl4NaQN6WC__GHkK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6a1d69abc47d38817c714243a39da26672ca659e",
+   "excerpt": "submitted by /u/buraktuyan [link] [comments]"
+  },
   {
    "id": "7c45835418e7",
    "title": "biali/ltxv0.9.6-gguf",
@@ -204,6 +230,16 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/death-stranding.jpg?id=67670459&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
    "excerpt": "Hideo Kojima is one of modern media's most unique creators. Known for his directing, writing, and video game creations, he builds entirely singular worlds spanning genres like horror, adventure, stealth action, and more. Metal Gear Solid is probably his most popular property, but more recent fans have enjoyed the expansive nonlinear gameplay (and its incredible roster of actors) in Death Stranding"
+  },
+  {
+   "id": "0086232f0d8b",
+   "title": "That Good Stuff",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vy8now/that_good_stuff/",
+   "date": "2026-08-25T18:47:42.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NjI0amozYzloa2xoMXByJs_drOi64kOWkn7-cJXldGdWCiMMk6X_Wp97h2UO.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e7ecde30c1710c182081765de56235ad7d17f78",
+   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
   },
   {
    "id": "00ba9c71061c",
@@ -7631,48 +7667,6 @@
     "downloads": 22,
     "pipeline": "image-to-video"
    }
-  },
-  {
-   "id": "b240949a571f",
-   "title": "kulta801/ryd",
-   "link": "https://huggingface.co/kulta801/ryd",
-   "date": "2026-08-21T04:46:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c533852e5db2",
-   "title": "chfm/LTX-2.5-Distilled-GGUF",
-   "link": "https://huggingface.co/chfm/LTX-2.5-Distilled-GGUF",
-   "date": "2026-08-21T04:37:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, quantized, image-to-video, text-to-video, video-to-video, audio-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 88,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "6099513e88fe",
-   "title": "TNT trick shot",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vu65x3/tnt_trick_shot/",
-   "date": "2026-08-21T04:30:07.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aW15a3Jzb29vbmtoMTAhMcOq1_4BUdIsEb3DVNbIrluAtZp0wDu6oTgbMsvj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd35a7a2aa5b65f57ee842732b48ae7f0dda4beb",
-   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
   }
  ]
 }
