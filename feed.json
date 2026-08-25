@@ -1,6 +1,110 @@
 {
- "updated": "2026-08-25T14:07:10.221Z",
+ "updated": "2026-08-25T15:08:11.221Z",
  "items": [
+  {
+   "id": "f73b9a2ef9d3",
+   "title": "Extremely Fast and Accurate Transcription with Granite Speech 5.0 Turbo CTC",
+   "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5-0-470m-turboctc",
+   "date": "2026-08-25T15:01:00.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
+   "id": "eb2b72187dea",
+   "title": "Gamma acquires Accel-backed design startup Lica",
+   "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+   "date": "2026-08-25T15:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Lica co-founders are going to work on Gamma's new research team."
+  },
+  {
+   "id": "8e077a6e4df9",
+   "title": "The Entertainment Industry’s Biggest Names Back Stability AI in Latest Funding Round",
+   "link": "https://stability.ai/news-updates/stability-ai-latest-funding-backed-by-entertainment-industry-biggest-names",
+   "date": "2026-08-25T14:59:22.000Z",
+   "source": "Stability AI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "We've closed our Series B, bringing total funding to $232M under new leadership. This round welcomes entertainment titans Electronic Arts, Sony Music Group, Universal Music Group, Warner Music Group, and more."
+  },
+  {
+   "id": "e0c5c2666ce1",
+   "title": "Anima Turbo v1.1 is released",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vy2455/anima_turbo_v11_is_released/",
+   "date": "2026-08-25T14:54:30.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "In case you didn't see: I just noticed a newer version of Anima Turbo (1.1) was released: huggingface: https://huggingface.co/circlestone-labs/Anima civitai: https://civitai.red/models/2458426/anima The model is made and licensed under the CircleStone Labs Non-Commercial License I actually have lately very frustrating experience with Anima lately. I used it at release (but stopped with anime gener"
+  },
+  {
+   "id": "d9c7ba7e2fcd",
+   "title": "Titanfrm/Qwen-Image-Edit-Rapid-AIO",
+   "link": "https://huggingface.co/Titanfrm/Qwen-Image-Edit-Rapid-AIO",
+   "date": "2026-08-25T14:46:59.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyUI, qwen, qwen-edit, t2i, i2i, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "dc1875c9f12a",
+   "title": "simota1987/Sana_Sprint",
+   "link": "https://huggingface.co/simota1987/Sana_Sprint",
+   "date": "2026-08-25T14:46:25.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: sana, text-to-image, mnn, android, local-dream, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5a39933427f3",
+   "title": "Overhaul SLA, huge improvement. added many new options and changed defaults",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vy1aij/overhaul_sla_huge_improvement_added_many_new/",
+   "date": "2026-08-25T14:23:07.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/anllb3FhcHQ1amxoMW06yApcX7qYDK54Zs6tD97WjbbEvdU2riXp032PVsgq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=14e06e0213aa4658b289e9cc378cedba80b7d67a",
+   "excerpt": "Update for SLA Node - Pull v1.3.5 Added customizable dense steps, 0 is step 1 and is (default to first step). massively improves composition and prompt adherence. Changed default dense last steps to 1, cleans up the image big time. Added dense backend selector. Comfy_kitchen, pytorch, all sage modes. this is what comfy uses on dense steps. SLA still displaces against pytorch. (Default Comfy_kitche"
+  },
+  {
+   "id": "6017c27dc638",
+   "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+   "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+   "date": "2026-08-25T14:22:04.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+  },
+  {
+   "id": "bbdb3b4da806",
+   "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+   "date": "2026-08-25T14:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Jalapeno-chip-final.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems typically \"have to make a trade-off between the tw"
+  },
   {
    "id": "d17851bbad2f",
    "title": "Flipflopflopflip/Z-Image-Turbo",
@@ -221,6 +325,22 @@
    "excerpt": "10steps 0.6mp - Turbo Lora and Comfy Kitchen attention Prompt: integrated_multimodal_description: [Shot 1] live-action, cinematic, an old school middle-aged london gangster (S1) standing at a bar in a dark old london pub. A half empty pint of beer in front of him. A young adult chav wearing a black puffer jacket (S2) walks in and stands next to the man, bar in the foreground of the shot. (S2) says"
   },
   {
+   "id": "f180f3fb1634",
+   "title": "FX-FeiHou/MiniMax-H3-Remix  (♥ 2)",
+   "link": "https://huggingface.co/FX-FeiHou/MiniMax-H3-Remix",
+   "date": "2026-08-25T10:38:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: comfyui, minimax-h3, text-to-video, image-to-video, ref2va, video-generation",
+   "hf": {
+    "likes": 2,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
    "id": "8a23bd4e76da",
    "title": "Exmanq/Minimax-h3-Turbo",
    "link": "https://huggingface.co/Exmanq/Minimax-h3-Turbo",
@@ -302,6 +422,22 @@
    "isModel": true,
    "thumb": "https://external-preview.redd.it/cWR4OTNlaGlnaGxoMTSHKTAmbcN9wjPCCVNBNGcErc1NHW2jvat_7FrNXXSn.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a363b60f7f9664d1ceb1bafed377a499bfaded8f",
    "excerpt": "submitted by /u/Many-Ad-6225 [link] [comments]"
+  },
+  {
+   "id": "717ff7c14da3",
+   "title": "Maxilicious20/Echo-Vision-1",
+   "link": "https://huggingface.co/Maxilicious20/Echo-Vision-1",
+   "date": "2026-08-25T08:35:12.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, diffusion, rectified-flow, cascade",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "11ffbc6ec4fc",
@@ -408,6 +544,17 @@
    "isModel": true,
    "thumb": "https://external-preview.redd.it/enFwbHJwaDUwaGxoMeOwxEKY_BwUmvv0yJlvuSQnrkHkZJuTTKSVmRt4UrhV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=53bafa0988a70000b90a91f3036cb9a76a878807",
    "excerpt": "I just gave it a try; it's hard to do more than that. I have an RTX 3060 with 12 GB of VRAM and 32 GB of RAM. I used the standard workflows, t2v and r2v, with the LORA model minimax_h3_fl2v_turbo_8step_v1.0_comfyui_bf16.safetensors and video shift 12 and audio shift 3. Only 8 steps (res_multistep/simple). The sequences were 6–7 seconds each, and each generation took 7–8 minutes at 0.6 mpx. I gener"
+  },
+  {
+   "id": "31f9b254385b",
+   "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+   "link": "https://openai.com/index/jalapeno-first-results",
+   "date": "2026-08-25T07:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
   },
   {
    "id": "1f96b2193ae7",
@@ -7517,145 +7664,6 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/sinners.jpg?id=67644902&width=1245&height=700&coordinates=359%2C0%2C359%2C0",
    "excerpt": "I'll happily admit I'm not so romantic about post-production. I love the creativity and possibility of the beginning of a project, when you can imagine anything you want. You're focused on breaking story and characters. Then you can capture endless iterations on set By the time you reach the editing bay, it's more of a puzzle that can become frustrating quickly, because you've got what you've got "
-  },
-  {
-   "id": "b359671ae1bf",
-   "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-   "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-   "date": "2026-08-20T19:18:21.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web."
-  },
-  {
-   "id": "4ac7c52c7021",
-   "title": "rail gun always works",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtt1ze/rail_gun_always_works/",
-   "date": "2026-08-20T19:15:47.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/superfatbeagle [link] [comments]"
-  },
-  {
-   "id": "dc3d7ed90c79",
-   "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-   "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-   "date": "2026-08-20T19:15:05.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product."
-  },
-  {
-   "id": "ca6d98d96e1e",
-   "title": "Fine-Tune Your LUTs With This LUT Tuner macOS App From Cut Point Labs",
-   "link": "https://nofilmschool.com/lut-tuner-cut-point-labs",
-   "date": "2026-08-20T18:56:35.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/lut-tuner.jpg?id=67584502&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "Looking for extra support with fine-tuning your LUTs? This new macOS app from Cut Point Labs aims to be a new solution in the space that post-pro teams and colorists might find appealing. The goal here is to allow editors to edit LUT curves directly and then create a tunable Resolve DCTL approximation. Users can preserve an extended range beyond LUT clipping and, in Resolve, adjust, explore, contr"
-  },
-  {
-   "id": "7f524cab19ed",
-   "title": "How Ardhanarishwar was Born",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vts63v/how_ardhanarishwar_was_born/",
-   "date": "2026-08-20T18:46:38.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Mjdnc3hqaDdza2toMVmJEB5yP-6zx9kXcnOnC4Bhhp7o--YF_0Xk6Mxgtq3z.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=72526b71a1355a084b09f054c26115a32607741d",
-   "excerpt": "submitted by /u/Relevant-Cup-6552 [link] [comments]"
-  },
-  {
-   "id": "a2748f407041",
-   "title": "CitronLegacy/JazzaFreijaFoxy_ANIMAv1_v1",
-   "link": "https://huggingface.co/CitronLegacy/JazzaFreijaFoxy_ANIMAv1_v1",
-   "date": "2026-08-20T18:27:49.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, anime, stable-diffusion, anima, character, furry",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "501a92a0a813",
-   "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-   "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-   "date": "2026-08-20T18:20:35.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
-  },
-  {
-   "id": "308f404ecbd4",
-   "title": "exeterminal/Exe-Motion-Dynamic-V1-MLX",
-   "link": "https://huggingface.co/exeterminal/Exe-Motion-Dynamic-V1-MLX",
-   "date": "2026-08-20T18:20:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, video, image-to-video, text-to-video, ltx, apple-silicon",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "8580a1061fd4",
-   "title": "The 10 Best World War I Movies Ever Made",
-   "link": "https://nofilmschool.com/best-world-war-i-movies",
-   "date": "2026-08-20T18:16:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/best-world-war-i-movies.jpg?id=67651616&width=1245&height=700&coordinates=41%2C1%2C195%2C-1",
-   "excerpt": "Everything I learned about World War I comes from a Terry Deary Horrible Histories book and then a lot of movies. The thing is, the First World War doesn't really enter the cultural consciousness the way the Second does. Generally, people might know about Franz Ferdinand (not the band) and trenches, and that's about it. But World War I changed modern warfare and politics around the globe. And in w"
-  },
-  {
-   "id": "15e50fbeb96c",
-   "title": "v0.33.3",
-   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.33.3",
-   "date": "2026-08-20T18:13:36.000Z",
-   "source": "ComfyUI Releases",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
-   "excerpt": "ComfyUI v0.33.3"
-  },
-  {
-   "id": "f1d8fb7eb1c9",
-   "title": "FrankDase/LTX-2.5-MLX",
-   "link": "https://huggingface.co/FrankDase/LTX-2.5-MLX",
-   "date": "2026-08-20T17:55:10.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, AudioVideo, ltx-video, ltx-2.5, text-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 22,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "0d36a09696ae",
-   "title": "T-800 Pro Max",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtqoeu/t800_pro_max/",
-   "date": "2026-08-20T17:53:43.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/a2ZkYW40YjVqa2toMbjmJLsShtFZYzTAHMQS2PZYuCCmSVF4io58oMCg_M3y.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=624e7990b752dc5c54e4709838c1dc6b3a4dd471",
-   "excerpt": "submitted by /u/8bitcollective [link] [comments]"
   }
  ]
 }
