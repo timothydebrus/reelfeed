@@ -1,6 +1,49 @@
 {
- "updated": "2026-08-25T09:53:19.445Z",
+ "updated": "2026-08-25T11:46:12.431Z",
  "items": [
+  {
+   "id": "ba39c4d2772e",
+   "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+   "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+   "date": "2026-08-25T11:39:24.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
+   "id": "8a23bd4e76da",
+   "title": "Exmanq/Minimax-h3-Turbo",
+   "link": "https://huggingface.co/Exmanq/Minimax-h3-Turbo",
+   "date": "2026-08-25T10:26:09.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, t2v, i2v, r2v, image-to-video, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "d4bd2da30e33",
+   "title": "Exmanq/MiniMax-H3-Turbo-Lora",
+   "link": "https://huggingface.co/Exmanq/MiniMax-H3-Turbo-Lora",
+   "date": "2026-08-25T10:26:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, text-to-audio, audio-video, lora, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "3a86bbd7f634",
    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
@@ -20,6 +63,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/eHgyMmg5bTRuaGxoMdOTtgKDlpjmy5tXC5mYrzVrmXlxRjwQq54Uuncv3vKc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ee49b7d95c199a27c7e77ac45316665245da5f9",
    "excerpt": "submitted by /u/miayeal [link] [comments]"
+  },
+  {
+   "id": "731bc29949cf",
+   "title": "the law of power",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxudw3/the_law_of_power/",
+   "date": "2026-08-25T08:58:28.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eGxoOWFuNzFraGxoMRL1oywIqALgvmvSU_xHYt1HtLdeX_OXsWn_zV_oHCzb.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=18ab64819aef57ba97029a2d2a7a41b6345b9eb6",
+   "excerpt": "submitted by /u/noumenon-lab [link] [comments]"
   },
   {
    "id": "11ffbc6ec4fc",
@@ -619,9 +672,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 3. Tags: diffusers, lora, video, text-to-video, animation, style",
    "hf": {
-    "likes": 16,
+    "likes": 19,
     "downloads": 65,
-    "pipeline": "text-to-video"
+    "pipeline": "trending video"
    }
   },
   {
@@ -1408,7 +1461,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: ltx, comfyui, comfy, gguf, ltx-video, ltx-2.5",
    "hf": {
-    "likes": 5,
+    "likes": 6,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -1454,7 +1507,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, minimax-h3-workflow, hd-video, 2k-video, video-detailer",
    "hf": {
-    "likes": 8,
+    "likes": 9,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -2155,7 +2208,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 103,
+    "likes": 107,
     "downloads": 2194,
     "pipeline": "trending video"
    }
@@ -4584,7 +4637,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 61,
+    "likes": 62,
     "downloads": 5698,
     "pipeline": "trending video"
    }
@@ -6749,6 +6802,17 @@
    "excerpt": ""
   },
   {
+   "id": "b00c3e470b5b",
+   "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+   "link": "https://huggingface.co/blog/pwc-search",
+   "date": "2026-08-21T00:00:00.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
    "id": "addfcbefb8cf",
    "title": "Tonight at my local pub drinking some beers #2 (with omniref originals)",
    "link": "https://www.reddit.com/r/midjourney/comments/1vu0d4j/tonight_at_my_local_pub_drinking_some_beers_2/",
@@ -7624,74 +7688,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "29487b352c67",
-   "title": "Burroughs352/Eavann",
-   "link": "https://huggingface.co/Burroughs352/Eavann",
-   "date": "2026-08-20T15:13:30.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "984412f534ae",
-   "title": "Life Support.",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vtm3aa/life_support/",
-   "date": "2026-08-20T15:07:09.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/j63uxg8apjkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8832aae7ec86a08d8e46630d5eb95ec1bd32d9de",
-   "excerpt": "submitted by /u/This_is_McCarth [link] [comments]"
-  },
-  {
-   "id": "a0e782cb2142",
-   "title": "Edoudom98/Wan2.1-I2V-14B-720P",
-   "link": "https://huggingface.co/Edoudom98/Wan2.1-I2V-14B-720P",
-   "date": "2026-08-20T15:00:57.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, i2v, video, video genration, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 1,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "0e6613e81df2",
-   "title": "Stabhappy/kroma-v0.3-base-INT8-convrot",
-   "link": "https://huggingface.co/Stabhappy/kroma-v0.3-base-INT8-convrot",
-   "date": "2026-08-20T14:52:50.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: krea2, kroma, int8, convrot, quantized, comfyui",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "63a1c4c6a261",
-   "title": "Welcome to the AI crisis in math",
-   "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-   "date": "2026-08-20T14:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. It caused a huge debate in the math community, and Rob spent some time "
   }
  ]
 }
