@@ -1,6 +1,85 @@
 {
- "updated": "2026-08-25T19:47:48.107Z",
+ "updated": "2026-08-25T20:48:40.660Z",
  "items": [
+  {
+   "id": "c19cae6a0aee",
+   "title": "biali/ltxv-gguf",
+   "link": "https://huggingface.co/biali/ltxv-gguf",
+   "date": "2026-08-25T20:44:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, gguf-node, gguf-connector, image-to-video, en, base_model:Lightricks/LTX-Video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "b8a6b45ae4fa",
+   "title": "Shero448/daimon_naoko",
+   "link": "https://huggingface.co/Shero448/daimon_naoko",
+   "date": "2026-08-25T20:41:19.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:John6666/prefect-illustrious-xl-v15-sdxl, base_model:adapter:John6666/prefect-illustrious-xl-v15-sdxl",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "64a8ec04ed1d",
+   "title": "Blackmagic Design Rolls Out Another Desktop Video Update for DeckLink IP HD Models",
+   "link": "https://nofilmschool.com/desktop-video-update-16-4",
+   "date": "2026-08-25T20:20:02.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/desktop-video-update-16-4.jpg?id=67674720&width=1200&height=800&coordinates=128%2C0%2C128%2C0",
+   "excerpt": "Following up on some new desktop video updates released in a previous firmware update, Blackmagic Design is back with another desktop video version to share. This latest desktop video update (version 16.4) is out, and it focuses on DeckLink IP HD models to make it easier to integrate them into larger 2110 IP facilities. The update is also set to improve stability when using Cintel Scanners with Da"
+  },
+  {
+   "id": "0aa49d38311d",
+   "title": "Adobe Firefly Overhauls Its Audio Capabilities With Music, Speech, and Sound Effects All Now in One Place",
+   "link": "https://nofilmschool.com/adobe-firefly-audio-tools",
+   "date": "2026-08-25T19:50:05.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "https://nofilmschool.com/media-library/adobe-firefly-audio-tools.webp?id=67674816&width=1200&height=800&coordinates=97%2C0%2C98%2C0",
+   "excerpt": "While a lot of the news surrounding Adobe Firefly, the company’s home for everything that it is offering and developing in the AI space, has been focused on agentic workflow updates, the company has now officially made its latest audio capabilities generally available to all. Adobe Firefly now offers capabilities to generate music, speech, and sound effects in one place, with the same promise of p"
+  },
+  {
+   "id": "1ac244d6bd8c",
+   "title": "stevenjmotion/Krea-2-App-Quantized",
+   "link": "https://huggingface.co/stevenjmotion/Krea-2-App-Quantized",
+   "date": "2026-08-25T19:45:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, image-editing, mlx, quantized",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "588703162bbc",
+   "title": "Ranking The Best Dolly Parton Movies",
+   "link": "https://nofilmschool.com/best-dolly-parton-movies",
+   "date": "2026-08-25T19:31:49.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/9-to-5.jpg?id=67675846&width=1200&height=800&coordinates=96%2C0%2C97%2C0",
+   "excerpt": "Dolly Parton left this astral plane today and ascended into her much-deserved time in Heaven. We will always miss her and love her, but we're lucky enough to have her music and her movies, which will live on forever. It's hard to eulogize someone who did so much. Dolly Parton was world-renowned as a country music icon and philanthropist; her film career includes some of the most beloved comedies a"
+  },
   {
    "id": "841f4dc0e590",
    "title": "diegofrazasilva/ltx_v3",
@@ -58,6 +137,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "9ce160e4fe61",
+   "title": "Game Of Motion EP1-2-3-4-5",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vy9bss/game_of_motion_ep12345/",
+   "date": "2026-08-25T19:11:13.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cmV4ZmR6ZWdqa2xoMZlhL_7Wv8P1Hla43LAKMWfkqQz6vmw3PTHHvqakqsMq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=640662355a26bee42f74aa4d3688848984b6e2ad",
+   "excerpt": "submitted by /u/8bitcollective [link] [comments]"
   },
   {
    "id": "5d321e71ab65",
@@ -674,7 +763,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, w4a8, quantized, text-to-video, turbo",
    "hf": {
-    "likes": 0,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -700,7 +789,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: comfyui, minimax-h3, text-to-video, image-to-video, ref2va, video-generation",
    "hf": {
-    "likes": 3,
+    "likes": 4,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -3121,7 +3210,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 116,
+    "likes": 118,
     "downloads": 2194,
     "pipeline": "trending video"
    }
@@ -7578,100 +7667,6 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/2f084qk7inkh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=72c646298e17d8dbcf42b2a3898de757df1ad6c7",
    "excerpt": "submitted by /u/Slave_Human [link] [comments]"
-  },
-  {
-   "id": "a18c37908567",
-   "title": "Random Granny Moment",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vu515f/random_granny_moment/",
-   "date": "2026-08-21T03:34:09.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bjhkeTdrcm5lbmtoMWBkeNdFxLIXwBXIH9gxDLdlYd68BcF8l3Y77Vm68AUI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5079450b2ee9c8f6abb79fc4532b0e440414fd5",
-   "excerpt": "submitted by /u/Independent-Arm-7397 [link] [comments]"
-  },
-  {
-   "id": "e6e5e90109ea",
-   "title": "neggy555/mmzxmap",
-   "link": "https://huggingface.co/neggy555/mmzxmap",
-   "date": "2026-08-21T02:52:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "379c373ecb1e",
-   "title": "[Legend of the Cyber Heroes] AI crafted by a 60-year-old Chinese dude",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vu452p/legend_of_the_cyber_heroes_ai_crafted_by_a/",
-   "date": "2026-08-21T02:51:24.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/amZ1dTEybXE2bmtoMTunuwil_th2NHUBKhsI1gkv03QZoKq8FCW5orjy0_xR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b48fb9ba98c1b7863d0b2bc838f10e99dc5e61fd",
-   "excerpt": "submitted by /u/OfficialYuewen [link] [comments]"
-  },
-  {
-   "id": "5ef5db956f12",
-   "title": "ozanhs/motif_lora_test  (♥ 1)",
-   "link": "https://huggingface.co/ozanhs/motif_lora_test",
-   "date": "2026-08-21T02:32:55.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:stabilityai/stable-diffusion-xl-base-1.0, base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e6e2328170be",
-   "title": "sprited/dancing-chibi-figures-t2i-64",
-   "link": "https://huggingface.co/sprited/dancing-chibi-figures-t2i-64",
-   "date": "2026-08-21T02:20:18.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, clip, sprited, dataset:sprited/dancing-chibi-figures",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3b9d92351d89",
-   "title": "FastVideo/FastVideo-Minimax-FastH3-Preview-v0.1",
-   "link": "https://huggingface.co/FastVideo/FastVideo-Minimax-FastH3-Preview-v0.1",
-   "date": "2026-08-21T01:43:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, video, audio, text-to-audio-video",
-   "hf": {
-    "likes": 3,
-    "downloads": 11,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "369302b303be",
-   "title": "This feels like a scene from a dream.",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vu2na1/this_feels_like_a_scene_from_a_dream/",
-   "date": "2026-08-21T01:41:48.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/qd24u5onumkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8f1eeadc0fa188ec00b47877a520546cf65b96b9",
-   "excerpt": "submitted by /u/Separate-Way5095 [link] [comments]"
   }
  ]
 }
