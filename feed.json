@@ -1,6 +1,80 @@
 {
- "updated": "2026-08-25T07:10:40.413Z",
+ "updated": "2026-08-25T09:02:19.560Z",
  "items": [
+  {
+   "id": "11ffbc6ec4fc",
+   "title": "bigfacing/HY-Video-Avatar2",
+   "link": "https://huggingface.co/bigfacing/HY-Video-Avatar2",
+   "date": "2026-08-25T08:27:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, video-generation, audio-driven-animation, avatar, wan, safetensors",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "dafe7c919d2b",
+   "title": "bombleassss/her",
+   "link": "https://huggingface.co/bombleassss/her",
+   "date": "2026-08-25T08:22:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:uzumix/krea2_herpov, base_model:adapter:uzumix/krea2_herpov",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3860e38226c0",
+   "title": "98sd7fc9sdf/anus",
+   "link": "https://huggingface.co/98sd7fc9sdf/anus",
+   "date": "2026-08-25T08:10:28.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:rzgar/Wan2.2_I2V_LightX2V_2Step, base_model:adapter:rzgar/Wan2.2_I2V_LightX2V_2Step",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "843add6ee438",
+   "title": "jojoim/l1l1",
+   "link": "https://huggingface.co/jojoim/l1l1",
+   "date": "2026-08-25T08:05:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b99519ef56f5",
+   "title": "Who Am I",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxta85/who_am_i/",
+   "date": "2026-08-25T07:51:46.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cGQ0dzhuNzM4aGxoMb-ub5WtGOv-azUggXcdhqx8Yo8xfotwZe9FffhbkwqF.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb3fd282ccf4623189dfc8cc6f90afca36101202",
+   "excerpt": "submitted by /u/MRPUMPKIN_100 [link] [comments]"
+  },
   {
    "id": "1f96b2193ae7",
    "title": "Shero448/Kawahara-sensei",
@@ -15,6 +89,32 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2d63ae37d6e3",
+   "title": "The Couch",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxrxov/the_couch/",
+   "date": "2026-08-25T06:32:31.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cnBvZ2toZzV1Z2xoMVrcafWzw39WBx0Ck2MuWm7h-ca-pLQnbZxClNIzv4dd.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5f9815cad9807b036ae2033e1a93b21b01a63a93",
+   "excerpt": "submitted by /u/CremeSubject7594 [link] [comments]"
+  },
+  {
+   "id": "7631644d8e32",
+   "title": "starry0929/Separating-What-From-When",
+   "link": "https://huggingface.co/starry0929/Separating-What-From-When",
+   "date": "2026-08-25T06:29:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, audio, lora, temporal-control, text-to-video, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
    }
   },
   {
@@ -489,7 +589,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 3. Tags: diffusers, lora, video, text-to-video, animation, style",
    "hf": {
-    "likes": 8,
+    "likes": 13,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -556,6 +656,17 @@
    "isModel": false,
    "thumb": "",
    "excerpt": ""
+  },
+  {
+   "id": "5bd6315049a1",
+   "title": "Disrupting a new covert influence campaign from Russia",
+   "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+   "date": "2026-08-25T00:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
   },
   {
    "id": "35e21d1bc406",
@@ -1313,7 +1424,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, minimax-h3-workflow, hd-video, 2k-video, video-detailer",
    "hf": {
-    "likes": 7,
+    "likes": 8,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -2014,7 +2125,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 101,
+    "likes": 102,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4443,7 +4554,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 58,
+    "likes": 60,
     "downloads": 2323,
     "pipeline": "trending video"
    }
@@ -7587,98 +7698,6 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/i261rv1c4jkh1.jpg?width=140&amp;height=104&amp;auto=webp&amp;s=e9c1643ace46d0937f4429082dae128ba3efcfb4",
    "excerpt": "submitted by /u/Doggman101 [link] [comments]"
-  },
-  {
-   "id": "041b83f052c4",
-   "title": "mimimi2811/MiniMax-H3-Turbo-Lora",
-   "link": "https://huggingface.co/mimimi2811/MiniMax-H3-Turbo-Lora",
-   "date": "2026-08-20T13:02:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, text-to-audio, audio-video, lora, comfyui",
-   "hf": {
-    "likes": 0,
-    "downloads": 33,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "bcedfbf5f694",
-   "title": "jakohist/Realisticskin",
-   "link": "https://huggingface.co/jakohist/Realisticskin",
-   "date": "2026-08-20T12:38:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "df6253fa60a6",
-   "title": "More than one reference per picture",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vti987/more_than_one_reference_per_picture/",
-   "date": "2026-08-20T12:34:18.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MHgzcDg3bXB4aWtoMV_q2tC-xqstDcRP35IOZkUp17sq1cNXIBTnH9-OLHkg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aac97c1d46e0ec1d18ca63205488a3b3bfe90ac0",
-   "excerpt": "MiniMax is limited to 9 reference images, but you can reference more than one thing at the same picture. I used the image on the left and asked it to place create two subjects. Worked like a charm (no pun intended). Specs and prompt are in the video. submitted by /u/nazihater3000 [link] [comments]"
-  },
-  {
-   "id": "505f4b3a976f",
-   "title": "When you join a public dungeon group in literally any MMO",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vthwnn/when_you_join_a_public_dungeon_group_in_literally/",
-   "date": "2026-08-20T12:18:45.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OXUxMHpmNDd2aWtoMf31x5qkQbigR2eSD_W-h_oAWCHfMGXtqzSZc4Wj6RPB.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7e4a28dd1b245b7b94554298a4a06984a9437ebe",
-   "excerpt": "submitted by /u/FirefighterNo584 [link] [comments]"
-  },
-  {
-   "id": "13832d19f194",
-   "title": "Lost at Sea",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vthsbc/lost_at_sea/",
-   "date": "2026-08-20T12:13:27.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NG9wdTgyamZ1aWtoMcgwiCXMu36oxpjTiqodPcHjBPbagsJnr_NlYrp0Mbgg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=50a8168892ecebd14ccc10fafda80610e43701d1",
-   "excerpt": "submitted by /u/Brave-Wishbone-3650 [link] [comments]"
-  },
-  {
-   "id": "aca5b2023693",
-   "title": "Meta AI’s new Mac app wants you to talk to your apps",
-   "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-   "date": "2026-08-20T12:11:57.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Meta said its Muse Spark model is powering the dictation feature."
-  },
-  {
-   "id": "3d90ea998809",
-   "title": "Famegrid Natural V1 Krea 2 LoRA",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vthlyf/famegrid_natural_v1_krea_2_lora/",
-   "date": "2026-08-20T12:05:11.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/wflxk8l6sikh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=bc46901578a666952e1c79fbde561e2fe15ac8fe",
-   "excerpt": "submitted by /u/MellyDArt [link] [comments]"
-  },
-  {
-   "id": "58939a4222a7",
-   "title": "Slack is launching collaborative vibe-coding channels",
-   "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-   "date": "2026-08-20T12:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23988538/acastro_STK060_slack_04.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have an idea or need to b"
   }
  ]
 }
