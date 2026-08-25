@@ -1,6 +1,64 @@
 {
- "updated": "2026-08-25T03:14:15.936Z",
+ "updated": "2026-08-25T04:03:33.779Z",
  "items": [
+  {
+   "id": "06d091844bf0",
+   "title": "amd/stable-diffusion-1.5-amdnpu-medusa",
+   "link": "https://huggingface.co/amd/stable-diffusion-1.5-amdnpu-medusa",
+   "date": "2026-08-25T03:55:56.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image, RyzenAI",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "16c90080499e",
+   "title": "GTA: San Pyongyang 🇰🇵",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxotnh/gta_san_pyongyang/",
+   "date": "2026-08-25T03:43:44.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eGV0dGd5aXh6ZmxoMSSIWGxaH2ym1kRWcHza39I57mq9uo7hbqdvPGDEThFZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=70d39bd038cbf0eff0d26dfeb2f75e74f4583293",
+   "excerpt": "submitted by /u/Exciting-Ladder-30 [link] [comments]"
+  },
+  {
+   "id": "1b4b819c9acc",
+   "title": "AST-1320/Qwen-Image-Edit-Rapid-AIO  (♥ 1)",
+   "link": "https://huggingface.co/AST-1320/Qwen-Image-Edit-Rapid-AIO",
+   "date": "2026-08-25T03:16:32.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: comfyUI, qwen, qwen-edit, t2i, i2i, text-to-image",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "7915b04ddfd5",
+   "title": "Video-Reason/VBVR-Pro-LTX2.3-diffsynth",
+   "link": "https://huggingface.co/Video-Reason/VBVR-Pro-LTX2.3-diffsynth",
+   "date": "2026-08-25T03:13:56.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffsynth, lora, image-to-video, audio-video, vbvr, dataset:Video-Reason/VBVR-Dataset",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
   {
    "id": "b7cdac7f7392",
    "title": "erow/WAN2.1-1.3b-GeoNeXt-depthnormal-hypersim-vkitti-ga-2-1e-4-TROPE-8-concat-wanvae-res768",
@@ -192,7 +250,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 3. Tags: diffusers, lora, video, text-to-video, animation, style",
    "hf": {
-    "likes": 3,
+    "likes": 4,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -250,6 +308,17 @@
    }
   },
   {
+   "id": "3a9a95697475",
+   "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+   "link": "https://huggingface.co/blog/gradio-workflow-guide",
+   "date": "2026-08-25T00:00:00.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
    "id": "35e21d1bc406",
    "title": "UNDR'DRK Air! - Where frequent fliers get free resurrections!",
    "link": "https://www.reddit.com/r/aivideo/comments/1vxivhw/undrdrk_air_where_frequent_fliers_get_free/",
@@ -268,6 +337,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/dW9xaXFnNW9rZWxoMbgP9CQHwGWuvLS1NLW1xleubwZrcmPC4PHSgXZY_Reb.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d765a719e5aa04b1b4b249310b8b1ec6f7ebedd",
    "excerpt": "submitted by /u/GooseUpset1275 [link] [comments]"
+  },
+  {
+   "id": "0b2d7c2d8d66",
+   "title": "Disability isn't inability",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxi3rv/disability_isnt_inability/",
+   "date": "2026-08-24T22:46:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dGJtN2htaXppZWxoMfb4RcAi9A7Nyq3jaB5Z03xUTVEl47lLDEYpKelyuLNY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=91523a6324096a5c6e2317b313b20c297a4ab46f",
+   "excerpt": "submitted by /u/8bitcollective [link] [comments]"
   },
   {
    "id": "336ec40fd2d4",
@@ -1696,7 +1775,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 94,
+    "likes": 96,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7554,67 +7633,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "ad5059a21e1b",
-   "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-   "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-   "date": "2026-08-20T09:30:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor."
-  },
-  {
-   "id": "b3e7d5a54769",
-   "title": "Secret du Palais",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtekye/secret_du_palais/",
-   "date": "2026-08-20T09:28:49.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bmhvZWM5aW4waWtoMZLSRd_ra-fmCeUcfm_tzcDwOgWx3ekBZ11QaGvM8Ga1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7451e4eac7bebe30e8d78c5cd9bb57073af72db3",
-   "excerpt": "submitted by /u/konibak [link] [comments]"
-  },
-  {
-   "id": "f19fcb457303",
-   "title": "GTA: San Andreas but in clay",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vte776/gta_san_andreas_but_in_clay/",
-   "date": "2026-08-20T09:06:04.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dDFteWV6aW93aGtoMfWNxMgYwpHxuinx048xhDqtpcDeeO3pxE5NoZA_vX9j.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=36f6368caa0b50c68977d07624a5d243b42359bb",
-   "excerpt": "submitted by /u/ShaKodemon [link] [comments]"
-  },
-  {
-   "id": "2612a5cc554c",
-   "title": "Been here since SD 1.5 and nothing has ever shocked or impressed me to the extent of H3 Minimax",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1vte5bx/been_here_since_sd_15_and_nothing_has_ever/",
-   "date": "2026-08-20T09:03:02.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/YzQ2anRmM2d3aGtoMWm36a_l1wiUoUAl6lAdVj7Qcjbqsxw7DGhstNSu-knW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=abbc00a79c5f5164f943ad6a0d74c1a2493b445b",
-   "excerpt": "submitted by /u/Parogarr [link] [comments]"
-  },
-  {
-   "id": "f4ed96b97351",
-   "title": "DayZ but it’s a movie",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtdz0y/dayz_but_its_a_movie/",
-   "date": "2026-08-20T08:52:49.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MGE1ZW5zdmV1aGtoMTpCxjd6e2abafss3WIEH0Yn6uhQefNNU8_vqBt8Wiwj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7c48d727ff9fcfac56af507a50f736c041aea4d3",
-   "excerpt": "submitted by /u/blufattanza89 [link] [comments]"
-  },
-  {
-   "id": "a582661c4d0d",
-   "title": "Japanese Tamagoyaki",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtdyev/japanese_tamagoyaki/",
-   "date": "2026-08-20T08:51:49.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cnhwYWV5cG50aGtoMXDT_pME_4dUFZfMaJismrp-kAnCyJxgxEVTXqzkizpp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3ae7ae69df3acd0f4f5a443b7588fb1a7f482dfe",
-   "excerpt": "submitted by /u/Independent-Arm-7397 [link] [comments]"
   }
  ]
 }
