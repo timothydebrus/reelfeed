@@ -1,6 +1,26 @@
 {
- "updated": "2026-08-25T09:02:19.560Z",
+ "updated": "2026-08-25T09:53:19.445Z",
  "items": [
+  {
+   "id": "3a86bbd7f634",
+   "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+   "date": "2026-08-25T09:15:03.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's safety practices violated state consumer protection laws and pose a risk to Alabama citizens, the AG's office said in a sta"
+  },
+  {
+   "id": "fe9344d6ab49",
+   "title": "Influencers in the wild",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxunxa/influencers_in_the_wild/",
+   "date": "2026-08-25T09:14:50.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eHgyMmg5bTRuaGxoMdOTtgKDlpjmy5tXC5mYrzVrmXlxRjwQq54Uuncv3vKc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ee49b7d95c199a27c7e77ac45316665245da5f9",
+   "excerpt": "submitted by /u/miayeal [link] [comments]"
+  },
   {
    "id": "11ffbc6ec4fc",
    "title": "bigfacing/HY-Video-Avatar2",
@@ -282,6 +302,16 @@
    }
   },
   {
+   "id": "3feb35b9d794",
+   "title": "Action Movie Short film",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vxqi72/action_movie_short_film/",
+   "date": "2026-08-25T05:12:18.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OHRwOXo5dXBmZ2xoMcXDnHqxFlWWzZdGMsUxLdjfpw12kJ6e2nPbcwnTdF_0.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=057689e9eb7cdd264bc5e57d2a94ac9eb8206064",
+   "excerpt": "submitted by /u/Prior-Accountant-945 [link] [comments]"
+  },
+  {
    "id": "c6da2cf9fb2a",
    "title": "Seedance 2dot5 - long shot camera control",
    "link": "https://www.reddit.com/r/aivideo/comments/1vxqhse/seedance_2dot5_long_shot_camera_control/",
@@ -452,7 +482,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, gguf, text-to-video, image-to-video, video-generation, diffusion",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 1,
     "pipeline": "text-to-video"
    }
   },
@@ -589,8 +619,8 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 3. Tags: diffusers, lora, video, text-to-video, animation, style",
    "hf": {
-    "likes": 13,
-    "downloads": 0,
+    "likes": 16,
+    "downloads": 65,
     "pipeline": "text-to-video"
    }
   },
@@ -1331,7 +1361,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, ltx-video, text-to-video, image-to-video, en, base_model:Lightricks/LTX-Video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 70,
     "pipeline": "image-to-video"
    }
   },
@@ -1363,7 +1393,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, minimax, minimax-h3, z-image, fl2va, ref2va",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 118,
     "pipeline": "image-to-video"
    }
   },
@@ -1467,7 +1497,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 35,
     "pipeline": "text-to-video"
    }
   },
@@ -2125,8 +2155,8 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 102,
-    "downloads": 0,
+    "likes": 103,
+    "downloads": 2194,
     "pipeline": "trending video"
    }
   },
@@ -4554,8 +4584,8 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, comfyui, comfy-native, comfy-quant, z-image, video-generation",
    "hf": {
-    "likes": 60,
-    "downloads": 2323,
+    "likes": 61,
+    "downloads": 5698,
     "pipeline": "trending video"
    }
   },
@@ -7662,42 +7692,6 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_082026_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. It caused a huge debate in the math community, and Rob spent some time "
-  },
-  {
-   "id": "ba77d3f3fb96",
-   "title": "taurusduan/Minimax-h3-Turbo",
-   "link": "https://huggingface.co/taurusduan/Minimax-h3-Turbo",
-   "date": "2026-08-20T13:35:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, t2v, i2v, r2v, image-to-video, en",
-   "hf": {
-    "likes": 0,
-    "downloads": 33,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "9c1bced0f19f",
-   "title": "ok i made a part 2 as you asked",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vtj4xo/ok_i_made_a_part_2_as_you_asked/",
-   "date": "2026-08-20T13:12:04.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NnprMDF6d3U0amtoMVeqOwGxmSgVxsuDAxYCaQQOFFIia7IUhqkHVbxE00zv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1fee989e2754f698c1d45cdcc5d29dfcb0cccace",
-   "excerpt": "submitted by /u/Odant [link] [comments]"
-  },
-  {
-   "id": "f18c5f6f2ce5",
-   "title": "Rainy Outside Bars",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vtj2bx/rainy_outside_bars/",
-   "date": "2026-08-20T13:08:54.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/i261rv1c4jkh1.jpg?width=140&amp;height=104&amp;auto=webp&amp;s=e9c1643ace46d0937f4429082dae128ba3efcfb4",
-   "excerpt": "submitted by /u/Doggman101 [link] [comments]"
   }
  ]
 }
