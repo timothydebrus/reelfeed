@@ -1,6 +1,90 @@
 {
- "updated": "2026-08-26T05:52:11.410Z",
+ "updated": "2026-08-26T07:11:12.220Z",
  "items": [
+  {
+   "id": "901da67c1490",
+   "title": "lynaNSFW/minimaxH3_Collection",
+   "link": "https://huggingface.co/lynaNSFW/minimaxH3_Collection",
+   "date": "2026-08-26T07:08:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:pmczip/MiniMaxH3_LoRAs, base_model:adapter:pmczip/MiniMaxH3_LoRAs",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0504d3b4da18",
+   "title": "cat emergency 🚨🐈",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vypevj/cat_emergency/",
+   "date": "2026-08-26T06:48:56.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OXlkdWk2d3Qxb2xoMeIaNXhp3HaCdw0RvQuKgykmwJVteD4fH0YGTQ3PQdL5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2b393065944dcdb3938a1de6ac6aa01d72ebdcf9",
+   "excerpt": "submitted by /u/Mountain-Plan9040 [link] [comments]"
+  },
+  {
+   "id": "c688fa47dd4d",
+   "title": "ManyWayne/ELISIA",
+   "link": "https://huggingface.co/ManyWayne/ELISIA",
+   "date": "2026-08-26T06:28:15.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "63e8bb67bc65",
+   "title": "Through the Sands - Cinematic Music Video",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vyp0g6/through_the_sands_cinematic_music_video/",
+   "date": "2026-08-26T06:26:18.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Ym1nazE2bHR4bmxoMUzJAOw4uNPJ3cbZQTAy_MqGu12UGgOUggKdvOJlLetZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0e8d7a78bd57b9a421907d92b40f28964551f8f7",
+   "excerpt": "submitted by /u/R34vspec [link] [comments]"
+  },
+  {
+   "id": "f1442278e04a",
+   "title": "artokun/nic0le-krea2",
+   "link": "https://huggingface.co/artokun/nic0le-krea2",
+   "date": "2026-08-26T06:08:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, krea2, text-to-image, image-edit, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2371b2b8109a",
+   "title": "Shooter57/mk1krea2v1test",
+   "link": "https://huggingface.co/Shooter57/mk1krea2v1test",
+   "date": "2026-08-26T06:02:59.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "2527ebb80b4b",
    "title": "Best and fastest way to generate HD-quality MiniMax videos?",
@@ -269,7 +353,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, minimax, minimax-h3, z-image, fl2va, ref2va",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -1378,6 +1462,22 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: comfyui, minimax-h3, text-to-video, image-to-video, ref2va, video-generation",
    "hf": {
     "likes": 5,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "f2b2e5149792",
+   "title": "seedleap/zing-0.5",
+   "link": "https://huggingface.co/seedleap/zing-0.5",
+   "date": "2026-08-25T10:26:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, world-model, video-generation, text-to-video, image-to-video",
+   "hf": {
+    "likes": 0,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -3798,7 +3898,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 124,
+    "likes": 125,
     "downloads": 2194,
     "pipeline": "trending video"
    }
@@ -7544,95 +7644,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "b269dd2576dd",
-   "title": "sakils123/Anima-Control-Pose",
-   "link": "https://huggingface.co/sakils123/Anima-Control-Pose",
-   "date": "2026-08-21T15:55:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, onnx, safetensors, control-lora, pose, dwpose",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a6779504f910",
-   "title": "Anime Short Film - High Tide (100% Midjourney Art & Video)",
-   "link": "https://www.reddit.com/r/midjourney/comments/1vujygd/anime_short_film_high_tide_100_midjourney_art/",
-   "date": "2026-08-21T15:43:47.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/wYZGC2H77SlQNhLHZQN2WV-uBxbaeFew19X_4evOvpE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=f569bd4539e35832aa923ccf0f086240ffff972a",
-   "excerpt": "Made entirely on midjourney both for image and video generation. Edited in CapCut. Tried multiple other engines that did better flowing animation but they all ended looking and feeling too generic. Style control in Midjourney is superior and I worked with its video generation limitations which I think gave this a “style” of storytelling Let me know what you think submitted by /u/biogenesis- [link]"
-  },
-  {
-   "id": "990653e3a4b3",
-   "title": "richardbielawski/WAN21_HWS16",
-   "link": "https://huggingface.co/richardbielawski/WAN21_HWS16",
-   "date": "2026-08-21T15:42:49.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:DFloat11/Wan2.1-T2V-14B-Diffusers-DF11, base_model:adapter:DFloat11/Wan2.1-T2V-14B-Diffusers-DF11",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "29acdc689ac7",
-   "title": "PlantCam: Shoot Plant Timelapses or DIY Projects With This Aptly Named Plant Camera",
-   "link": "https://nofilmschool.com/plantcam-timelapse-camera",
-   "date": "2026-08-21T15:41:12.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/plantcam-timelapse-camera.jpg?id=67572157&width=1200&height=800&coordinates=97%2C0%2C98%2C0",
-   "excerpt": "Well, this is a cool invention with a single purpose. The aptly named PlantCam is a plant camera that watches your plants grow. It’s clever repackaging and marketing for what is basically just a time-lapse camera, and a pretty sophisticated one at that. It is also a quite capable time-lapse camera that could be used either for its main purpose (plants) or for whatever else you might dream up. Let'"
-  },
-  {
-   "id": "42d96fdd5024",
-   "title": "Job Hunting in 2026",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vujsam/job_hunting_in_2026/",
-   "date": "2026-08-21T15:37:28.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dXJ1ZTB6N216cWtoMfFc6w8o-KdS5sz7zo4tK_mK46jzuroJxzZbIykNk_LL.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b734441a956e647ee3b519cd80a97eeb49077f9e",
-   "excerpt": "submitted by /u/__mongoose__ [link] [comments]"
-  },
-  {
-   "id": "6164e911da61",
-   "title": "Burroughs352/Gabbi-Flux",
-   "link": "https://huggingface.co/Burroughs352/Gabbi-Flux",
-   "date": "2026-08-21T15:15:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:ponpoke/flux2-klein-9b-uncensored-text-encoder, base_model:adapter:ponpoke/flux2-klein-9b-uncensored-text-encoder",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "398d355139ce",
-   "title": "Random Pokemon made w/ local H3",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vuiz2f/random_pokemon_made_w_local_h3/",
-   "date": "2026-08-21T15:07:54.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dHd1djI5a2d1cWtoMSZyql8BTLTDcRuZb8MAkf4JLJu2Ggr14yuZ2rPnGM90.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=725291386111fdd65400d6f29b0ed333d0b94808",
-   "excerpt": "submitted by /u/feral-trashpanda [link] [comments]"
   }
  ]
 }
