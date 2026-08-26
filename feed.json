@@ -1,6 +1,42 @@
 {
- "updated": "2026-08-26T10:53:32.562Z",
+ "updated": "2026-08-26T11:47:47.325Z",
  "items": [
+  {
+   "id": "84fc7c5b69ec",
+   "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+   "date": "2026-08-26T11:07:40.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2095072875.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Bill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means for our collective future. Having been conspicuously quiet on AI issues recently, Gates is back w"
+  },
+  {
+   "id": "935b1eadd918",
+   "title": "Another average day in Russia",
+   "link": "https://www.reddit.com/r/aivideo/comments/1vytti2/another_average_day_in_russia/",
+   "date": "2026-08-26T10:59:34.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dHFna2tyaWphcGxoMWhE734gyiSt22vVZPPPGcuaB-4IOw9oppWSSIZ5SQ8I.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bcfae0613ab8c7411a173f3eb0e5f7ade81272bc",
+   "excerpt": "submitted by /u/iHealthSi [link] [comments]"
+  },
+  {
+   "id": "1824fc8856b9",
+   "title": "Shooter57/jsama1krea2v2test",
+   "link": "https://huggingface.co/Shooter57/jsama1krea2v2test",
+   "date": "2026-08-26T10:57:28.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "a3b515acd3f9",
    "title": "Undoing",
@@ -10,6 +46,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/cGlveDMxMDg2cGxoMZLSRd_ra-fmCeUcfm_tzcDwOgWx3ekBZ11QaGvM8Ga1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4a14047d0a2f41c6e2dc18c488b5710cff911014",
    "excerpt": "submitted by /u/konibak [link] [comments]"
+  },
+  {
+   "id": "a6f7df67b5a3",
+   "title": "Noginowa/ClearPalette-ANIMA",
+   "link": "https://huggingface.co/Noginowa/ClearPalette-ANIMA",
+   "date": "2026-08-26T10:38:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, diffusion-single-file, comfyui, text-to-image, merge, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "f99b40f963dd",
@@ -1803,7 +1855,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, world-model, video-generation, text-to-video, image-to-video",
    "hf": {
-    "likes": 2,
+    "likes": 3,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -4285,7 +4337,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 12. Tags: videox_fun, controlnet, video-to-video, text-to-video, image-text-to-video, license:other",
    "hf": {
-    "likes": 129,
+    "likes": 130,
     "downloads": 3148,
     "pipeline": "trending video"
    }
@@ -7594,58 +7646,6 @@
     "downloads": 6,
     "pipeline": "image-to-video"
    }
-  },
-  {
-   "id": "bca14157acdb",
-   "title": "What You Can Learn from Bong Joon Ho’s 4 Favorite Movies",
-   "link": "https://nofilmschool.com/bong-joon-ho-favorite-movies-influence-explained",
-   "date": "2026-08-21T23:53:36.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/choi-woo-shik-as-kevin-and-park-so-dam-as-jessica-looking-at-their-phones-in-parasite.jpg?id=67654235&width=980",
-   "excerpt": "South Korean filmmaker Bong Joon Ho is one of international cinema’s most versatile directors, crafting genre-defying works (including the 2019 Best Picture winner Parasite) in both Korean and English that bring laughs, thrills, and tears while provoking the audience to think about the state of the modern world. However, no filmmaker exists in a vacuum. When Letterboxd recently asked Director Bong"
-  },
-  {
-   "id": "de0fcbfaca60",
-   "title": "tmtmtm45/gee2",
-   "link": "https://huggingface.co/tmtmtm45/gee2",
-   "date": "2026-08-21T23:52:37.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0b08f13430ba",
-   "title": "justinchuby/onnx-genai-cogvideox-2b",
-   "link": "https://huggingface.co/justinchuby/onnx-genai-cogvideox-2b",
-   "date": "2026-08-21T23:23:14.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx-genai, onnx, mobius, text-to-video, arxiv:2408.06072, license:apache-2.0",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "ffe09a662a21",
-   "title": "The Adventures of Frank & Cow",
-   "link": "https://www.reddit.com/r/aivideo/comments/1vuvrao/the_adventures_of_frank_cow/",
-   "date": "2026-08-21T23:12:21.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OHl2cXg2ajU4dGtoMbD48KTZsTV1JzEBS4aEIvcF2zQdBTb5E63O7T3vc13D.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6ba0e3d7453efb465c3aa48f8a0baaa88e73bcca",
-   "excerpt": "submitted by /u/MrTippyToes [link] [comments]"
   }
  ]
 }
