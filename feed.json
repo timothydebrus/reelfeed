@@ -1,6 +1,64 @@
 {
- "updated": "2026-09-05T23:00:12.209Z",
+ "updated": "2026-09-06T01:01:47.166Z",
  "items": [
+  {
+   "id": "abd452c71611",
+   "title": "M0STAFAz/fitness-assistant-API",
+   "link": "https://huggingface.co/M0STAFAz/fitness-assistant-API",
+   "date": "2026-09-06T00:31:59.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, lora, template:diffusion-lora, base_model:Qwen/Qwen2.5-0.5B-Instruct",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1e3bbc579db7",
+   "title": "PAYGRASSREAL/sadayu-1.5",
+   "link": "https://huggingface.co/PAYGRASSREAL/sadayu-1.5",
+   "date": "2026-09-06T00:14:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: 3d, text-to-video, image-to-video, motion-design, product-assembly, spatial-walkthrough",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "10fa7136ac31",
+   "title": "PAYGRASSREAL/sida-1.5",
+   "link": "https://huggingface.co/PAYGRASSREAL/sida-1.5",
+   "date": "2026-09-06T00:13:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: 3d, concept-design, product-rendering, architectural-rendering, pbr-textures, generative-design",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c5660bcf0b69",
+   "title": "Age of Deception: Online Dating",
+   "link": "https://www.reddit.com/r/aivideo/comments/1w8fwm6/age_of_deception_online_dating/",
+   "date": "2026-09-05T23:27:54.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MW9rY2h2eDNkc25oMb9oKZTK1jaLz0A6S2CN75bdvMbe2obJAQuNdkBSF1a1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ff31655a89ec403c6deb0cfa348686076e455c4",
+   "excerpt": "submitted by /u/codecarter [link] [comments]"
+  },
   {
    "id": "1f032103e20e",
    "title": "The Ring",
@@ -582,7 +640,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: peft, lora, text-to-video, video, audio, minimax",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1182,7 +1240,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, multimodal, native-audio, wan-3.0, text-to-video, region:us",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -1996,7 +2054,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-video, image-to-video, image-text-to-video, video-to-video, text-to-audio-video",
    "hf": {
-    "likes": 25,
+    "likes": 26,
     "downloads": 768,
     "pipeline": "image-to-video"
    }
@@ -7416,53 +7474,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/MGxwcTZ4M2dqb21oMSZl7hgxDbk0exzDpIlyqkeghPhfiCwvjvF8HwhDopIg.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8546ba1892fb2e0a97d417af389de049f928b22",
    "excerpt": "submitted by /u/humboldtsammo [link] [comments]"
-  },
-  {
-   "id": "d4264bd2df14",
-   "title": "Filmed in 2227 on a 200-Year-Old Camera",
-   "link": "https://www.reddit.com/r/aivideo/comments/1w38iu8/filmed_in_2227_on_a_200yearold_camera/",
-   "date": "2026-08-31T09:19:37.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZjZ2b2ExazVob21oMSrw1tCBgjvImgaxmxBYmsC2K4et_OwCU0zpp0WTmQ69.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dceb638e47e1a116f20024fabef4ad50434f396c",
-   "excerpt": "submitted by /u/Infamous_Air1176 [link] [comments]"
-  },
-  {
-   "id": "e520689e2ce1",
-   "title": "morph h3",
-   "link": "https://www.reddit.com/r/comfyui/comments/1w38iid/morph_h3/",
-   "date": "2026-08-31T09:19:11.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZGVhdGMzdmJob21oMfnDTHOFX8jS2dyXZnVS24GH_qbEpmmXXD1PvmM2M83w.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8d2762f69cf7bccebcccd65e610d828836679ec8",
-   "excerpt": "submitted by /u/Accurate_Public4674 [link] [comments]"
-  },
-  {
-   "id": "543e5867f61f",
-   "title": "DANNY621/H3-World  (♥ 1)",
-   "link": "https://huggingface.co/DANNY621/H3-World",
-   "date": "2026-08-31T08:31:49.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: video, image-to-video, world-model, lora, diffusion, action-conditioning",
-   "hf": {
-    "likes": 57,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "7f3e9f8d83e8",
-   "title": "OpenAI supports California’s bill to advance youth AI safety",
-   "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-   "date": "2026-08-31T07:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
   }
  ]
 }
