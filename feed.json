@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-12T19:25:23.392Z",
+ "updated": "2026-09-12T22:20:53.193Z",
  "items": [
   {
    "id": "ea5b19333782",
@@ -11,6 +11,104 @@
    "isModel": false,
    "thumb": "",
    "excerpt": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+  },
+  {
+   "id": "29f1635105dc",
+   "title": "Site Alpha Containment Breach",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wepsw6/site_alpha_containment_breach/",
+   "date": "2026-09-12T22:09:37.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y3QzdW5rdXJ4NXBoMem7ADebaLsMqk1lAzgGKivxhkN4lW-ox9MDZQjhM2pe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c62378e95af01dd88f26b7662f9149aa3566508",
+   "excerpt": "submitted by /u/VIV-AF-D [link] [comments]"
+  },
+  {
+   "id": "552eadb73497",
+   "title": "OpenAI’s rogue AI tried to hack another company in May",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+   "date": "2026-09-12T21:41:36.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried to steal users' API keys. At the time, RubyGems described it as a \"major malicious attack\" and shut down signups for four days as it tried to mitigat"
+  },
+  {
+   "id": "d00235c84185",
+   "title": "JoaoZaokk/Z-Image-De-Turbo-W4A4-ConvRot",
+   "link": "https://huggingface.co/JoaoZaokk/Z-Image-De-Turbo-W4A4-ConvRot",
+   "date": "2026-09-12T21:22:13.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, comfyui, text-to-image, quantized, int4, int8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "56865b88a336",
+   "title": "JoaoZaokk/Z-Image-Turbo-W4A4-ConvRot",
+   "link": "https://huggingface.co/JoaoZaokk/Z-Image-Turbo-W4A4-ConvRot",
+   "date": "2026-09-12T21:18:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, comfyui, text-to-image, quantized, int4, int8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "9276271a0e3f",
+   "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+   "date": "2026-09-12T21:16:28.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK201_SAM_ALTMAN_CVIRGINIA2D-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he said it was \"absolutely\" possible, but vowed to take actions t"
+  },
+  {
+   "id": "838526d0298f",
+   "title": "Mirage - A David Lynch Tribute",
+   "link": "https://www.reddit.com/r/aivideo/comments/1weni4o/mirage_a_david_lynch_tribute/",
+   "date": "2026-09-12T20:35:29.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eHJwdjdndHdnNXBoMVo-cs3Ns8mfh0u6CraQ7LB71t1_1_cw1TH4mzy4Ucpl.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=38eb815aa802a4c9b4b3fb34faadf2c26d064267",
+   "excerpt": "submitted by /u/Feeling-Total5959 [link] [comments]"
+  },
+  {
+   "id": "22280ff70f06",
+   "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+   "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+   "date": "2026-09-12T20:19:16.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+  },
+  {
+   "id": "c3b764b94194",
+   "title": "obann001/Emma_Vaganova",
+   "link": "https://huggingface.co/obann001/Emma_Vaganova",
+   "date": "2026-09-12T18:49:32.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, en, base_model:black-forest-labs/FLUX.1-dev, base_model:finetune:black-forest-labs/FLUX.1-dev, license:mit, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "9e3b5d7467c3",
@@ -52,6 +150,16 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK485_STK414_AI_SAFETY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace the frontier\" - jargon that simply means to slow the pace of training and development to give companies time to build safeg"
+  },
+  {
+   "id": "8dd294b00b51",
+   "title": "Scene from my upcoming series (would love opinions)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wegju5/scene_from_my_upcoming_series_would_love_opinions/",
+   "date": "2026-09-12T16:09:01.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eHRjcWV2bmI1NHBoMf5cKTbHEyRj3ywZcW9xHl0cay6ryQLzuZhwzDHbOVqS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0948ccb60bc3cae681560021695ad4cb4ee3b782",
+   "excerpt": "submitted by /u/Next-level-awkward [link] [comments]"
   },
   {
    "id": "82c98d9b6abf",
@@ -7269,128 +7377,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/Y3g2ZzI2cnU2eG5oMasWgnD_YYaHci-SKwmyirfpAFRU9qg17zpx3s0VQqmt.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2021a1a1d7120f1df9133f164a37f4e3786d0b3d",
    "excerpt": "submitted by /u/Smoothlarryy [link] [comments]"
-  },
-  {
-   "id": "1e4b10a87081",
-   "title": "guillekenzo/aros-0c779c85-NobleVesper",
-   "link": "https://huggingface.co/guillekenzo/aros-0c779c85-NobleVesper",
-   "date": "2026-09-06T15:32:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "6dbbd3df4344",
-   "title": "Campeonato Rally en Seedance 2",
-   "link": "https://www.reddit.com/r/aivideo/comments/1w8z2m6/campeonato_rally_en_seedance_2/",
-   "date": "2026-09-06T15:24:08.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/NGtpMXN2eXIzeG5oMe1kkloeN1cpIGo-QDURqUER-9TW1dVLyQpoZyenph5Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=63a40cc47b5f098c3a2cefad7eed907524ea8764",
-   "excerpt": "submitted by /u/Ok-Nerve941 [link] [comments]"
-  },
-  {
-   "id": "c306d7111cc4",
-   "title": "perpetual3x/Qwen-Image-Male-Anatomy-Realism-NSFW-LoRA-v1",
-   "link": "https://huggingface.co/perpetual3x/Qwen-Image-Male-Anatomy-Realism-NSFW-LoRA-v1",
-   "date": "2026-09-06T15:14:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, qwen-image, qwen-image-2512, lora, text-to-image, male-anatomy",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "dde2170a1f74",
-   "title": "new insta realism lora",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1w8ykz2/new_insta_realism_lora/",
-   "date": "2026-09-06T15:05:15.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/g0eenvv60xnh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=d4b0f1882a9fc67719f6a9ebaafac4f770ba88f0",
-   "excerpt": "hey all back to training public loras for fun this time krea 2 ! hope you guys like this one link for download in the comments + bonus the images are with metadeta and include the workflow submitted by /u/Kawamizoo [link] [comments]"
-  },
-  {
-   "id": "aea0ca11d15f",
-   "title": "Made a animated comedy short about a married couple",
-   "link": "https://www.reddit.com/r/aivideo/comments/1w8y4fx/made_a_animated_comedy_short_about_a_married/",
-   "date": "2026-09-06T14:46:50.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MmV4d3Bwdjh4d25oMXgFn7w9BtVjeuY1J4OmwKogGUZPwptrdDnptr3ASwCZ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7a713aff1dd32bb279bb8ce47624e4bde3f74642",
-   "excerpt": "submitted by /u/sidvin91 [link] [comments]"
-  },
-  {
-   "id": "cd4c84106396",
-   "title": "\"ONE SMALL BITE\" – (Seedance, WIP trailer)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1w8xqk4/one_small_bite_seedance_wip_trailer/",
-   "date": "2026-09-06T14:30:56.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/bTh3anJleXd0d25oMVNIRj5yfIAYsIKbzroT62Kyn9ASOq-Gckk_5U1oIk4W.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2cdd11f5756ec6fae3f49a9b8cba047af12db3c0",
-   "excerpt": "submitted by /u/Resident_Subject2213 [link] [comments]"
-  },
-  {
-   "id": "dd2f1436355c",
-   "title": "Novasy/nova-image-gen",
-   "link": "https://huggingface.co/Novasy/nova-image-gen",
-   "date": "2026-09-06T14:10:18.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e38a7ca32eea",
-   "title": "BiliSakura/TerraDiT-diffusers",
-   "link": "https://huggingface.co/BiliSakura/TerraDiT-diffusers",
-   "date": "2026-09-06T13:58:25.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, satellite-imagery, remote-sensing, diffusion-transformer, controllable-generation",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "24bdc9fa2488",
-   "title": "vladcat222/illustriousXL20_v20_QNN_",
-   "link": "https://huggingface.co/vladcat222/illustriousXL20_v20_QNN_",
-   "date": "2026-09-06T13:42:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: QNN, SDXL, NPU, Stable Diffusion, txt to img, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
