@@ -1,6 +1,226 @@
 {
- "updated": "2026-09-20T19:29:47.584Z",
+ "updated": "2026-09-21T01:09:51.627Z",
  "items": [
+  {
+   "id": "a32afecc655b",
+   "title": "mesmertech/Mesmer-Image-21-Nunchaku",
+   "link": "https://huggingface.co/mesmertech/Mesmer-Image-21-Nunchaku",
+   "date": "2026-09-21T00:45:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-editing, nunchaku, svdquant, int4",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d8487e6a463f",
+   "title": "cellsheet/Anima-Turbo-MLX-Serve",
+   "link": "https://huggingface.co/cellsheet/Anima-Turbo-MLX-Serve",
+   "date": "2026-09-21T00:39:36.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx-serve, mlx, image, text-to-image, image-to-image, anime",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "aa049fc2ef4b",
+   "title": "cellsheet/Anima-Base-MLX-Serve",
+   "link": "https://huggingface.co/cellsheet/Anima-Base-MLX-Serve",
+   "date": "2026-09-21T00:39:26.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx-serve, mlx, image, text-to-image, image-to-image, anime",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "35ff2ebd8d57",
+   "title": "gubernac/Qwen-Image-2.1  (♥ 1)",
+   "link": "https://huggingface.co/gubernac/Qwen-Image-2.1",
+   "date": "2026-09-21T00:25:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e26f1da0bd73",
+   "title": "Saiyanfeld: The Scouter",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wlx0kb/saiyanfeld_the_scouter/",
+   "date": "2026-09-20T23:59:09.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NXpzZXVxN21rcnFoMVf1cEZXU8gFBwNfRNLJAiNQ9S2zWcsCGZ4J0C8IwH8k.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf0b05cbc8dfe5ddf147ccc292f93656ce45a405",
+   "excerpt": "submitted by /u/Spikan [link] [comments]"
+  },
+  {
+   "id": "f277e928d362",
+   "title": "Rin247/Wan2.2-TI2V-5B-INT8",
+   "link": "https://huggingface.co/Rin247/Wan2.2-TI2V-5B-INT8",
+   "date": "2026-09-20T23:51:03.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, quantized, aquarion, weight-only, int8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "08d9a7f823d8",
+   "title": "Rin247/Wan2.2-TI2V-5B-INT4",
+   "link": "https://huggingface.co/Rin247/Wan2.2-TI2V-5B-INT4",
+   "date": "2026-09-20T23:38:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, quantized, aquarion, weight-only, int4",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "27b8aff2a9a7",
+   "title": "Rin247/Wan2.2-TI2V-5B-FP8",
+   "link": "https://huggingface.co/Rin247/Wan2.2-TI2V-5B-FP8",
+   "date": "2026-09-20T23:28:26.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, quantized, aquarion, weight-only, fp8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "21cc35148579",
+   "title": "Rin247/Wan2.2-TI2V-5B-FP4",
+   "link": "https://huggingface.co/Rin247/Wan2.2-TI2V-5B-FP4",
+   "date": "2026-09-20T23:08:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, quantized, aquarion, weight-only, fp4",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "7dd75899a7a1",
+   "title": "matrixrb/imageewarp",
+   "link": "https://huggingface.co/matrixrb/imageewarp",
+   "date": "2026-09-20T23:08:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, arxiv:1910.09700, endpoints_compatible, diffusers:StableDiffusionPipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b5a3a7ce46b2",
+   "title": "hockey1/aiorbustlora",
+   "link": "https://huggingface.co/hockey1/aiorbustlora",
+   "date": "2026-09-20T22:50:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f2bb3bfc0cc1",
+   "title": "Redacted Teaser",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wluldf/redacted_teaser/",
+   "date": "2026-09-20T22:13:13.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cXBpbnd3Z28xcnFoMa0HBow2BfqzS0EhKU8mEGlmW9aqbrkda9X3DJHdPR_o.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4932eeb5910c4088d39e0384139756062aa20747",
+   "excerpt": "submitted by /u/ctrl-shift-face [link] [comments]"
+  },
+  {
+   "id": "abb020c3fa6b",
+   "title": "Yumi has a bad time at the Cafe",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wlsuny/yumi_has_a_bad_time_at_the_cafe/",
+   "date": "2026-09-20T21:02:43.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bW1uMWpwdzRwcXFoMRe_y8AAjufKqRTAtf_QT_b8otPGjGy6lFTavK6TwBdA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=06eaa765b2bcd54bf090990cff66fd3afa732637",
+   "excerpt": "submitted by /u/xPainx [link] [comments]"
+  },
+  {
+   "id": "7b2020aa05c3",
+   "title": "Of Blue Of Settle",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wlsjih/of_blue_of_settle/",
+   "date": "2026-09-20T20:51:06.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cGZzbGRrMDJucXFoMSOXJic5m8361764N0uSAx5AqEBlMl_o0vA5V5tb7Pzd.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=40a7b0267fb113ec88d2cdd02b8b351b516dc303",
+   "excerpt": "submitted by /u/TFergFilms [link] [comments]"
+  },
+  {
+   "id": "ab108162c072",
+   "title": "Crushed beneath the weight of an unbearable burden",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wls9k9/crushed_beneath_the_weight_of_an_unbearable_burden/",
+   "date": "2026-09-20T20:40:27.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YWJta294cTVscXFoMfzLtdUirIum3CSeVRT4DkJqn8ObqspzHAI85qBIbBqs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b76e8d82751f517b283bca78458dd81e3be1e5b4",
+   "excerpt": "submitted by /u/Sufficient-Ice8225 [link] [comments]"
+  },
+  {
+   "id": "81aee4494ecf",
+   "title": "World model companies are keeping a lot of secrets",
+   "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+   "date": "2026-09-20T20:29:07.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building."
+  },
   {
    "id": "9e541d9b1133",
    "title": "Battle Dynamics",
@@ -30,6 +250,16 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/enJ1djUyZHQxcXFoMa-Ij6AAYCoQIXB3Ujl9e4qEGPcUEyb0xvPykQ9_IV2a.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=479c853993ca75b307e1a5b6b1d2548ee47ff2aa",
    "excerpt": "submitted by /u/cosplay_owo [link] [comments]"
+  },
+  {
+   "id": "0c6dd0ea6efb",
+   "title": "No one is surprised that Nvidia s Jensen Huang thinks AI fears are overblown.",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+   "date": "2026-09-20T18:50:18.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the world. He also said of people sounding the alarm about the dangers of AI that, \"Scaring people is unnecessary. It is "
   },
   {
    "id": "705a16e04e64",
@@ -326,9 +556,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 4. Tags: gguf, qwen, image-generation, comfyui, comfyui-gguf, text-to-image",
    "hf": {
-    "likes": 4,
+    "likes": 93,
     "downloads": 0,
-    "pipeline": "text-to-image"
+    "pipeline": "trending image"
    }
   },
   {
@@ -399,6 +629,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "775c21cea016",
+   "title": "He only comes out at night",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wljrbj/he_only_comes_out_at_night/",
+   "date": "2026-09-20T15:17:55.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aHkzZW02ZGt6b3FoMTqBoyb43Mndx3hAUGRPhfkW8a9FnxUSRtgTvnZs93op.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b23a76a1667a1f6d71c48dfdf5c2454a6df2ef5e",
+   "excerpt": "submitted by /u/TradingCardGirl [link] [comments]"
   },
   {
    "id": "bd3b170819eb",
@@ -507,6 +747,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/OGx1dTZlYWNqb3FoMYv2kbs4Dh1flcccscnK-b19vw2Wqg4LVc21_d1eSutL.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bea269a81f0835615b0aed3dd57cce8ed8d423ea",
    "excerpt": "submitted by /u/Several_Category2736 [link] [comments]"
+  },
+  {
+   "id": "2ac374f69c37",
+   "title": "Abiray/Qwen-Image-2.1-GGUF  (♥ 32)",
+   "link": "https://huggingface.co/Abiray/Qwen-Image-2.1-GGUF",
+   "date": "2026-09-20T13:08:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 32. Tags: gguf, text-to-image, image-to-image, comfyui, image-generation, quantized",
+   "hf": {
+    "likes": 32,
+    "downloads": 0,
+    "pipeline": "trending image"
+   }
   },
   {
    "id": "10858c65e92b",
@@ -1003,7 +1259,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, video-generation, text-to-video, workflow, audio-video",
    "hf": {
-    "likes": 7,
+    "likes": 10,
     "downloads": 7,
     "pipeline": "text-to-video"
    }
@@ -1721,7 +1977,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: gguf, minimax-h3, text-to-video, image-to-video, audio-video, comfyui",
    "hf": {
-    "likes": 23,
+    "likes": 24,
     "downloads": 1083,
     "pipeline": "image-to-video"
    }
@@ -2853,7 +3109,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 55, likes: 0. Tags: minimax, h3, t2v, i2v, lora, video-generation",
    "hf": {
-    "likes": 15,
+    "likes": 18,
     "downloads": 116,
     "pipeline": "trending video"
    }
@@ -6944,257 +7200,6 @@
     "likes": 3,
     "downloads": 32,
     "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "864c4095a709",
-   "title": "Qwen/Qwen-Image-2.1  (♥ 434)",
-   "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-   "date": "2026-09-14T03:47:26.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending trending image model on Hugging Face. Downloads: 183, likes: 434. Tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba",
-   "hf": {
-    "likes": 573,
-    "downloads": 183,
-    "pipeline": "trending image"
-   }
-  },
-  {
-   "id": "78b4a948f542",
-   "title": "ToyBoyboos/Wan2.2-Lightning  (♥ 1)",
-   "link": "https://huggingface.co/ToyBoyboos/Wan2.2-Lightning",
-   "date": "2026-09-14T02:15:35.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, text-to-video;, image-to-video;, comfyUI;, video-generation;",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "faa44c726896",
-   "title": "Bro is good at math",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wfpw3t/bro_is_good_at_math/",
-   "date": "2026-09-14T01:37:15.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aXc5cWc2M28zZXBoMd0trC2T2y2t768jKLoqUxbHFxG3o30Ay33Mb7AzeVIQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=faa8ee708dd30016441e78a2369f314b47887486",
-   "excerpt": "submitted by /u/MagicboatAI [link] [comments]"
-  },
-  {
-   "id": "c5d9a757956f",
-   "title": "BiliSakura/GeoCore-9B-diffusers",
-   "link": "https://huggingface.co/BiliSakura/GeoCore-9B-diffusers",
-   "date": "2026-09-14T00:36:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, remote-sensing, earth-observation, satellite-imagery, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ea5b19333782",
-   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-   "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-   "date": "2026-09-14T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-  },
-  {
-   "id": "f6a1868b332a",
-   "title": "ling0322/libwaifu-illustrious-xl-v2.0",
-   "link": "https://huggingface.co/ling0322/libwaifu-illustrious-xl-v2.0",
-   "date": "2026-09-13T23:32:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, stable-diffusion, stable-diffusion-xl, illustrious, libwaifu, waifupkg",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "17e0068e3b56",
-   "title": "JOKER141/BUNNY_H3_Conditioning_Bridge  (♥ 2)",
-   "link": "https://huggingface.co/JOKER141/BUNNY_H3_Conditioning_Bridge",
-   "date": "2026-09-13T23:03:26.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, semantic-bridge, conditioning-adapter, action-logic, combat, motion-continuity",
-   "hf": {
-    "likes": 24,
-    "downloads": 640,
-    "pipeline": "trending video"
-   }
-  },
-  {
-   "id": "d341ea90096f",
-   "title": "SYMBOLS OF FATE — Official Trailer 2 | Fantasy Series",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wfkixl/symbols_of_fate_official_trailer_2_fantasy_series/",
-   "date": "2026-09-13T21:38:07.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NTZvb2txOXh3Y3BoMfpe2zbwe0UfuGS8V32AblDUCl1sM2h4896OnV-Q9Bbe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0005bad85cba30509238cfb528469fb6e90c8486",
-   "excerpt": "submitted by /u/Tiny_Calendar5524 [link] [comments]"
-  },
-  {
-   "id": "7e9bff930ccf",
-   "title": "Faster Horses",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wfkc6m/faster_horses/",
-   "date": "2026-09-13T21:30:33.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YWZqNDF0dnB2Y3BoMeBnx4RqPaElwU54Gr1KNYZAP5RyfVHY6iExB2O30ZMV.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=fe7aedbe1b982f8c4bd8e33cbc4eda8a8480fa69",
-   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
-  },
-  {
-   "id": "ec9dcf7eb193",
-   "title": "justintime47/Krea-2-Turbo-iQ4.5",
-   "link": "https://huggingface.co/justintime47/Krea-2-Turbo-iQ4.5",
-   "date": "2026-09-13T20:54:15.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx-serve, diffusers, safetensors, krea2_turbo, mlx, krea",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1ffa20b31933",
-   "title": "AI Anime | Crazy Rari vs Weeping Argent",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wfjdiz/ai_anime_crazy_rari_vs_weeping_argent/",
-   "date": "2026-09-13T20:52:15.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dGIydWI4NGhvY3BoMUBKlnkDVV7tkAoeNdBIgjDenU6MG3nOyvB7eoBoOebN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d2232321f187a1a60a4debaa1d5f11e50ed7bd6",
-   "excerpt": "submitted by /u/abokalypsis [link] [comments]"
-  },
-  {
-   "id": "b7926c784011",
-   "title": "MelloModels/mellos_definitive_zootopia_lora_minimax",
-   "link": "https://huggingface.co/MelloModels/mellos_definitive_zootopia_lora_minimax",
-   "date": "2026-09-13T20:45:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, text-to-video, minimax, lora, zootopia, judy-hopps",
-   "hf": {
-    "likes": 0,
-    "downloads": 11,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "357bf50e0439",
-   "title": "zshyang1106/CoaG-Wan2.2-Fun-A14B-Control-LoRA",
-   "link": "https://huggingface.co/zshyang1106/CoaG-Wan2.2-Fun-A14B-Control-LoRA",
-   "date": "2026-09-13T20:24:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, video-generation, lora, controlnet, layout-control, camera-control",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "1d273e458a46",
-   "title": "Trump and Mike Johnson think the AI industry is overreacting",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-   "date": "2026-09-13T19:41:48.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, seem to think the AI executives are bein"
-  },
-  {
-   "id": "3b1df47cce74",
-   "title": "8 Floors of Hell, Soul Flashing Before Earth Dispatch Gnostic Mythology NSFW",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wfhi6b/8_floors_of_hell_soul_flashing_before_earth/",
-   "date": "2026-09-13T19:40:50.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/SimulationChronicles [link] [comments]"
-  },
-  {
-   "id": "423bcba40c75",
-   "title": "What’s behind the AI industry’s latest warnings of doom?",
-   "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-   "date": "2026-09-13T19:40:15.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
-  },
-  {
-   "id": "4c5af95f761d",
-   "title": "Magehold Dinner Scene (AI acting!!)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wfgqks/magehold_dinner_scene_ai_acting/",
-   "date": "2026-09-13T19:12:27.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bTdkaTk2NjA3Y3BoMZonPkWWUqHdPxg7xaa1waaOGTHEq504jjnauzPGOsXW.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e28f80efa4ac524a635f59b7ca2da3807c8ceebf",
-   "excerpt": "submitted by /u/MosskeepForest [link] [comments]"
-  },
-  {
-   "id": "39b903e8cf60",
-   "title": "zehen8716/annie-lora",
-   "link": "https://huggingface.co/zehen8716/annie-lora",
-   "date": "2026-09-13T18:38:10.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a8eb39cb0526",
-   "title": "zehen8716/veeb-lora",
-   "link": "https://huggingface.co/zehen8716/veeb-lora",
-   "date": "2026-09-13T18:18:16.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, krea2, krea2-diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
    }
   }
  ]
