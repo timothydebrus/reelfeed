@@ -1,6 +1,74 @@
 {
- "updated": "2026-09-27T22:15:35.765Z",
+ "updated": "2026-09-28T00:52:42.590Z",
  "items": [
+  {
+   "id": "26f683f2db62",
+   "title": "CYCLE - Horror Short Film",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wrz9gf/cycle_horror_short_film/",
+   "date": "2026-09-27T23:42:47.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZTF6YnNtdDFlNXNoMTOVjkh5MgLWkUka78AhoPx9nvPlXC3zF5xdimzdQCPp.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e163b202bd27bd180bd30f52f41365624de70e2c",
+   "excerpt": "submitted by /u/Direct_Shirt8320 [link] [comments]"
+  },
+  {
+   "id": "64d4f1993b2a",
+   "title": "caikybaldo999/ZYI-1.5-TINY-ReasonFast",
+   "link": "https://huggingface.co/caikybaldo999/ZYI-1.5-TINY-ReasonFast",
+   "date": "2026-09-27T23:20:43.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, diffusion, rectified-flow, dit, pytorch, zyi",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ccb8a5aa7413",
+   "title": "TechnoBaptist/LTX-2.3-N-v1.4-FP8",
+   "link": "https://huggingface.co/TechnoBaptist/LTX-2.3-N-v1.4-FP8",
+   "date": "2026-09-27T22:47:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, not-for-all-audiences, text-to-video, image-to-video, video-to-video, audio-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "feb3d46e6d86",
+   "title": "george562/Qwen-Image-2.1",
+   "link": "https://huggingface.co/george562/Qwen-Image-2.1",
+   "date": "2026-09-27T22:35:37.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2b208b838322",
+   "title": "saturday morning cartoons",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wrxali/saturday_morning_cartoons/",
+   "date": "2026-09-27T22:13:34.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/b2g3bXkyYTIwNXNoMVauvlugswOXuzxHaXEwP8F4HCnEWklymNjI2GkeTcty.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a552d6c0d9d0c7cbd5a6ac9220bebd735222c7d2",
+   "excerpt": "submitted by /u/Educational-Field804 [link] [comments]"
+  },
   {
    "id": "0a3bb91a3c3e",
    "title": "MANILA MEN Full EP 2 IS Now available",
@@ -614,7 +682,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, 3d-animation, text-to-video, image-to-video, base_model:MiniMaxAI/MiniMax-H3",
    "hf": {
-    "likes": 3,
+    "likes": 4,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -4667,7 +4735,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 896, likes: 76. Tags: diffusers, qwen, image-generation, image-editing, rgba, lora",
    "hf": {
-    "likes": 105,
+    "likes": 107,
     "downloads": 8147,
     "pipeline": "trending image"
    }
@@ -5687,7 +5755,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 1507, likes: 78. Tags: diffusers, safetensors, lora, text-to-image, image-to-image, image-editing",
    "hf": {
-    "likes": 336,
+    "likes": 341,
     "downloads": 133151,
     "pipeline": "trending image"
    }
@@ -6682,7 +6750,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 51. Tags: gguf, quantized, unsloth, qwen, image-generation, text-to-image",
    "hf": {
-    "likes": 266,
+    "likes": 270,
     "downloads": 194341,
     "pipeline": "trending image"
    }
@@ -7284,70 +7352,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "aa049fc2ef4b",
-   "title": "cellsheet/Anima-Base-MLX-Serve",
-   "link": "https://huggingface.co/cellsheet/Anima-Base-MLX-Serve",
-   "date": "2026-09-21T00:39:26.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx-serve, mlx, image, text-to-image, image-to-image, anime",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "35ff2ebd8d57",
-   "title": "gubernac/Qwen-Image-2.1  (♥ 1)",
-   "link": "https://huggingface.co/gubernac/Qwen-Image-2.1",
-   "date": "2026-09-21T00:25:29.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "07a9efb9a155",
-   "title": "How V7 gives AI agents institutional memory",
-   "link": "https://openai.com/index/v7",
-   "date": "2026-09-21T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
-  },
-  {
-   "id": "87a2ea6346f8",
-   "title": "tokenizers v1: encode, decode and scaling, measured",
-   "link": "https://huggingface.co/blog/tokenizers-v1",
-   "date": "2026-09-21T00:00:00.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "e26f1da0bd73",
-   "title": "Saiyanfeld: The Scouter",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wlx0kb/saiyanfeld_the_scouter/",
-   "date": "2026-09-20T23:59:09.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NXpzZXVxN21rcnFoMVf1cEZXU8gFBwNfRNLJAiNQ9S2zWcsCGZ4J0C8IwH8k.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=bf0b05cbc8dfe5ddf147ccc292f93656ce45a405",
-   "excerpt": "submitted by /u/Spikan [link] [comments]"
   }
  ]
 }
