@@ -1,6 +1,262 @@
 {
- "updated": "2026-10-01T19:34:40.441Z",
+ "updated": "2026-10-01T23:55:20.366Z",
  "items": [
+  {
+   "id": "ff8ebd76d7e8",
+   "title": "jaydenjames01/jaydenv2",
+   "link": "https://huggingface.co/jaydenjames01/jaydenv2",
+   "date": "2026-10-01T22:57:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d531d25965cb",
+   "title": "RunningHubAI/rh-kroma-v0.3-turbo-unet",
+   "link": "https://huggingface.co/RunningHubAI/rh-kroma-v0.3-turbo-unet",
+   "date": "2026-10-01T22:50:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "b16cc4ff2eb8",
+   "title": "lloydchristmas1231/maysim-era-late",
+   "link": "https://huggingface.co/lloydchristmas1231/maysim-era-late",
+   "date": "2026-10-01T22:45:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c6337a6f7142",
+   "title": "lloydchristmas1231/maysim-era-early",
+   "link": "https://huggingface.co/lloydchristmas1231/maysim-era-early",
+   "date": "2026-10-01T22:44:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "7d211f0c633a",
+   "title": "lloydchristmas1231/halbaug-claude",
+   "link": "https://huggingface.co/lloydchristmas1231/halbaug-claude",
+   "date": "2026-10-01T22:40:37.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ab8eda3cb1dc",
+   "title": "lloydchristmas1231/jenkov-claude",
+   "link": "https://huggingface.co/lloydchristmas1231/jenkov-claude",
+   "date": "2026-10-01T22:33:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c9d2220149a4",
+   "title": "lloydchristmas1231/kaitbaug-claude",
+   "link": "https://huggingface.co/lloydchristmas1231/kaitbaug-claude",
+   "date": "2026-10-01T22:32:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "254f8277b363",
+   "title": "lloydchristmas1231/nicgab-claude",
+   "link": "https://huggingface.co/lloydchristmas1231/nicgab-claude",
+   "date": "2026-10-01T22:26:20.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e6ee2f9643a1",
+   "title": "lloydchristmas1231/kaithamb-claude",
+   "link": "https://huggingface.co/lloydchristmas1231/kaithamb-claude",
+   "date": "2026-10-01T22:16:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a816b6da90fd",
+   "title": "Ballsworthy/flux-belle-princess",
+   "link": "https://huggingface.co/Ballsworthy/flux-belle-princess",
+   "date": "2026-10-01T22:10:24.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "828b34da74d2",
+   "title": "Elmo Breaks In",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wvcslu/elmo_breaks_in/",
+   "date": "2026-10-01T22:09:04.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NzV0NHZyY3ppeHNoMSxSvhhBThsryxMzdqoisu5R2GT1YxH9Hay3EQ6oa0MB.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0452c50fb30f7bb73a515694b150e3da9cd64eaf",
+   "excerpt": "submitted by /u/TradingCardGirl [link] [comments]"
+  },
+  {
+   "id": "72f32b360ac8",
+   "title": "Sompareq23/Qwen-Image-2.1",
+   "link": "https://huggingface.co/Sompareq23/Qwen-Image-2.1",
+   "date": "2026-10-01T22:09:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ce18eca54dc3",
+   "title": "🤷‍♀️",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wvcfjq/_/",
+   "date": "2026-10-01T21:53:38.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OHhyNThvdDdneHNoMR3ycTnmve7I5Nc6_l90TPfjIcaNRyIwBqz1KZVLofVn.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=a6ed3e5bc2ae86a2f376b48b3817757b92333d9d",
+   "excerpt": "submitted by /u/TradingCardGirl [link] [comments]"
+  },
+  {
+   "id": "cce6c7a7a157",
+   "title": "How the Hitmakers Behind 'Off Campus' Translate Script to Song",
+   "link": "https://nofilmschool.com/doug-rockwell-tova-litvin-off-campus",
+   "date": "2026-10-01T21:15:03.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/doug-rockwell-and-tova-litvin-off-cmapus.jpg?id=68021590&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "Emmy-winning and Billboard chart-topping Songwriters / Producers Doug Rockwell and Tova Litvin, the duo behind the music of High School Musical: The Musical: The Series, Julie and the Phantoms, and the ZOMBIES franchise, have recently brought their signature sound to Off Campus. They worked with executive music producer Alana Da Fonseca; they co-wrote original songs like \"Yellow Haze\" and \"Keep Pr"
+  },
+  {
+   "id": "b2ebead24b15",
+   "title": "Humanity 2 - A success story",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wvbeci/humanity_2_a_success_story/",
+   "date": "2026-10-01T21:09:42.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dW5kczU2eno3eHNoMSlsYOFYDm19tnlF10B972H6l_mmyAKggV0cst5VK-cN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=427622d47a09474fc8e85c2cf71368fbbf49c29d",
+   "excerpt": "submitted by /u/konibak [link] [comments]"
+  },
+  {
+   "id": "c3e3f87fd90c",
+   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+   "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+   "date": "2026-10-01T21:08:11.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
+  },
+  {
+   "id": "fc8f8450ab27",
+   "title": "'Apocalypse Now' Cut Breakdown: 1979 Theatrical vs. Redux vs. Final Cut",
+   "link": "https://nofilmschool.com/apocalypse-now-cut-breakdown",
+   "date": "2026-10-01T20:36:32.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/apocalypse-now-cut-breakdown.webp?id=68021766&width=1245&height=700&coordinates=0%2C0%2C0%2C1",
+   "excerpt": "Last night, I went to the Academy Museum and watched Apocalypse Now: Final Cut in 4K DCP. It was the first time I had ever seen that version of the movie, and it got me thinking...what's the difference between it and the other cuts of the movie? Over the decades, Coppola and editor Walter Murch have re-edited the film into three official widely released versions, along with a legendary bootleg cut"
+  },
+  {
+   "id": "63c87fb7f1eb",
+   "title": "When you meet the subway creeper girl",
+   "link": "https://www.reddit.com/r/aivideo/comments/1wv9fty/when_you_meet_the_subway_creeper_girl/",
+   "date": "2026-10-01T19:51:42.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "",
+   "excerpt": "submitted by /u/xPainx [link] [comments]"
+  },
+  {
+   "id": "2ea0f44586ad",
+   "title": "Google’s new Guided Vision feature can help you read the fine print",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+   "date": "2026-10-01T19:47:51.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. Like t"
+  },
   {
    "id": "a4548c383007",
    "title": "ChatGPT can now virtually try on clothes for you",
@@ -1049,6 +1305,17 @@
    "excerpt": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI head of design Benji Taylor calls it a \"newly refreshed Grokipedia.\" Grokipedia's old homepage was pretty much just a logo and a search bar, but the upda"
   },
   {
+   "id": "b35ef3c4570c",
+   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+   "link": "https://openai.com/index/the-den-family-social",
+   "date": "2026-10-01T00:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days."
+  },
+  {
    "id": "97bde9842eac",
    "title": "Quack | A Very Strange Night at the Comedy Club (Animated Short)",
    "link": "https://www.reddit.com/r/aivideo/comments/1wukr4x/quack_a_very_strange_night_at_the_comedy_club/",
@@ -1223,7 +1490,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: minimax-h3, minimax, comfyui, vae, video-vae, video-generation",
    "hf": {
-    "likes": 21,
+    "likes": 27,
     "downloads": 120,
     "pipeline": "image-to-video"
    }
@@ -3651,7 +3918,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 12. Tags: peft, lora, text-to-video, video, audio, minimax",
    "hf": {
-    "likes": 14,
+    "likes": 15,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4843,7 +5110,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, custom_minimax_h3, video-generation, text-to-video, image-to-video, audio-video-generation",
    "hf": {
-    "likes": 22,
+    "likes": 24,
     "downloads": 22438,
     "pipeline": "trending video"
    }
@@ -7158,268 +7425,6 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
-  },
-  {
-   "id": "8d533600337a",
-   "title": "v0.37.4",
-   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.37.4",
-   "date": "2026-09-25T22:08:57.000Z",
-   "source": "ComfyUI Releases",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
-   "excerpt": "ComfyUI v0.37.4"
-  },
-  {
-   "id": "18d089ce7fb0",
-   "title": "RunningHubAI/rh-bbwchubbyfat-lora",
-   "link": "https://huggingface.co/RunningHubAI/rh-bbwchubbyfat-lora",
-   "date": "2026-09-25T21:47:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a6d0b9bf3eb6",
-   "title": "Intersecting Tragedy, Memory, and the Gridiron in '14 Days in Gainesville'",
-   "link": "https://nofilmschool.com/14-days-in-gainesville",
-   "date": "2026-09-25T21:42:56.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/14-days-in-gainesville.png?id=67825167&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "In August 1990, the city of Gainesville, Florida, was gripped by unimaginable terror as a violent crime spree claimed the lives of five college students: Sonja Larson, Christina Powell, Christa Hoyt, Tracy Paules, and Manuel Taboada. It was a tragic moment that rocked the nation, especially the student-athletes of Florida, who had ot find a way to play football through unimaginable grief. In the E"
-  },
-  {
-   "id": "487e931fd9ce",
-   "title": "mamaspasimnenadoelo/davinci_style_LoRA",
-   "link": "https://huggingface.co/mamaspasimnenadoelo/davinci_style_LoRA",
-   "date": "2026-09-25T21:40:06.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, template:sd-lora",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4ed534c4a275",
-   "title": "RunningHubAI/rh-dasiwaltx23lightspeed-solsticecoinv2-unet",
-   "link": "https://huggingface.co/RunningHubAI/rh-dasiwaltx23lightspeed-solsticecoinv2-unet",
-   "date": "2026-09-25T21:30:59.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "765b7ff5d420",
-   "title": "SimpleTuner/Qwen-Image-2.1-training-assistant-v2",
-   "link": "https://huggingface.co/SimpleTuner/Qwen-Image-2.1-training-assistant-v2",
-   "date": "2026-09-25T21:13:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, simpletuner, training-assistant, qwen-image, experimental, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d6465832eeaf",
-   "title": "magonovas/kor_style_LoRA",
-   "link": "https://huggingface.co/magonovas/kor_style_LoRA",
-   "date": "2026-09-25T21:07:58.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, template:sd-lora",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e7a70590b79b",
-   "title": "RunningHubAI/rh-wan2.2-remix-i2v-lownoise-fp8-v3.0-unet",
-   "link": "https://huggingface.co/RunningHubAI/rh-wan2.2-remix-i2v-lownoise-fp8-v3.0-unet",
-   "date": "2026-09-25T21:03:59.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "a87692b91c04",
-   "title": "A Look at the Stock Lens Option for the New Nikon Z5 IIC and Its Versatile Range",
-   "link": "https://nofilmschool.com/nikon-z5-iic-stock-lens",
-   "date": "2026-09-25T21:03:24.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/nikon-nikkor-z-24-50mm-f-4-6-3.png?id=67857617&width=1245&height=700&coordinates=5%2C0%2C5%2C0",
-   "excerpt": "The new Nikon Z5 IIC was unveiled yesterday, and while it might not be a top option for those looking for top-end recording specs and features, it could be a popular pick for hybrid shooters and budget-conscious content creators looking to upgrade to mirrorless for the first time. Affordable yet still capable, the Z5 IIC looks like a versatile, balanced option for aspiring photo and video pros. Ho"
-  },
-  {
-   "id": "281aa9ccbbe4",
-   "title": "RunningHubAI/rh-wan2.2-remix-i2v-lownoise-fp8-v2.1-unet",
-   "link": "https://huggingface.co/RunningHubAI/rh-wan2.2-remix-i2v-lownoise-fp8-v2.1-unet",
-   "date": "2026-09-25T20:58:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "8de38d355790",
-   "title": "Meta opens early access program for new Muse features",
-   "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-   "date": "2026-09-25T20:34:53.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Anyone interested in joining has to ask Muse to put them on the list."
-  },
-  {
-   "id": "31bd1c87fa1a",
-   "title": "RunningHubAI/rh-minimax-h3-hybrid-fl2va-ref2va-b25-49-int8-r-unet",
-   "link": "https://huggingface.co/RunningHubAI/rh-minimax-h3-hybrid-fl2va-ref2va-b25-49-int8-r-unet",
-   "date": "2026-09-25T20:32:27.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
-   "hf": {
-    "likes": 2,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "ef7ac2af7341",
-   "title": "4 Movies That Were Inspired By Alfred Hitchcock's 'Psycho'",
-   "link": "https://nofilmschool.com/movies-that-were-inspired-by-alfred-hitchcocks-psycho",
-   "date": "2026-09-25T20:30:07.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/anthony-perkins-as-norman-bates-in-the-final-scene-of-alfred-hitchcock-s-classic-1960-horror-film-psycho.png?id=67851455&width=980",
-   "excerpt": "Psycho (1960) was the dawn of a new breed of horror movies, and there was no turning back for the genre. The iconic shower kill, the performances by Anthony Perkins and Janet Leigh, and the suspenseful film style would make it one of director Alfred Hitchcock’s enduring works. It didn’t take long after its theatrical release to leave an impact on cinema and especially on the horror and thriller ge"
-  },
-  {
-   "id": "a181992883fa",
-   "title": "v0.37.3",
-   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.37.3",
-   "date": "2026-09-25T20:20:03.000Z",
-   "source": "ComfyUI Releases",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
-   "excerpt": "ComfyUI v0.37.3"
-  },
-  {
-   "id": "23a7f4b5ea76",
-   "title": "Space Pirates",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wq6b12/space_pirates/",
-   "date": "2026-09-25T20:00:47.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bmN4Y2M5aG0ycXJoMXK7fveiPIqWgZj3c7GWoP8-9VfUtLxxjPw8VN5-VJug.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b1357726bb275f8edba9b8d6bc2d0330e811e027",
-   "excerpt": "submitted by /u/LeadershipBig9341 [link] [comments]"
-  },
-  {
-   "id": "003507376df6",
-   "title": "2011 Martin Scorsese Classic Lost $100 Million, Then Went on to Sweep the Oscars",
-   "link": "https://nofilmschool.com/hugo-box-office-performance-oscar-wins-explained",
-   "date": "2026-09-25T20:00:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/martin-scorsese-operating-a-camera-in-hugo.jpg?id=67851390&width=980",
-   "excerpt": "Martin Scorsese is one of the most widely beloved film directors of all time. The 16-time Oscar nominee (and one-time winner: Best Director for The Departed) has five movies in the National Film Registry, three movies on the most recent Sight & Sound Top 100, and three on the American Film Institute’s Top 100 list. While classics like Taxi Driver, Raging Bull, and Goodfellas have cemented him as a"
-  },
-  {
-   "id": "1300b043cae7",
-   "title": "RunningHubAI/rh-p-qwen-image-2.1-8step-v0.1-comfyui-t8-lora",
-   "link": "https://huggingface.co/RunningHubAI/rh-p-qwen-image-2.1-8step-v0.1-comfyui-t8-lora",
-   "date": "2026-09-25T19:49:04.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "f0278161c098",
-   "title": "^ ^",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wq5rz7/_/",
-   "date": "2026-09-25T19:39:59.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bm0yNmo0Ynh5cHJoMe3_JMT6cMlEdkrNjKodCR1TDCBAN6xovsdBdZiq0n0G.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=27a6f844300c5a286cc933de85ed13b3e2c687ed",
-   "excerpt": "submitted by /u/Next-Check639 [link] [comments]"
-  },
-  {
-   "id": "b200a60c89ad",
-   "title": "tkalya191005/monet_style_LoRA",
-   "link": "https://huggingface.co/tkalya191005/monet_style_LoRA",
-   "date": "2026-09-25T19:35:16.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, template:sd-lora",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c327fa3a1324",
-   "title": "Myths of Aztleau - Bloodfrost",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wq5lun/myths_of_aztleau_bloodfrost/",
-   "date": "2026-09-25T19:33:12.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/djR2YWdudnB4cHJoMbyk0Zi8leuJsHx3dtkZEfCbbeO6JqeFfkhz6CpbSucy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0192a202e7514872db5db3b400e9fa075378835c",
-   "excerpt": "submitted by /u/Advanced-Power-1775 [link] [comments]"
   }
  ]
 }
