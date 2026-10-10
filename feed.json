@@ -1,6 +1,216 @@
 {
- "updated": "2026-10-09T21:00:52.508Z",
+ "updated": "2026-10-10T00:55:41.782Z",
  "items": [
+  {
+   "id": "e4841e6e903d",
+   "title": "unsloth/Qwen-Image-2.1-Turbo-FP8",
+   "link": "https://huggingface.co/unsloth/Qwen-Image-2.1-Turbo-FP8",
+   "date": "2026-10-10T00:42:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, fp8, int8, unsloth, quantized, qwen",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3fc0fe8ac680",
+   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+   "date": "2026-10-10T00:18:32.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+  },
+  {
+   "id": "fc345f4c8633",
+   "title": "mflux-community/fibo-1-5-mflux-q8",
+   "link": "https://huggingface.co/mflux-community/fibo-1-5-mflux-q8",
+   "date": "2026-10-09T22:49:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mflux, safetensors, mlx, apple-silicon, quantized, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "aa67cd5ed568",
+   "title": "mflux-community/fibo-1-5-mflux-bf16",
+   "link": "https://huggingface.co/mflux-community/fibo-1-5-mflux-bf16",
+   "date": "2026-10-09T22:47:47.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mflux, safetensors, mlx, apple-silicon, text-to-image, fibo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b17ea3d07d03",
+   "title": "TechnoBaptist/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+   "link": "https://huggingface.co/TechnoBaptist/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+   "date": "2026-10-09T22:42:30.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, atomic-chat, qwen, qwen-image, qwen3-vl, text-encoder",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "47dee6ceeeb1",
+   "title": "xocialize/Qwen-Image-2.1-Turbo",
+   "link": "https://huggingface.co/xocialize/Qwen-Image-2.1-Turbo",
+   "date": "2026-10-09T22:38:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, qwen, mirror, turbo, few-step",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "cb5b70b8768b",
+   "title": "Andyx1976/Kroma0.1Lora  (♥ 1)",
+   "link": "https://huggingface.co/Andyx1976/Kroma0.1Lora",
+   "date": "2026-10-09T21:50:24.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4dafb6d6a296",
+   "title": "joeynyc/Studio-Image-Turbo-MLX-4bit-from-Qwen-2.1",
+   "link": "https://huggingface.co/joeynyc/Studio-Image-Turbo-MLX-4bit-from-Qwen-2.1",
+   "date": "2026-10-09T21:50:03.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mflux, safetensors, mlx, quantized, apple-silicon, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0cd713c9cc70",
+   "title": "joeynyc/Studio-Image-Turbo-MLX-6bit-from-Qwen-2.1",
+   "link": "https://huggingface.co/joeynyc/Studio-Image-Turbo-MLX-6bit-from-Qwen-2.1",
+   "date": "2026-10-09T21:49:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mflux, safetensors, mlx, quantized, apple-silicon, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "059a03cb7b8a",
+   "title": "toxicdog/Qwen-Image-2.1-Turbo-INT4-ConvRot  (♥ 1)",
+   "link": "https://huggingface.co/toxicdog/Qwen-Image-2.1-Turbo-INT4-ConvRot",
+   "date": "2026-10-09T21:49:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusion-single-file, comfyui, image-generation, qwen, int4, convrot",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a97991ba15d3",
+   "title": "DJ Harry P meets Gandalf the G",
+   "link": "https://www.reddit.com/r/aivideo/comments/1x1xya9/dj_harry_p_meets_gandalf_the_g/",
+   "date": "2026-10-09T21:45:47.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MTF6djFiNHZoaXVoMXUyvU-SGUAJ8fpRNW9n3LGyyuo5udLiPyXuwW5do7HH.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cbcb00399af0177caeb1a53514229815ebe6acf0",
+   "excerpt": "submitted by /u/theveloper7 [link] [comments]"
+  },
+  {
+   "id": "6609f1addbf3",
+   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+   "date": "2026-10-09T21:41:29.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
+  },
+  {
+   "id": "ec2999c36a25",
+   "title": "OsaurusAI/Qwen-Image-2.1-Turbo-mflux-4bit",
+   "link": "https://huggingface.co/OsaurusAI/Qwen-Image-2.1-Turbo-mflux-4bit",
+   "date": "2026-10-09T21:40:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mflux, safetensors, text-to-image, image-to-image, image-editing, quantized",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "fd1e37b284dc",
+   "title": "Aaaaaand im done, i surrender: Seinfeld DBZ has just won me over (Not mine)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1x1xql5/aaaaaand_im_done_i_surrender_seinfeld_dbz_has/",
+   "date": "2026-10-09T21:36:35.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Mmhha2xqd3pmaXVoMXBRAmMwyj5uh06iDMJDf9QSF7tD967diTzcINBrB6Gr.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=42e0d0c536cad6530251c04bc94169566c05d7f0",
+   "excerpt": "submitted by /u/-VoiceoverAlex- [link] [comments]"
+  },
+  {
+   "id": "5b834ed3369b",
+   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+   "date": "2026-10-09T21:15:38.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as spam. Anthropic learned its AI model sent the false t"
+  },
   {
    "id": "67b40f172a5e",
    "title": "webmp3/Sakura-Qwen-Image-2.1-Turbo-GGUF",
@@ -26,6 +236,16 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/crystal-lake.jpg?id=68403249&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
    "excerpt": "Crystal Lake, which is the first official installment in the Friday the 13th franchise since 2009, is mere days away from its premiere on Peacock on October 15. The show, which is set to drop all eight episodes of its premiere season on that date, is a prequel following the exploits of Pamela Voorhees (Linda Cardellini), the mother of the franchise’s hockey-masked serial killer Jason Voorhees. Thi"
+  },
+  {
+   "id": "3fa846a87140",
+   "title": "Meet VELVET RIOT — the sound of the underground",
+   "link": "https://www.reddit.com/r/aivideo/comments/1x1vzvd/meet_velvet_riot_the_sound_of_the_underground/",
+   "date": "2026-10-09T20:24:18.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YjBkbDB0dmszaXVoMdJOW7QHccOJlyXS16OGes8WXUc8LOYeHTsCyF5h1zZJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a0ec51af722a82c965f664e93e7d19167f79aea",
+   "excerpt": "submitted by /u/noumenon-lab [link] [comments]"
   },
   {
    "id": "2170235af486",
@@ -1073,7 +1293,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 170. Tags: diffusers, safetensors, qwen, image-generation, image-editing, text-to-image",
    "hf": {
-    "likes": 261,
+    "likes": 290,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -5310,7 +5530,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 18, likes: 43. Tags: pytorch, safetensors, text-to-image, diffusion, pixel-space, flow-matching",
    "hf": {
-    "likes": 69,
+    "likes": 73,
     "downloads": 68,
     "pipeline": "trending image"
    }
@@ -7193,181 +7413,6 @@
    "cat": "community",
    "thumb": "https://preview.redd.it/5qlu77aq9dth1.jpg?width=140&amp;height=93&amp;auto=webp&amp;s=0e035e8ab0aec12dc4f3c1a2276892b34d0811d5",
    "excerpt": "Midjourney 8.2 + Magnific submitted by /u/Big_Addendum_9920 [link] [comments]"
-  },
-  {
-   "id": "b718f9f34922",
-   "title": "Blinky The Dragon: The Volcano Challenge",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wx4se2/blinky_the_dragon_the_volcano_challenge/",
-   "date": "2026-10-04T02:45:58.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MnlnMm9xODc2ZHRoMTLLVFr2yFghUD74SrIo5xPVEanr6GPglus3SBHd5Qsb.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d181b9fb53de5512c77c1ad1598e91df3e49e5c1",
-   "excerpt": "submitted by /u/reibored2ai [link] [comments]"
-  },
-  {
-   "id": "29f4ba29cbc3",
-   "title": "Fiery planet",
-   "link": "https://www.reddit.com/r/midjourney/comments/1wx4g5g/fiery_planet/",
-   "date": "2026-10-04T02:27:36.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/zquolhox2dth1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f55af2136812ebac283a46a7d068a219b199e29d",
-   "excerpt": "submitted by /u/Separate-Way5095 [link] [comments]"
-  },
-  {
-   "id": "7b18fbabe455",
-   "title": "Looking at Seedance 2.5 videos made me realize we need the 2K update for Minimax H3",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1wx3xlk/looking_at_seedance_25_videos_made_me_realize_we/",
-   "date": "2026-10-04T01:59:56.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "For now the quality difference is staggering, Minimax H3 is incredible and far beyond what we had locally but the broken promise of the 2K update is quite noticeable now, just look at how crisp the micro details are with SD2.5, with Minimax H3 it's pixelated and shimmery, if you have a static shot you can notice pixels shifting and altering colors every few frames regardless of what happening on t"
-  },
-  {
-   "id": "f54fc69699f5",
-   "title": "Misc from today",
-   "link": "https://www.reddit.com/r/midjourney/comments/1wx3c6w/misc_from_today/",
-   "date": "2026-10-04T01:28:03.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/zd6idupjrcth1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=8ece8304c59d1cba0c52e245dc7ad3d27e872dd7",
-   "excerpt": "From Today submitted by /u/Lopsided-Ad-1858 [link] [comments]"
-  },
-  {
-   "id": "a4be25ff6d02",
-   "title": "DIODATUS and the Odor of Sanctity",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wx3ahh/diodatus_and_the_odor_of_sanctity/",
-   "date": "2026-10-04T01:25:29.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aGNhOGw5aGdyY3RoMazpJKmJla-a8fpti9bg1JdQkSEWmzoY3fil44VeHtVo.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0268cff6affba11725f65f76b32e20748e0d3756",
-   "excerpt": "submitted by /u/Far_Aside_4323 [link] [comments]"
-  },
-  {
-   "id": "039a3114ff68",
-   "title": "aether-models/wan22-ti2v-5b-fast-int8",
-   "link": "https://huggingface.co/aether-models/wan22-ti2v-5b-fast-int8",
-   "date": "2026-10-04T01:20:39.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: aether, core-ai, apple, ios, image-to-video, base_model:FastVideo/FastWan2.2-TI2V-5B-FullAttn-Diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "cfc06d94c09e",
-   "title": "RunningHubAI/rh-grade-anima-mix-unet",
-   "link": "https://huggingface.co/RunningHubAI/rh-grade-anima-mix-unet",
-   "date": "2026-10-04T00:57:16.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "2cd051951179",
-   "title": "New update on my 3D pose editor 🤩",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1wx2r1p/new_update_on_my_3d_pose_editor/",
-   "date": "2026-10-04T00:57:10.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cHEyYTVuZmRtY3RoMXZdRLbNtU2TvEN1WBEd2E3QMwFI981aT6FYQJZa4e0p.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fdc9a9d39aaf21843a5db4895763390c22c86293",
-   "excerpt": "I am so excited for this project! New update to my pose editor, added extract pose from image, more tools to help with making pose fast. Added pose preset. Can't wait for y'all to try this and make some awesome stuff with it. Using Qwen image 2.1 comfyui workflow as backend submitted by /u/Swaggsz [link] [comments]"
-  },
-  {
-   "id": "8b540b0f36a4",
-   "title": "a pursuit sinister.",
-   "link": "https://www.reddit.com/r/midjourney/comments/1wx2o4u/a_pursuit_sinister/",
-   "date": "2026-10-04T00:52:48.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/s1yfqtcylcth1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a08d584c0eadd88e97965df649e6f347dd499f23",
-   "excerpt": "Midjourney 8.2 + Magnific submitted by /u/Big_Addendum_9920 [link] [comments]"
-  },
-  {
-   "id": "c89906cb86a1",
-   "title": "The midnight hour is close at hand",
-   "link": "https://www.reddit.com/r/midjourney/comments/1wx1dyq/the_midnight_hour_is_close_at_hand/",
-   "date": "2026-10-03T23:47:53.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YjZoYjJneTc1Y3RoMZn9x5WQsBrvYi6Pb5UDz8v--GCnNckjGmriJJooIe1_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=45adb076d57b04adce96e5a867d85f4bc7f23ace",
-   "excerpt": "submitted by /u/Educational-Field804 [link] [comments]"
-  },
-  {
-   "id": "ca05a537ff65",
-   "title": "I may be the stupidest person on this sub",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1wx15bb/i_may_be_the_stupidest_person_on_this_sub/",
-   "date": "2026-10-03T23:35:15.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/7y1hvkb38cth1.png?width=140&amp;height=93&amp;auto=webp&amp;s=98d0353abc6912358f29892f98bf4caa62a2b1e1",
-   "excerpt": "https://preview.redd.it/7y1hvkb38cth1.png?width=1536&format=png&auto=webp&s=3a3f65ee74137050bf4a04e5c41b8256b15c2a75 Back when Flux 2 Klein was released I tried it, but couldn’t make it work. Images were just ugly and wrong. All patchy and had weird colors. I was confused , and thought that local editing AI models suck and I have to resort to chatgpt and nana banana for image editing. I used it si"
-  },
-  {
-   "id": "016378578c1d",
-   "title": "The Agent Said It Was Done. The Database Disagreed.",
-   "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-   "date": "2026-10-03T22:56:48.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "abd40043ad77",
-   "title": "TrueGun! A show that might look familiar from you childhood but is not",
-   "link": "https://www.reddit.com/r/aivideo/comments/1wx08eo/truegun_a_show_that_might_look_familiar_from_you/",
-   "date": "2026-10-03T22:49:25.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZjAzc3BkamF6YnRoMaPjQlOrYialL1GF24sB93L_6ralliZ9Rwj5LTd0z0-r.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=924cf505b49dad4778e07642ef2704cf734088e1",
-   "excerpt": "submitted by /u/sdrowegnarts [link] [comments]"
-  },
-  {
-   "id": "46e11cea5bf5",
-   "title": "garden-variety angels",
-   "link": "https://www.reddit.com/r/midjourney/comments/1wwzplw/gardenvariety_angels/",
-   "date": "2026-10-03T22:23:42.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/n25zfuxcvbth1.jpg?width=140&amp;height=104&amp;auto=webp&amp;s=a27fb0c6295c079314323e2a89c14041e69269f4",
-   "excerpt": "submitted by /u/Big_Addendum_9920 [link] [comments]"
-  },
-  {
-   "id": "41634b49b478",
-   "title": "Punk",
-   "link": "https://www.reddit.com/r/midjourney/comments/1wwzlty/punk/",
-   "date": "2026-10-03T22:18:44.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/1fx5tcgiubth1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=3542e1fd3bb00e16f43f6c9708f4518d2223b02f",
-   "excerpt": "submitted by /u/Standard-File-8187 [link] [comments]"
-  },
-  {
-   "id": "9b084f5e2127",
-   "title": "Minimax H3 + RefMod = consistent location trick",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1wwyva2/minimax_h3_refmod_consistent_location_trick/",
-   "date": "2026-10-03T21:44:28.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/MTYxMGY5OTZtYnRoMQyGldZsrFHsupCPR7joiuEuorkPHVL8nqqeOMtKz6OQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d7f4255327e20c7a4091ee0b216a1e9fd1f3f7cc",
-   "excerpt": "Hey, I found a pretty cool way to keep locations consistent across generations. I took 20 photos of my “office” where I work, making sure each photo included a bit of the previous one so everything connected. I turned them into a refmod, although it probably doesn’t even need to be one. It’s basically a grid of all 20 photos in a single image, within 2048×2048 pixels, so I could probably just use "
   }
  ]
 }
