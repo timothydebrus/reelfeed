@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-16T21:14:30.294Z",
+ "updated": "2026-10-16T23:39:42.261Z",
  "items": [
+  {
+   "id": "8123cadd7547",
+   "title": "marciano1111/bn",
+   "link": "https://huggingface.co/marciano1111/bn",
+   "date": "2026-10-16T22:52:55.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c016b6258a8c",
+   "title": "Pertere/Qwen-Image-2.1",
+   "link": "https://huggingface.co/Pertere/Qwen-Image-2.1",
+   "date": "2026-10-16T22:47:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f98eda9fc5fe",
+   "title": "Angais/MOSS-Image-PixelArt-16x16",
+   "link": "https://huggingface.co/Angais/MOSS-Image-PixelArt-16x16",
+   "date": "2026-10-16T22:02:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, text-to-image, pixel-art, sprites, game-assets, 16x16",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a5cbdf405338",
+   "title": "rajaleomkar14/data266-p2-pokemon-run2-full-unet-1500",
+   "link": "https://huggingface.co/rajaleomkar14/data266-p2-pokemon-run2-full-unet-1500",
+   "date": "2026-10-16T21:26:15.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, text-to-image, full-fine-tune, dataset:reach-vb/pokemon-blip-captions",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ec61b420641d",
+   "title": "rajaleomkar14/data266-p2-pokemon-run1-lora-1500",
+   "link": "https://huggingface.co/rajaleomkar14/data266-p2-pokemon-run1-lora-1500",
+   "date": "2026-10-16T21:26:08.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, text-to-image, lora, dataset:reach-vb/pokemon-blip-captions, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "13131774e811",
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "date": "2026-10-16T21:22:28.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+  },
   {
    "id": "9e35a75e9d03",
    "title": "Light Bright in Tight Spaces With These Compact and Powerful Bi-Color LED Monolights",
@@ -178,6 +268,17 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/arri-lpm-1-sup-1-0-0.png?id=68452828&width=1245&height=700&coordinates=106%2C0%2C107%2C0",
    "excerpt": "Alongside notable updates to its ALEXA 35mm and 65mm camera range, ARRI has announced an important Software Update Package (SUP) for its Live Production Monitor. The ARRI LPM-1 is getting the release of SUP 1.0.0, which aims to improve the overall user experience of the de facto live window to the company’s ALEXA 35 Live multicam system. The update is also required to stabilize the monitor when it"
+  },
+  {
+   "id": "a6c97cf718be",
+   "title": "How Itaú is building generative AI for its entire customer base",
+   "link": "https://openai.com/index/itau-generative-ai",
+   "date": "2026-10-16T19:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors."
   },
   {
    "id": "f6daaf65b893",
@@ -6432,7 +6533,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 54, likes: 112. Tags: diffusers, safetensors, moss-image, text-to-image, en, zh",
    "hf": {
-    "likes": 112,
+    "likes": 129,
     "downloads": 54,
     "pipeline": "trending image"
    }
@@ -6448,7 +6549,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 73, likes: 108. Tags: diffusers, safetensors, moss-image, text-to-image, en, zh",
    "hf": {
-    "likes": 108,
+    "likes": 119,
     "downloads": 73,
     "pipeline": "trending image"
    }
@@ -7636,94 +7737,6 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs."
-  },
-  {
-   "id": "ec2999c36a25",
-   "title": "OsaurusAI/Qwen-Image-2.1-Turbo-mflux-4bit",
-   "link": "https://huggingface.co/OsaurusAI/Qwen-Image-2.1-Turbo-mflux-4bit",
-   "date": "2026-10-09T21:40:27.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mflux, safetensors, text-to-image, image-to-image, image-editing, quantized",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "fd1e37b284dc",
-   "title": "Aaaaaand im done, i surrender: Seinfeld DBZ has just won me over (Not mine)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x1xql5/aaaaaand_im_done_i_surrender_seinfeld_dbz_has/",
-   "date": "2026-10-09T21:36:35.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Mmhha2xqd3pmaXVoMXBRAmMwyj5uh06iDMJDf9QSF7tD967diTzcINBrB6Gr.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=42e0d0c536cad6530251c04bc94169566c05d7f0",
-   "excerpt": "submitted by /u/-VoiceoverAlex- [link] [comments]"
-  },
-  {
-   "id": "5b834ed3369b",
-   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-   "date": "2026-10-09T21:15:38.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as spam. Anthropic learned its AI model sent the false t"
-  },
-  {
-   "id": "67b40f172a5e",
-   "title": "webmp3/Sakura-Qwen-Image-2.1-Turbo-GGUF",
-   "link": "https://huggingface.co/webmp3/Sakura-Qwen-Image-2.1-Turbo-GGUF",
-   "date": "2026-10-09T20:32:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, sakura, sakura-mini, stable-diffusion.cpp, comfyui, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e66770d3a4ca",
-   "title": "'Crystal Lake' Premieres October 15: Everything We Know About the Friday the 13th Prequel",
-   "link": "https://nofilmschool.com/crystal-lake-premieres-october-15-everything-we-know-about-the-friday-the-13th-prequel",
-   "date": "2026-10-09T20:30:03.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/crystal-lake.jpg?id=68403249&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "Crystal Lake, which is the first official installment in the Friday the 13th franchise since 2009, is mere days away from its premiere on Peacock on October 15. The show, which is set to drop all eight episodes of its premiere season on that date, is a prequel following the exploits of Pamela Voorhees (Linda Cardellini), the mother of the franchise’s hockey-masked serial killer Jason Voorhees. Thi"
-  },
-  {
-   "id": "3fa846a87140",
-   "title": "Meet VELVET RIOT — the sound of the underground",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x1vzvd/meet_velvet_riot_the_sound_of_the_underground/",
-   "date": "2026-10-09T20:24:18.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YjBkbDB0dmszaXVoMdJOW7QHccOJlyXS16OGes8WXUc8LOYeHTsCyF5h1zZJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2a0ec51af722a82c965f664e93e7d19167f79aea",
-   "excerpt": "submitted by /u/noumenon-lab [link] [comments]"
-  },
-  {
-   "id": "2170235af486",
-   "title": "asd44633/sienna-krea2",
-   "link": "https://huggingface.co/asd44633/sienna-krea2",
-   "date": "2026-10-09T20:21:06.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
