@@ -1,6 +1,638 @@
 {
- "updated": "2026-10-19T07:50:54.465Z",
+ "updated": "2026-10-19T21:06:39.293Z",
  "items": [
+  {
+   "id": "ca5fccc73abc",
+   "title": "suryatmodulus/Kromoss",
+   "link": "https://huggingface.co/suryatmodulus/Kromoss",
+   "date": "2026-10-19T21:00:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, moss-image, text-to-image, en, base_model:OpenMOSS-Team/MOSS-Image-Base",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b54c1c92210a",
+   "title": "stuff123456/cheekbulgetonguejob",
+   "link": "https://huggingface.co/stuff123456/cheekbulgetonguejob",
+   "date": "2026-10-19T20:43:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Granddyser/flux-klein-9b-Biglove-Collection, base_model:adapter:Granddyser/flux-klein-9b-Biglove-Collection",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1572b44543d0",
+   "title": "RunningHubAI/rh-qwen-2.1-lora",
+   "link": "https://huggingface.co/RunningHubAI/rh-qwen-2.1-lora",
+   "date": "2026-10-19T20:43:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "fde5c68e602f",
+   "title": "Poij3012/Wan2.2-I2V-A14B-Diffusers",
+   "link": "https://huggingface.co/Poij3012/Wan2.2-I2V-A14B-Diffusers",
+   "date": "2026-10-19T20:42:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, en, zh, arxiv:2503.20314",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "bf5b18662217",
+   "title": "stuff123456/sexgodnudesexyselfies",
+   "link": "https://huggingface.co/stuff123456/sexgodnudesexyselfies",
+   "date": "2026-10-19T20:15:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Danrisi/Samsung_FluxKlein_9b, base_model:adapter:Danrisi/Samsung_FluxKlein_9b",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "37fc3e207694",
+   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+   "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+   "date": "2026-10-19T20:09:24.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+  },
+  {
+   "id": "7b99b9d52f32",
+   "title": "MarceloFSO/ltx-2.5-distilled-nvidia",
+   "link": "https://huggingface.co/MarceloFSO/ltx-2.5-distilled-nvidia",
+   "date": "2026-10-19T19:31:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, text-to-video, image-to-video, safetensors, mirror, base_model:Lightricks/LTX-2.5",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "7ab7fd77f18f",
+   "title": "The Sony FX5 is Finally (Hopefully) Set to Ship Here in Mid-November",
+   "link": "https://nofilmschool.com/sony-fx5-ready-to-ship",
+   "date": "2026-10-19T19:30:41.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/sony-fx5-ready-to-ship.jpg?id=68486480&width=1245&height=700&coordinates=0%2C81%2C0%2C82",
+   "excerpt": "In a saga that’s been going on for a while, though perhaps not as long as the never-ending DJI drone ban in the US, the hotly anticipated Sony FX5 has finally resolved its production delays and is set to begin shipping next month. Is this truly the end of the saga? For those who preordered and are waiting to get their hands on this new Sony cinema camera, with its newly developed 16.6MP full-frame"
+  },
+  {
+   "id": "23a6adb9ef6f",
+   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+   "date": "2026-10-19T19:28:34.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+  },
+  {
+   "id": "1ef9d7bc3fba",
+   "title": "The 10 Most Cursed Horror Children to Ever Grace the Screen",
+   "link": "https://nofilmschool.com/most-cursed-horror-children",
+   "date": "2026-10-19T19:20:20.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/most-cursed-horror-children.jpg?id=68486110&width=1245&height=700&coordinates=121%2C0%2C122%2C0",
+   "excerpt": "Kids are fun and full of life. But sometimes they're full of the devil. Or another ancient demon hell-bent on destroying life on Earth. Whether they're possessed by ancient demons, born the Antichrist, or simply operating on a level of unhinged malice, cursed kids are such a huge part of the horror genre. They star in some of our favorite movies, and today, I wanted to do a post dedicated to them "
+  },
+  {
+   "id": "b1a0e21853c8",
+   "title": "SearchingMan/illustrious-xl-v1.0-hyper8cfg-GGUF",
+   "link": "https://huggingface.co/SearchingMan/illustrious-xl-v1.0-hyper8cfg-GGUF",
+   "date": "2026-10-19T19:17:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, stable-diffusion-xl, sdxl, anime, stable-diffusion.cpp, hyper-sd",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "89cc978f05dc",
+   "title": "Nanico/take4",
+   "link": "https://huggingface.co/Nanico/take4",
+   "date": "2026-10-19T19:14:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4724fe410d5d",
+   "title": "SearchingMan/animagine-xl-4.0-opt-hyper4-GGUF",
+   "link": "https://huggingface.co/SearchingMan/animagine-xl-4.0-opt-hyper4-GGUF",
+   "date": "2026-10-19T19:14:36.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, stable-diffusion-xl, sdxl, anime, stable-diffusion.cpp, hyper-sd",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ee1518429f70",
+   "title": "axiomofmind/Moss-Image-base-GGUF",
+   "link": "https://huggingface.co/axiomofmind/Moss-Image-base-GGUF",
+   "date": "2026-10-19T19:13:51.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, moss-image, text-to-image, image-generation, stable-diffusion.cpp, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8f613608a7e1",
+   "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+   "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+   "date": "2026-10-19T19:00:12.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+  },
+  {
+   "id": "1ca7c3eb8354",
+   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+   "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+   "date": "2026-10-19T18:49:04.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+  },
+  {
+   "id": "ae8a2df97f22",
+   "title": "robertbschuette/minimax-h3-Camera-Motion-lora",
+   "link": "https://huggingface.co/robertbschuette/minimax-h3-Camera-Motion-lora",
+   "date": "2026-10-19T18:41:37.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, camera-movement, cinematography, video-generation",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "67511f2f58d3",
+   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+   "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+   "date": "2026-10-19T18:37:27.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
+  },
+  {
+   "id": "08d5f5dc759a",
+   "title": "mahirrr001/elena",
+   "link": "https://huggingface.co/mahirrr001/elena",
+   "date": "2026-10-19T18:37:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "086cc8632753",
+   "title": "udero/minimax-h3-turbo-gguf",
+   "link": "https://huggingface.co/udero/minimax-h3-turbo-gguf",
+   "date": "2026-10-19T18:33:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, gguf, text-to-video, image-to-video, video-generation, audio-generation",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "6334720dabc8",
+   "title": "tmllabres/sd-v1-4-ilustraciones-antiguas",
+   "link": "https://huggingface.co/tmllabres/sd-v1-4-ilustraciones-antiguas",
+   "date": "2026-10-19T18:28:24.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image, lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5a332d99ba2e",
+   "title": "robertbschuette/Wan2.2-TI2V-5B-GGUF",
+   "link": "https://huggingface.co/robertbschuette/Wan2.2-TI2V-5B-GGUF",
+   "date": "2026-10-19T18:26:00.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, ti2v, text-to-video, en, zh, base_model:Wan-AI/Wan2.2-TI2V-5B",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "85b9532fa878",
+   "title": "robertbschuette/LTX-2.5-Quantized",
+   "link": "https://huggingface.co/robertbschuette/LTX-2.5-Quantized",
+   "date": "2026-10-19T18:20:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, quantized, ltx-2, ltx-2.5, video-generation",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "ad955d5d5579",
+   "title": "robertbschuette/Cobijada_Minimax-H3_Hybrid_Pruned_ComfyUI",
+   "link": "https://huggingface.co/robertbschuette/Cobijada_Minimax-H3_Hybrid_Pruned_ComfyUI",
+   "date": "2026-10-19T18:15:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, video-generation, image-to-video, text-to-video, model-merge",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "d0fac61f830f",
+   "title": "RunningHubAI/rh-moss-sft-binyuan-v1.0-unet",
+   "link": "https://huggingface.co/RunningHubAI/rh-moss-sft-binyuan-v1.0-unet",
+   "date": "2026-10-19T18:11:37.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "6d47fedb4ce9",
+   "title": "Why Film Studios Are Trading Sound Stages for Data Centers",
+   "link": "https://nofilmschool.com/sound-stages-data-centers",
+   "date": "2026-10-19T18:02:11.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/sound-stages-for-data-centers.jpg?id=68486141&width=1245&height=700&coordinates=123%2C0%2C124%2C0",
+   "excerpt": "It's so weird when national news converges with Hollywood news, but today I want to talk about the building of data centers. And not in the context of the masterpiece, Eddington. I want to talk about them because many sound stages are sitting vacant and are being converted into data centers. That's pretty crazy, and it seems like something we all need to talk about and to know about. According to "
+  },
+  {
+   "id": "4b90c572957a",
+   "title": "Efficient-Large-Model/WORL-Lingbot",
+   "link": "https://huggingface.co/Efficient-Large-Model/WORL-Lingbot",
+   "date": "2026-10-19T17:22:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: peft, safetensors, worl, lingbot, world-model, video-generation",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "cc7bbd5571f2",
+   "title": "Efficient-Large-Model/WORL-Helios",
+   "link": "https://huggingface.co/Efficient-Large-Model/WORL-Helios",
+   "date": "2026-10-19T17:22:16.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: peft, safetensors, worl, helios, video-generation, world-model",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "bfdeb1cc431c",
+   "title": "Film Quote of the Day: The ‘The Princess Bride’ Moment That Turned One Word Into a Comedy Classic",
+   "link": "https://nofilmschool.com/inconceivable",
+   "date": "2026-10-19T17:08:20.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/inconceivable.jpg?id=68486017&width=1245&height=700&coordinates=14%2C0%2C14%2C0",
+   "excerpt": "I feel like The Princess Bride is one of those movies where you remember the first time you watched it. For me, it was on VHS, rented from the Exton Library, on New Year's Eve. Pretty epic time to see it. That's where I learned the word \"Inconceivable\" and the power of just one word in all dialogue writing. Rob Reiner’s 1987 classic was adapted for the screen by legendary writer William Goldman, a"
+  },
+  {
+   "id": "0be3c8c21589",
+   "title": "Gear Up to Protect Your Upcoming iPhone Duo With This Full-Grain Leather Case",
+   "link": "https://nofilmschool.com/sandmarc-iphone-duo-leather-case",
+   "date": "2026-10-19T16:43:27.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/sandmarc-iphone-duo-leather-case.jpg?id=68486092&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "One of the most anticipated, if not most perplexing, new iPhones ever announced, the iPhone Duo models are set to start shipping later this week. If you're getting your hands on this new foldable iPhone with its 7.6-inch inner display and trove of unique features, you’ll likely want to protect your investment. And as with all new iPhone releases these days, protective options are already coming ou"
+  },
+  {
+   "id": "10e42c60f68d",
+   "title": "People are using AI to make their smart TVs dumb again",
+   "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+   "date": "2026-10-19T16:13:22.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+  },
+  {
+   "id": "c812fdec677a",
+   "title": "You Probably Don't Know Enough About This Influential Production Designer",
+   "link": "https://nofilmschool.com/derek-jarman-the-devils-blue",
+   "date": "2026-10-19T16:12:59.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/the-devils.jpg?id=68486075&width=1245&height=700&coordinates=0%2C609%2C0%2C290",
+   "excerpt": "Hardcore cinephiles are in the middle of one of the most important weeks of film ever right now, with the 4K theatrical re-release of Ken Russell's highly controversial historical drama, The Devils. It looks like a horror film and certainly could be classified as such, but it's based on a real period of religious hysteria that took place in 1632-1634 in Loudun, France, during a famous case of mass"
+  },
+  {
+   "id": "6aa3fa576412",
+   "title": "saaivignesh20/MAGI-2-preview-FP8",
+   "link": "https://huggingface.co/saaivignesh20/MAGI-2-preview-FP8",
+   "date": "2026-10-19T15:41:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: safetensors, video-generation, text-to-video, audio-video, fp8, base_model:sand-ai/MAGI-2-preview",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "938df27abbad",
+   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+   "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+   "date": "2026-10-19T15:37:09.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
+  },
+  {
+   "id": "145d2e509902",
+   "title": "Here’s How to Mount Your PL Cinema Lenses on Sony Cameras and Quickly Change Filters in Seconds",
+   "link": "https://nofilmschool.com/nisi-athena-drop-in-filter-pl-e-adapter",
+   "date": "2026-10-19T15:16:27.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/nisi-athena-drop-in-filter-pl-e-adapter.jpg?id=68485777&width=1245&height=700&coordinates=0%2C104%2C0%2C104",
+   "excerpt": "While everyone would love hours, if not days, to properly set up and compose every shot for a project, filmmakers, DPs, and high-end content creators often shoot scenes as fast as possible. And this rarely allows for lots of creative looks and effects. If you want to speed up your workflow, either to get more done or to buy more time for creativity, options like the NiSi ATHENA Drop-In Filter PL-E"
+  },
+  {
+   "id": "c71d4c6d82c3",
+   "title": "Z CAM Adds ProRes RAW Recording to This Popular 6K60 Full-Frame Camera",
+   "link": "https://nofilmschool.com/z-cam-e2-f6-pro-firmware-update",
+   "date": "2026-10-19T14:56:03.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/z-cam-e2-f6-pro-firmware-update.png?id=34051780&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "While Z CAM may not be as familiar a name as Canon, Sony, or Blackmagic Design, it has steadily built a reputation as an up-and-coming camera brand with a large, solid library of cameras. Focused on professional filmmakers and videographers, the Z CAM E2-F6 Pro in particular has proven to be quite capable for those looking for high-quality full-frame video recording, and this new firmware update ("
+  },
+  {
+   "id": "0cc010e9acd9",
+   "title": "Your Film Got Distribution. So Why Isn't Anyone Watching?",
+   "link": "https://nofilmschool.com/indie-film-distribution-truth",
+   "date": "2026-10-19T14:34:30.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/a-wall-covered-with-a-grid-of-vintage-vhs-movie-cassette-covers.jpg?id=68454068&width=1245&height=700&coordinates=0%2C260%2C0%2C261",
+   "excerpt": "If you make a movie, chances are you, uh, actually want people to see it. Right? Right. But indie distribution is a beast, and it's a world that keeps changing with every new media conglomerate merger and fresh niche streaming service. And there are plenty of people out there ready to scam a hopeful filmmaker out of their budget—which is something we'll look at today. What can you do? Be as educat"
+  },
+  {
+   "id": "59defc80e859",
+   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+   "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+   "date": "2026-10-19T14:30:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty hig"
+  },
+  {
+   "id": "50e8daf7735e",
+   "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+   "date": "2026-10-19T13:58:41.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown as the technology grows more advanced, wit"
+  },
+  {
+   "id": "550b7ce5fe00",
+   "title": "VAST-AI/EdenLive-14B-Diffusers",
+   "link": "https://huggingface.co/VAST-AI/EdenLive-14B-Diffusers",
+   "date": "2026-10-19T13:45:09.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video-generation, EdenLive, image-to-video, base_model:VAST-AI/EdenLive",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "fac5778a3d1d",
+   "title": "VAST-AI/EdenLive-5B-Diffusers",
+   "link": "https://huggingface.co/VAST-AI/EdenLive-5B-Diffusers",
+   "date": "2026-10-19T13:44:28.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video-generation, EdenLive, image-to-video, base_model:VAST-AI/EdenLive",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "9e4da765782d",
+   "title": "StillDeadcode/radiance-ltx-2.5-fp8",
+   "link": "https://huggingface.co/StillDeadcode/radiance-ltx-2.5-fp8",
+   "date": "2026-10-19T12:42:00.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: radiance, rocm, amd, rdna4, fp8, text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "094a1cc1de9e",
+   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+   "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+   "date": "2026-10-19T12:30:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
+  },
+  {
+   "id": "1d7aa9cfab7e",
+   "title": "Democrats think cracking down on AI could give them an edge",
+   "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+   "date": "2026-10-19T12:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee leadership back in their hands. That could usher in a wave of newfound scrutiny for AI companies. Top "
+  },
+  {
+   "id": "514ad311dcea",
+   "title": "caikybaldo999/zyvideo-0.1-ft10h",
+   "link": "https://huggingface.co/caikybaldo999/zyvideo-0.1-ft10h",
+   "date": "2026-10-19T11:59:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: pytorch, text-to-video, flow-matching, dit, base_model:caikybaldo999/zyvideo-0.1, base_model:finetune:caikybaldo999/zyvideo-0.1",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "98e653263b87",
+   "title": "htdong/Wan-Alpha-I2V",
+   "link": "https://huggingface.co/htdong/Wan-Alpha-I2V",
+   "date": "2026-10-19T11:43:55.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, rgba, transparency, effect video, image-to-video, arxiv:2509.24979",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "7ce82903f686",
+   "title": "StillDeadcode/radiance-ltx-2.5-distilled-fp8",
+   "link": "https://huggingface.co/StillDeadcode/radiance-ltx-2.5-distilled-fp8",
+   "date": "2026-10-19T11:41:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: radiance, rocm, amd, rdna4, fp8, text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "c6399658a376",
    "title": "MJJModels/MJJ-Voices",
@@ -322,6 +954,22 @@
    }
   },
   {
+   "id": "af3a5cd4dd72",
+   "title": "lodestones/Kromoss  (♥ 106)",
+   "link": "https://huggingface.co/lodestones/Kromoss",
+   "date": "2026-10-19T01:34:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending trending image model on Hugging Face. Downloads: 264, likes: 106. Tags: diffusers, safetensors, moss-image, text-to-image, en, base_model:OpenMOSS-Team/MOSS-Image-Base",
+   "hf": {
+    "likes": 106,
+    "downloads": 264,
+    "pipeline": "trending image"
+   }
+  },
+  {
    "id": "1d204fbcc194",
    "title": "RunningHubAI/rh-moss-image-sft-int8-convrot.safetensors-unet",
    "link": "https://huggingface.co/RunningHubAI/rh-moss-image-sft-int8-convrot.safetensors-unet",
@@ -384,6 +1032,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "9fba733ce125",
+   "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+   "link": "https://huggingface.co/blog/hf-torchneuron",
+   "date": "2026-10-19T00:00:00.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
   },
   {
    "id": "56235dd32b3c",
@@ -796,7 +1455,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: world-model, robotics, egocentric, video-generation, image-to-video, base_model:Wan-AI/Wan2.2-TI2V-5B",
    "hf": {
-    "likes": 1,
+    "likes": 5,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -5830,9 +6489,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, video, video-continuation, comfyui, text-to-video",
    "hf": {
-    "likes": 3,
-    "downloads": 164,
-    "pipeline": "text-to-video"
+    "likes": 9,
+    "downloads": 450,
+    "pipeline": "trending video"
    }
   },
   {
@@ -7065,574 +7724,6 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/a-still-from-gone-girl.jpg?id=61482983&width=1200&height=400&coordinates=0%2C143%2C0%2C143",
    "excerpt": "David Fincher is one of the most exacting directors working today, demanding hundreds of takes from his cast and crew to get a version of his vision that's as close to perfection as possible. His camera stays pretty fixed throughout this process, even when it's moving—meaning it doesn't drift or correct to get the right frame. Every movement, in characteristic Fincher style, is intentional and mot"
-  },
-  {
-   "id": "2d0835a1c7c5",
-   "title": "Synin/NAVA",
-   "link": "https://huggingface.co/Synin/NAVA",
-   "date": "2026-10-13T21:34:29.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 14, likes: 0. Tags: custom, ti2v, text-to-video, text-to-audio-video, audio-video-generation, mmdit",
-   "hf": {
-    "likes": 0,
-    "downloads": 14,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "a32b1bb7b1c6",
-   "title": "Are You a Panasonic LUMIX Shooter? Today’s a Good Day to Check for Firmware Updates",
-   "link": "https://nofilmschool.com/panasonic-lumix-firmware-updates-new",
-   "date": "2026-10-13T21:20:03.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/panasonic-lumix-firmware-updates.jpg?id=68422850&width=1245&height=700&coordinates=0%2C455%2C0%2C18",
-   "excerpt": "As previously reported, Panasonic’s promised firmware updates for several popular LUMIX cameras are now available to download and install. Now, do you want to do so right away in all cases? Maybe not, since it's often wise to wait a few days, or weeks, before updating firmware in case new issues arise But if you want to go ahead, or if you’re simply curious about what new updates and features migh"
-  },
-  {
-   "id": "eae9ab8ebfa9",
-   "title": "rachel-luxangel-ai/zit-firstlove-008",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-firstlove-008",
-   "date": "2026-10-13T21:00:58.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "33288ebecb48",
-   "title": "rachel-luxangel-ai/zit-chloe",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-chloe",
-   "date": "2026-10-13T21:00:52.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9fc58586501e",
-   "title": "rachel-luxangel-ai/zit-seoyun",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-seoyun",
-   "date": "2026-10-13T21:00:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "33318d1b47ce",
-   "title": "rachel-luxangel-ai/zit-chaewon",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-chaewon",
-   "date": "2026-10-13T21:00:31.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3a40250a789b",
-   "title": "rachel-luxangel-ai/zit-brunette",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-brunette",
-   "date": "2026-10-13T21:00:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0ff27816b0e6",
-   "title": "Add a Dovetail Mounting Bracket to Your Tilta Hydra Electronic Suction Cup Setups With This Quick Add-On",
-   "link": "https://nofilmschool.com/tilta-baby-pin-mounting-bracket-for-electronic-suction-cup",
-   "date": "2026-10-13T21:00:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/tilta-baby-pin-mounting-bracket-for-electronic-suction-cup.png?id=68422992&width=1500&height=2000&coordinates=577%2C0%2C578%2C0",
-   "excerpt": "While not a major announcement on par with a new cinema camera or earth-shattering video AI model or anything, Tilta has quietly introduced a tiny new baby pin stud that unlocks more flexibility for one of its most popular mount options of the past few years. The Tilta Hydra Electronic Suction Cup is an innovative mounting solution built for heavy rigs, harsh environments, and demanding production"
-  },
-  {
-   "id": "b155f2e47e1e",
-   "title": "rachel-luxangel-ai/zit-qipao-002",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-qipao-002",
-   "date": "2026-10-13T20:59:59.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9f77b9ac6be7",
-   "title": "AiMamis/Boxxy",
-   "link": "https://huggingface.co/AiMamis/Boxxy",
-   "date": "2026-10-13T20:54:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c1361915564d",
-   "title": "AiMamis/Norafawn",
-   "link": "https://huggingface.co/AiMamis/Norafawn",
-   "date": "2026-10-13T20:47:41.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "40b44721e47f",
-   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-   "date": "2026-10-13T20:45:25.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to use a device to intercept oral communications, according to a report from The San Francisco Standard. OpenAI's post about the incident says it used its AI models to \"understand the"
-  },
-  {
-   "id": "46ab54c8bf2b",
-   "title": "WasamiKirua/Goth_Qwen2.1",
-   "link": "https://huggingface.co/WasamiKirua/Goth_Qwen2.1",
-   "date": "2026-10-13T20:44:50.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Qwen/Qwen-Image-2.1, base_model:adapter:Qwen/Qwen-Image-2.1",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "6d4edeff9bf6",
-   "title": "Film Quote of the Day: The Quietest Line About Blind Obedience in 'Pan's Labyrinth'",
-   "link": "https://nofilmschool.com/pan-s-labyrinth-quote",
-   "date": "2026-10-13T20:39:29.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/pan-s-labyrinth-quote.jpg?id=68424186&width=1500&height=2000&coordinates=287%2C0%2C287%2C0",
-   "excerpt": "I was a senior in high school when Guillermo del Toro’s 2006 masterpiece, Pan’s Labyrinth (El laberinto del fauno), came out. I remember going to the movies to see it, and having no idea I had to read subtitles. It took me a second to get used to them, but suddenly I was transported to a time and a place that both scared and awed me. Today, I want to go over one of the lines that stood out when I "
-  },
-  {
-   "id": "025ffa23c015",
-   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-   "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-   "date": "2026-10-13T20:36:44.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
-  },
-  {
-   "id": "fa781685c704",
-   "title": "rachel-luxangel-ai/zit-mei",
-   "link": "https://huggingface.co/rachel-luxangel-ai/zit-mei",
-   "date": "2026-10-13T20:31:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Tongyi-MAI/Z-Image-Turbo, base_model:adapter:Tongyi-MAI/Z-Image-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "42f1c245f492",
-   "title": "Developing Gemini 4 Argon responsibly and safely",
-   "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-   "date": "2026-10-13T19:43:07.000Z",
-   "source": "Google DeepMind",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "7d53aa171cd3",
-   "title": "Shopify opens its catalog up to more AI agents",
-   "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-   "date": "2026-10-13T19:42:42.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fuller/SOPA Images/LightRocket via Getty Images) More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI ag"
-  },
-  {
-   "id": "a3f78692c3f4",
-   "title": "v0.40.0",
-   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.40.0",
-   "date": "2026-10-13T19:18:03.000Z",
-   "source": "ComfyUI Releases",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
-   "excerpt": "ComfyUI v0.40.0"
-  },
-  {
-   "id": "8c5e33f84214",
-   "title": "They pissed this girl off 😂😰",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x55pcr/they_pissed_this_girl_off/",
-   "date": "2026-10-13T19:08:41.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cmx3NWN4anE5YXZoMb1cCcNk0fR4HX_zApb_Q8GVTDUkJod4_nR57Nx1llxH.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=853acad74dbaa832ac98c8a567b450118e4cdbe2",
-   "excerpt": "submitted by /u/TradingCardGirl [link] [comments]"
-  },
-  {
-   "id": "8d2f4b6c365d",
-   "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-   "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-   "date": "2026-10-13T19:00:48.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web browser, and the company is now officially embracing the chaos of this"
-  },
-  {
-   "id": "64882d0492bd",
-   "title": "How a DP Shot a 2026 Horror Feature on a MiniDV Camcorder",
-   "link": "https://nofilmschool.com/shooting-feature-on-minidv-camcorder",
-   "date": "2026-10-13T19:00:03.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/my-love-for-you-is-deep-but-the-devil-loves-me-deeper.jpg?id=68417767&width=1245&height=700&coordinates=0%2C0%2C0%2C115",
-   "excerpt": "Cinematographer Ryan Thomas shot Casey Donahue's feature debut on two borrowed DVX100Bs. Panasonic's DVX100 line was the indie workhorse of the early 2000s, and the original model was the first small camcorder to record at a film-like 24 frames per second. The DVX100B was its last revision. It shoots standard definition to MiniDV tape. That makes it a strange pick for a feature premiering in 2026."
-  },
-  {
-   "id": "aba49a999dfc",
-   "title": "Do You Have a Sony E-Mount Camera and $100? You Might Want to Check This New Lens Out",
-   "link": "https://nofilmschool.com/ttartisan-af-24mm-f3-8-mini-full-frame-pancake-lens",
-   "date": "2026-10-13T18:35:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/ttartisan-af-24mm-f3-8-mini-full-frame-pancake-lens.jpg?id=68422720&width=1245&height=700&coordinates=0%2C104%2C0%2C104",
-   "excerpt": "Now that's a camera lens price we can get behind. While you can always search for used and other non-mainstream brands for cheaper lenses, if you’re looking for a specific type of full-frame, wide-angle lens for your projects and you are hoping to both buy new and stay within a budget, this new TTARTISAN AF 24mm F3.8 mini Full-Frame Pancake Lens could be a nice option to consider. Ultra-tiny and u"
-  },
-  {
-   "id": "8dbd1977009a",
-   "title": "ticket is worth it",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x54sea/ticket_is_worth_it/",
-   "date": "2026-10-13T18:34:36.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eWN3NzBwOGozYXZoMRo-e6NLN6sagUab21sNDlVA8huVfYty6SSEs8MYqpXf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=eb99432071b12781e1988f7e5e30c7b12adf84f9",
-   "excerpt": "submitted by /u/Mother-Pear-2392 [link] [comments]"
-  },
-  {
-   "id": "96dd09641f4c",
-   "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-   "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-   "date": "2026-10-13T18:30:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
-  },
-  {
-   "id": "a11a9fabc7d8",
-   "title": "GoPro’s New MISSION 1 Cameras Just Got a Major Photography Upgrade",
-   "link": "https://nofilmschool.com/gopro-mission-1-series-photography-update",
-   "date": "2026-10-13T18:15:06.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/gopro-mission-1-series-photography-update.jpg?id=68423125&width=1245&height=700&coordinates=53%2C0%2C53%2C0",
-   "excerpt": "One of the year's more unique and intriguing non-AI storylines has been GoPro’s further foray into cinema-camera-esque development with its new MISSION 1 series. While these new, compact, powerful, and affordable MISSION 1 series cameras may appeal most to filmmakers, action-adjacent videographers, and content creators, they’re also capable for photographers. And that’s where they just got a major"
-  },
-  {
-   "id": "6e90ac03a9f0",
-   "title": "Facebook is giving users more control over their algorithm",
-   "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-   "date": "2026-10-13T18:05:24.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram."
-  },
-  {
-   "id": "c38ad8746b3c",
-   "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
-   "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-   "date": "2026-10-13T18:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat on a park bench reading a book, called up a pal to chat about her recent trip to Prague, and then asked my Ray-Ban Meta Audio glasses what meetings were coming up on my calendar. Th"
-  },
-  {
-   "id": "b5b3bee15ca9",
-   "title": "The 10 Greatest Dad Movies Ever Made",
-   "link": "https://nofilmschool.com/greatest-dad-movies",
-   "date": "2026-10-13T17:55:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/greatest-dad-movies-ever-made.jpg?id=68418727&width=1245&height=700&coordinates=118%2C0%2C118%2C0",
-   "excerpt": "Now that I have a kid, I'm ready to enter my sweatpants-and-afternoon-snooze era. You know, the Saturday position many dads take, where they put on basic cable, relax on their only day off, maybe after cutting the grass, and watch a movie. A Dad movie. Oh, you know what a dad movie is? It's the one that, if caught on TV halfway through it, will hold any dad hostage until the credits roll. It's the"
-  },
-  {
-   "id": "4e74454b3f0e",
-   "title": "Why Horror Is the Most Consistently Profitable Genre in Box Office History",
-   "link": "https://nofilmschool.com/horror-box-office",
-   "date": "2026-10-13T17:30:13.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/obsession.jpg?id=66870724&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "One of my buddies sold a horror spec for a few hundred thousand dollars last week and was shocked at the number. When he told me, he thought they were kidding; I told him he deserved it, not just because it was a great script but because the studio would make a lot of money off of it. The thing is, horror movies make big bucks at the box office. They are consistently among the most reliable genres"
-  },
-  {
-   "id": "a38414be4b35",
-   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "date": "2026-10-13T17:30:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
-  },
-  {
-   "id": "4d1328cfb2ae",
-   "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-   "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-   "date": "2026-10-13T17:18:25.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon."
-  },
-  {
-   "id": "aba8264d5bfb",
-   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-   "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-   "date": "2026-10-13T17:05:48.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "11f5b582c405",
-   "title": "Facebook will let you customize your feed algorithm using AI",
-   "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-   "date": "2026-10-13T17:01:31.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/meta-your-algorithm-facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this year, and Meta also launched a similar \"Dea"
-  },
-  {
-   "id": "0f96659c3b40",
-   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-   "date": "2026-10-13T17:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
-  },
-  {
-   "id": "7b941fbc4a80",
-   "title": "Google makes it easier to launch your vibe-coded apps",
-   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-   "date": "2026-10-13T17:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code personal Android apps in May. Even though you can now launch your custom apps in Google Pla"
-  },
-  {
-   "id": "fa8ac12a74de",
-   "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-   "date": "2026-10-13T16:42:51.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Mia Goth at The 32nd Annual Actor Awards. | Variety via Getty Images Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt that reads \"MY EX IS MY BIGGEST FAN\" in bold black letters. The Beyoncé song \"Sing"
-  },
-  {
-   "id": "4520f7ad22fb",
-   "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-   "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-   "date": "2026-10-13T16:30:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach."
-  },
-  {
-   "id": "1e3d66e1be76",
-   "title": "The Ballon d’Or Heist",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x51cc0/the_ballon_dor_heist/",
-   "date": "2026-10-13T16:29:13.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eTNzZDRmZjdoOXZoMS775j5PqQORC1zCWogoIeN0vsHqkArwxPCeeNy-s-WC.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9b3998cf4bc5e9d469f95539fd288a3962ebbe5a",
-   "excerpt": "submitted by /u/RoundPassage8174 [link] [comments]"
-  },
-  {
-   "id": "e1a17fbe2fe8",
-   "title": "Gemini 4 Argon for Robotics",
-   "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-   "date": "2026-10-13T16:01:58.000Z",
-   "source": "Google DeepMind",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "fa170ce8a5cc",
-   "title": "Gemini 4 Argon: Built to solve your hardest problems",
-   "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-   "date": "2026-10-13T16:01:52.000Z",
-   "source": "Google DeepMind",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "aff2c9dc3dc0",
-   "title": "Gemini 4 Argon: Built to solve your hardest problems",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-   "date": "2026-10-13T16:00:00.000Z",
-   "source": "Google AI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
-   "excerpt": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
-  },
-  {
-   "id": "4b1e7d7541c4",
-   "title": "Google finally releases Gemini 4 Argon",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "date": "2026-10-13T16:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon delivers \"frontier reasoning and improved performance across complex workflows,\" while cutting down on hedging, repetition, and the cliches that continue to plague AI chatbots. The compan"
-  },
-  {
-   "id": "043dbda958bd",
-   "title": "Mother Was A Fighter",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x50ci8/mother_was_a_fighter/",
-   "date": "2026-10-13T15:52:30.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eW02dHV6OHFhOXZoMStwUs40poukr63zRBx-Un6G_EBbDusi5VJY4FMUiAVN.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f73878d1bd327c017ccd3440182e5fed5a218ddd",
-   "excerpt": "submitted by /u/gossip_goblin [link] [comments]"
-  },
-  {
-   "id": "22a997c3cc82",
-   "title": "Epic shifts to AI-accelerated development for upcoming Disney game",
-   "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-   "date": "2026-10-13T15:12:59.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932925/acastro_STK108__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been given an \"AI-first\" mandate directing them to use tools like Anthropic's Claude more to finish the game. According to Bloomberg, one of the game's directors said in a message to staf"
-  },
-  {
-   "id": "db1a627c9375",
-   "title": "OsmanKhalidSiddiqui/CogVideoX-2b",
-   "link": "https://huggingface.co/OsmanKhalidSiddiqui/CogVideoX-2b",
-   "date": "2026-10-13T14:05:20.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, cogvideox, video-generation, thudm, text-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 12,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "0a377d4d8a4c",
-   "title": "TechCrunch Disrupt 2026: Day 1",
-   "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-   "date": "2026-10-13T14:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year."
-  },
-  {
-   "id": "6d9ab5acc0ec",
-   "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-   "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-   "date": "2026-10-13T13:55:45.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed using DLSS 5. The 15-year-old student from Hogwarts Legacy suddenly looked much older, and Grace from Resident Evil Requiem looked yassified. Now more than six months later, DLSS "
-  },
-  {
-   "id": "b22fd54eecb2",
-   "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-   "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-   "date": "2026-10-13T13:50:19.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month."
   }
  ]
 }
