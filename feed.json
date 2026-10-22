@@ -1,6 +1,349 @@
 {
- "updated": "2026-10-22T10:15:31.390Z",
+ "updated": "2026-10-22T15:21:54.942Z",
  "items": [
+  {
+   "id": "641f316a616f",
+   "title": "PHP: The three little letters wreaking havoc across the web",
+   "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+   "date": "2026-10-22T15:12:27.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporarily shut down after the vulnerabilities were disclosed. Even governments weren’t i"
+  },
+  {
+   "id": "abd23a18317e",
+   "title": "Spotify’s current AI bet is about being the music service that agents choose",
+   "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+   "date": "2026-10-22T15:03:58.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service."
+  },
+  {
+   "id": "97359b043c27",
+   "title": "SMDV Aims to Push Softbox Lighting in a Bolder, Brighter Direction With New CINE Series",
+   "link": "https://nofilmschool.com/smdv-cine-softboxes",
+   "date": "2026-10-22T14:52:18.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/smdv-cine-softboxes.jpg?id=68506704&width=1245&height=700&coordinates=0%2C135%2C0%2C136",
+   "excerpt": "It’s always great to see companies make big, bold plays in film and video. Sure, not all these attempts work out; some don’t quite catch on, some offer a bit of change, but a few push technology forward in ways that often make a filmmaker's life easier, more affordable, and unlock new cinematic possibilities. That’s what SMDV is aiming for with its new CINE Softbox line: a series of soft lighting "
+  },
+  {
+   "id": "3a39011d6f6e",
+   "title": "kdcth/MossAD-int8-convrot",
+   "link": "https://huggingface.co/kdcth/MossAD-int8-convrot",
+   "date": "2026-10-22T14:32:03.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: moss-image, comfyui, int8, convrot, quantized, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "dc2f0fdc8ce1",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "date": "2026-10-22T14:30:24.000Z",
+   "source": "Google DeepMind",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://lh3.googleusercontent.com/Et3g0tNB_bC00f6cP94Y40QbqshCvf7_fg_gRVfZQoeVSc3Hn9g6jIenf1udZdACY4x-wpY_5tyy_LznFSlu0yhGCqfxKos6QFRRj4lad_hQHOBV8Q=w528-h297-n-nu-rw-lo",
+   "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+  },
+  {
+   "id": "6925ce2c4403",
+   "title": "AlDanceVideo/Sawadika-Dance-AI  (♥ 1)",
+   "link": "https://huggingface.co/AlDanceVideo/Sawadika-Dance-AI",
+   "date": "2026-10-22T14:07:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: other, image-to-video, video-generation, sawadika, sawadika-dance-ai, lisa-sawadika",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "10935cb401b7",
+   "title": "Safely Eject All of Your Connected Drives at Once With This Free Dock Ejector App",
+   "link": "https://nofilmschool.com/owc-dock-ejector-update",
+   "date": "2026-10-22T14:01:44.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/owc-dock-ejector-update.jpg?id=68506313&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "It’s a problem everyone deals with eventually. If you work in film and video, whether that be in production, management, or editing, you’re likely dealing with lots of devices, drives, displays, and other tools that are all necessary, but also quickly become a lot to handle When you’re trying to disconnect, whether it's for a simple rearrange or you’re taking your work on the road, it can be trick"
+  },
+  {
+   "id": "158d6dc645d8",
+   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+   "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+   "date": "2026-10-22T14:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is here. The choices we make now are critical.” In his piece, Gates ratcheted up his rhetoric around AI s"
+  },
+  {
+   "id": "bec4537e465d",
+   "title": "Rin247/flux-3-image-klein",
+   "link": "https://huggingface.co/Rin247/flux-3-image-klein",
+   "date": "2026-10-22T13:57:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, quantized, safetensors, mecha, weight-only, image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2627a349dcf8",
+   "title": "Claude Duet app is Anthropic’s bet on agents",
+   "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+   "date": "2026-10-22T13:53:26.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Claude Duet is available through waitlist for Pro and Max plan users"
+  },
+  {
+   "id": "9c4d4bfe12c6",
+   "title": "5 Novel-Writing Tricks That Will Make Your Screenplay Better",
+   "link": "https://nofilmschool.com/andrew-hunter-murray-writing-tips",
+   "date": "2026-10-22T13:51:13.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/holdovers-giamatti.webp?id=68501299&width=1245&height=700&coordinates=297%2C129%2C196%2C224",
+   "excerpt": "Novelists and screenwriters often fight the same battles, even though their end products differ. Whatever you’re writing, you’ll want a premise that’s easy to pitch with a catchy hook, scenes with drive, and characters who feel lived-in and real, whether they appear for just a scene or two. The page count and format differ, but the fixes often carry over. Andrew Hunter Murray is a British novelist"
+  },
+  {
+   "id": "6e68c569942d",
+   "title": "zimageapp/MOSS-Image-SFT-MLX-Q4",
+   "link": "https://huggingface.co/zimageapp/MOSS-Image-SFT-MLX-Q4",
+   "date": "2026-10-22T13:44:58.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, moss-image, apple-silicon, q4, lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "98fa11858a42",
+   "title": "This TTArtisan 50mm is Another Versatile Everyday Prime That Won’t Break the Bank",
+   "link": "https://nofilmschool.com/ttartisan-af-50mm-f-1-8-neo-lens-2678125999",
+   "date": "2026-10-22T13:29:26.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/ttartisan-af-50mm-f-1-8-neo-lens.jpg?id=68506232&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "Everyone loves new lenses to explore. They're new and cool, but they often pack innovative features you might not have seen before. They also can just help drive prices down and keep the market fresh. Plus, they sometimes look pretty neat in new colors. Following up on other new lenses from the same series which we’ve covered before, like an 85mm version, TTArtisan is back with a 50mm model for fu"
+  },
+  {
+   "id": "b1c3b0ce40d1",
+   "title": "Nirva raises $33M for a pendant that only listens to you",
+   "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+   "date": "2026-10-22T13:26:52.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Nirva will ship its $249 ambient AI pendant by the end of the year."
+  },
+  {
+   "id": "2206e23393f8",
+   "title": "DiamondDavre/Flux-NSFW-uncensored",
+   "link": "https://huggingface.co/DiamondDavre/Flux-NSFW-uncensored",
+   "date": "2026-10-22T13:21:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, en, base_model:black-forest-labs/FLUX.1-dev, base_model:finetune:black-forest-labs/FLUX.1-dev, license:creativeml-openrail-m, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c80a6608f1d2",
+   "title": "DeepSeek reportedly raises $15B days after US restrictions",
+   "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+   "date": "2026-10-22T13:11:13.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns."
+  },
+  {
+   "id": "41478b50f5d5",
+   "title": "Mariaiaia/frid_style_LoRA",
+   "link": "https://huggingface.co/Mariaiaia/frid_style_LoRA",
+   "date": "2026-10-22T13:01:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, template:sd-lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "afb2c751d349",
+   "title": "1Password lets AI agents use your passwords without seeing them",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+   "date": "2026-10-22T13:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it less cumbersome to use Agents for tasks that require them to log into var"
+  },
+  {
+   "id": "9eaf5aa37a1e",
+   "title": "davanstrien/nasa-concept-art-flux2-klein-lora",
+   "link": "https://huggingface.co/davanstrien/nasa-concept-art-flux2-klein-lora",
+   "date": "2026-10-22T12:41:36.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, flux2-klein",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b35f1ce2c6cf",
+   "title": "DiamondDavre/moss-serenity",
+   "link": "https://huggingface.co/DiamondDavre/moss-serenity",
+   "date": "2026-10-22T12:38:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: moss-image, text-to-image, comfyui, full-finetune, people, base_model:OpenMOSS-Team/MOSS-Image-Base",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "cf5771b0b4c0",
+   "title": "AI agents are ready to shop. Some retailers are wary",
+   "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+   "date": "2026-10-22T12:30:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the store: They require an inordinate amount of instructions and specifications, ru"
+  },
+  {
+   "id": "a37d473cbfb4",
+   "title": "Claude did not invent scorpion antivenom",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+   "date": "2026-10-22T12:21:07.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GettyImages-2202529068_415155.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm behind the experiment, admitted that \"none of us could "
+  },
+  {
+   "id": "58d0332e710b",
+   "title": "Jinstudio/sdxl-instructpix2pix-768",
+   "link": "https://huggingface.co/Jinstudio/sdxl-instructpix2pix-768",
+   "date": "2026-10-22T12:18:56.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion-xl, stable-diffusion-xl-diffusers, text-to-image, instruct-pix2pix",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4a6c8961d04f",
+   "title": "taobao-content-ai/MiniMax-H3-PTD-RefAsymOPD-LoRAs  (♥ 2)",
+   "link": "https://huggingface.co/taobao-content-ai/MiniMax-H3-PTD-RefAsymOPD-LoRAs",
+   "date": "2026-10-22T11:43:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, video-generation, audio-generation, distillation, lora, image-to-video",
+   "hf": {
+    "likes": 2,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "2fd379d75e56",
+   "title": "Riyan200324200324/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+   "link": "https://huggingface.co/Riyan200324200324/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+   "date": "2026-10-22T11:29:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, atomic-chat, qwen, qwen-image, qwen3-vl, text-encoder",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a9c4ce9a8230",
+   "title": "LocalMuseAI/mlx-z-anime-distill-4step-4bit",
+   "link": "https://huggingface.co/LocalMuseAI/mlx-z-anime-distill-4step-4bit",
+   "date": "2026-10-22T11:29:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, mlx, z-image, z-anime, anime",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b75ce5ffab48",
+   "title": "Eiliko maker says it s hiring an ‘independent security firm’ after Verge report on its insecure robots",
+   "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+   "date": "2026-10-22T11:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "The Eiliko robot toy. | Photo by Sean Hollister / The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security researcher Sammy Azdoufal "
+  },
   {
    "id": "657b848feac4",
    "title": "sxnister/oro97-lora-SDXL-IL-eps",
@@ -291,6 +634,17 @@
    "excerpt": "submitted by /u/16x98 [link] [comments]"
   },
   {
+   "id": "f4d7439583ad",
+   "title": "What FDE means at OpenAI",
+   "link": "https://openai.com/index/forward-deployed-engineering-means",
+   "date": "2026-10-22T06:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "What forward deployed engineering means at OpenAI"
+  },
+  {
    "id": "201b6a271c2a",
    "title": "indhic-ai/Minimax-h3_Singularity_v2_pruned  (♥ 1)",
    "link": "https://huggingface.co/indhic-ai/Minimax-h3_Singularity_v2_pruned",
@@ -349,7 +703,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 46, likes: 6. Tags: minimax-h3, text-to-video, image-to-video, safetensors, comfyui, int8",
    "hf": {
-    "likes": 6,
+    "likes": 8,
     "downloads": 46,
     "pipeline": "image-to-video"
    }
@@ -692,7 +1046,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, comfyui, video-generation, text-to-video, image-to-video, reference-to-video",
    "hf": {
-    "likes": 7,
+    "likes": 10,
     "downloads": 818,
     "pipeline": "image-to-video"
    }
@@ -717,6 +1071,16 @@
    "isModel": true,
    "thumb": "https://external-preview.redd.it/bnpodmh3MHMxd3doMejO-qHQ9guNYrCFk7Y-gLXRNf5DM4Rys6eerO9qqSGG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea130a7c34ec4ef4074ee8690284047feb720e69",
    "excerpt": "submitted by /u/pwillia7 [link] [comments]"
+  },
+  {
+   "id": "3660bbb0f736",
+   "title": "Stephen King on the Simple Horror of 'Carrie'",
+   "link": "https://nofilmschool.com/stephen-king-on-the-simple-horror-of-carrie",
+   "date": "2026-10-21T21:19:15.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/the-simple-horror-of-carrie.jpg?id=68501556&width=1245&height=700&coordinates=17%2C0%2C18%2C0",
+   "excerpt": "It's spooky season, so I have been going through a lot of retro horror movies and showing them to my one-year-old son, so he has a basis for the genre and can start ahead of all the other kids in daycare, who maybe haven't seen the classics. This week, we tapped into Carrie, which also got him ready for school dances and pig's blood. After we finished watching, I dug up this archival interview cli"
   },
   {
    "id": "30e754caf978",
@@ -5154,7 +5518,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 264, likes: 106. Tags: diffusers, safetensors, moss-image, text-to-image, en, base_model:OpenMOSS-Team/MOSS-Image-Base",
    "hf": {
-    "likes": 212,
+    "likes": 222,
     "downloads": 14415,
     "pipeline": "trending image"
    }
@@ -5963,7 +6327,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 35, likes: 69. Tags: diffusers, safetensors, image-editing, text-to-image, image-to-image, inpainting",
    "hf": {
-    "likes": 109,
+    "likes": 112,
     "downloads": 645,
     "pipeline": "trending image"
    }
@@ -7186,374 +7550,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "submitted by /u/stephen370 [link] [comments]"
-  },
-  {
-   "id": "56bb3d7bcdcd",
-   "title": "hakandinar/Wan2.1-T2V-1.3B  (♥ 1)",
-   "link": "https://huggingface.co/hakandinar/Wan2.1-T2V-1.3B",
-   "date": "2026-10-17T14:37:50.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, t2v, video, video-generation, text-to-video",
-   "hf": {
-    "likes": 1,
-    "downloads": 2,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "71691c8f82ba",
-   "title": "ai-server-mgr/LTX-2.5-Distilled-SDNQ-INT8-Transformer",
-   "link": "https://huggingface.co/ai-server-mgr/LTX-2.5-Distilled-SDNQ-INT8-Transformer",
-   "date": "2026-10-17T14:33:55.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, ltx-2.5, sdnq, quantized, int8",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "b76c13a4c15b",
-   "title": "Carnivores Close-up",
-   "link": "https://www.reddit.com/r/midjourney/comments/1x8b8ju/carnivores_closeup/",
-   "date": "2026-10-17T14:11:41.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/rgo28yaec1wh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=2e0dfddd362d705c85fb4d9beb8e0585dba2d860",
-   "excerpt": "submitted by /u/Sharp_Alternative845 [link] [comments]"
-  },
-  {
-   "id": "6d9356ed7f71",
-   "title": "MOSS-IMAGE showcase",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1x8awgl/mossimage_showcase/",
-   "date": "2026-10-17T13:57:30.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/01p00ais91wh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=683944ec1fa8b5e80cde38605ff046901744a9f1",
-   "excerpt": "Every image was made using base model at cfg4 and 39 steps and at around 1.5MP submitted by /u/COMPLOGICGADH [link] [comments]"
-  },
-  {
-   "id": "6832c0d30243",
-   "title": "IMPERIAL APARTMENTS",
-   "link": "https://www.reddit.com/r/midjourney/comments/1x8ar0m/imperial_apartments/",
-   "date": "2026-10-17T13:50:41.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OTF6a2F2NXQ3MXdoMSdmUD7Y4nbY3o3EPaINpporaaVTmL0--2f5x_nPfFqc.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dba5f37e5dcbe45fdca016bc051c2f9240d824be",
-   "excerpt": "submitted by /u/metr0punk [link] [comments]"
-  },
-  {
-   "id": "d1b2a067d8df",
-   "title": "MOSSing around in 4K",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1x8apux/mossing_around_in_4k/",
-   "date": "2026-10-17T13:49:16.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/libd7rbu71wh1.png?width=140&amp;height=60&amp;auto=webp&amp;s=0180ac6bbdb57f80a7d9a4c9fbaad3ef1641cb53",
-   "excerpt": "I've been doing some testing to check the creative variety of MOSS image. It has got quite some cinematic looks in it. Nothing fancy about the workflow, just straight from the comfy template. diffusion model: moss_image_sft_int8_convrot.safetensors text econder: qwen3.5_9b_int8_convrot.safetensors vae: flux2-vae steps: 50 cfg: 3 sampler: euler scheduler: sgm_uniform / simple With these settings 4M"
-  },
-  {
-   "id": "93020a5ab0ab",
-   "title": "Fizgig Lora Isolation - A new process for more powerful LoRAs",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1x8aplh/fizgig_lora_isolation_a_new_process_for_more/",
-   "date": "2026-10-17T13:48:53.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Yjh3ZmVmYzM4MXdoMQ3Xe0m4bBqmnC__3KPi-GN1B0lDwVeiDBkI3xTINNx0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=337c10d9386585aaf82382c4a231399a4d310cff",
-   "excerpt": "Fizgig LoRA Isolation: train 2 identities into one LoRA and keep everyone else looking like themselves. A normal LoRA of a person spreads their face onto everyone else in the picture: strangers in the background, a friend beside them, a crowd. LoRA Isolation stops that. Your subjects can stand together in one picture, or next to someone the model already knows, and every face stays its own. The nu"
-  },
-  {
-   "id": "f452588c28b8",
-   "title": "The Biscuit Story | Short Film",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x8a7ug/the_biscuit_story_short_film/",
-   "date": "2026-10-17T13:26:03.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dTk5a3dpcG8xMXdoMccDVMYfPRIBHFpH5Q2OfhT36f7i7xARsifxFyzZn6rJ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=697776de8b142d1671a3fcc06db41f353ccaf4ff",
-   "excerpt": "submitted by /u/SightsFilms [link] [comments]"
-  },
-  {
-   "id": "108660c42695",
-   "title": "1960s Halloween Classics: The Ghoul Next Door",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x8a0a7/1960s_halloween_classics_the_ghoul_next_door/",
-   "date": "2026-10-17T13:16:04.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aTd6emc3ZWYyMXdoMUlL-7XF3bsj5sBLUafO5bcafC2XQ2tNWztkzwhB0qf7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=27089869d19c4fc339e2a57ecf2ae9078a99a3f3",
-   "excerpt": "submitted by /u/ComputerArtClub [link] [comments]"
-  },
-  {
-   "id": "657279cf248c",
-   "title": "Websites are closing their doors to AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "date": "2026-10-17T13:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Inst"
-  },
-  {
-   "id": "6a79f4cbac5c",
-   "title": "Anime characters + realistic backgrounds (round 3)",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1x89lgl/anime_characters_realistic_backgrounds_round_3/",
-   "date": "2026-10-17T12:56:30.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/jgcmzqlux0wh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=04d9afd4ada692343ffd0738e6a93eec89141993",
-   "excerpt": "submitted by /u/plsdontultme [link] [comments]"
-  },
-  {
-   "id": "9898b1741e49",
-   "title": "Tesla vs Rheinmetall",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x88kwo/tesla_vs_rheinmetall/",
-   "date": "2026-10-17T12:04:59.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZHIybnl6a2xvMHdoMTAhFxzbVTfA1E0jB78OT62DRIvuxoY0v-6m8yrb5pc5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e51beb49e6121702b362769b80d1f8bdfa6deea",
-   "excerpt": "submitted by /u/zlausd [link] [comments]"
-  },
-  {
-   "id": "cc438a5e6578",
-   "title": "That perfect evening",
-   "link": "https://www.reddit.com/r/midjourney/comments/1x8813t/that_perfect_evening/",
-   "date": "2026-10-17T11:34:41.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/fj1vyfaek0wh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=463b707ba94cf12b984ac7dd3782af8dfc701064",
-   "excerpt": "submitted by /u/Dropdeadlegs84 [link] [comments]"
-  },
-  {
-   "id": "febbe6c8a50e",
-   "title": "Forgotten Gods.",
-   "link": "https://www.reddit.com/r/midjourney/comments/1x874wa/forgotten_gods/",
-   "date": "2026-10-17T10:41:59.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/10kg47sxa0wh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1add2c1177c8b4aa541010a145ad3ec87514a909",
-   "excerpt": "submitted by /u/This_is_McCarth [link] [comments]"
-  },
-  {
-   "id": "1e02d50333dd",
-   "title": "I made a custom node that turns illustrations into screentone manga panels",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1x86cki/i_made_a_custom_node_that_turns_illustrations/",
-   "date": "2026-10-17T09:54:12.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/ndp131td20wh1.jpg?width=140&amp;height=72&amp;auto=webp&amp;s=69ba1dd19e235fc926c265f485cf7dd846f982f5",
-   "excerpt": "I wanted my finished illustrations to look like an actual manga page: crisp ink lines, blank paper for light areas, solid black for dark hair and clothes, and screentone only where it’s needed. It uses Qwen-Image 2.1 Turbo (edit) to decide what should be black, white or toned, then a small finishing node prints it with real halftone dots. There’s also a lite workflow without the edit model. The no"
-  },
-  {
-   "id": "8abdc2989c61",
-   "title": "Axdix/Seedance-2-AI-Video-Generator",
-   "link": "https://huggingface.co/Axdix/Seedance-2-AI-Video-Generator",
-   "date": "2026-10-17T09:40:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-video, image-to-video, multimodal, diffusion, dit, lip-sync",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "051bf4c14a66",
-   "title": "joejoe-1/Juggernaut-XL",
-   "link": "https://huggingface.co/joejoe-1/Juggernaut-XL",
-   "date": "2026-10-17T09:13:29.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, stable-diffusion-xl, sdxl, text-to-image, photorealistic",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1c78472117ee",
-   "title": "T2i Moss vs. Flux3 Klein vs. Krea2",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1x85fx8/t2i_moss_vs_flux3_klein_vs_krea2/",
-   "date": "2026-10-17T08:56:19.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/9xovyqyurzvh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ee56305bad514a66b144f74c53abb68172b1b363",
-   "excerpt": "Same prompt, same seed, no lora submitted by /u/CutLongjumping8 [link] [comments]"
-  },
-  {
-   "id": "e4ce4e4880f6",
-   "title": "Epyan/MOSS-Image-SFT-ComfyUI",
-   "link": "https://huggingface.co/Epyan/MOSS-Image-SFT-ComfyUI",
-   "date": "2026-10-17T08:53:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, moss-image, text-to-image, quantized, int8, w4a8",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "05d3f26e9a0a",
-   "title": "Epyan/MOSS-Image_4-step_adapter_lora",
-   "link": "https://huggingface.co/Epyan/MOSS-Image_4-step_adapter_lora",
-   "date": "2026-10-17T08:49:11.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, moss-image, lora, distillation, few-step, dmad",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1bce173a7307",
-   "title": "Make Perfect Seamless Vlog Videos with 1 Click",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1x84uym/make_perfect_seamless_vlog_videos_with_1_click/",
-   "date": "2026-10-17T08:18:30.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/d21tamhnZXBqenZoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3b7fb8ef2afeeff316be5ee0b60cf5be21eb84a3",
-   "excerpt": "Here's a one click workflow so you can create Seamless Vlogs. https://github.com/roycho87/Seamless_vlog_workflow https://github.com/roycho87/seamless_video_combiner https://github.com/roycho87/minimax_continuous_audio_splitter Also, here's two useful nodes you might like used in the workflow. https://github.com/roycho87/h3_clown_anchoring Clown anchoring, in this workflow, uses a method i learned "
-  },
-  {
-   "id": "17bf8d71dfa8",
-   "title": "RunningHubAI/rh-silly-anime-immortal-cultivation-fantasy-characters-multi-view-lora",
-   "link": "https://huggingface.co/RunningHubAI/rh-silly-anime-immortal-cultivation-fantasy-characters-multi-view-lora",
-   "date": "2026-10-17T08:10:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "469ce90a76c5",
-   "title": "zimageapp/Krea-2-Turbo-MLX-LoRAs",
-   "link": "https://huggingface.co/zimageapp/Krea-2-Turbo-MLX-LoRAs",
-   "date": "2026-10-17T08:02:25.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, license:other, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "27b279f7dfcb",
-   "title": "zimageapp/Iris-3B-Turbo-MLX-Q4",
-   "link": "https://huggingface.co/zimageapp/Iris-3B-Turbo-MLX-Q4",
-   "date": "2026-10-17T07:59:04.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, text-to-image, base_model:pentacoxian-dev/iris-3b-turbo-lora, base_model:finetune:pentacoxian-dev/iris-3b-turbo-lora, license:apache-2.0",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "91844a68e089",
-   "title": "suryatmodulus/MOSS-Image-Base",
-   "link": "https://huggingface.co/suryatmodulus/MOSS-Image-Base",
-   "date": "2026-10-17T07:55:47.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, moss-image, text-to-image, en, zh",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "cef658e64806",
-   "title": "zimageapp/Krea-2-Turbo-MLX-Q4",
-   "link": "https://huggingface.co/zimageapp/Krea-2-Turbo-MLX-Q4",
-   "date": "2026-10-17T07:49:23.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, text-to-image, base_model:krea/Krea-2-Turbo, base_model:finetune:krea/Krea-2-Turbo, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5e38efb4d48a",
-   "title": "He's a lot of fun to be with",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x84b9v/hes_a_lot_of_fun_to_be_with/",
-   "date": "2026-10-17T07:45:03.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OG4zN3NjcjdmenZoMQxGowM8NswqHI-NT7U_lnJauCcBjtGKyDF3BjaUwsxv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8ab7a75d4d405902fe9d04843f3d92161ab69820",
-   "excerpt": "submitted by /u/DaLyon92x [link] [comments]"
-  },
-  {
-   "id": "825311c6a548",
-   "title": "zimageapp/FLUX-3-Klein-MLX-Q4",
-   "link": "https://huggingface.co/zimageapp/FLUX-3-Klein-MLX-Q4",
-   "date": "2026-10-17T07:43:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, safetensors, text-to-image, base_model:black-forest-labs/flux-3-image-klein, base_model:finetune:black-forest-labs/flux-3-image-klein, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "bfa215ffec79",
-   "title": "Haoming02/AlmondEye-Anima",
-   "link": "https://huggingface.co/Haoming02/AlmondEye-Anima",
-   "date": "2026-10-17T06:57:11.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:circlestone-labs/Anima, base_model:adapter:circlestone-labs/Anima",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
