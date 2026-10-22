@@ -1,6 +1,180 @@
 {
- "updated": "2026-10-22T20:10:34.889Z",
+ "updated": "2026-10-22T23:25:56.919Z",
  "items": [
+  {
+   "id": "2ff716135a10",
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "date": "2026-10-22T22:24:34.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
+   "id": "c0446ca2eb98",
+   "title": "GlurpRain/Arriana",
+   "link": "https://huggingface.co/GlurpRain/Arriana",
+   "date": "2026-10-22T22:24:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c7faa3f09b33",
+   "title": "AF552/Atetermira",
+   "link": "https://huggingface.co/AF552/Atetermira",
+   "date": "2026-10-22T22:21:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "53152cd676e6",
+   "title": "tezrt/dfv",
+   "link": "https://huggingface.co/tezrt/dfv",
+   "date": "2026-10-22T22:20:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Qwen/Qwen-Image-2.1, base_model:adapter:Qwen/Qwen-Image-2.1",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "322f51b5b423",
+   "title": "GlurpRain/Siobhan",
+   "link": "https://huggingface.co/GlurpRain/Siobhan",
+   "date": "2026-10-22T22:20:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Turbo, base_model:adapter:krea/Krea-2-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0ac6e5a52ce5",
+   "title": "tezrt/fffff",
+   "link": "https://huggingface.co/tezrt/fffff",
+   "date": "2026-10-22T22:16:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Qwen/Qwen-Image-2.1, base_model:adapter:Qwen/Qwen-Image-2.1",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c4c762c6b747",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "date": "2026-10-22T22:08:24.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+  },
+  {
+   "id": "567f12f76ed7",
+   "title": "brunobellot2939/BB-TeruBizarre-Mix",
+   "link": "https://huggingface.co/brunobellot2939/BB-TeruBizarre-Mix",
+   "date": "2026-10-22T22:08:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: stable-diffusion, stable-diffusion-1-5, text-to-image, checkpoint-merge, surrealism, experimental-art",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "73f803029b01",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "date": "2026-10-22T21:51:25.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an announcement on Thursday. Canva Craft can generate im"
+  },
+  {
+   "id": "4036e9de7834",
+   "title": "My Little Monster And Me",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xcugon/my_little_monster_and_me/",
+   "date": "2026-10-22T20:51:36.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/cXNucmIxbWEwM3hoMfvbqhSPzBrp57E5LH5FpitR5QRquvY8Y4HwWKxm8JZe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=614a3682bbe1309e43168348b631bf50b7a05368",
+   "excerpt": "submitted by /u/No_Personality535 [link] [comments]"
+  },
+  {
+   "id": "af7e7277bac3",
+   "title": "Meta s AI could still scrape news sites, legal experts say",
+   "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "date": "2026-10-22T20:32:05.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites,\" James Grimmelmann, a professor of digital and inform"
+  },
+  {
+   "id": "d7dcc58ca817",
+   "title": "Meta turns Muse sharing back on",
+   "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+   "date": "2026-10-22T20:24:04.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web addresses for shared conversations from Muse were"
+  },
+  {
+   "id": "57d2b9fb4c3f",
+   "title": "kub4is/corgy_flowers_LoRA",
+   "link": "https://huggingface.co/kub4is/corgy_flowers_LoRA",
+   "date": "2026-10-22T20:12:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, template:sd-lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "558ac4e30dbd",
    "title": "AGG-07/sd-v1-4-oldbookillustrations",
@@ -327,6 +501,16 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+  },
+  {
+   "id": "73cc4d80af63",
+   "title": "Plane Chips",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xcnpwf/plane_chips/",
+   "date": "2026-10-22T16:42:31.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/NnhmY3g5bHZyMXhoMbmmnd3KgVL0EylpDpPrOMv2BDD4PnEFMVz54_pduKjm.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=9a103b4a8d36db4b0407b4b9d7665cfa4bcf78c2",
+   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
   },
   {
    "id": "e596798c8ba8",
@@ -1211,7 +1395,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 46, likes: 6. Tags: minimax-h3, text-to-video, image-to-video, safetensors, comfyui, int8",
    "hf": {
-    "likes": 14,
+    "likes": 16,
     "downloads": 46,
     "pipeline": "image-to-video"
    }
@@ -1575,7 +1759,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, comfyui, video-generation, text-to-video, image-to-video, reference-to-video",
    "hf": {
-    "likes": 10,
+    "likes": 11,
     "downloads": 818,
     "pipeline": "image-to-video"
    }
@@ -6047,7 +6231,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 264, likes: 106. Tags: diffusers, safetensors, moss-image, text-to-image, en, base_model:OpenMOSS-Team/MOSS-Image-Base",
    "hf": {
-    "likes": 224,
+    "likes": 225,
     "downloads": 14415,
     "pipeline": "trending image"
    }
@@ -6856,7 +7040,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 35, likes: 69. Tags: diffusers, safetensors, image-editing, text-to-image, image-to-image, inpainting",
    "hf": {
-    "likes": 114,
+    "likes": 116,
     "downloads": 645,
     "pipeline": "trending image"
    }
@@ -7324,182 +7508,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "bfbc5b86cdce",
-   "title": "DelinaresMassates/gowther_lora",
-   "link": "https://huggingface.co/DelinaresMassates/gowther_lora",
-   "date": "2026-10-17T23:41:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, base_model:black-forest-labs/FLUX.1-dev, base_model:finetune:black-forest-labs/FLUX.1-dev, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "139e023524e4",
-   "title": "DEATH NOT - TheLoopHole Project",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x8nyti/death_not_theloophole_project/",
-   "date": "2026-10-17T23:10:39.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZDZ3OHBybWEwNHdoMcfn6zcgQUKzH8OiTCv_McLlaUW3B16lRbyMzGZ030Wr.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b0acbbae55e36f371ed02d1e4f52a44020a953df",
-   "excerpt": "submitted by /u/neptune765 [link] [comments]"
-  },
-  {
-   "id": "19aabc090357",
-   "title": "young699/Qwen-Image-2.1-Turbo",
-   "link": "https://huggingface.co/young699/Qwen-Image-2.1-Turbo",
-   "date": "2026-10-17T23:06:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, qwen, image-generation, image-editing, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1a1a902b4f13",
-   "title": "Ccadic/erwan-ZImage-Turbo-LoRA",
-   "link": "https://huggingface.co/Ccadic/erwan-ZImage-Turbo-LoRA",
-   "date": "2026-10-17T23:03:22.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, z-image-turbo, lora, text-to-image, character, identity",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "cfb7b3e716e4",
-   "title": "ANOTHER PLACE TO BE",
-   "link": "https://www.reddit.com/r/midjourney/comments/1x8nop6/another_place_to_be/",
-   "date": "2026-10-17T22:57:36.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/hdxrz26aw3wh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=cb79793694628bfbe28fdb2bf4e7ebd338ceea42",
-   "excerpt": "submitted by /u/GaryWray [link] [comments]"
-  },
-  {
-   "id": "48ca43635402",
-   "title": "Space knight",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x8nic3/space_knight/",
-   "date": "2026-10-17T22:49:11.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bjQ5OTVnY3F3M3doMbgtWGcTAjiHHQW023DgQxninkkO0UO0dhR_6WsCjQqj.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a765365298dce08c6246e827a15ff9e6d0588f29",
-   "excerpt": "submitted by /u/_mang00 [link] [comments]"
-  },
-  {
-   "id": "786b2f88281e",
-   "title": "He broke my finger",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x8n3j2/he_broke_my_finger/",
-   "date": "2026-10-17T22:29:42.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NmY1aDdnejd0M3doMXwRBLIK1j9qaHDddhGeMsSo8yN4HFCklUQU6cD-gxqQ.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a55501f0eefe101bb1452b12bde3675ee6abebd",
-   "excerpt": "submitted by /u/Darri3D [link] [comments]"
-  },
-  {
-   "id": "6ab4e4401efe",
-   "title": "darask0/Krea-2-color-depth-control",
-   "link": "https://huggingface.co/darask0/Krea-2-color-depth-control",
-   "date": "2026-10-17T21:47:29.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: krea-2, controlnet, control, depth, segmentation, regional-prompting",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0a9fa0c7688a",
-   "title": "The Prompting Zone EP02: Terms and Conditions | A 1960s-style sci-fi short",
-   "link": "https://www.reddit.com/r/aivideo/comments/1x8m10r/the_prompting_zone_ep02_terms_and_conditions_a/",
-   "date": "2026-10-17T21:41:04.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MnVvbHdlemtrM3doMdYtHjprqszMEozXPW7IUI4eh7dYt2hqPDTEiVZHniq_.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2341182de214500d99ce459fa0634cea3642b8f3",
-   "excerpt": "submitted by /u/Inevitable_Emu2722 [link] [comments]"
-  },
-  {
-   "id": "24a6bb2519a4",
-   "title": "Meta removes language that raised scraping and AI training concerns",
-   "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-   "date": "2026-10-17T21:31:32.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-  },
-  {
-   "id": "387f04b393a4",
-   "title": "TheGarbageMan1/childish",
-   "link": "https://huggingface.co/TheGarbageMan1/childish",
-   "date": "2026-10-17T21:27:18.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "eb153e5825e4",
-   "title": "r4wmil/ramil_style_LoRA",
-   "link": "https://huggingface.co/r4wmil/ramil_style_LoRA",
-   "date": "2026-10-17T21:27:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, template:sd-lora",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8b7a20b7997f",
-   "title": "Do we really need more 5B general-purpose image models?",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1x8l3lc/do_we_really_need_more_5b_generalpurpose_image/",
-   "date": "2026-10-17T21:00:13.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/bqlwb8uoc3wh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=d710f1409330db8c69dad9674b0d4bb28f6469aa",
-   "excerpt": "Same prompt. 3 MP. Four generations per model. Best image selected. The pattern I keep seeing: larger DiTs tend to produce more coherent images. Cleaner shapes, better-defined objects, less visual garbage. Mechanical structures make more sense, spatial relationships hold together better, and fewer generations end up unusable. This isn’t a conclusion drawn from one prompt. It’s an observation from "
-  },
-  {
-   "id": "1466727c58f2",
-   "title": "Flux3 vs Flux2 9B for style transfer",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1x8koa8/flux3_vs_flux2_9b_for_style_transfer/",
-   "date": "2026-10-17T20:42:08.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/ayh275bp83wh1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=9b0bfb4098661af86cad10da5172a93dcebebc24",
-   "excerpt": "From my testing, flux3 seems to be very good at higher fidelity composition combined with single image style transfer than the much looser Flux2 9B. Granted, I have not yet run a test with flux2 with and without the flux3 prompt expander. The flux3 release has been controversial for sure, but I think people maybe aren't realizing that the prompt expander has a lot of utility on its own. It's a lot"
   }
  ]
 }
