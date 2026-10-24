@@ -1,6 +1,80 @@
 {
- "updated": "2026-10-23T23:11:24.271Z",
+ "updated": "2026-10-24T01:38:35.296Z",
  "items": [
+  {
+   "id": "beb78703ff23",
+   "title": "onocloud/onoai-photon-creator-1.0-pro",
+   "link": "https://huggingface.co/onocloud/onoai-photon-creator-1.0-pro",
+   "date": "2026-10-24T01:15:56.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, license:other, diffusers:QwenImagePipeline, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "35a4989a9e8d",
+   "title": "szphynx/realtime-manglediffusion",
+   "link": "https://huggingface.co/szphynx/realtime-manglediffusion",
+   "date": "2026-10-24T00:28:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, onnxruntime-web, webgpu, stable-diffusion, text-to-image, image-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8bf45d109516",
+   "title": "anonymous111110987654321/latb-001",
+   "link": "https://huggingface.co/anonymous111110987654321/latb-001",
+   "date": "2026-10-24T00:20:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d594c44f3c0e",
+   "title": "Tiptoe?",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xdtofe/tiptoe/",
+   "date": "2026-10-23T23:43:21.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ajgxMXE2OHV6YXhoMTdwd7bXenij8OW9GJTTXR8uys8aOmUiGHrdbBkS8ziP.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3680ee3002442e41f85a8cf0b6ad9f25be7c2f46",
+   "excerpt": "submitted by /u/OveyStudios [link] [comments]"
+  },
+  {
+   "id": "17128a3eb8a7",
+   "title": "anonymous111110987654321/angelika-maskaeva",
+   "link": "https://huggingface.co/anonymous111110987654321/angelika-maskaeva",
+   "date": "2026-10-23T23:14:30.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "7384891d7abd",
    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
@@ -128,7 +202,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: comfyui, hy-nomas, world-model, video-generation, image-to-video, camera-control",
    "hf": {
-    "likes": 1,
+    "likes": 3,
     "downloads": 0,
     "pipeline": "text-to-video"
    }
@@ -7377,10 +7451,21 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 264, likes: 106. Tags: diffusers, safetensors, moss-image, text-to-image, en, base_model:OpenMOSS-Team/MOSS-Image-Base",
    "hf": {
-    "likes": 231,
+    "likes": 235,
     "downloads": 16365,
     "pipeline": "trending image"
    }
+  },
+  {
+   "id": "c66fdd5e3a74",
+   "title": "v0.42.1",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.42.1",
+   "date": "2026-10-19T01:33:54.000Z",
+   "source": "ComfyUI Releases",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://avatars.githubusercontent.com/in/15368?s=60&v=4",
+   "excerpt": "Fix some crashing issues a few users experienced when running the MOSS image template workflow."
   },
   {
    "id": "1d204fbcc194",
@@ -7396,97 +7481,6 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "3a0c4e8e9c0b",
-   "title": "stuff123456/flux2klein69blowjob",
-   "link": "https://huggingface.co/stuff123456/flux2klein69blowjob",
-   "date": "2026-10-19T01:19:43.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:wikeeyang/Flux2-Klein-9B-True-V2, base_model:adapter:wikeeyang/Flux2-Klein-9B-True-V2",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d99919132e9e",
-   "title": "stuff123456/flux_secrets_bare_skins",
-   "link": "https://huggingface.co/stuff123456/flux_secrets_bare_skins",
-   "date": "2026-10-19T00:57:38.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3f34d6f43c0a",
-   "title": "wind11/Krea2_Last_Kiss",
-   "link": "https://huggingface.co/wind11/Krea2_Last_Kiss",
-   "date": "2026-10-19T00:30:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: krea-2, krea2-turbo, turbo, uncensored, general-purpose, merge",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9fba733ce125",
-   "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-   "link": "https://huggingface.co/blog/hf-torchneuron",
-   "date": "2026-10-19T00:00:00.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "56235dd32b3c",
-   "title": "guillekenzo/aros-898410b3-LunarMuse",
-   "link": "https://huggingface.co/guillekenzo/aros-898410b3-LunarMuse",
-   "date": "2026-10-18T23:58:05.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "f5a415746db6",
-   "title": "hneilpro/caprice-flux-lora",
-   "link": "https://huggingface.co/hneilpro/caprice-flux-lora",
-   "date": "2026-10-18T23:41:38.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, stable-diffusion, lora, flux, character, base_model:black-forest-labs/FLUX.1-dev",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
    }
   }
  ]
