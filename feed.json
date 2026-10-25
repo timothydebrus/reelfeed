@@ -1,6 +1,171 @@
 {
- "updated": "2026-10-24T22:31:29.003Z",
+ "updated": "2026-10-25T01:13:56.476Z",
  "items": [
+  {
+   "id": "941c8fb1ac79",
+   "title": "zxyty/physicalai-qwen-image-2.1",
+   "link": "https://huggingface.co/zxyty/physicalai-qwen-image-2.1",
+   "date": "2026-10-25T00:33:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "caf812684b0d",
+   "title": "zxyty/physicalai-z-image-turbo",
+   "link": "https://huggingface.co/zxyty/physicalai-z-image-turbo",
+   "date": "2026-10-25T00:12:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6c0526365520",
+   "title": "Kandoo/Juggernaut-XL-Ragnarok  (♥ 1)",
+   "link": "https://huggingface.co/Kandoo/Juggernaut-XL-Ragnarok",
+   "date": "2026-10-25T00:11:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, stable-diffusion-xl, sdxl, text-to-image, juggernaut",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1df9437b8892",
+   "title": "frankdu/SDXL-Turbo-Mobile-INT8-LiteRT",
+   "link": "https://huggingface.co/frankdu/SDXL-Turbo-Mobile-INT8-LiteRT",
+   "date": "2026-10-25T00:00:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: litert, tflite, int8, android, on-device, diffusion",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0cdd8b49a646",
+   "title": "frankdu/SD-Turbo-Mobile-INT8-LiteRT",
+   "link": "https://huggingface.co/frankdu/SD-Turbo-Mobile-INT8-LiteRT",
+   "date": "2026-10-25T00:00:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: litert, tflite, int8, android, on-device, diffusion",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c8236dcad65c",
+   "title": "Minecraft, But It's a 90s Anime",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xen77t/minecraft_but_its_a_90s_anime/",
+   "date": "2026-10-24T23:37:55.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dTdyYjM4cW4zaXhoMe8ZPiPeJiEPG79J7_U4pLh_MeuxrTNjxP3u3KxHRNn4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e3180c20ff458d5b60059c196fab40e19ad152f0",
+   "excerpt": "submitted by /u/yumaeriel [link] [comments]"
+  },
+  {
+   "id": "c6f6322073d5",
+   "title": "doraxcx/DORAS_style_pictures",
+   "link": "https://huggingface.co/doraxcx/DORAS_style_pictures",
+   "date": "2026-10-24T23:13:43.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, template:sd-lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "425e35db5d18",
+   "title": "marcmaronnier/pony-realism-nsfw-photo-with-comfyui-upscale-workflow",
+   "link": "https://huggingface.co/marcmaronnier/pony-realism-nsfw-photo-with-comfyui-upscale-workflow",
+   "date": "2026-10-24T22:57:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, text-to-image, stable-diffusion-xl, pony, license:openrail++",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "02c358aeb370",
+   "title": "jean-is/FastWan2.2-TI2V-5B-ONNX  (♥ 1)",
+   "link": "https://huggingface.co/jean-is/FastWan2.2-TI2V-5B-ONNX",
+   "date": "2026-10-24T22:47:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: onnxruntime, onnx, onnxruntime-web, webgpu, text-to-video, wan2.2",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "9fd2fbd24773",
+   "title": "ir0n1c/shoko-makinohara-lora",
+   "link": "https://huggingface.co/ir0n1c/shoko-makinohara-lora",
+   "date": "2026-10-24T22:46:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Laxhar/noobai-XL-1.1, base_model:adapter:Laxhar/noobai-XL-1.1",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3b08de9ade54",
+   "title": "JACK VAYLOR Bad Dreams Kling 4 Noir Mystery Pilot",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xeljfy/jack_vaylor_bad_dreams_kling_4_noir_mystery_pilot/",
+   "date": "2026-10-24T22:19:08.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/bnRuaXY4bGhwaHhoMY2RB-6AQU7SMStpd9hesRVYSQFSDDh3jqyplnwZibM0.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7eb105b401bf1657e8185cc0ea579b123ab185c8",
+   "excerpt": "submitted by /u/RealBrainRocket [link] [comments]"
+  },
   {
    "id": "0def28458863",
    "title": "frankdu/iris-3b-Turbo-LiteRT",
@@ -102,6 +267,16 @@
    "excerpt": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all. Executive Producer Elizabeth Whit"
   },
   {
+   "id": "c300d4e024ea",
+   "title": "Then and Now",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xejjcn/then_and_now/",
+   "date": "2026-10-24T20:51:27.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Z3A1d2o1eXI5aHhoMXXNq5pu2bh_BbaLf1Hi2GNbL7bXgMORGOfWVfmvlNRq.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=435c25f3d332f0dbf6c31eacf5d7d3365c0a6f41",
+   "excerpt": "submitted by /u/TradingCardGirl [link] [comments]"
+  },
+  {
    "id": "704975d7ae3b",
    "title": "orangejuicesmith/Qwen-Image-2.1-Uncensored-Quantized",
    "link": "https://huggingface.co/orangejuicesmith/Qwen-Image-2.1-Uncensored-Quantized",
@@ -180,6 +355,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "5e3b7c5621d4",
+   "title": "Officer trusted a Halloween decoration",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xeht3e/officer_trusted_a_halloween_decoration/",
+   "date": "2026-10-24T19:39:30.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Y3FpcWh0Zjl4Z3hoMYVm3UNvM74uA-gdLoquid7_29q3k3S9G0m0zdoc2XMz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a784ec0c3a57751e5a14440ec614065be53504e7",
+   "excerpt": "submitted by /u/OGGremlinz [link] [comments]"
   },
   {
    "id": "53d60056b10f",
@@ -7378,167 +7563,6 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Granddyser/flux-klein-9b-Biglove-Collection, base_model:adapter:Granddyser/flux-klein-9b-Biglove-Collection",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1572b44543d0",
-   "title": "RunningHubAI/rh-qwen-2.1-lora",
-   "link": "https://huggingface.co/RunningHubAI/rh-qwen-2.1-lora",
-   "date": "2026-10-19T20:43:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "fde5c68e602f",
-   "title": "Poij3012/Wan2.2-I2V-A14B-Diffusers",
-   "link": "https://huggingface.co/Poij3012/Wan2.2-I2V-A14B-Diffusers",
-   "date": "2026-10-19T20:42:45.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-to-video, en, zh, arxiv:2503.20314",
-   "hf": {
-    "likes": 0,
-    "downloads": 11,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "6d85a7525609",
-   "title": "Minimax h3 is so good",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xa87bj/minimax_h3_is_so_good/",
-   "date": "2026-10-19T20:32:16.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/bnR4bTF2dTRpaHdoMXqK5C-Cdq2maq9xJQ6yqlDRD5btqPv440cwwlnE7YQo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f24c5160fe36561965fad7e61d0d12cfd9d0eecb",
-   "excerpt": "submitted by /u/NapoletanoPizzaiolo [link] [comments]"
-  },
-  {
-   "id": "bf5b18662217",
-   "title": "stuff123456/sexgodnudesexyselfies",
-   "link": "https://huggingface.co/stuff123456/sexgodnudesexyselfies",
-   "date": "2026-10-19T20:15:52.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Danrisi/Samsung_FluxKlein_9b, base_model:adapter:Danrisi/Samsung_FluxKlein_9b",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "37fc3e207694",
-   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-   "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-   "date": "2026-10-19T20:09:24.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
-  },
-  {
-   "id": "d332d39c990b",
-   "title": "Always On - A collaboration between two LLMs",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xa75qu/always_on_a_collaboration_between_two_llms/",
-   "date": "2026-10-19T19:53:41.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/c21wZzBqbDA5aHdoMYtiI8iS_gu6AxnGOIyrXC3PRsxi0x_WJfLE1I2Ed4Zc.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f8f80df8b77a602d30c0b6e9fb69bf473edf4881",
-   "excerpt": "Asked Qwen 3.8 27B and Opus to collaborate on a video project of their choice. Then asked Opus to make a video of their conversation: https://www.youtube.com/watch?v=_FA2AgSNLkg. Always On was Opus' idea which they both refined. Opus wrote the fridge lyrics and Qwen the toaster LTX 2.5 for the video MiniMax Music3 for the song MiniMax H3 for the collaboration video (Kokora for Text to Speach) This"
-  },
-  {
-   "id": "821ba34d6445",
-   "title": "What did you find Moss can do that the others model can’t ?",
-   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xa71a1/what_did_you_find_moss_can_do_that_the_others/",
-   "date": "2026-10-19T19:49:03.000Z",
-   "source": "r/StableDiffusion",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/PhilosopherSweaty826 [link] [comments]"
-  },
-  {
-   "id": "a5525179ef08",
-   "title": "Seinfeld v Casino",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xa6ul6/seinfeld_v_casino/",
-   "date": "2026-10-19T19:42:15.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YXN5cHgxYzQ5aHdoMZ-hTRs0J-c7rd1nGEin0zk_ihXgEY0QwaiECLhW1C6t.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d76062365b10709d835c58cdc4f11b357c02ad5",
-   "excerpt": "submitted by /u/InsertCointent [link] [comments]"
-  },
-  {
-   "id": "7b99b9d52f32",
-   "title": "MarceloFSO/ltx-2.5-distilled-nvidia",
-   "link": "https://huggingface.co/MarceloFSO/ltx-2.5-distilled-nvidia",
-   "date": "2026-10-19T19:31:50.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: video-generation, text-to-video, image-to-video, safetensors, mirror, base_model:Lightricks/LTX-2.5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "7ab7fd77f18f",
-   "title": "The Sony FX5 is Finally (Hopefully) Set to Ship Here in Mid-November",
-   "link": "https://nofilmschool.com/sony-fx5-ready-to-ship",
-   "date": "2026-10-19T19:30:41.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/sony-fx5-ready-to-ship.jpg?id=68486480&width=1245&height=700&coordinates=0%2C81%2C0%2C82",
-   "excerpt": "In a saga that’s been going on for a while, though perhaps not as long as the never-ending DJI drone ban in the US, the hotly anticipated Sony FX5 has finally resolved its production delays and is set to begin shipping next month. Is this truly the end of the saga? For those who preordered and are waiting to get their hands on this new Sony cinema camera, with its newly developed 16.6MP full-frame"
-  },
-  {
-   "id": "23a6adb9ef6f",
-   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-   "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-   "date": "2026-10-19T19:28:34.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
-  },
-  {
-   "id": "1ef9d7bc3fba",
-   "title": "The 10 Most Cursed Horror Children to Ever Grace the Screen",
-   "link": "https://nofilmschool.com/most-cursed-horror-children",
-   "date": "2026-10-19T19:20:20.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/most-cursed-horror-children.jpg?id=68486110&width=1245&height=700&coordinates=121%2C0%2C122%2C0",
-   "excerpt": "Kids are fun and full of life. But sometimes they're full of the devil. Or another ancient demon hell-bent on destroying life on Earth. Whether they're possessed by ancient demons, born the Antichrist, or simply operating on a level of unhinged malice, cursed kids are such a huge part of the horror genre. They star in some of our favorite movies, and today, I wanted to do a post dedicated to them "
-  },
-  {
-   "id": "b1a0e21853c8",
-   "title": "SearchingMan/illustrious-xl-v1.0-hyper8cfg-GGUF",
-   "link": "https://huggingface.co/SearchingMan/illustrious-xl-v1.0-hyper8cfg-GGUF",
-   "date": "2026-10-19T19:17:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, stable-diffusion-xl, sdxl, anime, stable-diffusion.cpp, hyper-sd",
    "hf": {
     "likes": 0,
     "downloads": 0,
