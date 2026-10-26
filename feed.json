@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-25T22:36:27.390Z",
+ "updated": "2026-10-26T01:14:40.131Z",
  "items": [
+  {
+   "id": "ed8b34550b06",
+   "title": "OSNFK/QwenImage2.1_ArchitectureConcept_T2I_1.0",
+   "link": "https://huggingface.co/OSNFK/QwenImage2.1_ArchitectureConcept_T2I_1.0",
+   "date": "2026-10-26T01:13:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Qwen/Qwen-Image-2.1, base_model:adapter:Qwen/Qwen-Image-2.1",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "cf1cfdf3a431",
+   "title": "RunningHubAI/rh-minimax-h3-remix-hsa-turbo-v0.8-int8-pruned-unet",
+   "link": "https://huggingface.co/RunningHubAI/rh-minimax-h3-remix-hsa-turbo-v0.8-int8-pruned-unet",
+   "date": "2026-10-26T00:49:34.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "9c28c46006f6",
+   "title": "\"Where Did You Get These?\"",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xfi8qp/where_did_you_get_these/",
+   "date": "2026-10-26T00:19:35.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZXkyN2xjZTBncHhoMWSJ5y71G4zhyGfyvHY4xbm7nogMOmIEQdJtGS8Gmed5.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e4e09daf9d026d3a54e3a835ed7ac9094b4fa9a6",
+   "excerpt": "submitted by /u/Postal_Shame_Revival [link] [comments]"
+  },
+  {
+   "id": "6cbe86cc5b27",
+   "title": "Sasha0202/schiele_portrait_LoRA",
+   "link": "https://huggingface.co/Sasha0202/schiele_portrait_LoRA",
+   "date": "2026-10-26T00:01:25.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, diffusers-training, lora, template:sd-lora, stable-diffusion-xl",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ae2fbcabf4f7",
+   "title": "ThatWW2Nerd/anicorexl-illustrious-v6-sdxl",
+   "link": "https://huggingface.co/ThatWW2Nerd/anicorexl-illustrious-v6-sdxl",
+   "date": "2026-10-25T23:43:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, stable-diffusion, stable-diffusion-xl, anime",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "460ba7d948f4",
+   "title": "Baxx was early",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xfgxxl/baxx_was_early/",
+   "date": "2026-10-25T23:21:06.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bmZhazBqMm81cHhoMUvzs2QICWwJUzdPk5Rj49PKYkgV7LSbkpIGVjTRl2IS.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=042aab6c7cc556c34cb1e89e6218bcf76290eee9",
+   "excerpt": "submitted by /u/RealBrainRocket [link] [comments]"
+  },
+  {
+   "id": "83d89bf0f66e",
+   "title": "SolusX/soloo",
+   "link": "https://huggingface.co/SolusX/soloo",
+   "date": "2026-10-25T23:00:19.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, stable-diffusion, safetensors, nsfw, anime",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "806c899a8602",
+   "title": "Cosmic Love",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xfgc73/cosmic_love/",
+   "date": "2026-10-25T22:53:56.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Yjhib2NicXUwcHhoMTMca42ZNXDVgfgisEBXJGE6DQJlexDx4mW79RjDoUxf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b25610197636657b6b32593df76c6b3936a5f28",
+   "excerpt": "submitted by /u/Some-Dark-5802 [link] [comments]"
+  },
   {
    "id": "dee677a5d9d5",
    "title": "AF552/A3",
@@ -27,6 +137,22 @@
    "isModel": true,
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, krea2, character, text-to-image, en, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "bc01cbca6805",
+   "title": "TheMindExpansionNetwork/budnspud-chaos-scene-lora-v1",
+   "link": "https://huggingface.co/TheMindExpansionNetwork/budnspud-chaos-scene-lora-v1",
+   "date": "2026-10-25T22:10:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, comfyui, flux3, budnspud, clay-animation, text-to-image",
    "hf": {
     "likes": 0,
     "downloads": 0,
@@ -212,7 +338,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: controlnet, lora, safetensors, image-to-video, dataset:bop-benchmark/hot3d, base_model:MiniMaxAI/MiniMax-H3",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -7556,103 +7682,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/b3FnYm9iMzQ2bndoMQvKQNye_Han0IVNU9eeSWV-FBP3A1OP_UUtLTWW2ySN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=149de90c6ad20e6fd2e887d79f88d0bb9691ffdc",
    "excerpt": "submitted by /u/AndyRiffeth [link] [comments]"
-  },
-  {
-   "id": "ecf6930cdc4d",
-   "title": "Quatrilion/QuatAI-Text-To-Image",
-   "link": "https://huggingface.co/Quatrilion/QuatAI-Text-To-Image",
-   "date": "2026-10-20T15:25:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, diffusers, safetensors, text-to-video, arxiv:2503.20314, arxiv:2309.14509",
-   "hf": {
-    "likes": 0,
-    "downloads": 12,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "8f295aae143e",
-   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-   "date": "2026-10-20T15:19:48.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "0813d94c8aba",
-   "title": "3 Questions for Rewriting Any Scene",
-   "link": "https://nofilmschool.com/matt-harry-rewrite-any-scene",
-   "date": "2026-10-20T15:01:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/house-of-cards.jpg?id=68492544&width=1245&height=700&coordinates=106%2C0%2C107%2C0",
-   "excerpt": "If you've ever written a screenplay, you probably know that finishing the dang thing is only half the battle. Now you have to read it back and figure out if it's good or not. And you have to hope that you have the perception and self-awareness to see when a joke just doesn't land, or the pacing feels off, or dialogue is bad. Off you go on the rewrite journey. The hard part is knowing what to look "
-  },
-  {
-   "id": "092b96841efb",
-   "title": "Revolt of the Robots",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xau36v/revolt_of_the_robots/",
-   "date": "2026-10-20T14:46:49.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/b2k5OHNlYWV4bXdoMZWpYUAHp4h1RM3NFyAvm764vuGE-lV0_LRtf811AbDR.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2dc807007da4537b926024cef700a9081f014731",
-   "excerpt": "submitted by /u/Puzzleheaded-Mall528 [link] [comments]"
-  },
-  {
-   "id": "57e6facc99fc",
-   "title": "Crystal and Animal",
-   "link": "https://www.reddit.com/r/midjourney/comments/1xatz3t/crystal_and_animal/",
-   "date": "2026-10-20T14:42:26.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/q4dojv1mwmwh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=145d4ef88bd9b8818e357421d82d105ccb904785",
-   "excerpt": "submitted by /u/Sharp_Alternative845 [link] [comments]"
-  },
-  {
-   "id": "b04f2928d457",
-   "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-   "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-   "date": "2026-10-20T14:18:37.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists. \"Our editors hold the same standard and don't program content identified as slop or spam,\" Spotify "
-  },
-  {
-   "id": "131888a4cac3",
-   "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-   "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-   "date": "2026-10-20T14:13:32.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Figma said it plans to support as many standards as possible without exposing all of its data."
-  },
-  {
-   "id": "26670a11fce7",
-   "title": "Brett seems aggravated to the max",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xaru74/brett_seems_aggravated_to_the_max/",
-   "date": "2026-10-20T13:14:31.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eWhpMXBmeHhnbXdoMXH5ySsZCKHqbARMau_MtRGsPLN11IM3ddqwXsK9FlgB.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=4b435fb53d62533c09ace79e67990d0b9c9e40d5",
-   "excerpt": "submitted by /u/Dayna6380- [link] [comments]"
-  },
-  {
-   "id": "9e281481fb82",
-   "title": "A quick MOSS-Image news round-up - 20th October 2026",
-   "link": "https://www.reddit.com/r/comfyui/comments/1xarop9/a_quick_mossimage_news_roundup_20th_october_2026/",
-   "date": "2026-10-20T13:08:01.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "Another quick MOSS news and goodies round-up, for those who may have missed some items. -> The MOSS-Image Color-Depth Control LoRA now has integrated ComfyUI support in the latest Comfy Portable, thanks to a pull/merge request by Kijai. He has also shared a workflow. We thus now have at least basic Controlnet-like functionality in MOSS-image, via depth and colour inputs. I'd add that the depth/col"
   }
  ]
 }
