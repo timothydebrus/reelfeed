@@ -1,6 +1,353 @@
 {
- "updated": "2026-10-28T16:40:55.017Z",
+ "updated": "2026-10-28T21:41:17.683Z",
  "items": [
+  {
+   "id": "65911ac3f4f5",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "date": "2026-10-28T21:34:30.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+  },
+  {
+   "id": "1a03c7011eaf",
+   "title": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+   "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+   "date": "2026-10-28T21:25:30.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+  },
+  {
+   "id": "298af61c0648",
+   "title": "dosfazylbekov/krea2",
+   "link": "https://huggingface.co/dosfazylbekov/krea2",
+   "date": "2026-10-28T20:20:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8bdc1d3d9ec7",
+   "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+   "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+   "date": "2026-10-28T20:03:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over Argon, which Google "
+  },
+  {
+   "id": "caf16a793dd6",
+   "title": "dosfazylbekov/Myth",
+   "link": "https://huggingface.co/dosfazylbekov/Myth",
+   "date": "2026-10-28T19:58:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6420a845844a",
+   "title": "dosfazylbekov/FantasyIllustrationstyle",
+   "link": "https://huggingface.co/dosfazylbekov/FantasyIllustrationstyle",
+   "date": "2026-10-28T19:56:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "818bb38fa12b",
+   "title": "Shooter57/lf1krea2v1test",
+   "link": "https://huggingface.co/Shooter57/lf1krea2v1test",
+   "date": "2026-10-28T19:53:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "425844e4f170",
+   "title": "colosslabs/Krea-2-Coloss-Turbo-Quantized-NSFW",
+   "link": "https://huggingface.co/colosslabs/Krea-2-Coloss-Turbo-Quantized-NSFW",
+   "date": "2026-10-28T19:37:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, text-to-image, krea2, quantized, fp8, int8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "525f737e29f4",
+   "title": "colosslabs/Krea-2-Coloss-Raw-Quantized-NSFW",
+   "link": "https://huggingface.co/colosslabs/Krea-2-Coloss-Raw-Quantized-NSFW",
+   "date": "2026-10-28T19:37:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, text-to-image, krea2, quantized, fp8, int8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "164dad543ea9",
+   "title": "dosfazylbekov/dosstyle1",
+   "link": "https://huggingface.co/dosfazylbekov/dosstyle1",
+   "date": "2026-10-28T19:33:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b2173123b9bf",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "date": "2026-10-28T19:19:58.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+  },
+  {
+   "id": "4c18a8b504fc",
+   "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+   "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+   "date": "2026-10-28T19:05:46.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]"
+  },
+  {
+   "id": "f43f34ff4c97",
+   "title": "Film Quote of the Day: The 1992 ‘A Few Good Men’ Line About the True Meaning of Honor",
+   "link": "https://nofilmschool.com/a-few-good-men-quotes",
+   "date": "2026-10-28T19:00:04.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/a-few-good-men-quotes.jpg?id=68544468&width=1245&height=700&coordinates=120%2C0%2C112%2C0",
+   "excerpt": "I want you to harken back to when Aaron Sorkin's name was new to Hollywood. He was a successful playwright, bringing his voice to the silver screen with a director on one of his most incredible runs: Rob Reiner. Together, they made a courtroom drama starring the world's two most famous actors, Tom Cruise and Jack Nicholson. It's hard to describe the hype around this movie, and the gravity it carri"
+  },
+  {
+   "id": "e0fde9d76dfc",
+   "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+   "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+   "date": "2026-10-28T18:50:39.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]"
+  },
+  {
+   "id": "700042c7a5c1",
+   "title": "PeachesAvicii/Down-Blouse-101-H3",
+   "link": "https://huggingface.co/PeachesAvicii/Down-Blouse-101-H3",
+   "date": "2026-10-28T18:36:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:neph1/1980s_fantasy_movies_minimax_h3, base_model:adapter:neph1/1980s_fantasy_movies_minimax_h3",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3a6e219abc13",
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "date": "2026-10-28T18:36:26.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Win"
+  },
+  {
+   "id": "18ed0f0b473a",
+   "title": "AgentAnon/Qwen-Image-2.1-viggle-turbo  (♥ 1)",
+   "link": "https://huggingface.co/AgentAnon/Qwen-Image-2.1-viggle-turbo",
+   "date": "2026-10-28T18:31:26.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, gguf, lora, text-to-image, image-to-image",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "625ed8394d0a",
+   "title": "He Listened to the Podcast. Then He Made a Feature Film",
+   "link": "https://nofilmschool.com/he-listened-to-the-podcast-then-he-made-a-feature-film",
+   "date": "2026-10-28T18:30:04.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/halloween-candy.jpg?id=68544625&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
+   "excerpt": "What happens when a longtime podcast listener takes the leap into feature filmmaking? In this episode of the No Film School Podcast, No Film School listener-turned-filmmaker Douglas A. Plomitallo joins GG Hawkins to share how he went from making 86 horror shorts to directing, self-financing, and securing distribution for his debut feature, Halloween Candy. Doug explains how he repurposed existing "
+  },
+  {
+   "id": "46ef72451721",
+   "title": "caikybaldo999/zyi-pocket-256",
+   "link": "https://huggingface.co/caikybaldo999/zyi-pocket-256",
+   "date": "2026-10-28T18:28:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, text-to-image, dataset:LucasFang/FLUX-Reason-6M, license:apache-2.0, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a4c468ee8d2d",
+   "title": "Tiny and Versatile is the Name of the Game for This New On-Camera Monitor From SmallHD",
+   "link": "https://nofilmschool.com/smallhd-504-on-camera-monitor",
+   "date": "2026-10-28T18:00:03.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/smallhd-504-on-camera-monitor.png?id=68544119&width=1245&height=700&coordinates=0%2C23%2C0%2C24",
+   "excerpt": "Another new on-camera monitor solution is here for filmmakers who want to take their cameras on the run, into tight situations, and find new angles to help their films and video content stand out. That new on-camera monitor is the Focus 504 from SmallHD, which, as the company’s name implies, is small and HD. Let’s take a look at this new on-camera monitoring solution and what it aims to provide wi"
+  },
+  {
+   "id": "5053a97b6432",
+   "title": "Accsoon’s Next-Gen CineView Master 4K II Wireless Video System Adds USB-C Video Output",
+   "link": "https://nofilmschool.com/accsoon-cineview-master-4k-ii-wireless-video-system",
+   "date": "2026-10-28T17:30:03.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/accsoon-cineview-master-4k-ii-wireless-video-system.png?id=68544037&width=1245&height=700&coordinates=166%2C0%2C166%2C0",
+   "excerpt": "Following up on the popular CineView Master 4K wireless video transmission system, Accsoon is back with a new next-generation model that adds more sophisticated wireless video monitoring support and technology. The big news is that the CineView Master 4K II system now adds USB-C video output on both the transmitter and receiver, which should unlock more versatility and flexibility for crews lookin"
+  },
+  {
+   "id": "05b8a9f5907e",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "date": "2026-10-28T17:00:58.000Z",
+   "source": "Google DeepMind",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
+   "id": "f6850a101acc",
+   "title": "The New iMac with M6 Gets a Boost in Performance and AI Capabilities, Plus 7 New Colors",
+   "link": "https://nofilmschool.com/imac-with-m6",
+   "date": "2026-10-28T17:00:03.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/imac-with-m6.jpg?id=68543927&width=1245&height=700&coordinates=0%2C80%2C0%2C125",
+   "excerpt": "Like the new iPad mini and MacBook Pro, Apple is leveling up all its computers for the new era of AI workflows. This isn't new, really, as past Apple computers have had this focus as well, and most other computers, laptops, smartphones, and everything else in the world seems to be moving in the same direction. Still, if you’re into AI and want 18x faster performance, 5x faster on-device AI, and a "
+  },
+  {
+   "id": "7a28b9ee4e28",
+   "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "date": "2026-10-28T17:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+  },
+  {
+   "id": "7fbbcf0aac9e",
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "date": "2026-10-28T17:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+  },
+  {
+   "id": "4ec46b596fc8",
+   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+   "date": "2026-10-28T17:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving yo"
+  },
+  {
+   "id": "5d882fa4d784",
+   "title": "Rap-Video/RapVideo-AI-Rap-Video-Generator",
+   "link": "https://huggingface.co/Rap-Video/RapVideo-AI-Rap-Video-Generator",
+   "date": "2026-10-28T16:51:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: rap-video, image-to-video, video-generation, music, hosted-service, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "79b349c0018d",
+   "title": "Who Was Under the Mask? Every Actor Who Played Freddy Krueger",
+   "link": "https://nofilmschool.com/every-actor-freddy-krueger",
+   "date": "2026-10-28T16:30:04.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/a-nightmare-on-elm-street.jpg?id=34081339&width=1245&height=700&coordinates=5%2C3%2C0%2C0",
+   "excerpt": "'A Nightmare on Elm Street' (2010) 'A Nightmare on Elm Street' (2010) It's not really a mystery as to who played Freddy Krueger. You're probably thinking of one of the most familiar faces in the horror genre already, and it's Robert Englund's. He made those pointy gloves and sweaters his forever in the original A Nightmare on Elm Street. But the glove has been passed around more than you’d think, "
+  },
   {
    "id": "0ea6a05badf4",
    "title": "Bullin-47-AI/Bulin-47-AI-Video-Generator",
@@ -211,6 +558,17 @@
    }
   },
   {
+   "id": "fbd38a037372",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "date": "2026-10-28T13:15:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+  },
+  {
    "id": "313f7a5d4fe7",
    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
    "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
@@ -321,6 +679,17 @@
    }
   },
   {
+   "id": "a0f1f341400c",
+   "title": "The future of the firm",
+   "link": "https://openai.com/index/the-future-of-the-firm",
+   "date": "2026-10-28T10:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "How AI might enter the org chart—beneath, beside, and between us."
+  },
+  {
    "id": "2d05124b2ed6",
    "title": "PedroMarinhoDev/MiniMax-H3-Experimental",
    "link": "https://huggingface.co/PedroMarinhoDev/MiniMax-H3-Experimental",
@@ -331,7 +700,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, video-generation, text-to-video, image-to-video, int8",
    "hf": {
-    "likes": 0,
+    "likes": 1,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -357,6 +726,22 @@
    "isModel": false,
    "thumb": "",
    "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+  },
+  {
+   "id": "ae3364d759f1",
+   "title": "zero0303/ltx-2.5-mlx-dynamic-8bit",
+   "link": "https://huggingface.co/zero0303/ltx-2.5-mlx-dynamic-8bit",
+   "date": "2026-10-28T09:17:34.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, apple-silicon, ltx-video, ltx-2.5, text-to-video, 8-bit",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
   },
   {
    "id": "a9e38aec7691",
@@ -449,7 +834,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: insightface, face-swap, face-swap-video, video-face-swap, video-processing, inswapper",
    "hf": {
-    "likes": 1,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -7279,425 +7664,6 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "afb2c751d349",
-   "title": "1Password lets AI agents use your passwords without seeing them",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-   "date": "2026-10-22T13:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/STK442_Password_Manager_A_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it less cumbersome to use Agents for tasks that require them to log into var"
-  },
-  {
-   "id": "9eaf5aa37a1e",
-   "title": "davanstrien/nasa-concept-art-flux2-klein-lora",
-   "link": "https://huggingface.co/davanstrien/nasa-concept-art-flux2-klein-lora",
-   "date": "2026-10-22T12:41:36.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, diffusers-training, lora, flux2-klein",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "b35f1ce2c6cf",
-   "title": "DiamondDavre/moss-serenity",
-   "link": "https://huggingface.co/DiamondDavre/moss-serenity",
-   "date": "2026-10-22T12:38:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: moss-image, text-to-image, comfyui, full-finetune, people, base_model:OpenMOSS-Team/MOSS-Image-Base",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1e753248caf5",
-   "title": "SHIIN: JINRUI — Cause of Death: Humanity",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xchb3l/shiin_jinrui_cause_of_death_humanity/",
-   "date": "2026-10-22T12:33:06.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dzM5czkxY2JqMHhoMUWFwf0Ffx9aZD2A6Zggi5h4FN2ZLzTz33Pum01aNu8U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b16dc17e54bf9c327d07e5cf5874a9ad522a3321",
-   "excerpt": "submitted by /u/Outside-Objective828 [link] [comments]"
-  },
-  {
-   "id": "cf5771b0b4c0",
-   "title": "AI agents are ready to shop. Some retailers are wary",
-   "link": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-   "date": "2026-10-22T12:30:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the store: They require an inordinate amount of instructions and specifications, ru"
-  },
-  {
-   "id": "a37d473cbfb4",
-   "title": "Claude did not invent scorpion antivenom",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-   "date": "2026-10-22T12:21:07.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/GettyImages-2202529068_415155.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm behind the experiment, admitted that \"none of us could "
-  },
-  {
-   "id": "58d0332e710b",
-   "title": "Jinstudio/sdxl-instructpix2pix-768",
-   "link": "https://huggingface.co/Jinstudio/sdxl-instructpix2pix-768",
-   "date": "2026-10-22T12:18:56.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion-xl, stable-diffusion-xl-diffusers, text-to-image, instruct-pix2pix",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4a6c8961d04f",
-   "title": "taobao-content-ai/MiniMax-H3-PTD-RefAsymOPD-LoRAs  (♥ 2)",
-   "link": "https://huggingface.co/taobao-content-ai/MiniMax-H3-PTD-RefAsymOPD-LoRAs",
-   "date": "2026-10-22T11:43:40.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: minimax-h3, video-generation, audio-generation, distillation, lora, image-to-video",
-   "hf": {
-    "likes": 10,
-    "downloads": 409,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "2fd379d75e56",
-   "title": "Riyan200324200324/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-   "link": "https://huggingface.co/Riyan200324200324/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-   "date": "2026-10-22T11:29:38.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, atomic-chat, qwen, qwen-image, qwen3-vl, text-encoder",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a9c4ce9a8230",
-   "title": "LocalMuseAI/mlx-z-anime-distill-4step-4bit",
-   "link": "https://huggingface.co/LocalMuseAI/mlx-z-anime-distill-4step-4bit",
-   "date": "2026-10-22T11:29:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, mlx, z-image, z-anime, anime",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "1b32d1eb7af3",
-   "title": "WHEN POWER ARMOR MEETS PUPPY LOVE",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xcflsk/when_power_armor_meets_puppy_love/",
-   "date": "2026-10-22T11:08:20.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YTZpZnI4NzM0MHhoMc8w5becONgkG-oLdk0wLip21JZyKbbv1dFKB3JtdvoK.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea768c1d41b9c8f72bd4217321a31feae026669e",
-   "excerpt": "submitted by /u/tetsuo211 [link] [comments]"
-  },
-  {
-   "id": "b75ce5ffab48",
-   "title": "Eiliko maker says it s hiring an ‘independent security firm’ after Verge report on its insecure robots",
-   "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-   "date": "2026-10-22T11:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "The Eiliko robot toy. | Photo by Sean Hollister / The Verge Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete transcripts of everything we told the toy, and that was just the beginning. The Verge and security researcher Sammy Azdoufal "
-  },
-  {
-   "id": "657b848feac4",
-   "title": "sxnister/oro97-lora-SDXL-IL-eps",
-   "link": "https://huggingface.co/sxnister/oro97-lora-SDXL-IL-eps",
-   "date": "2026-10-22T10:02:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:John6666/noobai-xl-nai-xl-epsilonpred11version-sdxl, base_model:adapter:John6666/noobai-xl-nai-xl-epsilonpred11version-sdxl",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "072d63ea570f",
-   "title": "CLEO'S MAKEOVER MISSION",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xce7ba/cleos_makeover_mission/",
-   "date": "2026-10-22T09:48:45.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/Nnl0cXRhMjJxendoMRNbiofHoLLWXb4uDN9km4hsiREWtkhjoqUOmLiSaS2L.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=821b4e39a79f4a9fa85d945b12394ccbf36d828f",
-   "excerpt": "submitted by /u/tanji_ri [link] [comments]"
-  },
-  {
-   "id": "2ee708ce0226",
-   "title": "SEWER TRASH | Dark Fantasy Short",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xce6cc/sewer_trash_dark_fantasy_short/",
-   "date": "2026-10-22T09:47:05.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MHFlZzF1ZjhwendoMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8bb650738c96cbf2068c261e0ccd45b04487ef01",
-   "excerpt": "submitted by /u/akasan [link] [comments]"
-  },
-  {
-   "id": "a26cee9d85bb",
-   "title": "how americans see europe",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xce2v0/how_americans_see_europe/",
-   "date": "2026-10-22T09:40:53.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/bWY3cDZ2b2tvendoMSnuZjahzvfJihbEtLKhhxkXDCVIYt_DUuvfAlZ_OO8J.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a0395a86ca69d8e5adb28e82463268177892d06c",
-   "excerpt": "submitted by /u/Mother-Pear-2392 [link] [comments]"
-  },
-  {
-   "id": "3296b59664b4",
-   "title": "Kinimoro/hal_reb",
-   "link": "https://huggingface.co/Kinimoro/hal_reb",
-   "date": "2026-10-22T09:35:19.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e841912adc99",
-   "title": "Me searching for my phone at 3 AM while holding it as a flashlight",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xcdtqy/me_searching_for_my_phone_at_3_am_while_holding/",
-   "date": "2026-10-22T09:24:53.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/N20xeTRpbXNsendoMSRY5a6wWVNhbrDvrELE2CX5QPyQURdBmvpvEuyFX1K7.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=876031b75a920ac1437e52fb2ae4d262ebe33b26",
-   "excerpt": "submitted by /u/BehindYou13 [link] [comments]"
-  },
-  {
-   "id": "bcafe2c1a5b7",
-   "title": "She's not interested, or, Home NOT Alone",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xcdl3u/shes_not_interested_or_home_not_alone/",
-   "date": "2026-10-22T09:09:54.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OXVidnk5azJqendoMYX2ddeFj7vAEg-VIIfetKpeWq3Y8c2zrh1psrw4YzzV.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=62021c4d72f4d43dc90969357ad917eeac8b4a79",
-   "excerpt": "submitted by /u/glagolef [link] [comments]"
-  },
-  {
-   "id": "37c009b189aa",
-   "title": "Karma",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xcdg6r/karma/",
-   "date": "2026-10-22T09:01:40.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/M3FmazhjbmFoendoMS5bdUGiF1S_-dTc2FeBzST96lOA7gNjnw7wMa_Q8KBN.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dee9c97f9cae4a07f91177ec1f87904efcbef27c",
-   "excerpt": "submitted by /u/Obvious-Crazy-7237 [link] [comments]"
-  },
-  {
-   "id": "1f341613d7ee",
-   "title": "guillekenzo/aros-111d86ce-CrimsonOnyx",
-   "link": "https://huggingface.co/guillekenzo/aros-111d86ce-CrimsonOnyx",
-   "date": "2026-10-22T09:00:36.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "de7aaf276e0c",
-   "title": "BelifChou/feiyang-character-v2",
-   "link": "https://huggingface.co/BelifChou/feiyang-character-v2",
-   "date": "2026-10-22T08:48:17.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "164c9bcb4735",
-   "title": "DanielMarius/dms-wan2-1-multitalk-companion",
-   "link": "https://huggingface.co/DanielMarius/dms-wan2-1-multitalk-companion",
-   "date": "2026-10-22T08:36:35.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: dms, model-assets, text-to-video, base_model:Kijai/WanVideo_comfy, base_model:finetune:Kijai/WanVideo_comfy, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "2ab4b0ea58a2",
-   "title": "DanielMarius/dms-unaesthetic-xl-v31-embedding",
-   "link": "https://huggingface.co/DanielMarius/dms-unaesthetic-xl-v31-embedding",
-   "date": "2026-10-22T08:35:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: dms, model-assets, text-to-image, base_model:lllyasviel/misc, base_model:finetune:lllyasviel/misc, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "177228d66427",
-   "title": "DanielMarius/dms-fooocus-ip-negative",
-   "link": "https://huggingface.co/DanielMarius/dms-fooocus-ip-negative",
-   "date": "2026-10-22T08:34:56.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: dms, model-assets, text-to-image, base_model:lllyasviel/misc, base_model:finetune:lllyasviel/misc, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c318cdee353f",
-   "title": "nnndite/minimaxgayaudio",
-   "link": "https://huggingface.co/nnndite/minimaxgayaudio",
-   "date": "2026-10-22T08:32:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, license:apache-2.0, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "2618f1eac7d0",
-   "title": "DanielMarius/dms-fooocus-xl-interposer-v31",
-   "link": "https://huggingface.co/DanielMarius/dms-fooocus-xl-interposer-v31",
-   "date": "2026-10-22T08:28:41.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: dms, model-assets, text-to-image, base_model:lllyasviel/misc, base_model:finetune:lllyasviel/misc, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "7445966a69ec",
-   "title": "RunningHubAI/rh-nnegret-2.5d-z-next-gen-lora",
-   "link": "https://huggingface.co/RunningHubAI/rh-nnegret-2.5d-z-next-gen-lora",
-   "date": "2026-10-22T08:28:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0dfb8ad56d71",
-   "title": "RunningHubAI/rh-zit-lora-2113173468962443265",
-   "link": "https://huggingface.co/RunningHubAI/rh-zit-lora-2113173468962443265",
-   "date": "2026-10-22T08:23:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "78b393faa619",
-   "title": "Ensemble forecasting with IBM Granite time-series models",
-   "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-   "date": "2026-10-22T07:51:31.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "b82593e1c4d4",
-   "title": "sjxknukkji/wan2.2-t2v-a14b-transformers-bf16",
-   "link": "https://huggingface.co/sjxknukkji/wan2.2-t2v-a14b-transformers-bf16",
-   "date": "2026-10-22T07:36:57.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, base_model:Wan-AI/Wan2.2-T2V-A14B-Diffusers, base_model:finetune:Wan-AI/Wan2.2-T2V-A14B-Diffusers, license:apache-2.0",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
    }
   }
  ]
