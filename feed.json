@@ -1,6 +1,138 @@
 {
- "updated": "2026-10-31T17:47:23.319Z",
+ "updated": "2026-10-31T21:39:45.056Z",
  "items": [
+  {
+   "id": "ec476f3f219d",
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "date": "2026-10-31T21:36:07.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
+  },
+  {
+   "id": "9a46afb49d1d",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "date": "2026-10-31T21:17:03.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+  },
+  {
+   "id": "471d31389cb1",
+   "title": "OrakulStorm/Zero-Disk-VRAM-Streaming-Engine",
+   "link": "https://huggingface.co/OrakulStorm/Zero-Disk-VRAM-Streaming-Engine",
+   "date": "2026-10-31T20:53:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, zero-disk, flux, streaming, orakul-studio",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "13699777a976",
+   "title": "emee-ai/qwen-image-2-1-turbo-mflux-q8",
+   "link": "https://huggingface.co/emee-ai/qwen-image-2-1-turbo-mflux-q8",
+   "date": "2026-10-31T20:41:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mflux, safetensors, mlx, apple-silicon, quantized, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "66aeba414b7d",
+   "title": "Jinstudio/Ovis-Image-7B",
+   "link": "https://huggingface.co/Jinstudio/Ovis-Image-7B",
+   "date": "2026-10-31T20:29:28.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image generation, text-to-image, en, zh",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6e89bbb71f9b",
+   "title": "jejunepixels/Hammershoi-Ideogram4-LoRA",
+   "link": "https://huggingface.co/jejunepixels/Hammershoi-Ideogram4-LoRA",
+   "date": "2026-10-31T20:13:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, en, dataset:jejunepixels/Hammershoi-Ideogram4-Dataset",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "fe1297a6ab11",
+   "title": "crombobularBoop/chroma-H3-comfyui",
+   "link": "https://huggingface.co/crombobularBoop/chroma-H3-comfyui",
+   "date": "2026-10-31T19:02:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, comfyui, text-to-image, base_model:lodestones/chroma-h3, base_model:adapter:lodestones/chroma-h3",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "fd6ee4246577",
+   "title": "alvaroborre/sd-lora-oldbookillustrations",
+   "link": "https://huggingface.co/alvaroborre/sd-lora-oldbookillustrations",
+   "date": "2026-10-31T18:27:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, text-to-image, lora, dataset:gigant/oldbookillustrations, base_model:CompVis/stable-diffusion-v1-4",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ace6d742683c",
+   "title": "eightyonegens/MauraR",
+   "link": "https://huggingface.co/eightyonegens/MauraR",
+   "date": "2026-10-31T17:47:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "ef71d5ef2b40",
    "title": "cdvine5295/spleen",
@@ -42,6 +174,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/b3ZqMHpucnY1dXloMZarP5HF8r33-SlzKlvz8zpatHW9isyhVY-Bj0x6vB8F.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d9e3d769d23ae5203145dfabb9f9cccb7c37e5b8",
    "excerpt": "submitted by /u/rad_city [link] [comments]"
+  },
+  {
+   "id": "f71a4d40d52f",
+   "title": "Nanami231/ticonuong-26",
+   "link": "https://huggingface.co/Nanami231/ticonuong-26",
+   "date": "2026-10-31T16:56:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
   },
   {
    "id": "55e2b9f5c0a6",
@@ -2453,7 +2601,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, pika, pika-h3-flex, turbo, 4-step, 8-step",
    "hf": {
-    "likes": 25,
+    "likes": 26,
     "downloads": 7963,
     "pipeline": "image-to-video"
    }
@@ -7387,136 +7535,6 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
-  },
-  {
-   "id": "b30e5eb95159",
-   "title": "lightweight/MiniMax-H3-Pruned-full",
-   "link": "https://huggingface.co/lightweight/MiniMax-H3-Pruned-full",
-   "date": "2026-10-25T13:58:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, minimax-h3, pruned, mirror, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 22,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "19250ae33b52",
-   "title": "r/opensource just banned AI, non-English speakers, and more",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-   "date": "2026-10-25T13:25:32.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\" The new rules have set off a firestorm in the comments, and even spurred th"
-  },
-  {
-   "id": "ec4100b5e401",
-   "title": "Google’s AI search changes upended online publishing",
-   "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-   "date": "2026-10-25T12:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpa"
-  },
-  {
-   "id": "917a3a7ac4ad",
-   "title": "paid extra for the middle earth cruise and got THIS",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xez0cm/paid_extra_for_the_middle_earth_cruise_and_got/",
-   "date": "2026-10-25T10:34:08.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OTdvd3plNHRjbHhoMRtgw6DBhLlRWPH9fvlCgW7FV5g833nQ5Sk9b1c0UmWW.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=702f589ec94ee9938a472132153094114009753f",
-   "excerpt": "submitted by /u/Mother-Pear-2392 [link] [comments]"
-  },
-  {
-   "id": "12eb02bbaced",
-   "title": "smoothest car transition ever!",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xeywkf/smoothest_car_transition_ever/",
-   "date": "2026-10-25T10:27:58.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eGhvM3Z5YXFibHhoMUUEsYw4y0xsNZpsMhNuLNvjy0rlgH628wkfKGEQfS7i.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5d472e82b59256e8c59dda0c71b3e7762fd0cc2",
-   "excerpt": "submitted by /u/No-Lock216 [link] [comments]"
-  },
-  {
-   "id": "1da04917c599",
-   "title": "RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
-   "link": "https://huggingface.co/RunningHubAI/rh-wan2.2-remix-nsfw-t2v-14b-low-lighting-v2.0-unet",
-   "date": "2026-10-25T09:09:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us, not-for-all-audiences",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "7e08189ef7d8",
-   "title": "xzhexiao/ActWorld",
-   "link": "https://huggingface.co/xzhexiao/ActWorld",
-   "date": "2026-10-25T07:47:54.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, world-model, interactive-video-generation, video-generation, helios",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "5b300c1a4142",
-   "title": "RunningHubAI/rh-anime-style-cartoon-campus-lora",
-   "link": "https://huggingface.co/RunningHubAI/rh-anime-style-cartoon-campus-lora",
-   "date": "2026-10-25T05:53:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3700793664d7",
-   "title": "m672/runpod-worker-comfyui",
-   "link": "https://huggingface.co/m672/runpod-worker-comfyui",
-   "date": "2026-10-25T05:49:18.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, comfyui, runpod, image-to-video, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "b7a725649af6",
-   "title": "Jim Carrey Must Be Stopped",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xeu6z2/jim_carrey_must_be_stopped/",
-   "date": "2026-10-25T05:42:20.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/d3NxcWY3YWF3anhoMdPYgW2oqpJvm53V_CR7whHRueu6Vn4Yayp3FN9YR_3Y.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5c81a6c3e8ea58f4c3844593eaab92f7cefe3d31",
-   "excerpt": "submitted by /u/kango888 [link] [comments]"
   }
  ]
 }
