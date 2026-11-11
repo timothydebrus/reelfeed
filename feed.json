@@ -1,6 +1,359 @@
 {
- "updated": "2026-11-10T23:26:37.941Z",
+ "updated": "2026-11-11T06:31:10.242Z",
  "items": [
+  {
+   "id": "49cf590dc337",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "date": "2026-11-12T00:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+  },
+  {
+   "id": "55a31f644627",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "date": "2026-11-11T08:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+  },
+  {
+   "id": "c0358cdc9e73",
+   "title": "MiniMax H3 Image 20MP Workflow",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xt9ocv/minimax_h3_image_20mp_workflow/",
+   "date": "2026-11-11T05:36:36.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/ymowbhcy1x0i1.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1b836fe5448d1bcd6a10e8a7e5a07446884a29cf",
+   "excerpt": "The official ComfyUI workflows for MiniMax Image are pretty bad at showcasing the model's capabilities. These sampler/scheduler settings are from Kijai's Minimax testing in discord. There is still some work needed to improve fine details (possibly fixable by loras?) but overall the outputs look pretty good! The workflow has T2I and Edit modes, just enable the one needed via the bypass node or bypa"
+  },
+  {
+   "id": "044a73e60cec",
+   "title": "Game of Thrones but more blood magic, full 17m film in profile",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xt9fnf/game_of_thrones_but_more_blood_magic_full_17m/",
+   "date": "2026-11-11T05:23:06.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/Zzlid2NsZm80eDBpMbH-Vq6MKzwokT4rVrVYupRm_02kLlgmNIz4k46jkM19.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=97bc43edb971baf2bcc4e891632339537b55b074",
+   "excerpt": "submitted by /u/Gertywood [link] [comments]"
+  },
+  {
+   "id": "67f82b7fee4d",
+   "title": "Robbers",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xt9ew4/robbers/",
+   "date": "2026-11-11T05:21:57.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/ZGYwMW45em00eDBpMZNXCYuush4wsk1KJf9J1G7D4iWm23ZuAcgbIpCU9XAj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cb0b319e05ff25e3d3b52c58dd65c905a7eb84ff",
+   "excerpt": "submitted by /u/TheodorPetrenkoFilms [link] [comments]"
+  },
+  {
+   "id": "46217ec2451e",
+   "title": "telecomadm1145/lumielle-anima-v1",
+   "link": "https://huggingface.co/telecomadm1145/lumielle-anima-v1",
+   "date": "2026-11-11T05:16:15.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, anima, anime, illustration, style, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a2ee154bb3cd",
+   "title": "serotoninboi/teemo-skin-multidesign-league-of-legends-wild-rift",
+   "link": "https://huggingface.co/serotoninboi/teemo-skin-multidesign-league-of-legends-wild-rift",
+   "date": "2026-11-11T05:11:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, migrated, 3d, multidesign",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4c5ef8a2d9ea",
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "link": "https://huggingface.co/blog/qvac/botpsy",
+   "date": "2026-11-11T05:01:16.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
+   "id": "0860abeaf8cc",
+   "title": "pi-H3: 2–4 Steps Without a VAE Decoder (will be released on Nov 16)",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xt8tsf/pih3_24_steps_without_a_vae_decoder_will_be/",
+   "date": "2026-11-11T04:50:32.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/eEjdbyqs0Y8BLO3Epg5_0pQyGLhjuNVejGL0GLgmgMo.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=0eda7ade9ecfded1f8267b00f2933b61158162aa",
+   "excerpt": "Some bold claims are made in the announcement, so I am looking forward to its release 😅 We announce pi-H3, the fastest version of MiniMax H3 [1] yet. pi-H3 generates video in just 2 or 4 sampling steps and directly predicts pixels at the final step, skipping the video VAE decoder. On a single B200 it produces 5-second HD videos in 3.8 seconds (sub real-time) and 15-second videos in 18.6 seconds, "
+  },
+  {
+   "id": "a29c499cba7b",
+   "title": "cguldogan/MiniMax-H3-Image-MLX-4bit",
+   "link": "https://huggingface.co/cguldogan/MiniMax-H3-Image-MLX-4bit",
+   "date": "2026-11-11T04:43:16.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, diffusers, safetensors, minimax-h3-image-mlx, apple-silicon, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "69aa68ddd21a",
+   "title": "cguldogan/MiniMax-H3-Image-MLX-8bit",
+   "link": "https://huggingface.co/cguldogan/MiniMax-H3-Image-MLX-8bit",
+   "date": "2026-11-11T04:43:15.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, diffusers, safetensors, minimax-h3-image-mlx, apple-silicon, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "7018cbb282c7",
+   "title": "CR2022/Minimax-h3_Singularity_ref2va_v2_pruned_nvfp4",
+   "link": "https://huggingface.co/CR2022/Minimax-h3_Singularity_ref2va_v2_pruned_nvfp4",
+   "date": "2026-11-11T04:43:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax, h3, video-generation, nvfp4, quantization, comfyui",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "1af4c089ccd0",
+   "title": "Minimax image t2i tests 4mp",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xt8ita/minimax_image_t2i_tests_4mp/",
+   "date": "2026-11-11T04:33:39.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "minimax_h3_image_pruned_w4a8.safetensors qwen3vl_32b_minimax_h3_nvfp4_awq.safetensors minimax_h3_image_vae_fp16.safetensors Promot enhance skill: https://github.com/MiniMax-AI/MiniMax-H3-Image/blob/main/skills/h3-image-prompt-writing/references/t2i-en.txt euler, simple, 6 steps submitted by /u/Ant_6431 [link] [comments]"
+  },
+  {
+   "id": "7b88cfd79b23",
+   "title": "H3 Image Workflow w/ Pose Studio + Lots of useful features",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xt7i28/h3_image_workflow_w_pose_studio_lots_of_useful/",
+   "date": "2026-11-11T03:40:05.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/OFpH5Mb2Nqcjl-hszdJbOePAmX7Ii0zcRxxzhZLmJAw.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=544c224f6e070d3bba8ce3e1cb2c175c1f00c8ae",
+   "excerpt": "submitted by /u/foxdit [link] [comments]"
+  },
+  {
+   "id": "fe20a07c9d47",
+   "title": "Bubblegum Adventures - Holographic World",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xt760p/bubblegum_adventures_holographic_world/",
+   "date": "2026-11-11T03:23:26.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MGVuYjh1ZmhqdzBpMaD29tK3EjEvCM1M4LhBm2nB46fzszlHi7je3XNRbesq.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=64b16c84dd9852e46d62aac9337f789f369b3d0b",
+   "excerpt": "submitted by /u/Zard-Oz [link] [comments]"
+  },
+  {
+   "id": "bdecee6d75a1",
+   "title": "ComfyUI v0.45.0 released",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xt6u2c/comfyui_v0450_released/",
+   "date": "2026-11-11T03:06:49.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/00DyYNXGWeYLXAAzNU8HJgPQwMXK68F7SSztoleXVcI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ebec0f0fb5c85f67aeb269ea4161449beec8cde",
+   "excerpt": "submitted by /u/Fcking_Chuck [link] [comments]"
+  },
+  {
+   "id": "8616462b13e9",
+   "title": "taurusduan/MiniMax-H3-Image-LowVRAM  (♥ 1)",
+   "link": "https://huggingface.co/taurusduan/MiniMax-H3-Image-LowVRAM",
+   "date": "2026-11-11T02:33:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, comfyui, quantized, image-to-image, text-to-image, base_model:MiniMaxAI/MiniMax-H3-Image",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "530751b32d63",
+   "title": "hUh63/anima-28block",
+   "link": "https://huggingface.co/hUh63/anima-28block",
+   "date": "2026-11-11T02:30:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, anima, comfyui, text-to-image, 28-block, base_model:circlestone-labs/Anima",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4af3f4c7ea3f",
+   "title": "v0.45.2",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.2",
+   "date": "2026-11-11T02:25:54.000Z",
+   "source": "ComfyUI Releases",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
+   "excerpt": "ComfyUI v0.45.2"
+  },
+  {
+   "id": "9dfb0d8b5aae",
+   "title": "taurusduan/MiniMax-H3-Image",
+   "link": "https://huggingface.co/taurusduan/MiniMax-H3-Image",
+   "date": "2026-11-11T02:23:13.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, comfyui, text-to-image, base_model:MiniMaxAI/MiniMax-H3-Image, base_model:finetune:MiniMaxAI/MiniMax-H3-Image, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4aab65907483",
+   "title": "This Meeting Could Have Been an Email: The Musical",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xt5nve/this_meeting_could_have_been_an_email_the_musical/",
+   "date": "2026-11-11T02:10:06.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/YjE0MWkwYmszdzBpMVbsotEFYFzHUfwHlfPArts0mbbllCMKYJjr5sAoDp74.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f4a1bc86ad0f370714ff30770bf2df71cd90f03a",
+   "excerpt": "submitted by /u/karloy007 [link] [comments]"
+  },
+  {
+   "id": "582041016998",
+   "title": "PabloHoties/unStable-Revolution-F2K-4B-alpha-int4-ov",
+   "link": "https://huggingface.co/PabloHoties/unStable-Revolution-F2K-4B-alpha-int4-ov",
+   "date": "2026-11-11T02:08:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: openvino, flux2, flux2-klein, int4, text-to-image, image-editing",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ea23ca75af08",
+   "title": "VelvetSSS/AlcinaDimitrescu_Krea2",
+   "link": "https://huggingface.co/VelvetSSS/AlcinaDimitrescu_Krea2",
+   "date": "2026-11-11T02:08:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "36929a9141e3",
+   "title": "PabloHoties/Klein-Center-4B-v3.3-schnell-int4-ov",
+   "link": "https://huggingface.co/PabloHoties/Klein-Center-4B-v3.3-schnell-int4-ov",
+   "date": "2026-11-11T01:57:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: openvino, flux2, flux2-klein, int4, text-to-image, image-editing",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ab35057c89d7",
+   "title": "Amazed by the generation speed of MiniMax H3-Image.",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xt50cj/amazed_by_the_generation_speed_of_minimax_h3image/",
+   "date": "2026-11-11T01:38:27.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/0n7yutg4wv0i1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=25d137d7a82cd7e74721046de383bc3ff29cf7f6",
+   "excerpt": "H3-Image is built on MiniMax H3, originally a video generation model, and it seems to retain some of that video-frame softness in finer details. But when it comes to speed, this thing is an absolute beast. At 8.41 MP (2368 × 3552), running on an AMD Radeon RX 9060 XT with 16 GB of VRAM and 64 GB of DDR4 system RAM, it generates images in just 35.03–42.53 seconds. None of the other models I've test"
+  },
+  {
+   "id": "e423b2cf018b",
+   "title": "New node H3-FaceRefine-Plus - 2x face details on small and medium faces",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xt4spw/new_node_h3facerefineplus_2x_face_details_on/",
+   "date": "2026-11-11T01:28:13.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/otqhkzh8yv0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2af85458a437ab67fb35a30d06f1abe2a2d0c6b",
+   "excerpt": "I was working on a music video and i reached a point where the great facerefine node by Carasibana wasn't enough so i started making tests with claude code and here we are now with this node that is slower but gives 2x details on tiny and medium faces. Don't trust my words, just check the github page with all the comparisons: https://annicodex.github.io/FaceRefine-Plus-Tests/ The node is available"
+  },
+  {
+   "id": "a375bd1f69ef",
+   "title": "Did we just become best friends?",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xt3ksc/did_we_just_become_best_friends/",
+   "date": "2026-11-11T00:31:43.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/b3YzaGRoeXdvdjBpMSfovs7sQXyFvtS_lzF6dOChCZSP9tsLZBnaklGdqfZd.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ab2c8df67afe721b8f21e8febeb2f311dcc263e3",
+   "excerpt": "submitted by /u/KarateKid84Fan [link] [comments]"
+  },
+  {
+   "id": "d687d89ec0ad",
+   "title": "Salamander Years",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xt2ebl/salamander_years/",
+   "date": "2026-11-10T23:40:56.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/dXBvZmdiZXJmdjBpMfWpbRckOL55eCYg77IL9_uiiN-gIT9BkJLtZFAxO6qG.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=524da524f6e431242bf27b0dc334cbf30c712c99",
+   "excerpt": "submitted by /u/tcapb [link] [comments]"
+  },
   {
    "id": "12299f27c780",
    "title": "StillDeadcode/radiance-flux-3-klein-base-iq8r",
@@ -58,6 +411,16 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "0e0efaa75e24",
+   "title": "PAN 2 Released",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xt0yur/pan_2_released/",
+   "date": "2026-11-10T22:38:47.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bzNwZ29jMG80djBpMb_mbFMiuBqxn5GJJTMx7GFE03S31roTx4Ee3UX1u7h4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b143486c81700ea617d183306358f4935eba8a52",
+   "excerpt": "Open weights (29B latent diffusion model): https://huggingface.co/IFM/PAN2 Diffusers: https://huggingface.co/docs/diffusers/main/en/api/pipelines/pan2 FastVideo: https://haoailab.com/FastVideo/cookbook/pan/pan2/ VLLM: https://recipes.vllm.ai/IFM/PAN2 Up to 20 seconds, 720p, 24fps Apache 2.0 License Something I think is pretty neat, we release the TRAINING code: https://github.com/ifm-ai/PAN2/ Also"
   },
   {
    "id": "18e664160458",
@@ -138,6 +501,17 @@
    }
   },
   {
+   "id": "ac1ee08e13fd",
+   "title": "300 random prompts across styles on MiniMax H3",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xszz5f/300_random_prompts_across_styles_on_minimax_h3/",
+   "date": "2026-11-10T21:57:26.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "Base workflow, no custom nodes, no cherry picking, ran on my 5080, about 23s per image. Edit: I'm adding a round 2 with 300 more, they are using H3 Image prompt guide, not reused from my moss benchmark, the model showing even better. submitted by /u/JoNike [link] [comments]"
+  },
+  {
    "id": "3a9dd2e5b52e",
    "title": "v0.45.1",
    "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.1",
@@ -157,6 +531,16 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/john-malkovich-and-mariana-di-girolamo-in-wild-horse-nine.jpg?id=68641200&width=980",
    "excerpt": "I got the chance to see Martin McDonagh’s newest film, Wild Horse Nine, at this year’s Venice Film Festival, where it absolutely brought the house down. His new film is absolutely hysterical and features a potential career-best performance from the legendary John Malkovich. It is also his saddest film, which is saying a lot. Let’s take a look at why, with spoilers ahead. What John Malkovich’s Char"
+  },
+  {
+   "id": "1fc7c85182a2",
+   "title": "MMH3 Samples & Quick Takeaways",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xsz700/mmh3_samples_quick_takeaways/",
+   "date": "2026-11-10T21:25:47.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/toj92kglru0i1.jpeg?width=140&amp;height=93&amp;auto=webp&amp;s=499539c5c4691c205bb0d8fe41b11c12328f761a",
+   "excerpt": "MMH3-Image. All tests done with the default workflow and settings. Overall takeaways: You must use a minimum resolution of 4048 for decent results. It doesn't have a moat against other image models (doesn't solve any unsolved problems). It does ok at text, but it's not great. Pros: It's impressively fast for how large the generations are. Seems to handle realism well. Softcore works. Cons: No more"
   },
   {
    "id": "24b56e0e82fb",
@@ -221,6 +605,17 @@
    }
   },
   {
+   "id": "ad7c85d94fc7",
+   "title": "MiniMax image T2I and edit",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xsxsd7/minimax_image_t2i_and_edit/",
+   "date": "2026-11-10T20:30:29.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/734ovrakhu0i1.png?width=140&amp;height=78&amp;auto=webp&amp;s=39a93299cf9bd00351965690b53fde1cbd2db691",
+   "excerpt": "All individual images were created with the official MiniMax ComfyUI workflows without PE. Image 1 is a composition out of image 2-5 T2I, the dog and the jacket looked OK from the beginning, even at lower resolutions. The person in the images always had some weird artifacts, the face was extremely bad most of the time. I tried different sizes: 4MP was pretty much unusable, and the recommended 16MP"
+  },
+  {
    "id": "2c0558949935",
    "title": "Breaking Down the ‘Mulholland Drive’ Diner Scene",
    "link": "https://nofilmschool.com/mulholland-drive-diner-scene-breakdown",
@@ -261,6 +656,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "88f1cf8c9203",
+   "title": "Minimax H3 Image is about to clean the field... But can it?",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xsx45t/minimax_h3_image_is_about_to_clean_the_field_but/",
+   "date": "2026-11-10T20:04:07.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/5p8hjpsz8u0i1.png?width=140&amp;height=140&amp;auto=webp&amp;s=ae7e950ee2df240e6076f5c19d1cfe437f890abd",
+   "excerpt": "since i am mostly interested in image-to-image and edit capabilities, i have run the simple chain of edits, starting from the manual hand-drawn doodle, and to the closeup zoom. All the images are H3 Image, 1K, and only the three last ones have been post-processed to remove the text from \"cctv camera\" prompts. ✅ Edit WORKS like charm. Posing, restyling, relighting, etc. Prompt for the second image "
   },
   {
    "id": "4491e7fa03de",
@@ -616,6 +1022,17 @@
    "excerpt": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
   },
   {
+   "id": "8d8733f20e8e",
+   "title": "First expierence with minimax image? better than krea2?",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xss7nr/first_expierence_with_minimax_image_better_than/",
+   "date": "2026-11-10T16:59:36.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "submitted by /u/planBpizz [link] [comments]"
+  },
+  {
    "id": "75415a112665",
    "title": "StillDeadcode/fasth3-8-step-v2-i8",
    "link": "https://huggingface.co/StillDeadcode/fasth3-8-step-v2-i8",
@@ -630,6 +1047,17 @@
     "downloads": 0,
     "pipeline": "text-to-video"
    }
+  },
+  {
+   "id": "ed575a75ea65",
+   "title": "MiniMax H3 Image is natively supported in ComfyUI on day-0",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xsrphc/minimax_h3_image_is_natively_supported_in_comfyui/",
+   "date": "2026-11-10T16:40:39.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/bWloZGphdnRjdDBpMZSfyArqPOxT1CrN7UkJBs5XJkUkneBb5KoSNf5NQpa-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d8a05a52abff6425a06c213d2c9d08d6e05c2525",
+   "excerpt": "MiniMax H3 Image now runs natively in ComfyUI as soon as it drops! One checkpoint does both text-to-image and reference-image editing: connect images and it's an edit workflow, leave them off and it's text-to-image. Highlights Six steps, nothing to tune. The model is CFG-distilled and samples in 6 steps at guidance 1. No negative prompt. Native high-res output. 4096×4096 at 1:1, 4736×3552 at 4:3, "
   },
   {
    "id": "a6c54e043889",
@@ -682,6 +1110,27 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a link to listings, price, shipping details, and relevant notes about condition or style. This weekend"
+  },
+  {
+   "id": "de3a32f3b72b",
+   "title": "Minimax H3 Image: Recommended Sizes",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xsqz2h/minimax_h3_image_recommended_sizes/",
+   "date": "2026-11-10T16:13:29.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/1kqymoqz7t0i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aa1d641c8be9d222eebf7be93a4e17f22ffa942f",
+   "excerpt": "https://preview.redd.it/iah5w5wn7t0i1.png?width=1186&format=png&auto=webp&s=79b539a871a9e86fef14676e5a5884c368add6bc https://huggingface.co/MiniMaxAI/MiniMax-H3-Image#sizes https://platform.minimax.io/docs/guides/image-generation submitted by /u/fruesome [link] [comments]"
+  },
+  {
+   "id": "95840714d0ec",
+   "title": "SolordZ_Realism_Moss_Base new realism-focused version of our model!",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xsqrzv/solordz_realism_moss_base_new_realismfocused/",
+   "date": "2026-11-10T16:06:04.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "thumb": "https://preview.redd.it/7ywv2olo5t0i1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=81da77d9e57820e85c014103a50d9f95167d38bb",
+   "excerpt": "We’ve just published our new version SolordZ_Realism_Moss (Base) focused on photographic realism—natural skin, believable faces, and a range of looks from candid flash snapshots to atmospheric portraits. The model is also still capable of creating art. The model page also includes our six-part prompting guide and recommended sampling settings to help you get started. Model and examples: SoLordZ ZI"
   },
   {
    "id": "e38c92a7cefc",
@@ -752,6 +1201,17 @@
    "excerpt": "submitted by /u/alecubudulecu [link] [comments]"
   },
   {
+   "id": "ec35ecf5386b",
+   "title": "MiniMax H3-Image is now available with open weights!",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xsqecn/minimax_h3image_is_now_available_with_open_weights/",
+   "date": "2026-11-10T15:51:50.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/u421wox54t0i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=01425fb74afe0e43dccd3b310bc024713f36298e",
+   "excerpt": "MiniMax H3-Image is now available with open weights! https://huggingface.co/MiniMaxAI/MiniMax-H3-Image https://modelscope.cn/models/minimax/MiniMax-H3-Image GitHub - MiniMax-AI/MiniMax-H3-Image That’s it. I’m a MiniMax fan for life. submitted by /u/Altruistic_Song_1423 [link] [comments]"
+  },
+  {
    "id": "7be5d67b498f",
    "title": "mej023/d0lly",
    "link": "https://huggingface.co/mej023/d0lly",
@@ -804,6 +1264,17 @@
    "excerpt": "submitted by /u/Easy_Message1869 [link] [comments]"
   },
   {
+   "id": "94c37a63cf7b",
+   "title": "This example from Minimax's image model page is blowing my mind. Can't wait for the comfy version!",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xspbr1/this_example_from_minimaxs_image_model_page_is/",
+   "date": "2026-11-10T15:10:22.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/4dgnobpmws0i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=87736831d3624b9c734a823ecec3777487328134",
+   "excerpt": "submitted by /u/tekprodfx16 [link] [comments]"
+  },
+  {
    "id": "def3eb113092",
    "title": "Adobe MAX 2026: Local MCP Integrations Coming to Creative Cloud Tools (Like Premiere)",
    "link": "https://nofilmschool.com/adobe-local-mcp-integrations",
@@ -828,6 +1299,17 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
+  },
+  {
+   "id": "2fad137d5547",
+   "title": "MiniMax-H3-Image Comfy Weights Out!",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xsp46n/minimaxh3image_comfy_weights_out/",
+   "date": "2026-11-10T15:02:09.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/hg5qsyt9vs0i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=d321d97ee83aa50217fa9c9652d71878822df3ef",
+   "excerpt": "https://huggingface.co/Comfy-Org/MiniMax-H3-Image https://huggingface.co/MiniMaxAI/MiniMax-H3-Image submitted by /u/East_Shoe8814 [link] [comments]"
   },
   {
    "id": "6f4e53c3d7cc",
@@ -907,6 +1389,17 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/adobe-max-2026-updates.webp?id=68649144&width=1245&height=700&coordinates=221%2C0%2C221%2C0",
    "excerpt": "Adobe MAX has officially kicked off in Miami, Florida, as the company’s annual creativity conference begins, as always, with opening remarks from its leaders laying out what’s new in all things Adobe. Obviously, Adobe touches a lot of the creation and design space, but we’ll do our best to help synthesize the latest news towards what might most affect the lives of filmmakers and, even more specifi"
+  },
+  {
+   "id": "f8e392d2a6f2",
+   "title": "MiniMax H3-Image released",
+   "link": "https://www.reddit.com/r/StableDiffusion/comments/1xsoblk/minimax_h3image_released/",
+   "date": "2026-11-10T14:29:48.000Z",
+   "source": "r/StableDiffusion",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://preview.redd.it/vuzgpghips0i1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac42db8daf6eab44d8c2ae2d8dd688a1a26c143a",
+   "excerpt": "submitted by /u/tricck3zz [link] [comments]"
   },
   {
    "id": "a3f82316ed39",
@@ -1611,6 +2104,17 @@
    "isModel": false,
    "thumb": "",
    "excerpt": ""
+  },
+  {
+   "id": "191d65fd7b15",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "link": "https://openai.com/index/cogent-security",
+   "date": "2026-11-10T00:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents."
   },
   {
    "id": "af0e0da3f985",
@@ -3118,7 +3622,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 18, likes: 95. Tags: diffusion-single-file, comfyui, text-to-image, base_model:MiniMaxAI/MiniMax-H3-Image, base_model:finetune:MiniMaxAI/MiniMax-H3-Image, license:other",
    "hf": {
-    "likes": 135,
+    "likes": 186,
     "downloads": 18,
     "pipeline": "trending image"
    }
@@ -7022,499 +7526,6 @@
    "isModel": true,
    "thumb": "https://preview.redd.it/1y4qv44bkrzh1.png?width=140&amp;height=105&amp;auto=webp&amp;s=ea67ed9be6094bcc690d6a71773f1e25b6e9ba45",
    "excerpt": "submitted by /u/Krillo90 [link] [comments]"
-  },
-  {
-   "id": "8a77616c0c92",
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "link": "https://openai.com/index/introducing-gpt-6-cyber",
-   "date": "2026-11-05T09:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
-  },
-  {
-   "id": "3fef78637c9d",
-   "title": "Could AI animation eventually challenge Pixar?",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xodt0i/could_ai_animation_eventually_challenge_pixar/",
-   "date": "2026-11-05T08:50:46.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YjJzZm5pcjNjcnpoMZip2xRVQ-Nvd4ZQSP-m7mLVYqJMJsFZJ4m3iO5oo63-.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f55e2f3917872b7d755c3a6b97a9de3fd57a24be",
-   "excerpt": "submitted by /u/Old_Establishment287 [link] [comments]"
-  },
-  {
-   "id": "516d8d62b8f0",
-   "title": "Solarización del churrero[OC]",
-   "link": "https://www.reddit.com/r/midjourney/comments/1xodrjn/solarización_del_churrerooc/",
-   "date": "2026-11-05T08:48:00.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/cr8qpzlzbrzh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6d367708711f92fd7fc0b7e0f80e4424107e6cde",
-   "excerpt": "submitted by /u/Gold-Lengthiness-760 [link] [comments]"
-  },
-  {
-   "id": "47af8b9f451c",
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "link": "https://openai.com/index/merge-builds-with-openai",
-   "date": "2026-11-05T08:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates."
-  },
-  {
-   "id": "7881b7d12c50",
-   "title": "Tommy-Bie/EvoWorld  (♥ 1)",
-   "link": "https://huggingface.co/Tommy-Bie/EvoWorld",
-   "date": "2026-11-05T07:53:59.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: image-to-video, video-generation, world-model, ltx-2.5, lora, evoworld",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "e72508ac3d21",
-   "title": "RunningHubAI/rh-magic-wan-image-v3-fp8mixed-unet",
-   "link": "https://huggingface.co/RunningHubAI/rh-magic-wan-image-v3-fp8mixed-unet",
-   "date": "2026-11-05T07:45:04.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "ca4e4310cd84",
-   "title": "Iconic Film Intros: Willy Wonka in 'Willy Wonka and the Chocolate Factory’",
-   "link": "https://nofilmschool.com/iconic-film-intros-willy-wonka",
-   "date": "2026-11-05T07:30:07.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/willy-wonka-in-willy-wonka-and-the-chocolate-factory.png?id=68596579&width=980",
-   "excerpt": "Gene Wilder’s iconic performance as the elusive, yet whimsical chocolatier Willy Wonka is upheld by one of the most important buildups and entrances to a character in movie history. Let’s take a look at Wilder’s first scene in the film and how the buildup to his entrance influences the rest of the film. Wilder’s First Scene When all of the families arrive at the factory, the buildup for Wonka’s re"
-  },
-  {
-   "id": "db1763705196",
-   "title": "ml-resources/Kandinsky-S2V-1.0-Pro-distill-Diffusers",
-   "link": "https://huggingface.co/ml-resources/Kandinsky-S2V-1.0-Pro-distill-Diffusers",
-   "date": "2026-11-05T06:43:05.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, speech-to-video, avatar, video-generation, kandinsky",
-   "hf": {
-    "likes": 0,
-    "downloads": 15,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "746b78205b37",
-   "title": "ml-resources/Kandinsky-S2V-1.0-Pro-distill",
-   "link": "https://huggingface.co/ml-resources/Kandinsky-S2V-1.0-Pro-distill",
-   "date": "2026-11-05T06:43:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: kandinsky_s2v, speech-to-video, avatar, video-generation, kandinsky, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 18,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "a11626da4923",
-   "title": "ml-resources/Kandinsky-S2V-1.0-Pro-Diffusers",
-   "link": "https://huggingface.co/ml-resources/Kandinsky-S2V-1.0-Pro-Diffusers",
-   "date": "2026-11-05T06:42:55.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 1, likes: 0. Tags: diffusers, safetensors, speech-to-video, avatar, video-generation, kandinsky",
-   "hf": {
-    "likes": 0,
-    "downloads": 14,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "ccf9d02b2d2a",
-   "title": "ml-resources/Kandinsky-S2V-1.0-Pro",
-   "link": "https://huggingface.co/ml-resources/Kandinsky-S2V-1.0-Pro",
-   "date": "2026-11-05T06:42:46.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: kandinsky_s2v, speech-to-video, avatar, video-generation, kandinsky, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 20,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "ab3ebe87221c",
-   "title": "ml-resources/Kandinsky-S2V-1.0-Lite-distill-Diffusers",
-   "link": "https://huggingface.co/ml-resources/Kandinsky-S2V-1.0-Lite-distill-Diffusers",
-   "date": "2026-11-05T06:42:40.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, speech-to-video, avatar, video-generation, kandinsky",
-   "hf": {
-    "likes": 0,
-    "downloads": 15,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "136b0c90e80e",
-   "title": "ml-resources/Kandinsky-S2V-1.0-Lite-distill",
-   "link": "https://huggingface.co/ml-resources/Kandinsky-S2V-1.0-Lite-distill",
-   "date": "2026-11-05T06:42:35.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: kandinsky_s2v, speech-to-video, avatar, video-generation, kandinsky, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 20,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "d49fe0cd5920",
-   "title": "ml-resources/Kandinsky-S2V-1.0-Lite-Diffusers",
-   "link": "https://huggingface.co/ml-resources/Kandinsky-S2V-1.0-Lite-Diffusers",
-   "date": "2026-11-05T06:42:30.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, speech-to-video, avatar, video-generation, kandinsky",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "58082ba83eaf",
-   "title": "Actors Who Turned Down Roles That Became Movie Icons",
-   "link": "https://nofilmschool.com/actors-that-turned-down-iconic-roles",
-   "date": "2026-11-05T06:15:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/keanu-reeves-and-carrie-anne-moss-in-the-matrix.jpg?id=68596530&width=980",
-   "excerpt": "When you hear tales of an actor turning down a role that is impossible to imagine without the person who wound up playing them in the role, it can be hard to wrap your head around. But it can be even harder for an actor to successfully predict which roles are going to stand the test of time. Especially when there’s contracts involved. Let’s take a look at some of the most iconic roles that were pa"
-  },
-  {
-   "id": "3057152a969f",
-   "title": "The 10 Best Godzilla Movies",
-   "link": "https://nofilmschool.com/10-best-godzilla-movies",
-   "date": "2026-11-05T06:15:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/godzilla-viewed-in-profile-in-a-promotional-image-for-godzilla-minus-one.jpg?id=68596373&width=980",
-   "excerpt": "Godzilla Minus Zero, which is stomping its way into U.S. theaters on November 6, will be the 39th installment in the long-running giant monster franchise. Given its extensive tenure in the world of cinema, it’s high time to celebrate the 10 greatest movies featuring the world’s favorite giant irradiated lizard. Let’s hurry up and get started before Godzilla x Kong: Supernova drops in 2027 and make"
-  },
-  {
-   "id": "47fd65bad71e",
-   "title": "6 Queer Picks To Cure Your Post-Halloween Blues",
-   "link": "https://nofilmschool.com/queer-movies-shows-after-halloween",
-   "date": "2026-11-05T05:57:53.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/a-scene-from-the-los-espookys-series-premiere-titled-el-exorcismo-a.png?id=68596594&width=980",
-   "excerpt": "October is over, but is anyone else feeling the post-Halloween blues, or is it just me? I’m not ready to move on just yet, even as the pumpkin patches are closing and there are no more parties to go to. So I’m turning to putting on the right movie or TV show that can keep me in the Halloween mood. There are the classic choices that could be selected, but I want to cover some unconventional entries"
-  },
-  {
-   "id": "e1307179e49c",
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "date": "2026-11-05T02:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
-  },
-  {
-   "id": "87cd57a95fdb",
-   "title": "Apple is reportedly cutting budgets for its internal AI usage",
-   "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-   "date": "2026-11-05T01:26:22.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
-  },
-  {
-   "id": "9a1cb7ffef5d",
-   "title": "Where dark waters meet the golden glow",
-   "link": "https://www.reddit.com/r/midjourney/comments/1xo5tc1/where_dark_waters_meet_the_golden_glow/",
-   "date": "2026-11-05T01:20:53.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/otge4ko74pzh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c1f54c81627fefdd8fff195290c05c33d05a288b",
-   "excerpt": "submitted by /u/Separate-Way5095 [link] [comments]"
-  },
-  {
-   "id": "487fe86018a1",
-   "title": "After the midterms, a bigger clash over data centers could be coming",
-   "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-   "date": "2026-11-05T01:02:14.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Data center opposition crossed party lines in Tuesday’s midterms."
-  },
-  {
-   "id": "50fc98dbfbcf",
-   "title": "Flipsnack grows product signups with conversion optimization",
-   "link": "https://openai.com/ads/customers/flipsnack",
-   "date": "2026-11-05T00:45:15.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup."
-  },
-  {
-   "id": "3d310c7e373f",
-   "title": "How Editor Sofi Marshall Wove Together Black Bear’s Bawdy and Heartwarming Fable 'Wicker'",
-   "link": "https://nofilmschool.com/how-editor-sofi-marshall-wove-together-black-bears-bawdy-and-heartwarming-fable-wicker",
-   "date": "2026-11-05T00:15:02.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/wicked.jpg?id=68596398&width=1245&height=700&coordinates=0%2C98%2C0%2C110",
-   "excerpt": "Alex Huston Fischer and Eleanor Wilson’s Wicker follows an ostracized Fisherwoman (Olivia Colman) who commissions and falls in love with a Wicker Husband (Alexander Skarsgård), drawing together practical effects and technical filmmaking. After learning its otherworldly, fantastical plot, Editor Sofi Marshall jumped at the chance to join the project and reunite with past creative collaborators, dir"
-  },
-  {
-   "id": "7a0374977c77",
-   "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-   "link": "https://huggingface.co/blog/phonon-tts",
-   "date": "2026-11-05T00:00:00.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "d04a3ff6a441",
-   "title": "Franklin Templeton uses OpenAI to support investment research",
-   "link": "https://openai.com/index/franklin-templeton",
-   "date": "2026-11-05T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks."
-  },
-  {
-   "id": "d37691b82590",
-   "title": "The Canon First Cut Contest is Back and is Looking for Bigger, Bolder Pitches",
-   "link": "https://nofilmschool.com/canon-first-cut-contest",
-   "date": "2026-11-04T23:42:51.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/canon-first-cut-contest.jpg?id=68578154&width=1200&height=400&coordinates=0%2C150%2C0%2C150",
-   "excerpt": "Ready to bring your biggest, boldest, and most awesome-est short film ideas to life? Canon has announced that the company is bringing back its First Cut Contest for a second go-around, and the contest is looking for bigger, bolder, and more awesome pitches. Following up on the success of the inaugural Canon First Cut Contest last year, this year’s version will continue with the same unique format "
-  },
-  {
-   "id": "e15e03c3c4dc",
-   "title": "Chained Fire Episode 2 trailer (seedance)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xo3fdg/chained_fire_episode_2_trailer_seedance/",
-   "date": "2026-11-04T23:31:45.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/emMzdHNra3Frb3poMWBWtyYXSbYne3SUGLTkJCwmx_vJHUjjsAkEuEYsIDm3.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ace3a705e04d48ac9ccedea68c47a0f8ec5b94d2",
-   "excerpt": "submitted by /u/Afraid-Classroom-893 [link] [comments]"
-  },
-  {
-   "id": "3fee6ca6331d",
-   "title": "Defeat is only certain when you choose to stop fighting",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xo2np3/defeat_is_only_certain_when_you_choose_to_stop/",
-   "date": "2026-11-04T22:58:12.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZTkxbW12Y3Jlb3poMYa6fcQRClgpYXSszFNI0cUpNUMuguQ85jdaNX4zoMhP.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c6cec78bd94a38c337f8bb8491865a2bd36e62a8",
-   "excerpt": "submitted by /u/Sufficient-Ice8225 [link] [comments]"
-  },
-  {
-   "id": "2a45f43e41ba",
-   "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-   "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-   "date": "2026-11-04T22:45:09.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
-  },
-  {
-   "id": "f11302ecebb5",
-   "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-   "date": "2026-11-04T22:42:15.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly"
-  },
-  {
-   "id": "e690b247a2fb",
-   "title": "EXODUS",
-   "link": "https://www.reddit.com/r/midjourney/comments/1xo1tsr/exodus/",
-   "date": "2026-11-04T22:22:48.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OTE0MjJ0NGY4b3poMTOMvCQzM4fDkfbhTnHp5Cw7DwS4DOhsHrBefgaAkcE3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4210a67513bdac66585640b557c973f9d189c073",
-   "excerpt": "The \"upgrade\" is complete. But are you still in there? More experiments, through my Instagram, or YouTube. submitted by /u/uisato [link] [comments]"
-  },
-  {
-   "id": "3ba59fa6ce83",
-   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-   "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-   "date": "2026-11-04T22:13:16.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
-  },
-  {
-   "id": "d13217a5b492",
-   "title": "Almost no one uses AI agents to book their Uber, company says",
-   "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-   "date": "2026-11-04T21:56:01.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
-  },
-  {
-   "id": "4200c0fffb32",
-   "title": "The Curse of the Miller - Part II",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xo155t/the_curse_of_the_miller_part_ii/",
-   "date": "2026-11-04T21:55:08.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/OGs2MGpydWgzb3poMRiazDnl0mSQv8wK-EaLNbrCR8juu35LSUcmsL5i_xO7.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=411886162632c7e23c7dfea23fa309612d3b4b45",
-   "excerpt": "submitted by /u/EphemeralReverie_ [link] [comments]"
-  },
-  {
-   "id": "41aedc29b693",
-   "title": "little doll",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xo10lp/little_doll/",
-   "date": "2026-11-04T21:49:52.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dHo1NWJmbGgyb3poMb3cgiK1PqYu6LmOS9JBwZnAhCz1Uk3K9-xQ0jhRjHBf.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=074b3bc109f25aacbd0efdaa1252515428a036d6",
-   "excerpt": "submitted by /u/superfatbeagle [link] [comments]"
-  },
-  {
-   "id": "4e9fada29e6f",
-   "title": "17 better ways Elon Musk could have wasted $446 million",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-   "date": "2026-11-04T21:45:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Dream bigger, babe. | Image: Cath Virginia / The Verge, Getty Images One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you may delusionally throw away near"
-  },
-  {
-   "id": "81902ab3450f",
-   "title": "Spectrallic/MiniMax-H3-LightX2V-int8-convrot",
-   "link": "https://huggingface.co/Spectrallic/MiniMax-H3-LightX2V-int8-convrot",
-   "date": "2026-11-04T21:42:56.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, minimax-h3, int8, convrot, lightx2v, distillation",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "e93341838418",
-   "title": "ununununununununununununununununununun/sd-turbo-phi-lattice-v2",
-   "link": "https://huggingface.co/ununununununununununununununununununun/sd-turbo-phi-lattice-v2",
-   "date": "2026-11-04T21:36:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, sd-turbo, phi-lattice, phi-lattice-v2",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "7c48fb685dfa",
-   "title": "Will Ferrell’s \"Anti-Pep Talk\" Is the Best Advice for Creative Longevity",
-   "link": "https://nofilmschool.com/will-ferrells-pep-talk",
-   "date": "2026-11-04T21:30:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/will-ferrell-s-pep-talk.jpg?id=68596155&width=1200&height=400&coordinates=0%2C81%2C0%2C81",
-   "excerpt": "Look, if you're having a bad day in Hollywood, you probably give yourself the sem pep talk every time: Never give up, keep grinding, and bet on yourself. And yeah, sometimes you may need to hear that, but sometimes you might need a kick in the ass and a little bit more of a reality check to center you and get you back on track. In a candid clip, comedy icon Will Ferrell shared the ultimate \"anti-p"
-  },
-  {
-   "id": "423e16ab4854",
-   "title": "OpenAI is already trying to shape the 2028 election",
-   "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-   "date": "2026-11-04T21:25:44.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
-  },
-  {
-   "id": "9bb1d0e6e74a",
-   "title": "CREEPY CRAP",
-   "link": "https://www.reddit.com/r/midjourney/comments/1xo06ah/creepy_crap/",
-   "date": "2026-11-04T21:16:00.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/2e2min28pnzh1.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2d52fecb083cda630678ba617871d1b87c74c545",
-   "excerpt": "submitted by /u/GaryWray [link] [comments]"
-  },
-  {
-   "id": "421e2b40f3bf",
-   "title": "Meta acquires AI coding startup Conductor",
-   "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-   "date": "2026-11-04T21:10:56.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
   }
  ]
 }
