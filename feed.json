@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:31:10.242Z",
+ "updated": "2026-11-11T15:17:15.935Z",
  "items": [
   {
    "id": "49cf590dc337",
@@ -13,6 +13,401 @@
    "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
   },
   {
+   "id": "b0558878cc43",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "date": "2026-11-11T15:00:15.000Z",
+   "source": "Google DeepMind",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://lh3.googleusercontent.com/VPOhADdGu1T7kK_gWBiGzyVawQbKCjpL3-B0L0wxpYCyr8cHxviYmo9Hghy4f1laeIo2YKwuz8E07TR9HWWk2b0EONi0uvju-8TDLHX6YWHG4dXe3w=w528-h297-n-nu-rw-lo",
+   "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease."
+  },
+  {
+   "id": "a12c5f3d8f2d",
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "date": "2026-11-11T15:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that."
+  },
+  {
+   "id": "872573b4c15b",
+   "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+   "date": "2026-11-11T15:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "A graphic representing Google’s AlphaGenome Atlas. | Image: Google Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor to De"
+  },
+  {
+   "id": "26c68c8c9550",
+   "title": "What Is MAX Sneaks? Your First Look at Tools That Don’t Exist Yet",
+   "link": "https://nofilmschool.com/what-is-max-sneaks-your-first-look-at-tools-that-dont-exist-yet",
+   "date": "2026-11-11T14:19:03.000Z",
+   "source": "No Film School",
+   "cat": "news",
+   "thumb": "https://nofilmschool.com/media-library/image.png?id=68658269&width=1200&height=400&coordinates=0%2C155%2C0%2C155",
+   "excerpt": "Ever wondered where your favorite editing tools came from? Before they were a menu item or a button, a lot of them were a demo on a stage, and nobody was sure they’d ever ship. That stage is called Sneaks, and it’s one of the best parts of Adobe MAX. So What is Sneaks? Every year at Adobe MAX, Adobe’s own researchers walk on stage and demo technology that doesn’t exist in any product yet. It’s a r"
+  },
+  {
+   "id": "a4679e4d57a8",
+   "title": "fusorlabs/pjit-21k-web",
+   "link": "https://huggingface.co/fusorlabs/pjit-21k-web",
+   "date": "2026-11-11T14:11:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: fusor-ai, webassembly, wasm, on-device, text-to-image, pixel-space",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b1f5bd0de5f7",
+   "title": "svntax-dev/pixel_spritesheet_4walk_combat_32x48_v2",
+   "link": "https://huggingface.co/svntax-dev/pixel_spritesheet_4walk_combat_32x48_v2",
+   "date": "2026-11-11T14:01:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Boogu/Boogu-Image-0.1-Edit, base_model:adapter:Boogu/Boogu-Image-0.1-Edit",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c469d7bbc40a",
+   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "date": "2026-11-11T14:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+  },
+  {
+   "id": "24878850a24a",
+   "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+   "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+   "date": "2026-11-11T14:00:00.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and "
+  },
+  {
+   "id": "4ba4a661af52",
+   "title": "AI replaced him in 9 seconds - They never fired him",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xtife8/ai_replaced_him_in_9_seconds_they_never_fired_him/",
+   "date": "2026-11-11T13:59:14.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/aDR2ejAyNWRvejBpMabpSZhVhVFyPNnkA8cRzbxn_f8wSdfl-n9l54WrjTjS.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c69d73f5fb2d1c4ed7b1d253933b5c1262611487",
+   "excerpt": "submitted by /u/Relevant-Student-468 [link] [comments]"
+  },
+  {
+   "id": "b56b6197bea9",
+   "title": "He Destroyed the Birthday Cake But Ollie Caught Him 😂🐾",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xtibfb/he_destroyed_the_birthday_cake_but_ollie_caught/",
+   "date": "2026-11-11T13:54:18.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/a2VxNXJmajNvejBpMXhb5BJgkp9lPJ2xUdOLMJhjmvZmqJz1G4iGsm4swf-3.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=75cfbf87b2b37645273db4f02d543a34ad54f0c6",
+   "excerpt": "submitted by /u/GoldenLover_Mia [link] [comments]"
+  },
+  {
+   "id": "2d6a7dd38932",
+   "title": "Happy Place | A Thumbs Up",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xti7zv/happy_place_a_thumbs_up/",
+   "date": "2026-11-11T13:50:04.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/MzBsd2w1azhuejBpMVNyCx-R4bjl0QCyzZdFpHIQdgEIrwuPmhtw8dORKxBE.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9a2a202842e4b134db10229b00999d426420669f",
+   "excerpt": "submitted by /u/dhanai [link] [comments]"
+  },
+  {
+   "id": "c0d4dca9eaf7",
+   "title": "The Wandering Samurai Shiba Inu: Autumn in Kyoto (Made with Veo)",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xthtaz/the_wandering_samurai_shiba_inu_autumn_in_kyoto/",
+   "date": "2026-11-11T13:31:45.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "isModel": true,
+   "thumb": "https://external-preview.redd.it/ejJ5dWxvbmxpejBpMVc_XPhIffhnjod0NiqCpBfPftO97Sl-PIF1uBOns2ER.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ff50ac2c2c9c6b69bbf6ea5cf1f9232d9afeb19",
+   "excerpt": "submitted by /u/japaneo_evol [link] [comments]"
+  },
+  {
+   "id": "93de91ef97b8",
+   "title": "Sawfwair/MiniMax-H3-Image-MLX-8bit",
+   "link": "https://huggingface.co/Sawfwair/MiniMax-H3-Image-MLX-8bit",
+   "date": "2026-11-11T12:41:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, diffusers, safetensors, affine-q8, image-editing, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "231783d917f4",
+   "title": "Praelatus/Haruyuki_Style",
+   "link": "https://huggingface.co/Praelatus/Haruyuki_Style",
+   "date": "2026-11-11T12:34:47.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:circlestone-labs/Anima, base_model:adapter:circlestone-labs/Anima",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d69113026fd4",
+   "title": "Aurelith-FW/aure_sticker_paint",
+   "link": "https://huggingface.co/Aurelith-FW/aure_sticker_paint",
+   "date": "2026-11-11T11:36:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: tensorboard, safetensors, lora, anima, comfyui, anime",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "462e92c76da7",
+   "title": "anionex/h3-image-mlx  (♥ 1)",
+   "link": "https://huggingface.co/anionex/h3-image-mlx",
+   "date": "2026-11-11T11:13:56.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: mlx, apple-silicon, h3-image, image-editing, text-to-image, en",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "356d47050fb4",
+   "title": "DeVilDoNia/HaDeS-MOSS-v0.9.4-Turbo",
+   "link": "https://huggingface.co/DeVilDoNia/HaDeS-MOSS-v0.9.4-Turbo",
+   "date": "2026-11-11T11:04:12.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, comfyui, moss-image, turbo, safetensors, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b7a2cdf0bdfb",
+   "title": "AtomicChat/MiniMax-H3-Image-GGUF",
+   "link": "https://huggingface.co/AtomicChat/MiniMax-H3-Image-GGUF",
+   "date": "2026-11-11T10:45:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, comfyui, stable-diffusion.cpp, minimax-h3-image, minimax-h3, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "01a840cbc500",
+   "title": "gatilin/nitrofusion2-dit-refiners",
+   "link": "https://huggingface.co/gatilin/nitrofusion2-dit-refiners",
+   "date": "2026-11-11T10:39:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, dit, z-image, mmdit, refiner",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5f12d03ccd3a",
+   "title": "OzzyGT/minimax_h3_image_sdnq_dynamic_8bit",
+   "link": "https://huggingface.co/OzzyGT/minimax_h3_image_sdnq_dynamic_8bit",
+   "date": "2026-11-11T10:36:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, image-generation, image-editing, minimax-h3, sdnq",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0fef77879874",
+   "title": "krishgolcha/minsky-01-videogen-release",
+   "link": "https://huggingface.co/krishgolcha/minsky-01-videogen-release",
+   "date": "2026-11-11T09:56:08.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video, video-generation, text-to-video, image-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "e7e61c3a5141",
+   "title": "S3ckn11g0r/CROWN-H3-Perfect-Hands-Eyes-Anatomy",
+   "link": "https://huggingface.co/S3ckn11g0r/CROWN-H3-Perfect-Hands-Eyes-Anatomy",
+   "date": "2026-11-11T09:22:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, comfyui, ninecrowns, concept, dance",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "3cc434171808",
+   "title": "S3ckn11g0r/CROWN-H3-InstaGirl-TikTok-DeepFocus",
+   "link": "https://huggingface.co/S3ckn11g0r/CROWN-H3-InstaGirl-TikTok-DeepFocus",
+   "date": "2026-11-11T09:21:43.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, comfyui, ninecrowns, style, instagirl",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "1bb26adc067c",
+   "title": "S3ckn11g0r/CROWN-H3-Niji-Semireal-Aesthetic",
+   "link": "https://huggingface.co/S3ckn11g0r/CROWN-H3-Niji-Semireal-Aesthetic",
+   "date": "2026-11-11T09:21:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, comfyui, ninecrowns, style, portrait",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "09a69c38776a",
+   "title": "S3ckn11g0r/CROWN-H3-True-POV-Interactive",
+   "link": "https://huggingface.co/S3ckn11g0r/CROWN-H3-True-POV-Interactive",
+   "date": "2026-11-11T09:21:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, comfyui, ninecrowns, concept, cinematic",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "6785682eafa8",
+   "title": "S3ckn11g0r/CROWN-H3-Spatial-And-Hand-Grip-Master",
+   "link": "https://huggingface.co/S3ckn11g0r/CROWN-H3-Spatial-And-Hand-Grip-Master",
+   "date": "2026-11-11T09:21:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, comfyui, ninecrowns, concept, combat",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "e2e7a36350cb",
+   "title": "S3ckn11g0r/CROWN-H3-VFX-Combat-Boost",
+   "link": "https://huggingface.co/S3ckn11g0r/CROWN-H3-VFX-Combat-Boost",
+   "date": "2026-11-11T09:17:55.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, comfyui, ninecrowns, concept, martial-arts",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "651a0fccfdbb",
+   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "date": "2026-11-11T09:00:00.000Z",
+   "source": "Google AI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+   "excerpt": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+  },
+  {
+   "id": "4b9e9569e81e",
+   "title": "Would you have known this was AI without being told?",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xtckvp/would_you_have_known_this_was_ai_without_being/",
+   "date": "2026-11-11T08:31:01.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/b2Q4bGk5Z2EyeTBpMejJ2GwcirPDqbReaNWb_Nqi57nQrGEzaEisfl_AZG4H.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0aca14782f8161991eeb78de5ec6107184b383a9",
+   "excerpt": "submitted by /u/Old_Establishment287 [link] [comments]"
+  },
+  {
    "id": "55a31f644627",
    "title": "ChatGPT Plus for veterans and servicemembers",
    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
@@ -22,6 +417,42 @@
    "isModel": false,
    "thumb": "",
    "excerpt": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+  },
+  {
+   "id": "dc80e12dd0e8",
+   "title": "krishgolcha/minsky-01-videogen",
+   "link": "https://huggingface.co/krishgolcha/minsky-01-videogen",
+   "date": "2026-11-11T07:36:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video, video-generation, text-to-video, image-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "844ff10dd21c",
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "date": "2026-11-11T07:30:51.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
+  },
+  {
+   "id": "c3778d69e0d3",
+   "title": "Moustache, the Giant Cat of Paris – Episode 1 « Tour Eiffel »: he fell asleep on the Eiffel Tower 🐱",
+   "link": "https://www.reddit.com/r/aivideo/comments/1xtaaoo/moustache_the_giant_cat_of_paris_episode_1_tour/",
+   "date": "2026-11-11T06:11:41.000Z",
+   "source": "r/aivideo",
+   "cat": "community",
+   "thumb": "https://external-preview.redd.it/bnBwZWhlMXljeDBpMcuprzzZjBKBgg0EgBTnFG1n31XvAHng5TL05zmnFtWk.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1f494164b79478fcd2b7ca953726106f517ac46f",
+   "excerpt": "submitted by /u/ChatsDrolesFR [link] [comments]"
   },
   {
    "id": "c0358cdc9e73",
@@ -345,6 +776,17 @@
    "excerpt": "submitted by /u/KarateKid84Fan [link] [comments]"
   },
   {
+   "id": "542cd5af268e",
+   "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+   "link": "https://huggingface.co/blog/token-pooling",
+   "date": "2026-11-11T00:00:00.000Z",
+   "source": "Hugging Face Blog",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": ""
+  },
+  {
    "id": "d687d89ec0ad",
    "title": "Salamander Years",
    "link": "https://www.reddit.com/r/aivideo/comments/1xt2ebl/salamander_years/",
@@ -382,7 +824,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, llama.cpp, q5_k_m, abliterated, uncensored, vidéo",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 10,
     "pipeline": "text-to-video"
    }
   },
@@ -1757,6 +2199,17 @@
    }
   },
   {
+   "id": "19892041069d",
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "link": "https://openai.com/index/singapore-airlines-travel-work",
+   "date": "2026-11-10T08:00:00.000Z",
+   "source": "OpenAI",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "",
+   "excerpt": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot."
+  },
+  {
    "id": "aa6bb82a01d0",
    "title": "99AnshikaGoel/data266-lab2-part2-run2-lora-rank16",
    "link": "https://huggingface.co/99AnshikaGoel/data266-lab2-part2-run2-lora-rank16",
@@ -1901,7 +2354,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, lora, image-to-video, base_model:Comfy-Org/MiniMax-H3, base_model:adapter:Comfy-Org/MiniMax-H3",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 24,
     "pipeline": "image-to-video"
    }
   },
@@ -2079,7 +2532,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: wan2.2, diffusers, safetensors, image-to-video, en, zh",
    "hf": {
     "likes": 1,
-    "downloads": 32,
+    "downloads": 40,
     "pipeline": "image-to-video"
    }
   },
@@ -2958,7 +3411,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, s2v, image-to-video, es, arxiv:2508.18621",
    "hf": {
     "likes": 0,
-    "downloads": 17,
+    "downloads": 21,
     "pipeline": "image-to-video"
    }
   },
@@ -3622,8 +4075,8 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 18, likes: 95. Tags: diffusion-single-file, comfyui, text-to-image, base_model:MiniMaxAI/MiniMax-H3-Image, base_model:finetune:MiniMaxAI/MiniMax-H3-Image, license:other",
    "hf": {
-    "likes": 186,
-    "downloads": 18,
+    "likes": 226,
+    "downloads": 351803,
     "pipeline": "trending image"
    }
   },
@@ -4246,8 +4699,8 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 552, likes: 1. Tags: diffusers, minimax, minimax-h3, z-image, fl2va, ref2va",
    "hf": {
-    "likes": 0,
-    "downloads": 2092,
+    "likes": 1,
+    "downloads": 2123,
     "pipeline": "image-to-video"
    }
   },
@@ -7128,404 +7581,6 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/remember-remember-the-fifth-of-november.jpg?id=68603501&width=1245&height=700&coordinates=125%2C0%2C125%2C0",
    "excerpt": "I vividly remember going to Regal Downingtown on opening night to see the new movie written by the Wahchoski siblings and directed by James McTeigue, based on one of my favorite Alan Moore graphic novels. It was an insane mix of anarchy and entertainment, steeped in Guy Fawkes lore and specific dates I recall every year, thanks to some catchy quotes. So, how did this movie use seventeenth-century "
-  },
-  {
-   "id": "fbb4e77d2e04",
-   "title": "when the apology makes everything worse",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xoozaq/when_the_apology_makes_everything_worse/",
-   "date": "2026-11-05T17:40:10.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/eW4wdjJ3MHh5dHpoMXzOZ9gvEkxNUcurRTF4EF95NxnMZ6g_cVNZmn3PNDAm.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=244696cce5d5a8ea650579aeb2caf39d06b908cd",
-   "excerpt": "submitted by /u/Cloud_Reviews [link] [comments]"
-  },
-  {
-   "id": "8d0c6846998b",
-   "title": "Useless Super Heroes",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xoox55/useless_super_heroes/",
-   "date": "2026-11-05T17:37:57.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/ZzR2bDBlaWF3dHpoMZX5L5pxIz2TEh6iMWReFiEaLaSd6ayOutHRvNSM7MLJ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fbc2ce340ffa092e56189a33c344bcf6f6546333",
-   "excerpt": "submitted by /u/Sufficient_Flow_415 [link] [comments]"
-  },
-  {
-   "id": "72237532eb0e",
-   "title": "The Latest Version of ARRI’s Reference Tool CMD is Here With Some Big Updates for On-Set and Post Workflows",
-   "link": "https://nofilmschool.com/arri-reference-tool-cmd-update",
-   "date": "2026-11-05T17:16:16.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/arri-reference-tool-cmd-update-1-1-0.png?id=68603515&width=1245&height=700&coordinates=0%2C0%2C609%2C0",
-   "excerpt": "ARRI’s Reference Tool, often shortened to ART, combines many of the company’s previous tools into a single package. And it’s pretty helpful for those looking to unlock ARRIRAW processing as they review clips, check and extract metadata, create and extract look files, and transcode footage to a different format. However, there’s always more functionality to be had, and this new update to the ARRI R"
-  },
-  {
-   "id": "8462a564d4c2",
-   "title": "Thanksgiving 1987",
-   "link": "https://www.reddit.com/r/midjourney/comments/1xoo9ah/thanksgiving_1987/",
-   "date": "2026-11-05T17:13:05.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/j1m9g7n3utzh1.jpeg?width=140&amp;height=112&amp;auto=webp&amp;s=b9e252326b428fb986dc741d060c9222a0db2011",
-   "excerpt": "submitted by /u/MountainzN [link] [comments]"
-  },
-  {
-   "id": "27451d50ffbe",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-   "date": "2026-11-05T17:05:16.000Z",
-   "source": "Google DeepMind",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "3f5898053ca4",
-   "title": "The Dane Rivers Show (1978) | Opening Credits for a Sitcom That Never Existed | Workflow in comments",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xonxjs/the_dane_rivers_show_1978_opening_credits_for_a/",
-   "date": "2026-11-05T17:00:46.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dzc0ZzE2YnRydHpoMYPYQEx6mhEP0KFNcKZ5N37rTywGlgl_zPl5Ywdn6MrB.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3bd9bed3d098994e5e868618c0ba98c6564e04a8",
-   "excerpt": "submitted by /u/MILLA75 [link] [comments]"
-  },
-  {
-   "id": "4eabb5f27738",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "date": "2026-11-05T17:00:00.000Z",
-   "source": "Google AI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
-   "excerpt": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
-  },
-  {
-   "id": "8c5376908c7e",
-   "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-   "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-   "date": "2026-11-05T17:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GDGG_Grimes_2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gifts is a notable test case for the commercial potential of AI films, and it releases on December 4th. Grimes - who will be lending both her likeness and vocal performance to the movie, which you can s"
-  },
-  {
-   "id": "8d55da85fce4",
-   "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-   "date": "2026-11-05T17:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than 1 percent of the time, down from around 5 percent with GPT-5.6 Cyber. The evaluation, called ExploitGym HoneyPot, is modele"
-  },
-  {
-   "id": "3303d6ac09af",
-   "title": "Australian universities are creating AI-native graduates",
-   "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-   "date": "2026-11-05T17:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
-  },
-  {
-   "id": "7d9b996bb51c",
-   "title": "Thelocallab/Pika-H3-Flex-ComfyUI-Workflow",
-   "link": "https://huggingface.co/Thelocallab/Pika-H3-Flex-ComfyUI-Workflow",
-   "date": "2026-11-05T16:41:25.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, workflow, pika-h3-flex, reference-to-video, image-to-video",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "7dac5ce0cdad",
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-   "date": "2026-11-05T16:16:45.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
-  },
-  {
-   "id": "597e3a01d776",
-   "title": "Zakyrie/minimax-h3-beauty-clarity-enhancer",
-   "link": "https://huggingface.co/Zakyrie/minimax-h3-beauty-clarity-enhancer",
-   "date": "2026-11-05T15:20:49.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, minimax, text-to-video, video-generation, detailer",
-   "hf": {
-    "likes": 0,
-    "downloads": 147,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "939524e97f24",
-   "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-   "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-   "date": "2026-11-05T15:19:05.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
-  },
-  {
-   "id": "c4575aebee2f",
-   "title": "The hidden supply chain costs of the AI boom",
-   "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-   "date": "2026-11-05T15:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24792604/The_Verge_Decoder_Tileart.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100",
-   "excerpt": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global"
-  },
-  {
-   "id": "cca7625e0bb2",
-   "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-   "date": "2026-11-05T15:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-1083228772.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "BERLIN, GERMANY - JANUARY 16: In this photo illustration the logo of the music streaming service SoundCloud is displayed on a smartphone on January 16, 2019 in Berlin, Germany. (Photo by Thomas Trutschel/Photothek via Getty Images) | Photothek via Getty Images After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rathe"
-  },
-  {
-   "id": "d2cf34351a5f",
-   "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-   "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-   "date": "2026-11-05T14:42:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Aina's ring can also take calls and help you dictate notes on your Mac."
-  },
-  {
-   "id": "459c8955c4df",
-   "title": "Zakyrie/minimax-h3-bunny-combat-base",
-   "link": "https://huggingface.co/Zakyrie/minimax-h3-bunny-combat-base",
-   "date": "2026-11-05T14:40:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, minimax, text-to-video, video-generation, motion-lora",
-   "hf": {
-    "likes": 0,
-    "downloads": 32,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "b72298e36473",
-   "title": "ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty-coord",
-   "link": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-tm-ln2-u5-qt-fw-hd-item-empty-coord",
-   "date": "2026-11-05T14:38:10.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan, recurrent-transformer, checkpoints, text-to-video, base_model:Wan-AI/Wan2.1-T2V-1.3B-Diffusers, base_model:finetune:Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "f551c531fd0c",
-   "title": "ducvh5/wan21-a5b5x4c5-tf-fm-u5-qt-fw-hd-item-wanneg",
-   "link": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-u5-qt-fw-hd-item-wanneg",
-   "date": "2026-11-05T14:38:09.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan, recurrent-transformer, checkpoints, text-to-video, base_model:Wan-AI/Wan2.1-T2V-1.3B-Diffusers, base_model:finetune:Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "7418d13d33d6",
-   "title": "ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg",
-   "link": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tm-u5-qt-fw-hd-item-wanneg",
-   "date": "2026-11-05T14:38:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, wan, recurrent-transformer, checkpoints, text-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "38fd7dfd6ae7",
-   "title": "ducvh5/wan21-a5b5x4c5-tf-fm-ln2-qt-fw-hd-item-wanneg",
-   "link": "https://huggingface.co/ducvh5/wan21-a5b5x4c5-tf-fm-ln2-qt-fw-hd-item-wanneg",
-   "date": "2026-11-05T14:38:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan, recurrent-transformer, checkpoints, text-to-video, base_model:Wan-AI/Wan2.1-T2V-1.3B-Diffusers, base_model:finetune:Wan-AI/Wan2.1-T2V-1.3B-Diffusers",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "aa385c4e795b",
-   "title": "How to Burn Yourself Out",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xojuzr/how_to_burn_yourself_out/",
-   "date": "2026-11-05T14:21:07.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/b3ZrMGplODN5c3poMXl4-zUHt4Rms3rs8H-gYJqeKeY45D5uU6oq4JFKU7ai.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b4fd0247658702c1341fff34dc69cf8e162b093a",
-   "excerpt": "submitted by /u/Own_Shoulder_1593 [link] [comments]"
-  },
-  {
-   "id": "394eb9654b00",
-   "title": "Zakyrie/minimax-h3-bunny-motion-repair",
-   "link": "https://huggingface.co/Zakyrie/minimax-h3-bunny-motion-repair",
-   "date": "2026-11-05T14:09:13.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, minimax, text-to-video, video-generation, motion-lora",
-   "hf": {
-    "likes": 0,
-    "downloads": 43,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "1362978ff51c",
-   "title": "Filmmakers Will Absolutely Use Touch for MacBook Pro",
-   "link": "https://nofilmschool.com/filmmakers-will-absolutely-use-touch-for-macbook-proembargo-lifts-thursday-november-5-at-6-a-m-pt",
-   "date": "2026-11-05T14:05:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/hard-at-work-on-the-train.jpg?id=68590344&width=1245&height=700&coordinates=0%2C75%2C0%2C133",
-   "excerpt": "This week Apple released its newest MacBook Pro with the PROLED XDR Touch Display. There has been a lot of internet rumbling about whether or not most people will use touch on a laptop. Microsoft has had its Surface laptops for more than a decade, and they haven’t really changed the landscape. Steve Jobs famously said that you don’t need touch on a laptop. But here we are with touch coming to the "
-  },
-  {
-   "id": "781e4656d358",
-   "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-   "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-   "date": "2026-11-05T14:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used."
-  },
-  {
-   "id": "9d0490c6f2d9",
-   "title": "Arcadia",
-   "link": "https://www.reddit.com/r/midjourney/comments/1xoi4z8/arcadia/",
-   "date": "2026-11-05T13:04:51.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/80bvqy1tlszh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=c0eb5452a5c17d6e1c4428eadec4c83dc7d8aaf6",
-   "excerpt": "submitted by /u/Dropdeadlegs84 [link] [comments]"
-  },
-  {
-   "id": "ddef7f7b40b1",
-   "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-   "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-   "date": "2026-11-05T13:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials."
-  },
-  {
-   "id": "387c7688af15",
-   "title": "A whole new way to move",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xohem9/a_whole_new_way_to_move/",
-   "date": "2026-11-05T12:28:24.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/N2hvMG15ZTlmc3poMY5O_X-1WcSYvYnt4xUJxly4Myx00JwhsV8d5rsoEdft.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e07216f6dbb12f657e74fb7f38d2a8f071bf5ab0",
-   "excerpt": "submitted by /u/shahryar2025 [link] [comments]"
-  },
-  {
-   "id": "ab92969d8457",
-   "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-   "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-   "date": "2026-11-05T12:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company."
-  },
-  {
-   "id": "535558c43125",
-   "title": "RunningHubAI/rh-minimax-h3-fused-refdelta-r1024-turbo8-mystic07-int8-convrot-r-unet",
-   "link": "https://huggingface.co/RunningHubAI/rh-minimax-h3-fused-refdelta-r1024-turbo8-mystic07-int8-convrot-r-unet",
-   "date": "2026-11-05T11:59:25.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, unet, text-to-video, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "fa0a617a3602",
-   "title": "Cookie Mobster",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xoggm4/cookie_mobster/",
-   "date": "2026-11-05T11:38:00.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YjJjZXlvOGI2c3poMRSwDr4scnZ_NXkLX3htOO95UKWUhCpJ6WmmNciK-7yz.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=de06fe09cfb9f12e37d14071273a3e9029608446",
-   "excerpt": "submitted by /u/heresalexandria [link] [comments]"
-  },
-  {
-   "id": "3b1e4e7f7c1e",
-   "title": "Big Tech’s big AI buildout will not end until someone stops it",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-   "date": "2026-11-05T10:45:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is also starting to become clear - Big Tech will not be slowing down, at least not on its own. Amazon, "
-  },
-  {
-   "id": "1bf4c11e52ee",
-   "title": "A few images from Midjourney V8. Still feels like the best sense of aesthetics of any image model",
-   "link": "https://www.reddit.com/r/midjourney/comments/1xoeh1l/a_few_images_from_midjourney_v8_still_feels_like/",
-   "date": "2026-11-05T09:35:07.000Z",
-   "source": "r/midjourney",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://preview.redd.it/1y4qv44bkrzh1.png?width=140&amp;height=105&amp;auto=webp&amp;s=ea67ed9be6094bcc690d6a71773f1e25b6e9ba45",
-   "excerpt": "submitted by /u/Krillo90 [link] [comments]"
   }
  ]
 }
