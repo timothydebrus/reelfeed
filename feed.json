@@ -1,6 +1,248 @@
 {
- "updated": "2026-11-17T22:55:34.967Z",
+ "updated": "2026-11-18T04:27:14.898Z",
  "items": [
+  {
+   "id": "778a0e6dcf04",
+   "title": "RunningHubAI/rh-w-lora",
+   "link": "https://huggingface.co/RunningHubAI/rh-w-lora",
+   "date": "2026-11-18T04:07:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "283b29de18e5",
+   "title": "Centhur/data266-lab2-naruto-sd15-run2-lora-r32-s5000",
+   "link": "https://huggingface.co/Centhur/data266-lab2-naruto-sd15-run2-lora-r32-s5000",
+   "date": "2026-11-18T03:35:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, dataset:lambdalabs/naruto-blip-captions, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8c994cf8fc19",
+   "title": "Centhur/data266-lab2-naruto-sd15-run1-lora-r4-s5000",
+   "link": "https://huggingface.co/Centhur/data266-lab2-naruto-sd15-run1-lora-r4-s5000",
+   "date": "2026-11-18T03:30:27.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, dataset:lambdalabs/naruto-blip-captions, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "923b3203c795",
+   "title": "sebekblessing/wan22-qnn-8elite-gen5",
+   "link": "https://huggingface.co/sebekblessing/wan22-qnn-8elite-gen5",
+   "date": "2026-11-18T03:29:30.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, qualcomm, qnn, snapdragon, image-to-video, base_model:quanhaol/Wan2.2-TI2V-5B-Turbo",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "787bad9d9735",
+   "title": "yashashree24shinde/data266-lab2-p2-naruto-full-unet",
+   "link": "https://huggingface.co/yashashree24shinde/data266-lab2-p2-naruto-full-unet",
+   "date": "2026-11-18T03:15:15.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, text-to-image, dataset:lambdalabs/naruto-blip-captions, base_model:runwayml/stable-diffusion-v1-5",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "b61db19a30cc",
+   "title": "hik45258/minimax-h3-wushu-action-lora",
+   "link": "https://huggingface.co/hik45258/minimax-h3-wushu-action-lora",
+   "date": "2026-11-18T02:57:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, lora, text-to-video, martial-arts, kung-fu, action",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "e898261d65c9",
+   "title": "sebekblessing/moss-qnn-8elite-gen5",
+   "link": "https://huggingface.co/sebekblessing/moss-qnn-8elite-gen5",
+   "date": "2026-11-18T02:55:47.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, qualcomm, qnn, snapdragon, text-to-image, base_model:OpenMOSS-Team/MOSS-Image-SFT",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ec25ec2b7db0",
+   "title": "yashashree24shinde/data266-lab2-p2-naruto-lora-r16",
+   "link": "https://huggingface.co/yashashree24shinde/data266-lab2-p2-naruto-lora-r16",
+   "date": "2026-11-18T02:38:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, dataset:lambdalabs/naruto-blip-captions, base_model:runwayml/stable-diffusion-v1-5",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "de938b1fc49e",
+   "title": "neuralnetworker/tessera-small",
+   "link": "https://huggingface.co/neuralnetworker/tessera-small",
+   "date": "2026-11-18T01:49:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: pytorch, pixel-art, text-to-image, masked-diffusion, discrete-diffusion, diffusion-llm",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "0b08a5d2f5b9",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "date": "2026-11-18T01:44:21.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+  },
+  {
+   "id": "62c448cf55d5",
+   "title": "Maximilian228/Geode-FLUX.2-klein-4B  (♥ 1)",
+   "link": "https://huggingface.co/Maximilian228/Geode-FLUX.2-klein-4B",
+   "date": "2026-11-18T01:33:15.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: text-to-image, flux, flux2, on-device, android, fp16",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8be3dd0898d2",
+   "title": "sayurilinwane/MiniMax-H3-Image",
+   "link": "https://huggingface.co/sayurilinwane/MiniMax-H3-Image",
+   "date": "2026-11-18T01:08:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ffde03115739",
+   "title": "Kevin67456/minimax-h3-image-pdmd-2step",
+   "link": "https://huggingface.co/Kevin67456/minimax-h3-image-pdmd-2step",
+   "date": "2026-11-18T01:06:17.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, image-generation, lora, few-step",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1bbe22dae05f",
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+   "date": "2026-11-18T00:16:50.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+  },
+  {
+   "id": "a5b2e1c3e893",
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+   "date": "2026-11-17T23:41:18.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-17-at-3.00.15-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked at"
+  },
+  {
+   "id": "a91e4c81d566",
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+   "date": "2026-11-17T23:37:48.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+  },
+  {
+   "id": "74fa1f5e6e2f",
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "date": "2026-11-17T23:04:35.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+  },
   {
    "id": "30aa7551b82e",
    "title": "v0.45.6",
@@ -706,6 +948,22 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/aGFkNGIwMWw3NjJpMehPGoukAleMgNsn3akv_B9giNVSVDfxwypQb838w5GQ.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9999e23742e092fec876d9246797f28e67236a4f",
    "excerpt": "submitted by /u/KalpnkAIStudio [link] [comments]"
+  },
+  {
+   "id": "79597b885337",
+   "title": "JinPLU/CaT-Movie",
+   "link": "https://huggingface.co/JinPLU/CaT-Movie",
+   "date": "2026-11-17T12:31:47.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffsynth-studio, video-generation, multi-shot, storyboard, long-video, wan2.2",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
   },
   {
    "id": "cbc81c9826ea",
@@ -1633,7 +1891,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, lora, diversity, distillation, rediverse, text-to-video",
    "hf": {
-    "likes": 8,
+    "likes": 9,
     "downloads": 48,
     "pipeline": "trending video"
    }
@@ -1691,9 +1949,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: text-to-video, base_model:Wan-AI/Wan2.1-T2V-1.3B, base_model:finetune:Wan-AI/Wan2.1-T2V-1.3B, license:apple-amlr, region:us",
    "hf": {
-    "likes": 5,
+    "likes": 17,
     "downloads": 0,
-    "pipeline": "text-to-video"
+    "pipeline": "trending video"
    }
   },
   {
@@ -1707,7 +1965,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 10. Tags: safetensors, text-to-video, base_model:Wan-AI/Wan2.1-T2V-14B, base_model:finetune:Wan-AI/Wan2.1-T2V-14B, license:apple-amlr, region:us",
    "hf": {
-    "likes": 10,
+    "likes": 80,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -3056,7 +3314,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 1288, likes: 18. Tags: diffusion-single-file, comfyui, text-to-video, base_model:IFM/PAN2, base_model:finetune:IFM/PAN2, license:apache-2.0",
    "hf": {
-    "likes": 33,
+    "likes": 34,
     "downloads": 6288,
     "pipeline": "trending video"
    }
@@ -4207,7 +4465,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 6. Tags: minimax-h3, comfyui, workflow, text-to-image, image-editing, license:apache-2.0",
    "hf": {
-    "likes": 68,
+    "likes": 69,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -7382,243 +7640,6 @@
    "cat": "community",
    "thumb": "https://external-preview.redd.it/bzJ4cmw1c3hxMzFpMQono7GAy_FLpLzQ6U5C55K-euB5m5_chBZq0PvqunEs.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=666163a1f79e832f550cb8a1c91fee2c16712f99",
    "excerpt": "submitted by /u/dhanai [link] [comments]"
-  },
-  {
-   "id": "d1cc7b7eb238",
-   "title": "The 8 Greatest Director-Actor Duos in Movie History",
-   "link": "https://nofilmschool.com/iconic-director-actor-duos",
-   "date": "2026-11-12T03:30:03.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/raging-bull.png?id=68649773&width=1200&height=400&coordinates=0%2C142%2C0%2C143",
-   "excerpt": "When a director and an actor become a dynamic duo, every project they re-team on can have fans eager to see what they do next. Will the genre be different? What new character will they create? Of course, I have to include Martin Scorsese and Robert De Niro on this list with their partnership that has spanned decades, but they aren’t the only ones who have been in sync with each other. The followin"
-  },
-  {
-   "id": "ae4995f679c2",
-   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-   "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-   "date": "2026-11-12T03:13:10.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
-  },
-  {
-   "id": "a41dfa5a49ef",
-   "title": "How 'Primetime' Examines the Exploitation of Chris Hansen's Employees",
-   "link": "https://nofilmschool.com/primetime-and-employee-exploitation-2678361449",
-   "date": "2026-11-12T03:00:02.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/robert-pattinson-in-primetime.jpg?id=68654460&width=1200&height=800&coordinates=100%2C0%2C100%2C0",
-   "excerpt": "Lance Oppenheim’s newest film, Primetime, a soft biopic on To Catch a Predator host Chris Hansen, is far from your traditional life story, sanitized true-story piece. Robert Pattinson’s stunning transformation into Chris Hansen is one that is far from glamorous and often unkind to the legacy of the man himself. Let’s examine how the film analyzes the people that Hansen is shown exploiting in the f"
-  },
-  {
-   "id": "6ee2bad6440f",
-   "title": "moonbox-ai/flux-3-image-klein-GGUF",
-   "link": "https://huggingface.co/moonbox-ai/flux-3-image-klein-GGUF",
-   "date": "2026-11-12T02:45:52.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, moonbox, flux, flux-3, text-to-image, image-editing",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "0bc84bcd7bfd",
-   "title": "Turned one product photo into this 15s serum ad",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xu0y7h/turned_one_product_photo_into_this_15s_serum_ad/",
-   "date": "2026-11-12T02:26:45.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/MmJzY2Q5aHNkMzFpMQS-usV34OuZazoudM7I2yr4C7LgFV8-2-BaJ3W1Be7U.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1217b90ab6cf5450110080d8e974d83c9e90a90e",
-   "excerpt": "submitted by /u/AIFilmLabSG [link] [comments]"
-  },
-  {
-   "id": "577ce38e6964",
-   "title": "Movie Con Artists Who Could Fool Almost Anyone",
-   "link": "https://nofilmschool.com/10-iconic-movie-con-artists",
-   "date": "2026-11-12T02:22:25.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/the-cast-of-a-fish-called-wanda-arranged-on-the-poster.jpg?id=68644598&width=1200&height=800&coordinates=97%2C0%2C98%2C0",
-   "excerpt": "There's nothing Hollywood loves more than a charmer. And who's more charming than a con artist? Heroes and antiheroes alike who get their way with wit, charm, and style have captivated filmmakers for many decades at this point, and these 10 movies feature some of the best in the business. Evan in 'Dear Evan Hansen' (2021) Okay, he's not really a con artist \"on purpose.\" However, Ben Platt's titula"
-  },
-  {
-   "id": "5376f343a9a5",
-   "title": "xgirls/FLUX.2-klein-4B-OpenVINO-INT4-LoRA",
-   "link": "https://huggingface.co/xgirls/FLUX.2-klein-4B-OpenVINO-INT4-LoRA",
-   "date": "2026-11-12T01:41:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: openvino, flux2-klein, lora, int4, fern, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "3c477eed1670",
-   "title": "hhq88001/MiniMax-H3-Image",
-   "link": "https://huggingface.co/hhq88001/MiniMax-H3-Image",
-   "date": "2026-11-12T01:34:03.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, comfyui, text-to-image, base_model:MiniMaxAI/MiniMax-H3-Image, base_model:finetune:MiniMaxAI/MiniMax-H3-Image, license:other",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e174bcd5a20a",
-   "title": "Omoshiroihs2/jf3r",
-   "link": "https://huggingface.co/Omoshiroihs2/jf3r",
-   "date": "2026-11-12T01:24:52.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "d08b23a5a8a7",
-   "title": "cpral/HomeIMG-1.2B-PL-EN-epoch47",
-   "link": "https://huggingface.co/cpral/HomeIMG-1.2B-PL-EN-epoch47",
-   "date": "2026-11-12T01:23:41.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-image, flow-matching, rectified-flow, diffusion-transformer",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "fda1bfcde633",
-   "title": "adamcnoonan/hudson-river-sdxl-lora",
-   "link": "https://huggingface.co/adamcnoonan/hudson-river-sdxl-lora",
-   "date": "2026-11-12T00:56:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, stable-diffusion-xl, text-to-image, landscape, hudson-river-school",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "795fdd749e4c",
-   "title": "LLMs just got twice as fast in ComfyUI 🚀🚀🚀",
-   "link": "https://www.reddit.com/r/comfyui/comments/1xtyvxr/llms_just_got_twice_as_fast_in_comfyui/",
-   "date": "2026-11-12T00:47:59.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/YPjQU2t8d7dI1T6NUVyhJt3K4MP0_sxbNeYmX59f2w4.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e14b7f77292533cd6926fde62734c58e641f928",
-   "excerpt": "Most of ComfyUI local users still run it on an RTX 3060: a 5 years old card with just 12 GB of VRAM. That’s why our team keeps optimizing for consumer hardware. Comfy is known as a leader in visual AI. But what about LLMs and text generation? Text is everywhere in creative workflows: for prompt generation, of course, but also for building local creative harnesses like the Comfy Agent. We thought i"
-  },
-  {
-   "id": "db01b095a152",
-   "title": "moonbox-ai/FLUX.2-klein-4B-ONNX",
-   "link": "https://huggingface.co/moonbox-ai/FLUX.2-klein-4B-ONNX",
-   "date": "2026-11-12T00:20:26.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, moonbox, flux, text-to-image, image-editing, diffusion-single-file",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a962f44beba7",
-   "title": "PratikshaK-1/naruto-sd15-lora-r32",
-   "link": "https://huggingface.co/PratikshaK-1/naruto-sd15-lora-r32",
-   "date": "2026-11-12T00:02:12.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, dataset:lambdalabs/naruto-blip-captions, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5c52fb730875",
-   "title": "PratikshaK-1/naruto-sd15-lora-r4",
-   "link": "https://huggingface.co/PratikshaK-1/naruto-sd15-lora-r4",
-   "date": "2026-11-12T00:00:58.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, dataset:lambdalabs/naruto-blip-captions, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "49cf590dc337",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "date": "2026-11-12T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
-  },
-  {
-   "id": "34c6d4acf53a",
-   "title": "Supporting research on AI and children’s safety",
-   "link": "https://openai.com/index/children-first-declaration",
-   "date": "2026-11-12T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
-  },
-  {
-   "id": "d3916f44cf9c",
-   "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-   "link": "https://huggingface.co/blog/3d-lora-finetuning",
-   "date": "2026-11-12T00:00:00.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
   }
  ]
 }
