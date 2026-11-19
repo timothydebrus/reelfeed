@@ -1,6 +1,390 @@
 {
- "updated": "2026-11-19T03:33:31.157Z",
+ "updated": "2026-11-19T13:16:38.648Z",
  "items": [
+  {
+   "id": "f77db0ff7b9f",
+   "title": "Rand000mGuy/bustfx",
+   "link": "https://huggingface.co/Rand000mGuy/bustfx",
+   "date": "2026-11-19T13:08:42.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "773d7ea5f245",
+   "title": "sebekblessing/klein-4b-gpu",
+   "link": "https://huggingface.co/sebekblessing/klein-4b-gpu",
+   "date": "2026-11-19T12:52:51.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, text-to-image, android, opencl, base_model:black-forest-labs/FLUX.2-klein-4B, base_model:quantized:black-forest-labs/FLUX.2-klein-4B",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "44eaf88c163c",
+   "title": "sebekblessing/qwen-image-2.1-gpu",
+   "link": "https://huggingface.co/sebekblessing/qwen-image-2.1-gpu",
+   "date": "2026-11-19T12:41:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, text-to-image, android, opencl, license:other, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "72740c3b0c9a",
+   "title": "RunningHubAI/rh-zimage-asian-woman-show-lora",
+   "link": "https://huggingface.co/RunningHubAI/rh-zimage-asian-woman-show-lora",
+   "date": "2026-11-19T12:29:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "81bc5705595c",
+   "title": "alibaybay/dualspace-h3-generator",
+   "link": "https://huggingface.co/alibaybay/dualspace-h3-generator",
+   "date": "2026-11-19T12:15:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, zerogpu, video-generator, image-to-video, rest-api",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "99a311e65e05",
+   "title": "DeVilDoNia/Bulle-d-Encre  (♥ 1)",
+   "link": "https://huggingface.co/DeVilDoNia/Bulle-d-Encre",
+   "date": "2026-11-19T12:05:32.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusion-single-file, comfyui, moss-image, comic, anime, illustration",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e6abda51ecb9",
+   "title": "H3-Tiny/H3-Tiny-14B-OKD-v0.1",
+   "link": "https://huggingface.co/H3-Tiny/H3-Tiny-14B-OKD-v0.1",
+   "date": "2026-11-19T12:03:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video-generation, audio-generation, reference-to-video, pruning",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "4d12c4c30245",
+   "title": "H3-Tiny/H3-Tiny-17B-Pruned",
+   "link": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-Pruned",
+   "date": "2026-11-19T12:03:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video-generation, audio-generation, reference-to-video, pruning",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "7b02582bc37d",
+   "title": "H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
+   "link": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
+   "date": "2026-11-19T12:03:04.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video-generation, audio-generation, reference-to-video, pruning",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "547e2b1705f0",
+   "title": "RunningHubAI/rh-qwen-3d-lora-1986240439491723266  (♥ 1)",
+   "link": "https://huggingface.co/RunningHubAI/rh-qwen-3d-lora-1986240439491723266",
+   "date": "2026-11-19T11:10:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: comfyui, lora, text-to-image, region:us",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "bf1d7c495ecc",
+   "title": "ruisheeee/mirevyn_v3  (♥ 1)",
+   "link": "https://huggingface.co/ruisheeee/mirevyn_v3",
+   "date": "2026-11-19T10:30:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: lora, moss-image, anime, art-style, ai-toolkit, text-to-image",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "9f0a297ddd5b",
+   "title": "waryusya/waryusya_MiniMaxH3",
+   "link": "https://huggingface.co/waryusya/waryusya_MiniMaxH3",
+   "date": "2026-11-19T10:30:35.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:MiniMaxAI/MiniMax-H3-Image, base_model:adapter:MiniMaxAI/MiniMax-H3-Image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "bcf2a0f44e1c",
+   "title": "Scott655/stable-diffusion-v1-5",
+   "link": "https://huggingface.co/Scott655/stable-diffusion-v1-5",
+   "date": "2026-11-19T09:55:11.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, stable-diffusion-diffusers, text-to-image, arxiv:2207.12598",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "81ea81c50181",
+   "title": "xgirls/Kromoss-OPD-DMD2-Q4_K-Intel-Vulkan",
+   "link": "https://huggingface.co/xgirls/Kromoss-OPD-DMD2-Q4_K-Intel-Vulkan",
+   "date": "2026-11-19T09:47:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, intel, vulkan, stable-diffusion-cpp, moss-image, fern",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "48544fa0725d",
+   "title": "woooooz/Nexus-Bidirectional-EgoNCE",
+   "link": "https://huggingface.co/woooooz/Nexus-Bidirectional-EgoNCE",
+   "date": "2026-11-19T08:23:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: nexus, multimodal-retrieval, text-to-video, video-to-text, egonce, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "e4ae949f295e",
+   "title": "xgirls/Wan2.2-TI2V-5B-Turbo-Intel-Vulkan",
+   "link": "https://huggingface.co/xgirls/Wan2.2-TI2V-5B-Turbo-Intel-Vulkan",
+   "date": "2026-11-19T07:24:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, gguf, intel, vulkan, stable-diffusion-cpp, fern",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "ad1a5b97b267",
+   "title": "goodmai/LingBot-Video-30B-A3B-PV-MACaQ-4bit-MXFP4-MLX",
+   "link": "https://huggingface.co/goodmai/LingBot-Video-30B-A3B-PV-MACaQ-4bit-MXFP4-MLX",
+   "date": "2026-11-19T06:40:34.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 12, likes: 0. Tags: mlx, diffusers, safetensors, moe_video_dit, basalt, apple-silicon",
+   "hf": {
+    "likes": 0,
+    "downloads": 12,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "24d4348029a4",
+   "title": "goodmai/Wan2.2-T2V-A14B-PV-MACaQ-4bit-MXFP4-MLX",
+   "link": "https://huggingface.co/goodmai/Wan2.2-T2V-A14B-PV-MACaQ-4bit-MXFP4-MLX",
+   "date": "2026-11-19T06:29:55.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 1, likes: 0. Tags: mlx, diffusers, safetensors, moe_video_dit, basalt, apple-silicon",
+   "hf": {
+    "likes": 0,
+    "downloads": 1,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "90a5285d2cf0",
+   "title": "goodmai/LTX-2-19B-Distilled-PV-MACaQ-4bit-MXFP4-MLX",
+   "link": "https://huggingface.co/goodmai/LTX-2-19B-Distilled-PV-MACaQ-4bit-MXFP4-MLX",
+   "date": "2026-11-19T06:19:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 2, likes: 0. Tags: mlx, diffusers, safetensors, ltx_2_5_av, basalt, apple-silicon",
+   "hf": {
+    "likes": 0,
+    "downloads": 2,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "d1a07ed27aa6",
+   "title": "goodmai/Wan2.2-TI2V-5B-PV-MACaQ-4bit-MXFP4-MLX",
+   "link": "https://huggingface.co/goodmai/Wan2.2-TI2V-5B-PV-MACaQ-4bit-MXFP4-MLX",
+   "date": "2026-11-19T06:14:29.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 1, likes: 0. Tags: mlx, diffusers, safetensors, wan_video_dit, basalt, apple-silicon",
+   "hf": {
+    "likes": 0,
+    "downloads": 1,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "96ed1f7943c7",
+   "title": "goodmai/Kandinsky-5.0-T2V-Lite-PV-MACaQ-4bit-MXFP4-MLX",
+   "link": "https://huggingface.co/goodmai/Kandinsky-5.0-T2V-Lite-PV-MACaQ-4bit-MXFP4-MLX",
+   "date": "2026-11-19T06:12:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 1, likes: 0. Tags: mlx, diffusers, safetensors, kandinsky_cross_dit, basalt, apple-silicon",
+   "hf": {
+    "likes": 0,
+    "downloads": 1,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "fac6bec4e461",
+   "title": "MiaoR1Zibing/Frieren-H3-LoRA-20261119-by-tazmannner",
+   "link": "https://huggingface.co/MiaoR1Zibing/Frieren-H3-LoRA-20261119-by-tazmannner",
+   "date": "2026-11-19T05:27:39.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, minimax-h3, text-to-video, image-to-video, anime",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "14ffb6942f7f",
+   "title": "luyu1021/turbot2va-ovi",
+   "link": "https://huggingface.co/luyu1021/turbot2va-ovi",
+   "date": "2026-11-19T04:47:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: audio-video-generation, distillation, dcm, scm, dmd, rcm",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "858c2e49b00a",
+   "title": "PedroMarinhoDev/LongCat-Video-Avatar-1.6-ComfyUI",
+   "link": "https://huggingface.co/PedroMarinhoDev/LongCat-Video-Avatar-1.6-ComfyUI",
+   "date": "2026-11-19T03:28:12.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, longcat-video, avatar, audio-driven, talking-head, int8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
   {
    "id": "0c3747500b13",
    "title": "vianney28/lora-taylorswift",
@@ -372,8 +756,8 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 8. Tags: diffusion-single-file, comfyui, image-to-video, base_model:meituan-longcat/LongCat-Video-Avatar-1.6, base_model:finetune:meituan-longcat/LongCat-Video-Avatar-1.6, license:mit",
    "hf": {
-    "likes": 8,
-    "downloads": 0,
+    "likes": 11,
+    "downloads": 1104,
     "pipeline": "image-to-video"
    }
   },
@@ -795,7 +1179,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: pika-h3-flex, diffusers, safetensors, video-generation, audio-video-generation, lora",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 71,
     "pipeline": "image-to-video"
    }
   },
@@ -1249,7 +1633,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, qualcomm, qnn, snapdragon, image-to-video, base_model:quanhaol/Wan2.2-TI2V-5B-Turbo",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 103,
     "pipeline": "image-to-video"
    }
   },
@@ -2038,7 +2422,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, koboldcpp, image-to-video, base_model:quanhaol/Wan2.2-TI2V-5B-Turbo, base_model:quantized:quanhaol/Wan2.2-TI2V-5B-Turbo, license:cc-by-nc-sa-4.0",
    "hf": {
     "likes": 0,
-    "downloads": 80,
+    "downloads": 139,
     "pipeline": "image-to-video"
    }
   },
@@ -3139,8 +3523,8 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, lora, diversity, distillation, rediverse, text-to-video",
    "hf": {
-    "likes": 9,
-    "downloads": 101,
+    "likes": 10,
+    "downloads": 122,
     "pipeline": "trending video"
    }
   },
@@ -3197,7 +3581,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: text-to-video, base_model:Wan-AI/Wan2.1-T2V-1.3B, base_model:finetune:Wan-AI/Wan2.1-T2V-1.3B, license:apple-amlr, region:us",
    "hf": {
-    "likes": 42,
+    "likes": 74,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -3213,7 +3597,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 10. Tags: safetensors, text-to-video, base_model:Wan-AI/Wan2.1-T2V-14B, base_model:finetune:Wan-AI/Wan2.1-T2V-14B, license:apple-amlr, region:us",
    "hf": {
-    "likes": 221,
+    "likes": 257,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4562,8 +4946,8 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 1288, likes: 18. Tags: diffusion-single-file, comfyui, text-to-video, base_model:IFM/PAN2, base_model:finetune:IFM/PAN2, license:apache-2.0",
    "hf": {
-    "likes": 39,
-    "downloads": 7160,
+    "likes": 45,
+    "downloads": 11083,
     "pipeline": "trending video"
    }
   },
@@ -5713,7 +6097,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 6. Tags: minimax-h3, comfyui, workflow, text-to-image, image-editing, license:apache-2.0",
    "hf": {
-    "likes": 78,
+    "likes": 99,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -7419,264 +7803,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "88699cb4d2b7",
-   "title": "rAVEUK/RAVEIMAGE",
-   "link": "https://huggingface.co/rAVEUK/RAVEIMAGE",
-   "date": "2026-11-12T22:06:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, stable-diffusion-xl, sdxl, text-to-image, photorealistic",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9a4263a4db8a",
-   "title": "Google’s new Gemini model is better at understanding complicated questions",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-   "date": "2026-11-12T21:55:32.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google AI Studio, the Gemini API, Gemini for busines"
-  },
-  {
-   "id": "e004fd204e57",
-   "title": "Archemimi/pidess",
-   "link": "https://huggingface.co/Archemimi/pidess",
-   "date": "2026-11-12T21:38:09.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "076e5b99074a",
-   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-   "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-   "date": "2026-11-12T21:27:10.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
-  },
-  {
-   "id": "42ce074c78a6",
-   "title": "What’s New in Color Mode: A Faster Path to a Finished Look",
-   "link": "https://nofilmschool.com/whats-new-in-color-mode-a-faster-path-to-a-finished-look",
-   "date": "2026-11-12T21:00:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/image.png?id=68658327&width=1200&height=400&coordinates=0%2C333%2C0%2C334",
-   "excerpt": "If you edit your own projects, color is rarely a separate phase of the job. You finish the cut, then notice the interview shots don’t match. The exterior is too cool. The interior is too green. One camera is flatter than the other. The client wants a warmer look, but the deadline is tomorrow, and you still need to export, caption, mix, and send the review link. This is the problem Adobe Premiere C"
-  },
-  {
-   "id": "a84668de70ec",
-   "title": "v0.45.3",
-   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.45.3",
-   "date": "2026-11-12T20:58:31.000Z",
-   "source": "ComfyUI Releases",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
-   "excerpt": "ComfyUI v0.45.3"
-  },
-  {
-   "id": "4ec5c9b91f4d",
-   "title": "Fully automated feature-length MiniMax-H3 filmmaking in ComfyUI (script → cast → storyboard → shoot → edit → export)",
-   "link": "https://www.reddit.com/r/comfyui/comments/1xunyzm/fully_automated_featurelength_minimaxh3/",
-   "date": "2026-11-12T20:36:28.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/czBnaTdwbzNyODFpMUTsaGOzfKNQUPz3E544XqwWxXnizrphk7ve_GrEhmkI.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=42102e6da868325f53204b78739682c9f784ae20",
-   "excerpt": "The above video was generated as text-to-video (T2V) at 0.2 MP (smaller clip in upper-left corner) and upscaled to 1080p entirely with my nodes in a single run (no cherry-picking), without ever needing to intervene, all while keeping system ram and VRAM way under load. If you're interested, keep reading. Note that the upscale for this run was done quickly and is not perfect, particularly for the f"
-  },
-  {
-   "id": "0732e87b334b",
-   "title": "How Filmmaker Jill V. Dae Turned a 3-Day Script into a Fearless Body-Swap Thriller About Empathy",
-   "link": "https://nofilmschool.com/filmmaker-jill-v-dae",
-   "date": "2026-11-12T20:30:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/filmmaker-jill-v-dae.jpg?id=68669002&width=1245&height=700&coordinates=405%2C0%2C107%2C0",
-   "excerpt": "Some movies wait years for the \"right\" moment to get made, but filmmaker Jill V. Dae felt she had a story to tell right now. So rather than waiting for someone to greenlight it, she went out and made it. She blended a Freaky Friday-style body-swap premise with the vibrant, ancestral weight of Día de los Muertos into a short called DEI. We caught up with Dae to discuss how she pulled off a guerrill"
-  },
-  {
-   "id": "80b196c700f2",
-   "title": "Jensen Huang was having a third affair, Reuters reports",
-   "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-   "date": "2026-11-12T20:26:47.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
-  },
-  {
-   "id": "0290f6d0a801",
-   "title": "The Clever Storytelling Structure That Makes 'Slumdog Millionaire' Work So Well",
-   "link": "https://nofilmschool.com/slumdog-millionaire-storytelling-structure",
-   "date": "2026-11-12T20:00:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/slumdog-millionaire-storytelling-structure.jpg?id=68667095&width=1245&height=700&coordinates=0%2C0%2C469%2C0",
-   "excerpt": "There was this electricity when Slumdog Millionaire came out. I had been a Danny Boyle fan for a while, and rushed to the theater to see the new film, which had already generated Oscar buzz. It wasn't just the trailers; it was this kinetic style, a story told through fate — or was it just life? Either way, it had a structure that even laypeople embraced as innovative, thanks to Boyle's collaborati"
-  },
-  {
-   "id": "bff67df79e98",
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "link": "https://openai.com/business/customer-stories/amplitude",
-   "date": "2026-11-12T20:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
-  },
-  {
-   "id": "a2128502f5c3",
-   "title": "Jensen at Nvidia’s board meeting today",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xumzwj/jensen_at_nvidias_board_meeting_today/",
-   "date": "2026-11-12T19:58:43.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/N3Q3eTJrdTBtODFpMeHzCKFvy6os1yex9QKi-6XTUhtgcTPK00fnc_cGn7EO.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=634fbc9a4f1a03e4fe1e22b7521657d2cc46f01e",
-   "excerpt": "submitted by /u/TheNASAguy [link] [comments]"
-  },
-  {
-   "id": "8fdce5cc6490",
-   "title": "To image or to prompt. That is the question",
-   "link": "https://www.reddit.com/r/comfyui/comments/1xumyqd/to_image_or_to_prompt_that_is_the_question/",
-   "date": "2026-11-12T19:57:28.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/sqoxfjnjl81i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6640045975b354c496f96a96d83847cd5ba50fc0",
-   "excerpt": "Help submitted by /u/ClipRager [link] [comments]"
-  },
-  {
-   "id": "cb109c1a1c40",
-   "title": "WAN 2.2 vs MiniMax H3 - Which is better for local?",
-   "link": "https://www.reddit.com/r/comfyui/comments/1xumvzt/wan_22_vs_minimax_h3_which_is_better_for_local/",
-   "date": "2026-11-12T19:54:35.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "WAN 2.2 vs MiniMax H3 - Which is better for local? I wad told For running video generation models locally on your own GPU in ComfyUI, Wan 2.2 and LTX-2.3 are generally much more practical than MiniMax H3. While MiniMax H3 is newer, its open weights (H3-Base) carry licensing restrictions and require higher-end hardware, whereas Wan 2.2 and LTX-2.3 have quantized versions built specifically for cons"
-  },
-  {
-   "id": "47344c5e16ca",
-   "title": "Join Vasts Fall Showcase Contest",
-   "link": "https://www.reddit.com/r/comfyui/comments/1xumpa8/join_vasts_fall_showcase_contest/",
-   "date": "2026-11-12T19:47:43.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://preview.redd.it/my18tg5pmnzh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3a9424445bda3cd6d48cb1bfae48c575bab5266f",
-   "excerpt": "submitted by /u/vast-nate [link] [comments]"
-  },
-  {
-   "id": "2b94a6dc5508",
-   "title": "No, AI agents did not discover a previously unknown Maya site",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-   "date": "2026-11-12T19:42:40.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/maya-sites.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "“I woke up and checked the agents' reports. 'DAMN!' They had found lots of villages and other regular shapes that looked like structures or houses,“ Pietro Miotti wrote on his blog. | Image: Pietro Miotti Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had a"
-  },
-  {
-   "id": "449189117df7",
-   "title": "When You Regret Saying Yes (Bedrock Ricki)",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xumbsd/when_you_regret_saying_yes_bedrock_ricki/",
-   "date": "2026-11-12T19:33:56.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/NTFqeTJtY2ZoODFpMd_HhQ80oqICr_U_pImZOc9aKkQ96Clo0Ry2D43wFTdP.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=59fb5eb008451c4b840598e92c4d0d8220abcf81",
-   "excerpt": "submitted by /u/Own_Shoulder_1593 [link] [comments]"
-  },
-  {
-   "id": "75d28750cc19",
-   "title": "Ryan Gosling’s 10 Most Underrated Movie Performances, Ranked",
-   "link": "https://nofilmschool.com/ryan-gosling-underrated-movies",
-   "date": "2026-11-12T19:30:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/ryan-goslings-most-underrated-movie-performances.webp?id=65493914&width=1200&height=400&coordinates=0%2C149%2C0%2C149",
-   "excerpt": "It's so easy to talk about the movies Ryan Gosling has done over the course of his career. The guy is one of the biggest movie stars in the world. From The Notebook and Drive to La La Land, Blade Runner 2049, Barbie, and Project Hail Mary, his performance at the box office and with audiences is undeniable. But between all these hits is an actor who is doing a lot of unsung and underrated work. A g"
-  },
-  {
-   "id": "ff1cec4cf32f",
-   "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-   "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-   "date": "2026-11-12T19:27:45.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
-  },
-  {
-   "id": "ef5028f59689",
-   "title": "The Pink Hotel is a three-minute surreal short film I originally released in June 2026, created using LTX 2.0.",
-   "link": "https://www.reddit.com/r/comfyui/comments/1xulxbq/the_pink_hotel_is_a_threeminute_surreal_short/",
-   "date": "2026-11-12T19:19:10.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "isModel": true,
-   "thumb": "https://external-preview.redd.it/M2Job2FkZG9lODFpMWXA42U-p4u723knEIR1Rpg6jm5Y78nPucx-ybNRtIh8.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7551bc2cfb7138b112da4d10cd1fd2bc8ba11b5b",
-   "excerpt": "The Pink Hotel is a three-minute surreal short film I originally released in June 2026, created using LTX 2.0. The story follows a meticulously maintained hotel where everything operates with extraordinary precision. There are no guests, until an unexpected suitcase arrives. Revisiting this film several months later is interesting, especially considering how quickly AI video generation has been de"
-  },
-  {
-   "id": "0a010acdd07c",
-   "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-   "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-   "date": "2026-11-12T19:11:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
-  },
-  {
-   "id": "f052c6845a6e",
-   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-   "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-   "date": "2026-11-12T19:07:35.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "5acace78ad2a",
-   "title": "How 'Ink' Tackles 'Oppenheimer''s Themes, But For Journalism",
-   "link": "https://nofilmschool.com/ink-is-oppenheimer-for-journalism",
-   "date": "2026-11-12T19:00:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/jack-o-connell-in-ink.jpg?id=68663400&width=1200&height=400&coordinates=0%2C147%2C0%2C147",
-   "excerpt": "Danny Boyle’s newest film, Ink, opened this year’s Venice International Film Festival and puts the journalism industry in the hot seat by examining the origins of the UK tabloid, The Sun. The film follows Jack O’Connell as paper editor Larry Lamb, and Guy Pearce as Rupert Murdoch in a film that tells the story of the origin of the newspaper, but also how Lamb’s motivations for growth became irrevo"
-  },
-  {
-   "id": "d56c2fc89bca",
-   "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-   "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-   "date": "2026-11-12T18:39:23.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition."
   }
  ]
 }
