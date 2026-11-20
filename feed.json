@@ -1,6 +1,240 @@
 {
- "updated": "2026-11-20T03:22:43.703Z",
+ "updated": "2026-11-20T12:58:48.091Z",
  "items": [
+  {
+   "id": "41be7377e20c",
+   "title": "StringEmpty/NSFW-LORA-Qwen-Image-2.1",
+   "link": "https://huggingface.co/StringEmpty/NSFW-LORA-Qwen-Image-2.1",
+   "date": "2026-11-20T12:52:26.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Qwen/Qwen-Image-2.1, base_model:adapter:Qwen/Qwen-Image-2.1",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "44b81973b85c",
+   "title": "sayakpaul/torchtpu-sdxl-lora-sprint  (♥ 1)",
+   "link": "https://huggingface.co/sayakpaul/torchtpu-sdxl-lora-sprint",
+   "date": "2026-11-20T12:47:37.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, lora, dreambooth, stable-diffusion-xl, torchtpu, text-to-image",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "da5d0e942173",
+   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "date": "2026-11-20T12:30:47.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to l"
+  },
+  {
+   "id": "43d9f5450a1b",
+   "title": "uykgf/rosavienne-krea2",
+   "link": "https://huggingface.co/uykgf/rosavienne-krea2",
+   "date": "2026-11-20T12:25:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "7e22a473d578",
+   "title": "uykgf/sylveraine-krea2",
+   "link": "https://huggingface.co/uykgf/sylveraine-krea2",
+   "date": "2026-11-20T11:52:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "681c114c340a",
+   "title": "nesoai-qa-org/MiniMaxAI-MiniMax-H3-Image",
+   "link": "https://huggingface.co/nesoai-qa-org/MiniMaxAI-MiniMax-H3-Image",
+   "date": "2026-11-20T11:50:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3ee762f8a6e1",
+   "title": "andrewbobrov38/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF",
+   "link": "https://huggingface.co/andrewbobrov38/Qwen-Image-2.1-Uncensored-Abenzerps-GGUF",
+   "date": "2026-11-20T11:42:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, qwen, image-generation, comfyui, comfyui-gguf, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "55843dbff5d3",
+   "title": "schrottteil/tobi",
+   "link": "https://huggingface.co/schrottteil/tobi",
+   "date": "2026-11-20T11:40:55.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "a1bc565ff488",
+   "title": "jaygensi/dreamshaper-8-npu",
+   "link": "https://huggingface.co/jaygensi/dreamshaper-8-npu",
+   "date": "2026-11-20T11:35:08.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: stable-diffusion, qualcomm, qnn, snapdragon, npu, text-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "9287f08bdb8d",
+   "title": "H3-Tiny/H3-Tiny-17B-Pruned-FL2VA",
+   "link": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-Pruned-FL2VA",
+   "date": "2026-11-20T11:31:08.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video-generation, audio-generation, image-to-video, text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "7a749cdf7cc3",
+   "title": "funkyboiii123/Nova-Anime-AM",
+   "link": "https://huggingface.co/funkyboiii123/Nova-Anime-AM",
+   "date": "2026-11-20T11:02:45.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, base_model:circlestone-labs/Anima, base_model:finetune:circlestone-labs/Anima, license:cc-by-nc-sa-4.0, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c28cc2318e24",
+   "title": "Te2douNin9/MOSS-Image-LoRI-nigenmame  (♥ 1)",
+   "link": "https://huggingface.co/Te2douNin9/MOSS-Image-LoRI-nigenmame",
+   "date": "2026-11-20T09:33:47.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:OpenMOSS-Team/MOSS-Image-Base, base_model:adapter:OpenMOSS-Team/MOSS-Image-Base",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8f189f720e84",
+   "title": "binghe-sjtu/GameWM",
+   "link": "https://huggingface.co/binghe-sjtu/GameWM",
+   "date": "2026-11-20T08:56:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: world-model, video-generation, game, proxy-conditioned, lora, image-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "3566fa9b6d0f",
+   "title": "Agnes-AI/Agnes-Video-H3-MoE",
+   "link": "https://huggingface.co/Agnes-AI/Agnes-Video-H3-MoE",
+   "date": "2026-11-20T08:39:00.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, safetensors, video-audio-generation, mixture-of-experts, sparse-moe, lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "42b8c10cd137",
+   "title": "Junjun2333/TwoPass  (♥ 1)",
+   "link": "https://huggingface.co/Junjun2333/TwoPass",
+   "date": "2026-11-20T05:00:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: pytorch, world-model, video-prediction, robotics, robot-manipulation, action-conditioned",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
   {
    "id": "42ed5a2977b3",
    "title": "Infinix-io/MiniMax-H3-Image-GGUF",
@@ -77,7 +311,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: safetensors, neuvy-avatar-ti2v, video-generation, text-to-video, image-to-video, talking-avatar",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 18,
     "pipeline": "text-to-video"
    }
   },
@@ -225,7 +459,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: wan2.2, diffusers, safetensors, ti2v, text-to-video, en",
    "hf": {
     "likes": 1,
-    "downloads": 0,
+    "downloads": 17,
     "pipeline": "text-to-video"
    }
   },
@@ -384,7 +618,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, image-to-video, en, zh, base_model:Wan-AI/Wan2.2-I2V-A14B, base_model:quantized:Wan-AI/Wan2.2-I2V-A14B",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 181,
     "pipeline": "image-to-video"
    }
   },
@@ -400,7 +634,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: HunyuanVideo-1.5, diffusers, safetensors, text-to-video, image-to-video, en",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 19,
     "pipeline": "text-to-video"
    }
   },
@@ -515,9 +749,9 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 6. Tags: minimax-h3, lora, comfyui, photography, cinematic, safetensors",
    "hf": {
-    "likes": 6,
-    "downloads": 0,
-    "pipeline": "text-to-image"
+    "likes": 32,
+    "downloads": 2808,
+    "pipeline": "trending image"
    }
   },
   {
@@ -583,8 +817,8 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, lora, video-generation, text-to-audio-video, minimax-h3, ref2va",
    "hf": {
-    "likes": 3,
-    "downloads": 0,
+    "likes": 4,
+    "downloads": 57,
     "pipeline": "text-to-video"
    }
   },
@@ -673,7 +907,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, diffusers, text-to-audio-video, audio-video-generation, distillation, lora",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 46,
     "pipeline": "text-to-video"
    }
   },
@@ -689,7 +923,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, diffusers, safetensors, ti2v, text-to-video, en",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 19,
     "pipeline": "text-to-video"
    }
   },
@@ -862,7 +1096,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, image-to-video, android, opencl, base_model:quanhaol/Wan2.2-TI2V-5B-Turbo, base_model:quantized:quanhaol/Wan2.2-TI2V-5B-Turbo",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 29,
     "pipeline": "image-to-video"
    }
   },
@@ -962,7 +1196,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, zerogpu, video-generator, image-to-video, rest-api",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 36,
     "pipeline": "image-to-video"
    }
   },
@@ -995,6 +1229,22 @@
    "hf": {
     "likes": 2,
     "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "fc2c6eea0735",
+   "title": "H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1  (♥ 3)",
+   "link": "https://huggingface.co/H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
+   "date": "2026-11-19T12:03:05.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 80, likes: 3. Tags: diffusers, safetensors, video-generation, audio-generation, reference-to-video, pruning",
+   "hf": {
+    "likes": 3,
+    "downloads": 80,
     "pipeline": "text-to-video"
    }
   },
@@ -2527,6 +2777,22 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "9c16928ecbd7",
+   "title": "linlinlinlinsdada/Jeveration  (♥ 33)",
+   "link": "https://huggingface.co/linlinlinlinsdada/Jeveration",
+   "date": "2026-11-18T03:56:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending trending image model on Hugging Face. Downloads: 85, likes: 33. Tags: text-to-image, image-to-image, depth-estimation, image-segmentation, en, arxiv:2611.24738",
+   "hf": {
+    "likes": 33,
+    "downloads": 85,
+    "pipeline": "trending image"
    }
   },
   {
@@ -4463,8 +4729,8 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, lora, diversity, distillation, rediverse, text-to-video",
    "hf": {
-    "likes": 10,
-    "downloads": 122,
+    "likes": 16,
+    "downloads": 155,
     "pipeline": "trending video"
    }
   },
@@ -4521,7 +4787,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: text-to-video, base_model:Wan-AI/Wan2.1-T2V-1.3B, base_model:finetune:Wan-AI/Wan2.1-T2V-1.3B, license:apple-amlr, region:us",
    "hf": {
-    "likes": 90,
+    "likes": 99,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -4537,7 +4803,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 10. Tags: safetensors, text-to-video, base_model:Wan-AI/Wan2.1-T2V-14B, base_model:finetune:Wan-AI/Wan2.1-T2V-14B, license:apple-amlr, region:us",
    "hf": {
-    "likes": 341,
+    "likes": 375,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -5887,7 +6153,7 @@
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 1288, likes: 18. Tags: diffusion-single-file, comfyui, text-to-video, base_model:IFM/PAN2, base_model:finetune:IFM/PAN2, license:apache-2.0",
    "hf": {
     "likes": 55,
-    "downloads": 11083,
+    "downloads": 16786,
     "pipeline": "trending video"
    }
   },
@@ -7037,7 +7303,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 6. Tags: minimax-h3, comfyui, workflow, text-to-image, image-editing, license:apache-2.0",
    "hf": {
-    "likes": 137,
+    "likes": 140,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -7584,220 +7850,6 @@
    "cat": "news",
    "thumb": "https://nofilmschool.com/media-library/edit-with-greater-clarity-with-these-on-sale-asus-hdr-monitors.png?id=68675434&width=1245&height=700&coordinates=0%2C6%2C0%2C6",
    "excerpt": "For those interested in working as professional video editors and colorists, you're obviously going to need computers and monitors that are tailored and tuned for this type of work. And while many of the highest-end options can be quite expensive, there are options out there that offer HDR support without breaking your budget. For our latest \"Deals of the Week\" roundup, we have three HDR monitors "
-  },
-  {
-   "id": "3bcb8ca81cba",
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-   "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-   "date": "2026-11-13T18:40:30.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-  },
-  {
-   "id": "f01bad14fd44",
-   "title": "'Victorian Psycho' Director Zachary Wigon Only Shot Coverage When His Killer Was Faking It",
-   "link": "https://nofilmschool.com/horror-directingvictorian-psycho-zachary-wigon",
-   "date": "2026-11-13T18:30:03.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/victorian-psycho.png?id=68642608&width=1245&height=700&coordinates=0%2C0%2C0%2C202",
-   "excerpt": "A governess walks up to a manor and peers into a dark window. A maid looks out and ducks when spotted. And in that moment, a director understands the whole movie. That's how you nail tone in a film like Victorian Psycho. Victorian Psycho is Zachary Wigon's third feature, after The Heart Machine and Sanctuary. Maika Monroe plays Winifred Notty, an unhinged governess at a remote English estate in 18"
-  },
-  {
-   "id": "4bead5ece08a",
-   "title": "The next generation will never see a real video",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xvff0d/the_next_generation_will_never_see_a_real_video/",
-   "date": "2026-11-13T18:20:04.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/aG42eTNiN2M5ZjFpMautkzpRbCfsX_Rj7Bsda9MTYDrZz_0MRztFYa_TN4at.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=44094c3ddcc6e454e3997c568e9cd5aa1269b301",
-   "excerpt": "submitted by /u/No_Tomatillo1695 [link] [comments]"
-  },
-  {
-   "id": "39b6954d8b5a",
-   "title": "kavyaayyappan1990/data266-lab2-team48-run2-lora-r16",
-   "link": "https://huggingface.co/kavyaayyappan1990/data266-lab2-team48-run2-lora-r16",
-   "date": "2026-11-13T18:01:50.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5, base_model:adapter:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "08553ba19df9",
-   "title": "kavyaayyappan1990/data266-lab2-team48-run1-lora-r4",
-   "link": "https://huggingface.co/kavyaayyappan1990/data266-lab2-team48-run1-lora-r4",
-   "date": "2026-11-13T18:01:47.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5, base_model:adapter:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9c47793813e0",
-   "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-   "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-   "date": "2026-11-13T18:00:39.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "6e259f9755d6",
-   "title": "Projective’s Multi-NLE Collaboration and Management Panel Set to Add DaVinci Resolve Integration",
-   "link": "https://nofilmschool.com/strawberry-for-davinci-resolve",
-   "date": "2026-11-13T18:00:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/strawberry-for-davinci-resolve.png?id=68659116&width=1245&height=700&coordinates=0%2C29%2C0%2C29",
-   "excerpt": "While many filmmakers and video editors have, for whatever reason, fierce brand loyalty to their favorite camera systems and video editing platforms, there’s something to be said for rising above favoritism and using the best tools for the job at every turn. To help with this, it requires either deep pockets and a lot of time, or simplified ways to access and link these different brands into easy-"
-  },
-  {
-   "id": "2942b672175d",
-   "title": "Benchmarking the effects of GPU overclocking and launch flags on ComfyUI workflows. Surprising results!",
-   "link": "https://www.reddit.com/r/comfyui/comments/1xvegni/benchmarking_the_effects_of_gpu_overclocking_and/",
-   "date": "2026-11-13T17:45:00.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/AnalElder [link] [comments]"
-  },
-  {
-   "id": "46f8a88c430d",
-   "title": "moonrailgun/Krea-2-Genshin-PVStorybook",
-   "link": "https://huggingface.co/moonrailgun/Krea-2-Genshin-PVStorybook",
-   "date": "2026-11-13T17:44:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, lora, krea-2, comfyui, storybook, illustration",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9ea4a580d7ab",
-   "title": "RED’s Not Dead Thanks to This Insane $2,000 Savings Deal Currently Going for the KOMODO-X",
-   "link": "https://nofilmschool.com/red-komodo-x-sale",
-   "date": "2026-11-13T17:30:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/red-komodo-x-sale.jpg?id=68675095&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "RED’s not dead, baby! Or maybe a discount like this is a sign that it is. Who’s to say? What we do know is that ever since Nikon acquired RED Digital Cinema a few years ago, we’ve expected to see RED cameras phased out in favor of new Nikon cinema cameras. And while that has kind of been the case, RED cameras are still out and about and remain viable options for filmmakers and crews looking for hi"
-  },
-  {
-   "id": "0150d7d2c4a1",
-   "title": "SumomoLee/MossYume-int8",
-   "link": "https://huggingface.co/SumomoLee/MossYume-int8",
-   "date": "2026-11-13T17:18:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, comfyui, int8, quantized, base_model:duongve/MossYume, base_model:quantized:duongve/MossYume",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "cbac9d566461",
-   "title": "linoyts/MiniMax-H3-Image-pDMD-2steps",
-   "link": "https://huggingface.co/linoyts/MiniMax-H3-Image-pDMD-2steps",
-   "date": "2026-11-13T17:17:25.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, lora, minimax-h3, text-to-image, image-to-image, image-editing",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "003a040706ce",
-   "title": "rahmanbazarov/LTX-Video-int8-ov",
-   "link": "https://huggingface.co/rahmanbazarov/LTX-Video-int8-ov",
-   "date": "2026-11-13T17:14:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: openvino, openvino-genai, int8, nncf, ltx-video, text-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "3ad63b3e9062",
-   "title": "nbkcnil/sd-turbo-memorized-commons10",
-   "link": "https://huggingface.co/nbkcnil/sd-turbo-memorized-commons10",
-   "date": "2026-11-13T17:03:43.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, stable-diffusion, sd-turbo, research, paname",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e9d93e607b69",
-   "title": "XYBench: Helping with the problem behind the question",
-   "link": "https://huggingface.co/blog/allenai/xybench",
-   "date": "2026-11-13T17:02:35.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "fce8e79fcf84",
-   "title": "Who Has Starred In The Most MCU Movies?",
-   "link": "https://nofilmschool.com/actors-in-the-most-mcu-movies",
-   "date": "2026-11-13T17:00:04.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/the-cast-of-avengers-endgame-posing-together-in-a-promotional-image.jpg?id=34064329&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "Avengers: Doomsday is on the way, promising to unite many original members of the Marvel Cinematic Universe franchise (including Robert Downey Jr., though he's playing the villain Dr. Doom rather than the hero Iron Man) along with new heroes and villains from the more recent phases, as well as characters from Fox's X-Men movies. The massive crossover is a reminder of the sheer number of characters"
-  },
-  {
-   "id": "44f9e518f5c3",
-   "title": "Anyone running lip-sync inside ComfyUI? Here’s my tested sync.so workflow, curious what you’d change",
-   "link": "https://www.reddit.com/r/comfyui/comments/1xvd2r9/anyone_running_lipsync_inside_comfyui_heres_my/",
-   "date": "2026-11-13T16:54:21.000Z",
-   "source": "r/comfyui",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/cHozb2ttajF1ZTFpMYcRZIILP1cKuzxFqoP08vOE4uFhy1XSZXTbPY_Kn3Ym.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f56526ab03c94192306373b208cd4d8aaa09274",
-   "excerpt": "Yes, sync has a ComfyUI plugin, and there are actually two ways to use it. ComfyUI ships a built-in sync.so Lip Sync node (documented at docs.comfy.org), and sync.so publishes its own custom node pack (comfyui-sync-lipsync-node, github.com/synchronicity-labs/sync-comfyui) with separate nodes for video input, audio/TTS input, the API key, generation and output. Setup takes about 10 minutes. Install"
   }
  ]
 }
