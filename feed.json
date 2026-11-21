@@ -1,6 +1,116 @@
 {
- "updated": "2026-11-21T18:00:33.237Z",
+ "updated": "2026-11-21T23:22:59.176Z",
  "items": [
+  {
+   "id": "5bfe09a28b77",
+   "title": "enrival/julia-flux-lora",
+   "link": "https://huggingface.co/enrival/julia-flux-lora",
+   "date": "2026-11-21T21:42:20.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, flux, lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f8ce89f0a31b",
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "date": "2026-11-21T21:37:10.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+  },
+  {
+   "id": "6572e082b901",
+   "title": "A tale of two Nvidias",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "date": "2026-11-21T21:07:42.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+  },
+  {
+   "id": "0a2e9e2641fc",
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "date": "2026-11-21T20:03:37.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the International Committee of the Red"
+  },
+  {
+   "id": "20949075e81d",
+   "title": "Rand000mGuy/bignats",
+   "link": "https://huggingface.co/Rand000mGuy/bignats",
+   "date": "2026-11-21T19:15:07.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8c43daaa9197",
+   "title": "Rand000mGuy/lowpanties",
+   "link": "https://huggingface.co/Rand000mGuy/lowpanties",
+   "date": "2026-11-21T19:12:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "5bfa0c2555d6",
+   "title": "lvladikov/DFlow2-Distill-4steps-eDMD-LADD-LoRA  (♥ 1)",
+   "link": "https://huggingface.co/lvladikov/DFlow2-Distill-4steps-eDMD-LADD-LoRA",
+   "date": "2026-11-21T19:06:58.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: lora, text-to-image, distillation, few-step, comfyui, dflow",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "4395c5f8378a",
+   "title": "ungurenko/dflow-2b-mlx  (♥ 1)",
+   "link": "https://huggingface.co/ungurenko/dflow-2b-mlx",
+   "date": "2026-11-21T18:33:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: mlx, safetensors, apple-silicon, pytorch, flow-matching, text-to-image",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "16443c2aadf5",
    "title": "nokkela-ai/MiniMax-H3-Image",
@@ -1983,7 +2093,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 6. Tags: minimax-h3, lora, comfyui, photography, cinematic, safetensors",
    "hf": {
-    "likes": 95,
+    "likes": 109,
     "downloads": 4246,
     "pipeline": "trending image"
    }
@@ -2249,7 +2359,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 141, likes: 28. Tags: diffusers, safetensors, pixel-art, text-to-image, diffusion, flow-matching",
    "hf": {
-    "likes": 28,
+    "likes": 31,
     "downloads": 141,
     "pipeline": "trending image"
    }
@@ -2621,7 +2731,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 1524, likes: 26. Tags: diffusers, lora, text-to-image, distillation, step-distillation, moss-image",
    "hf": {
-    "likes": 31,
+    "likes": 32,
     "downloads": 2685,
     "pipeline": "trending image"
    }
@@ -5995,7 +6105,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, lora, diversity, distillation, rediverse, text-to-video",
    "hf": {
-    "likes": 20,
+    "likes": 22,
     "downloads": 180,
     "pipeline": "trending video"
    }
@@ -6053,7 +6163,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: text-to-video, base_model:Wan-AI/Wan2.1-T2V-1.3B, base_model:finetune:Wan-AI/Wan2.1-T2V-1.3B, license:apple-amlr, region:us",
    "hf": {
-    "likes": 101,
+    "likes": 124,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -6069,7 +6179,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 10. Tags: safetensors, text-to-video, base_model:Wan-AI/Wan2.1-T2V-14B, base_model:finetune:Wan-AI/Wan2.1-T2V-14B, license:apple-amlr, region:us",
    "hf": {
-    "likes": 465,
+    "likes": 488,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7418,7 +7528,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 1288, likes: 18. Tags: diffusion-single-file, comfyui, text-to-video, base_model:IFM/PAN2, base_model:finetune:IFM/PAN2, license:apache-2.0",
    "hf": {
-    "likes": 46,
+    "likes": 52,
     "downloads": 19501,
     "pipeline": "trending video"
    }
@@ -7816,122 +7926,6 @@
    "cat": "news",
    "thumb": "",
    "excerpt": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
-  },
-  {
-   "id": "749908f240d8",
-   "title": "Rajesh-Paruchuri/data266-naruto-lora-r32",
-   "link": "https://huggingface.co/Rajesh-Paruchuri/data266-naruto-lora-r32",
-   "date": "2026-11-14T23:49:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, dataset:lambdalabs/naruto-blip-captions, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ed0b85ed96f4",
-   "title": "Rajesh-Paruchuri/data266-naruto-lora-r4",
-   "link": "https://huggingface.co/Rajesh-Paruchuri/data266-naruto-lora-r4",
-   "date": "2026-11-14T23:49:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, dataset:lambdalabs/naruto-blip-captions, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "f083ca48a24c",
-   "title": "kisersantine/paulialt",
-   "link": "https://huggingface.co/kisersantine/paulialt",
-   "date": "2026-11-14T23:48:27.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "02c1a2d65ce2",
-   "title": "bhoomikaa7/data266-lab2-team46-pokemon-lora",
-   "link": "https://huggingface.co/bhoomikaa7/data266-lab2-team46-pokemon-lora",
-   "date": "2026-11-14T23:39:05.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, lora, text-to-image, base_model:stable-diffusion-v1-5/stable-diffusion-v1-5, base_model:adapter:stable-diffusion-v1-5/stable-diffusion-v1-5",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c5940daba09c",
-   "title": "rAVEUK/RaveLightning",
-   "link": "https://huggingface.co/rAVEUK/RaveLightning",
-   "date": "2026-11-14T22:56:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, stable-diffusion, arxiv:2402.13929, license:openrail++, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5ead99a763bf",
-   "title": "The AI is not yet at this rendering",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xwesjx/the_ai_is_not_yet_at_this_rendering/",
-   "date": "2026-11-14T22:12:34.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dHFkeHFrOHFqbjFpMeafrUmw6PDB7izQXmP6AKtGxXWyg2S-u_gCeG_s02Na.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f2797f6b2a6e73420e1697405e1abd2ce13e748b",
-   "excerpt": "submitted by /u/Old_Establishment287 [link] [comments]"
-  },
-  {
-   "id": "a860d2222875",
-   "title": "BAMBI THE DESTROYER: EPISODE 20 - \"THE END\"",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xweh2r/bambi_the_destroyer_episode_20_the_end/",
-   "date": "2026-11-14T21:58:25.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/rad_city [link] [comments]"
-  },
-  {
-   "id": "7d49d7112175",
-   "title": "luishurtado/Flux-NSFW-uncensored",
-   "link": "https://huggingface.co/luishurtado/Flux-NSFW-uncensored",
-   "date": "2026-11-14T21:49:37.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, en, base_model:black-forest-labs/FLUX.1-dev, base_model:finetune:black-forest-labs/FLUX.1-dev, license:creativeml-openrail-m, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
