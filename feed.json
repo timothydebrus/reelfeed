@@ -1,6 +1,266 @@
 {
- "updated": "2026-11-22T21:50:22.384Z",
+ "updated": "2026-11-23T02:50:23.099Z",
  "items": [
+  {
+   "id": "146b46a4dab8",
+   "title": "Hjxjxj/text-to-video-ms-1.7b",
+   "link": "https://huggingface.co/Hjxjxj/text-to-video-ms-1.7b",
+   "date": "2026-11-23T02:49:41.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, arxiv:2308.06571, license:cc-by-nc-4.0, diffusers:TextToVideoSDPipeline",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "12735b1ab414",
+   "title": "lukas00100/stable-diffusion-xl-base-1.0",
+   "link": "https://huggingface.co/lukas00100/stable-diffusion-xl-base-1.0",
+   "date": "2026-11-23T02:45:50.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, onnx, safetensors, text-to-image, stable-diffusion, arxiv:2307.01952",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d64571775617",
+   "title": "Bhoidy/nyx-image-26m",
+   "link": "https://huggingface.co/Bhoidy/nyx-image-26m",
+   "date": "2026-11-23T02:36:47.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, text-to-image, pixel-art, discrete-diffusion, diffusion, mdlm",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2f4bdd9b9568",
+   "title": "valereseach/vela-flux-schnell-vir  (♥ 1)",
+   "link": "https://huggingface.co/valereseach/vela-flux-schnell-vir",
+   "date": "2026-11-23T01:37:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: vela, vir, flux, text-to-image, quantized, testnet4",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8a81576aec88",
+   "title": "moonbox-dev/SeedVR2-3B-ONNX",
+   "link": "https://huggingface.co/moonbox-dev/SeedVR2-3B-ONNX",
+   "date": "2026-11-23T01:26:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, moonbox, onnxruntime, seedvr2, video-super-resolution, video-restoration",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "ca5d392ce76c",
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "date": "2026-11-23T01:25:53.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
+  {
+   "id": "0650706e6716",
+   "title": "abdulla585/AnyFlow-Wan2.1-T2V-1.3B-Diffusers",
+   "link": "https://huggingface.co/abdulla585/AnyFlow-Wan2.1-T2V-1.3B-Diffusers",
+   "date": "2026-11-23T01:13:19.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, Any-Step, Text-to-Video, text-to-video, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "5aaba30c3972",
+   "title": "FardoX/MiniMax-H3-Image-rapido",
+   "link": "https://huggingface.co/FardoX/MiniMax-H3-Image-rapido",
+   "date": "2026-11-23T00:05:26.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: 2-bit, quantized, text-to-image, image-editing, 16gb-gpu, base_model:MiniMaxAI/MiniMax-H3-Image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "42402827556e",
+   "title": "jimmycarter/moss-image-360  (♥ 1)",
+   "link": "https://huggingface.co/jimmycarter/moss-image-360",
+   "date": "2026-11-22T23:42:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, text-to-image, moss-image, 360, equirectangular",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "25b6a113f83d",
+   "title": "klungkunboy/leony",
+   "link": "https://huggingface.co/klungkunboy/leony",
+   "date": "2026-11-22T23:31:21.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3f8c161b1d2c",
+   "title": "kentskooking/MiniMax-H3-AnimateDiff-LoRAs  (♥ 1)",
+   "link": "https://huggingface.co/kentskooking/MiniMax-H3-AnimateDiff-LoRAs",
+   "date": "2026-11-22T23:29:24.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, lora, comfyui, image-to-video, base_model:MiniMaxAI/MiniMax-H3, base_model:adapter:MiniMaxAI/MiniMax-H3",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "96ead1957e2c",
+   "title": "We haven’t seen the last of the major tech outages",
+   "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+   "date": "2026-11-22T22:48:02.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be prepared for a great deal of investment in upgrading our systems; they should be"
+  },
+  {
+   "id": "ea4de4d45bb6",
+   "title": "moonbox-dev/SeedVR2-3B-GGUF",
+   "link": "https://huggingface.co/moonbox-dev/SeedVR2-3B-GGUF",
+   "date": "2026-11-22T22:45:30.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, moonbox, seedvr2, video-super-resolution, video-restoration, stable-diffusion.cpp",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "47918ad3dadc",
+   "title": "try1ereer/facials",
+   "link": "https://huggingface.co/try1ereer/facials",
+   "date": "2026-11-22T22:30:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:try1ereer/wan-cumshot, base_model:adapter:try1ereer/wan-cumshot",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "393a562cb8c8",
+   "title": "moonbox-dev/Wan2.2-TI2V-5B-GGUF",
+   "link": "https://huggingface.co/moonbox-dev/Wan2.2-TI2V-5B-GGUF",
+   "date": "2026-11-22T22:02:02.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, moonbox, wan, wan2.2, video-generation, image-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "83939229b094",
+   "title": "mlx-community/FastFrames-L-bf16-mlx",
+   "link": "https://huggingface.co/mlx-community/FastFrames-L-bf16-mlx",
+   "date": "2026-11-22T22:01:03.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, text-to-video, apple-silicon, video-generation, arxiv:2611.23226, base_model:apple/FastFrames-L",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "9044ba244be0",
+   "title": "mrrie13/jenn2000",
+   "link": "https://huggingface.co/mrrie13/jenn2000",
+   "date": "2026-11-22T21:55:00.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "97f9db0d75e6",
    "title": "davidb727/sdxl-turbo-int8",
@@ -66,6 +326,22 @@
    }
   },
   {
+   "id": "b01d94e33279",
+   "title": "infosave/MiniMax-H3-Tiny-FewStep-cmf",
+   "link": "https://huggingface.co/infosave/MiniMax-H3-Tiny-FewStep-cmf",
+   "date": "2026-11-22T21:27:37.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: cortiq, cmf, video, audio, text-to-audio-video, reference-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
    "id": "e3301937d2e2",
    "title": "moonbox-dev/Wan2.1-VACE-1.3B-GGUF",
    "link": "https://huggingface.co/moonbox-dev/Wan2.1-VACE-1.3B-GGUF",
@@ -105,6 +381,38 @@
     "likes": 1,
     "downloads": 0,
     "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "c1c86d3b50f6",
+   "title": "AbstractFramework/minimax-h3-8bit",
+   "link": "https://huggingface.co/AbstractFramework/minimax-h3-8bit",
+   "date": "2026-11-22T20:27:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx-gen, safetensors, mlx, mflux, apple-silicon, 8-bit",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "238bc1c9dc80",
+   "title": "AbstractFramework/minimax-h3-4bit",
+   "link": "https://huggingface.co/AbstractFramework/minimax-h3-4bit",
+   "date": "2026-11-22T20:16:58.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx-gen, safetensors, mlx, mflux, apple-silicon, 4-bit",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
    }
   },
   {
@@ -510,7 +818,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 5. Tags: comfyui, minimax-h3, text-to-video, image-to-video, model-merge, int8",
    "hf": {
-    "likes": 5,
+    "likes": 7,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -830,7 +1138,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusion-single-file, comfyui, minimax-h3, ref2va, fl2va, hybrid",
    "hf": {
-    "likes": 7,
+    "likes": 8,
     "downloads": 24,
     "pipeline": "image-to-video"
    }
@@ -1503,7 +1811,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 4384, likes: 10. Tags: diffusion-single-file, minimax-h3, video-generation, audio-generation, comfyui, pruning",
    "hf": {
-    "likes": 12,
+    "likes": 13,
     "downloads": 4384,
     "pipeline": "trending video"
    }
@@ -3002,7 +3310,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 6. Tags: minimax-h3, lora, comfyui, photography, cinematic, safetensors",
    "hf": {
-    "likes": 124,
+    "likes": 126,
     "downloads": 5434,
     "pipeline": "trending image"
    }
@@ -3268,7 +3576,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 141, likes: 28. Tags: diffusers, safetensors, pixel-art, text-to-image, diffusion, flow-matching",
    "hf": {
-    "likes": 51,
+    "likes": 54,
     "downloads": 216,
     "pipeline": "trending image"
    }
@@ -3640,7 +3948,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 1524, likes: 26. Tags: diffusers, lora, text-to-image, distillation, step-distillation, moss-image",
    "hf": {
-    "likes": 48,
+    "likes": 54,
     "downloads": 3583,
     "pipeline": "trending image"
    }
@@ -7014,7 +7322,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: minimax-h3, lora, diversity, distillation, rediverse, text-to-video",
    "hf": {
-    "likes": 28,
+    "likes": 29,
     "downloads": 204,
     "pipeline": "trending video"
    }
@@ -7088,7 +7396,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 0, likes: 10. Tags: safetensors, text-to-video, base_model:Wan-AI/Wan2.1-T2V-14B, base_model:finetune:Wan-AI/Wan2.1-T2V-14B, license:apple-amlr, region:us",
    "hf": {
-    "likes": 537,
+    "likes": 539,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -7746,264 +8054,6 @@
    "isModel": false,
    "thumb": "",
    "excerpt": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work."
-  },
-  {
-   "id": "e35ddbaadb49",
-   "title": "At Holiday Extras, dots get to work before anyone asks",
-   "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
-   "date": "2026-11-16T00:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
-  },
-  {
-   "id": "6d3f3bd6ff12",
-   "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-   "link": "https://huggingface.co/blog/openrouter",
-   "date": "2026-11-16T00:00:00.000Z",
-   "source": "Hugging Face Blog",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": ""
-  },
-  {
-   "id": "8601bdb132e2",
-   "title": "Banger",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xxafoq/banger/",
-   "date": "2026-11-15T23:46:38.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/amNmc3BsaWk0djFpMRGKULIHM3yg2SxJpFvgrZIZHwF_X-dgTzG6yAyLxgub.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e5124e4fc0c24e81010cb5aafffdde2ae8924696",
-   "excerpt": "submitted by /u/Hungry-Leg9216 [link] [comments]"
-  },
-  {
-   "id": "22756b577313",
-   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-   "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-   "date": "2026-11-15T23:30:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
-  },
-  {
-   "id": "e364c77b1a2c",
-   "title": "TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches  (♥ 2)",
-   "link": "https://huggingface.co/TenStrip/MMH3_Sulphur3Eros_Loras-MLP-energy-patches",
-   "date": "2026-11-15T22:08:35.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: not-for-all-audiences, text-to-video, base_model:Comfy-Org/MiniMax-H3-Image, base_model:finetune:Comfy-Org/MiniMax-H3-Image, region:us",
-   "hf": {
-    "likes": 8,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "df3e44b99410",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "date": "2026-11-15T22:00:01.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof."
-  },
-  {
-   "id": "e1f75517207a",
-   "title": "Our new blog for science",
-   "link": "https://openai.com/index/our-new-blog-for-science",
-   "date": "2026-11-15T22:00:00.000Z",
-   "source": "OpenAI",
-   "cat": "news",
-   "isModel": false,
-   "thumb": "",
-   "excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery."
-  },
-  {
-   "id": "b95b24505d9f",
-   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-   "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-   "date": "2026-11-15T21:56:35.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
-  },
-  {
-   "id": "0183188d9d8c",
-   "title": "the123manaic/Sega-Video-5.2-Supernova",
-   "link": "https://huggingface.co/the123manaic/Sega-Video-5.2-Supernova",
-   "date": "2026-11-15T21:30:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 38, likes: 0. Tags: transformers, safetensors, sega_tot_moe, segacopter, sega-video-5.2, sega-5.2",
-   "hf": {
-    "likes": 0,
-    "downloads": 38,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "8fd0252ec96c",
-   "title": "the123manaic/Sega-Video-5.1-Singularity",
-   "link": "https://huggingface.co/the123manaic/Sega-Video-5.1-Singularity",
-   "date": "2026-11-15T21:30:02.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 32, likes: 0. Tags: transformers, safetensors, sega_tot_moe, segacopter, sega-video-5.1, sega-5.1",
-   "hf": {
-    "likes": 0,
-    "downloads": 32,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "ee7f31d26e41",
-   "title": "the123manaic/Sega-Video-5.5-Hyperion",
-   "link": "https://huggingface.co/the123manaic/Sega-Video-5.5-Hyperion",
-   "date": "2026-11-15T21:30:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 29, likes: 0. Tags: transformers, safetensors, sega_tot_moe, segacopter, sega-video-5.5, sega-5.5",
-   "hf": {
-    "likes": 0,
-    "downloads": 29,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "91d6b7632fb8",
-   "title": "the123manaic/Sega-Video-6.1-Sol",
-   "link": "https://huggingface.co/the123manaic/Sega-Video-6.1-Sol",
-   "date": "2026-11-15T21:30:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 32, likes: 0. Tags: transformers, safetensors, sega_tot_moe, segacopter, sega-video-6.1, sega-6.1",
-   "hf": {
-    "likes": 0,
-    "downloads": 32,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "ba45741377fe",
-   "title": "the123manaic/Sega-Video-5.3-Chronos",
-   "link": "https://huggingface.co/the123manaic/Sega-Video-5.3-Chronos",
-   "date": "2026-11-15T21:30:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 36, likes: 0. Tags: transformers, safetensors, sega_tot_moe, segacopter, sega-video-5.3, sega-5.3",
-   "hf": {
-    "likes": 0,
-    "downloads": 36,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "d16c17d09e34",
-   "title": "the123manaic/Sega-Video-6.0-Singularity-X",
-   "link": "https://huggingface.co/the123manaic/Sega-Video-6.0-Singularity-X",
-   "date": "2026-11-15T21:30:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 33, likes: 0. Tags: transformers, safetensors, sega_tot_moe, segacopter, sega-video-6.0, sega-6.0",
-   "hf": {
-    "likes": 0,
-    "downloads": 33,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "dcd914eeb33e",
-   "title": "the123manaic/Sega-Video-5.6-Valkyrie",
-   "link": "https://huggingface.co/the123manaic/Sega-Video-5.6-Valkyrie",
-   "date": "2026-11-15T21:30:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 29, likes: 0. Tags: transformers, safetensors, sega_tot_moe, segacopter, sega-video-5.6, sega-5.6",
-   "hf": {
-    "likes": 0,
-    "downloads": 29,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "5adffc93b791",
-   "title": "the123manaic/Sega-Video-6.5-Astral-Prime",
-   "link": "https://huggingface.co/the123manaic/Sega-Video-6.5-Astral-Prime",
-   "date": "2026-11-15T21:30:00.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 34, likes: 0. Tags: transformers, safetensors, sega_tot_moe, segacopter, sega-video-6.5, sega-6.5",
-   "hf": {
-    "likes": 0,
-    "downloads": 34,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "5243c0b686f8",
-   "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-   "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-   "date": "2026-11-15T20:43:49.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, and a statement from Megaspeed claiming that Alice Huang hasn't worked for the com"
-  },
-  {
-   "id": "0d8ea3128d5b",
-   "title": "The Human Liberation Front | Buzubuzu 6, A Dark Fantasy Series",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xx67xz/the_human_liberation_front_buzubuzu_6_a_dark/",
-   "date": "2026-11-15T20:43:39.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "",
-   "excerpt": "submitted by /u/Fun_Dragonfly6967 [link] [comments]"
-  },
-  {
-   "id": "a63866f99390",
-   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-   "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-   "date": "2026-11-15T20:20:57.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
-  },
-  {
-   "id": "bc766627e4a1",
-   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-   "date": "2026-11-15T19:15:43.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority Leader Chuck Schumer has "
   }
  ]
 }
