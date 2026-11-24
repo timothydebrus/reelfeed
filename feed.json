@@ -1,6 +1,353 @@
 {
- "updated": "2026-11-24T00:56:45.265Z",
+ "updated": "2026-11-24T10:59:42.644Z",
  "items": [
+  {
+   "id": "bf3ff06939b8",
+   "title": "Te2douNin9/MOSS-Image-LoRI-Seia",
+   "link": "https://huggingface.co/Te2douNin9/MOSS-Image-LoRI-Seia",
+   "date": "2026-11-24T10:37:46.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:OpenMOSS-Team/MOSS-Image-Base, base_model:adapter:OpenMOSS-Team/MOSS-Image-Base",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "69fcc09f663f",
+   "title": "gatilin/nava-joint-av-dit",
+   "link": "https://huggingface.co/gatilin/nava-joint-av-dit",
+   "date": "2026-11-24T09:58:53.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: pytorch, ti2v, diffusion-transformer, multimodal, audio, video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "7ddabf2301d4",
+   "title": "OliviaRossi/Minimax-H3-Sulphur3-10Erosmax-SingularityV2-Prism  (♥ 2)",
+   "link": "https://huggingface.co/OliviaRossi/Minimax-H3-Sulphur3-10Erosmax-SingularityV2-Prism",
+   "date": "2026-11-24T09:43:40.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: comfyui, minimax-h3, text-to-video, image-to-video, model-merge, prism",
+   "hf": {
+    "likes": 2,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "98826aa3b38c",
+   "title": "kevin1103/SAGE",
+   "link": "https://huggingface.co/kevin1103/SAGE",
+   "date": "2026-11-24T09:23:22.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion, stable-diffusion-v1-4, concept-erasure, machine-unlearning, artistic-style-erasure",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "f8f16f05a8d4",
+   "title": "Jingkuan/GeoRoute",
+   "link": "https://huggingface.co/Jingkuan/GeoRoute",
+   "date": "2026-11-24T09:16:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-video, license:apache-2.0, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "ca70f98a66b4",
+   "title": "PixilabAI/smalt-small",
+   "link": "https://huggingface.co/PixilabAI/smalt-small",
+   "date": "2026-11-24T09:08:44.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: pytorch, safetensors, pixel-art, text-to-image, sprites, game-assets",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "56f32d597b7a",
+   "title": "neuregex/Wan-Animate-2-w4a8-comfy",
+   "link": "https://huggingface.co/neuregex/Wan-Animate-2-w4a8-comfy",
+   "date": "2026-11-24T09:01:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, quantized, w4a8, wan, video, animation",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "b422fb8c8a0c",
+   "title": "neuregex/Wan2.2-Fun-A14B-Camera-w4a8-comfy",
+   "link": "https://huggingface.co/neuregex/Wan2.2-Fun-A14B-Camera-w4a8-comfy",
+   "date": "2026-11-24T08:59:10.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, quantized, w4a8, wan, video, camera-control",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "edad93030baa",
+   "title": "neuregex/Wan2.1-I2V-14B-480P-w4a8-comfy",
+   "link": "https://huggingface.co/neuregex/Wan2.1-I2V-14B-480P-w4a8-comfy",
+   "date": "2026-11-24T08:57:16.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, quantized, w4a8, wan, video, image-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "cf26c2e92b5c",
+   "title": "neuregex/LTX-2.5-w4a8-comfy",
+   "link": "https://huggingface.co/neuregex/LTX-2.5-w4a8-comfy",
+   "date": "2026-11-24T08:54:43.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, quantized, w4a8, ltx-2, video, audio",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "7bcdbd78c521",
+   "title": "kunj20162016/cyberrealistic-pony-v180-coreshift-openvino",
+   "link": "https://huggingface.co/kunj20162016/cyberrealistic-pony-v180-coreshift-openvino",
+   "date": "2026-11-24T08:46:34.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: openvino, openvino-export, text-to-image, base_model:Sieddi/cyberrealistic-pony-v180-coreshift, base_model:finetune:Sieddi/cyberrealistic-pony-v180-coreshift, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "baaaeb904ca0",
+   "title": "Bhoidy/nyx-image-36m",
+   "link": "https://huggingface.co/Bhoidy/nyx-image-36m",
+   "date": "2026-11-24T08:23:38.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, text-to-image, pixel-art, rectified-flow, discrete-diffusion, diffusion",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "2ffd0f3e774b",
+   "title": "Kinimoro/Cass_kat",
+   "link": "https://huggingface.co/Kinimoro/Cass_kat",
+   "date": "2026-11-24T08:18:14.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Comfy-Org/Krea-2, base_model:adapter:Comfy-Org/Krea-2",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "9370535eff1f",
+   "title": "p5ych3d/saggy",
+   "link": "https://huggingface.co/p5ych3d/saggy",
+   "date": "2026-11-24T07:45:18.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, region:us",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ab24ed301361",
+   "title": "bladealternate/anima-reference-edit",
+   "link": "https://huggingface.co/bladealternate/anima-reference-edit",
+   "date": "2026-11-24T07:26:12.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, image-to-image, image-editing, instruction-editing, reference-only",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "64dad5ff51c3",
+   "title": "Nekodeus/neko-hindi3-sdxl-v1  (♥ 1)",
+   "link": "https://huggingface.co/Nekodeus/neko-hindi3-sdxl-v1",
+   "date": "2026-11-24T07:10:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, stable-diffusion-xl, lora, text-to-image, character, base_model:stabilityai/stable-diffusion-xl-base-1.0",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "1d889a9e8fd0",
+   "title": "Nekodeus/neko-korean5-sdxl-v1",
+   "link": "https://huggingface.co/Nekodeus/neko-korean5-sdxl-v1",
+   "date": "2026-11-24T07:08:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, stable-diffusion-xl, lora, text-to-image, character, base_model:stabilityai/stable-diffusion-xl-base-1.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ebb2408dc031",
+   "title": "johnnywalker007/PinkCherry-NSFW_MiniMax-H3",
+   "link": "https://huggingface.co/johnnywalker007/PinkCherry-NSFW_MiniMax-H3",
+   "date": "2026-11-24T05:43:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, minimax-h3, text-to-video, nsfw, nfaa, license:apache-2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "6ca6533c905d",
+   "title": "chdp207/Minimax-H3-Sulphur3-10Erosmax-Merge",
+   "link": "https://huggingface.co/chdp207/Minimax-H3-Sulphur3-10Erosmax-Merge",
+   "date": "2026-11-24T04:59:26.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, text-to-video, image-to-video, model-merge, int8",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "755c1f05b176",
+   "title": "dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA",
+   "link": "https://huggingface.co/dmlsrc/LTX-2.5-Distilled-SoL-Refiner-LoRA",
+   "date": "2026-11-24T04:41:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, ltx-video, ltx-2.5, refiner, sol-refiner, text-to-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "c8769fe54d2d",
+   "title": "v0.46.3",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.3",
+   "date": "2026-11-24T03:32:16.000Z",
+   "source": "ComfyUI Releases",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
+   "excerpt": "ComfyUI v0.46.3"
+  },
+  {
+   "id": "18f120058f70",
+   "title": "Dima133722/MiniMax-H3-Tiny-ComfyUI",
+   "link": "https://huggingface.co/Dima133722/MiniMax-H3-Tiny-ComfyUI",
+   "date": "2026-11-24T01:27:06.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 21, likes: 0. Tags: diffusion-single-file, minimax-h3, video-generation, audio-generation, comfyui, pruning",
+   "hf": {
+    "likes": 0,
+    "downloads": 21,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "fc1c4c45afbb",
    "title": "Nekodeus/neko-korean7-sdxl-v1",
@@ -660,8 +1007,8 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 4. Tags: diffusers, safetensors, image-to-video, text-to-video, image-text-to-video, visual-reasoning",
    "hf": {
-    "likes": 4,
-    "downloads": 0,
+    "likes": 6,
+    "downloads": 28,
     "pipeline": "image-to-video"
    }
   },
@@ -699,7 +1046,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, t2v, video, video-generation, text-to-video",
    "hf": {
     "likes": 0,
-    "downloads": 0,
+    "downloads": 9,
     "pipeline": "text-to-video"
    }
   },
@@ -715,7 +1062,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 11, likes: 0. Tags: diffusers, safetensors, minimax-h3, text-to-video, image-to-video, audio-video",
    "hf": {
     "likes": 0,
-    "downloads": 11,
+    "downloads": 142,
     "pipeline": "image-to-video"
    }
   },
@@ -731,7 +1078,7 @@
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 4, likes: 0. Tags: diffusers, safetensors, minimax-h3, text-to-video, image-to-video, audio-video",
    "hf": {
     "likes": 0,
-    "downloads": 4,
+    "downloads": 4838,
     "pipeline": "image-to-video"
    }
   },
@@ -747,7 +1094,7 @@
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, text-to-video, arxiv:2308.06571, license:cc-by-nc-4.0, diffusers:TextToVideoSDPipeline",
    "hf": {
     "likes": 0,
-    "downloads": 5,
+    "downloads": 20,
     "pipeline": "text-to-video"
    }
   },
@@ -2557,7 +2904,7 @@
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 4384, likes: 10. Tags: diffusion-single-file, minimax-h3, video-generation, audio-generation, comfyui, pruning",
    "hf": {
     "likes": 20,
-    "downloads": 5310,
+    "downloads": 14156,
     "pipeline": "trending video"
    }
   },
@@ -4055,8 +4402,8 @@
    "thumb": "",
    "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 6. Tags: minimax-h3, lora, comfyui, photography, cinematic, safetensors",
    "hf": {
-    "likes": 147,
-    "downloads": 6436,
+    "likes": 149,
+    "downloads": 7195,
     "pipeline": "trending image"
    }
   },
@@ -6128,8 +6475,8 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 85, likes: 33. Tags: text-to-image, image-to-image, depth-estimation, image-segmentation, en, arxiv:2611.24738",
    "hf": {
-    "likes": 97,
-    "downloads": 336,
+    "likes": 102,
+    "downloads": 425,
     "pipeline": "trending image"
    }
   },
@@ -7723,292 +8070,6 @@
     "downloads": 0,
     "pipeline": "text-to-image"
    }
-  },
-  {
-   "id": "6e394d6d04ab",
-   "title": "California state AG sues OpenAI over rogue agent incidents",
-   "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-   "date": "2026-11-16T20:07:13.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident"
-  },
-  {
-   "id": "164afd754901",
-   "title": "SORA-Lab/TriCosmos-2.5-predict",
-   "link": "https://huggingface.co/SORA-Lab/TriCosmos-2.5-predict",
-   "date": "2026-11-16T20:01:54.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: cosmos, world-model, autonomous-driving, video-prediction, thermal, lidar",
-   "hf": {
-    "likes": 3,
-    "downloads": 47,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "0e0553c91839",
-   "title": "SORALab/TriCosmos-2.5-predict  (♥ 3)",
-   "link": "https://huggingface.co/SORALab/TriCosmos-2.5-predict",
-   "date": "2026-11-16T20:01:54.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 101, likes: 3. Tags: cosmos, world-model, autonomous-driving, video-prediction, thermal, lidar",
-   "hf": {
-    "likes": 3,
-    "downloads": 101,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "8e304c6486a0",
-   "title": "Why Hollywood Is Sweating Thursday’s 'Grand Theft Auto VI' Launch",
-   "link": "https://nofilmschool.com/grand-theft-auto-vi-launch",
-   "date": "2026-11-16T20:00:06.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/hollywood-is-sweating-thursdays-grand-theft-auto-vi-launch.jpg?id=68693535&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "There's a joke going around Hollywood that you needed to get all your work turned in by last week because this one is already a wash, with execs sitting in front of their PlayStation waiting for the arrival of Rockstar Games' long-anticipated Grand Theft Auto VI. And while this joke extends past Hollywood to companies across the world, where employees will be stricken with a mysterious 24-hour flu"
-  },
-  {
-   "id": "c84a61ce86aa",
-   "title": "Film Quote of the Day: The ‘Harry Potter’ Line That Reminds Us Not to Lose Ourselves in Dreams",
-   "link": "https://nofilmschool.com/it-does-not-do-to-dwell-on-dreams-and-forget-to-live",
-   "date": "2026-11-16T19:30:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/it-does-not-do-to-dwell-on-dreams-and-forget-to-live.jpg?id=68693397&width=1245&height=700&coordinates=250%2C0%2C251%2C0",
-   "excerpt": "While we have a new Harry Potter TV show about to debut, the heart of most nostalgia still lies with the original movie series, which was many a kid's entry point into the fantastical world set forth by J.K. Rowling. When Harry Potter and the Sorcerer’s Stone hit theaters in 2001, Chris Columbus's direction, along with Steve Kloves’s screenplay, helped set a visual tone and demeanor for the movies"
-  },
-  {
-   "id": "49217e0d3d9a",
-   "title": "zuraxe/tenten-renderoverse-illustrious-lora",
-   "link": "https://huggingface.co/zuraxe/tenten-renderoverse-illustrious-lora",
-   "date": "2026-11-16T19:26:41.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, character, renderoverse, sdxl, illustrious, not-for-all-audiences",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "4c9b405a7e65",
-   "title": "zuraxe/seigenki-renderoverse-illustrious-lora",
-   "link": "https://huggingface.co/zuraxe/seigenki-renderoverse-illustrious-lora",
-   "date": "2026-11-16T19:25:44.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, character, renderoverse, sdxl, illustrious, not-for-all-audiences",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "7e6b12faa7a2",
-   "title": "zuraxe/genyo-renderoverse-illustrious-lora",
-   "link": "https://huggingface.co/zuraxe/genyo-renderoverse-illustrious-lora",
-   "date": "2026-11-16T19:24:47.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, character, renderoverse, sdxl, illustrious, not-for-all-audiences",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "13db3cf78d53",
-   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-   "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-   "date": "2026-11-16T19:24:40.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/siri-ai.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on cloud-based processing like generating, cleaning up, or extending images i"
-  },
-  {
-   "id": "365f3b142fa5",
-   "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-   "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-   "date": "2026-11-16T19:23:45.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STK155_OPEN_AI_CVirginia_C-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated. It's also offering free access to vetted organizations, giving developers more g"
-  },
-  {
-   "id": "0892fb638dba",
-   "title": "zuraxe/ubume-renderoverse-illustrious-lora",
-   "link": "https://huggingface.co/zuraxe/ubume-renderoverse-illustrious-lora",
-   "date": "2026-11-16T19:23:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, character, renderoverse, sdxl, illustrious, not-for-all-audiences",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "761b56f193e1",
-   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-   "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-   "date": "2026-11-16T19:12:02.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
-  },
-  {
-   "id": "1bc14685971b",
-   "title": "orz99/PAN2",
-   "link": "https://huggingface.co/orz99/PAN2",
-   "date": "2026-11-16T19:06:32.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, comfyui, text-to-video, base_model:IFM/PAN2, base_model:finetune:IFM/PAN2, license:apache-2.0",
-   "hf": {
-    "likes": 0,
-    "downloads": 26,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "9716a188ca8b",
-   "title": "Consider Leveling Up Your Color Grading Workflows in Final Cut Pro With This New Color Plugin",
-   "link": "https://nofilmschool.com/density-1-0-color-grading-plugin",
-   "date": "2026-11-16T19:00:05.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/density-1-0-color-grading-plugin.jpg?id=68692718&width=1245&height=700&coordinates=0%2C0%2C0%2C0",
-   "excerpt": "A new color grading plugin for Final Cut Pro on Apple Silicon Macs aims to streamline and speed up your entire grading workflow in FCP. Developed by filmmaker and YouTuber Pascal Basel, Density 1.0 can prepare an entire timeline in one step, grade groups of clips together, shape looks with Color Style and Film Lab, and deliver SDR and HDR from the same grade. Let’s take a look at this new color gr"
-  },
-  {
-   "id": "14b4075b2d8b",
-   "title": "Ai Car and Pastel palette scene",
-   "link": "https://www.reddit.com/r/aivideo/comments/1xxxu5j/ai_car_and_pastel_palette_scene/",
-   "date": "2026-11-16T18:57:45.000Z",
-   "source": "r/aivideo",
-   "cat": "community",
-   "thumb": "https://external-preview.redd.it/dzB4OXZienB1MDJpMaP3uL_C7jxFdGFWGOJJiguiaK2KAS9BI2SQ9dGUfOTj.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=4545a4497f8581c82300a8bc1931f2041de9db57",
-   "excerpt": "submitted by /u/Megalania34 [link] [comments]"
-  },
-  {
-   "id": "51595064fa3f",
-   "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-   "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-   "date": "2026-11-16T18:43:35.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, have called for his reinstatement. An online petition to"
-  },
-  {
-   "id": "25411420fc8b",
-   "title": "EmilioSchwaiger/pixie-16  (♥ 1)",
-   "link": "https://huggingface.co/EmilioSchwaiger/pixie-16",
-   "date": "2026-11-16T18:30:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: pytorch, safetensors, pixel-art, sprite-generation, text-to-image, dataset:Angais/pixel-art-atlas-1.4m",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "257912087d39",
-   "title": "EmilioSchwaiger/pixie-32  (♥ 1)",
-   "link": "https://huggingface.co/EmilioSchwaiger/pixie-32",
-   "date": "2026-11-16T18:30:34.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: pytorch, safetensors, pixel-art, sprite-generation, text-to-image, license:apache-2.0",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "a2a1b150976e",
-   "title": "7 Best Maggie Gyllenhaal Movies, Ranked",
-   "link": "https://nofilmschool.com/best-maggie-gyllenhaal-movies-ranked",
-   "date": "2026-11-16T18:30:07.000Z",
-   "source": "No Film School",
-   "cat": "news",
-   "thumb": "https://nofilmschool.com/media-library/the-kindergarten-teacher.webp?id=68693008&width=1245&height=700&coordinates=0%2C0%2C0%2C208",
-   "excerpt": "Maggie Gyllenhaal was born in New York City on Nov. 16, 1977. While she was initially known as an actor, she soon also made a name for herself as a writer and director as well, with her latest film being the 1930s horror/romance reimagining of Bride of Frankenstein. Her brother Jake Gyllenhaal acted in the film, and it was the first time they'd worked together since their cult hit Donnie Darko. Sh"
-  },
-  {
-   "id": "d899945640b9",
-   "title": "Archemimi/aurel",
-   "link": "https://huggingface.co/Archemimi/aurel",
-   "date": "2026-11-16T18:18:15.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, krea2, template:sd-lora, base_model:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "5a555efc0107",
-   "title": "ianivs/LongCat-Video-Avatar-1.6-DrawThings",
-   "link": "https://huggingface.co/ianivs/LongCat-Video-Avatar-1.6-DrawThings",
-   "date": "2026-11-16T18:15:47.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: longcat-video-avatar, draw-things, atelier, talking-head, audio-driven, image-to-video",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "7dc80a7ed2c8",
-   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
-   "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-   "date": "2026-11-16T18:11:10.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
   }
  ]
 }
