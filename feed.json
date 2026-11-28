@@ -1,6 +1,145 @@
 {
- "updated": "2026-11-27T22:00:10.894Z",
+ "updated": "2026-11-28T03:56:21.553Z",
  "items": [
+  {
+   "id": "82a359256593",
+   "title": "E10Null/eyeline-pov-geometry-zimage",
+   "link": "https://huggingface.co/E10Null/eyeline-pov-geometry-zimage",
+   "date": "2026-11-28T03:46:19.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: text-to-image, lora, z-image, z-image-turbo, comfyui, pov",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "d1a01f65a844",
+   "title": "warped-community/SD-Turbo-Mobile-INT8-litert",
+   "link": "https://huggingface.co/warped-community/SD-Turbo-Mobile-INT8-litert",
+   "date": "2026-11-28T03:23:49.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: litert, tflite, int8, android, on-device, diffusion",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e35c608cedf9",
+   "title": "StudioYebisu-ship-it/Ming-Image-0.2-Design-Yebisu-ComfyUI",
+   "link": "https://huggingface.co/StudioYebisu-ship-it/Ming-Image-0.2-Design-Yebisu-ComfyUI",
+   "date": "2026-11-28T02:33:33.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, ming-image, ming-image-0.2, comfy_quant, convrot, gptq",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8ab2ecaf2f4a",
+   "title": "Sinadavinc80/cogvideox-2b-img2vid",
+   "link": "https://huggingface.co/Sinadavinc80/cogvideox-2b-img2vid",
+   "date": "2026-11-28T02:02:54.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, cogvideox, video-generation, image-to-video, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "e60b451fc126",
+   "title": "ChaosFF/Anima-INT8",
+   "link": "https://huggingface.co/ChaosFF/Anima-INT8",
+   "date": "2026-11-28T01:40:48.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusion-single-file, comfyui, text-to-image, base_model:circlestone-labs/Anima, base_model:quantized:circlestone-labs/Anima, license:other",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8cff5e9a6851",
+   "title": "v0.46.4",
+   "link": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.46.4",
+   "date": "2026-11-28T00:43:23.000Z",
+   "source": "ComfyUI Releases",
+   "cat": "news",
+   "isModel": false,
+   "thumb": "https://avatars.githubusercontent.com/u/121283862?s=60&v=4",
+   "excerpt": "ComfyUI v0.46.4"
+  },
+  {
+   "id": "8db6b330004a",
+   "title": "Iskabdbski2917173/PinkCherry-NSFW_MiniMax-H3",
+   "link": "https://huggingface.co/Iskabdbski2917173/PinkCherry-NSFW_MiniMax-H3",
+   "date": "2026-11-28T00:13:26.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: transformers, minimax-h3, text-to-video, nsfw, nfaa, license:apache-2.0",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "9c13dc0e9087",
+   "title": "ddalcu/Ming-Image-0.2-Design-MLX-Serve-8bit",
+   "link": "https://huggingface.co/ddalcu/Ming-Image-0.2-Design-MLX-Serve-8bit",
+   "date": "2026-11-27T23:01:34.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: mlx, diffusers, safetensors, bailingmm_moe_v2_lite, mlx-serve, apple-silicon",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e4a8f7addb03",
+   "title": "Kinimoro/InniePussy_Krea2",
+   "link": "https://huggingface.co/Kinimoro/InniePussy_Krea2",
+   "date": "2026-11-27T22:10:51.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
   {
    "id": "f0e13dfeed20",
    "title": "DeVilDoNia/HaDeS-MOSS-Detailer",
@@ -234,7 +373,7 @@
    "thumb": "",
    "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: pytorch, l3g-world, world-model, gaussian-splatting, 3d-reconstruction, online-reconstruction",
    "hf": {
-    "likes": 0,
+    "likes": 2,
     "downloads": 0,
     "pipeline": "image-to-video"
    }
@@ -2048,7 +2187,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 42. Tags: custom, diffusers, safetensors, bailingmm_moe_v2_lite, text-to-image, image-generation",
    "hf": {
-    "likes": 160,
+    "likes": 170,
     "downloads": 416,
     "pipeline": "trending image"
    }
@@ -2457,7 +2596,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: comfyui, minimax-h3, qwen3.5, text-encoder, projection, lora",
    "hf": {
-    "likes": 31,
+    "likes": 32,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -5045,7 +5184,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 31. Tags: comfyui, qwen-image, qwen-image-2.1, pixel-head, pixel-decoder, wavelet",
    "hf": {
-    "likes": 31,
+    "likes": 32,
     "downloads": 0,
     "pipeline": "trending image"
    }
@@ -5958,7 +6097,7 @@
    "thumb": "",
    "excerpt": "New/trending trending video model on Hugging Face. Downloads: 4384, likes: 10. Tags: diffusion-single-file, minimax-h3, video-generation, audio-generation, comfyui, pruning",
    "hf": {
-    "likes": 36,
+    "likes": 37,
     "downloads": 41509,
     "pipeline": "trending video"
    }
@@ -8253,150 +8392,6 @@
     "likes": 0,
     "downloads": 0,
     "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "858c2e49b00a",
-   "title": "PedroMarinhoDev/LongCat-Video-Avatar-1.6-ComfyUI",
-   "link": "https://huggingface.co/PedroMarinhoDev/LongCat-Video-Avatar-1.6-ComfyUI",
-   "date": "2026-11-19T03:28:12.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, longcat-video, avatar, audio-driven, talking-head, int8",
-   "hf": {
-    "likes": 4,
-    "downloads": 0,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "0c3747500b13",
-   "title": "vianney28/lora-taylorswift",
-   "link": "https://huggingface.co/vianney28/lora-taylorswift",
-   "date": "2026-11-19T03:26:30.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, lora, diffusers-training, stable-diffusion",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8893196194ff",
-   "title": "vianney28/lora-robertpattinson",
-   "link": "https://huggingface.co/vianney28/lora-robertpattinson",
-   "date": "2026-11-19T03:20:08.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, lora, diffusers-training, stable-diffusion",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "09784f313b14",
-   "title": "vianney28/lora-jungkook",
-   "link": "https://huggingface.co/vianney28/lora-jungkook",
-   "date": "2026-11-19T03:13:37.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, lora, diffusers-training, stable-diffusion",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "66eeaadafddf",
-   "title": "Mspanz88/Qwen-Image-2.1",
-   "link": "https://huggingface.co/Mspanz88/Qwen-Image-2.1",
-   "date": "2026-11-19T03:13:16.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, qwen, image-generation, image-editing, rgba",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "7ca3e53d55eb",
-   "title": "vianney28/lora-arianagrande",
-   "link": "https://huggingface.co/vianney28/lora-arianagrande",
-   "date": "2026-11-19T03:07:07.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, lora, diffusers-training, stable-diffusion",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8cb46bbe9a73",
-   "title": "model-collapse/pixmoji",
-   "link": "https://huggingface.co/model-collapse/pixmoji",
-   "date": "2026-11-19T03:03:39.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: pytorch, pixel-art, emoji, 16x16, maskgit, text-to-image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "c1aaec6f4ea6",
-   "title": "vianney28/lora-adela",
-   "link": "https://huggingface.co/vianney28/lora-adela",
-   "date": "2026-11-19T03:00:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, tensorboard, text-to-image, lora, diffusers-training, stable-diffusion",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "8d78d5e4ba92",
-   "title": "faecc/tessera-small-onnx",
-   "link": "https://huggingface.co/faecc/tessera-small-onnx",
-   "date": "2026-11-19T02:45:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: onnx, pixel-art, text-to-image, license:cc-by-nc-4.0, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
    }
   }
  ]
