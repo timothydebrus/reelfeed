@@ -1,6 +1,286 @@
 {
- "updated": "2026-11-28T13:05:20.020Z",
+ "updated": "2026-11-28T20:58:07.781Z",
  "items": [
+  {
+   "id": "68423e5cf564",
+   "title": "Anthropic denies that Claude is ‘trained to sabotage work’",
+   "link": "https://techcrunch.com/2026/11/28/anthropic-denies-that-claude-is-trained-to-sabotage-work/",
+   "date": "2026-11-28T20:45:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Anthropic has been trying to address accusations that the company’s chatbot Claude is sabotaging certain types of work."
+  },
+  {
+   "id": "58dd2dd856b8",
+   "title": "csj12531/Z-Image-Turbo  (♥ 1)",
+   "link": "https://huggingface.co/csj12531/Z-Image-Turbo",
+   "date": "2026-11-28T20:41:23.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusers, safetensors, text-to-image, en, arxiv:2511.22699, arxiv:2511.22677",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "6b4b77fe682d",
+   "title": "YongYong/causal-hit-hard-centroid-14k  (♥ 1)",
+   "link": "https://huggingface.co/YongYong/causal-hit-hard-centroid-14k",
+   "date": "2026-11-28T20:34:09.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 1. Tags: safetensors, wan, video-generation, causal-hit, hard-centroid, text-to-video",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "fb753a30e3be",
+   "title": "SimpleTuner/hdit-plus-512px-edit",
+   "link": "https://huggingface.co/SimpleTuner/hdit-plus-512px-edit",
+   "date": "2026-11-28T19:49:31.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, hdit_plus, hdit_plus-diffusers, text-to-image, image-to-image",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e5eb7ae00208",
+   "title": "Darkknight535/krea2-kwaifu-style-lora-step1000",
+   "link": "https://huggingface.co/Darkknight535/krea2-kwaifu-style-lora-step1000",
+   "date": "2026-11-28T19:25:01.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: peft, lora, text-to-image, diffusers, krea, krea-2",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ae967041e95e",
+   "title": "frdelga/pc3d",
+   "link": "https://huggingface.co/frdelga/pc3d",
+   "date": "2026-11-28T19:16:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, flux, lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "ed84cded2294",
+   "title": "frdelga/camila3d",
+   "link": "https://huggingface.co/frdelga/camila3d",
+   "date": "2026-11-28T19:12:13.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, flux, lora, base_model:black-forest-labs/FLUX.1-dev, base_model:adapter:black-forest-labs/FLUX.1-dev",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "8175355a0162",
+   "title": "Sapiensinteticos/Krea-2-Big-Cities-LoRA  (♥ 1)",
+   "link": "https://huggingface.co/Sapiensinteticos/Krea-2-Big-Cities-LoRA",
+   "date": "2026-11-28T19:10:37.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: lora, sint-fyi, z-image-turbo, krea-2, city, architecture",
+   "hf": {
+    "likes": 1,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "3bc656c0d25b",
+   "title": "Mirilly/ongeki-marching-anima",
+   "link": "https://huggingface.co/Mirilly/ongeki-marching-anima",
+   "date": "2026-11-28T18:56:58.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, anima, ongeki, character, text-to-image, base_model:circlestone-labs/Anima",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "771e88a9348f",
+   "title": "Mirilly/ongeki-setsuna-anima",
+   "link": "https://huggingface.co/Mirilly/ongeki-setsuna-anima",
+   "date": "2026-11-28T18:56:58.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, anima, ongeki, character, text-to-image, base_model:circlestone-labs/Anima",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "00f0c9370bfc",
+   "title": "Mirilly/ongeki-rbp-anima",
+   "link": "https://huggingface.co/Mirilly/ongeki-rbp-anima",
+   "date": "2026-11-28T18:56:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, anima, ongeki, character, text-to-image, base_model:circlestone-labs/Anima",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "e84bbde8718c",
+   "title": "Mirilly/ongeki-7days-anima",
+   "link": "https://huggingface.co/Mirilly/ongeki-7days-anima",
+   "date": "2026-11-28T18:56:57.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: lora, anima, ongeki, character, text-to-image, base_model:circlestone-labs/Anima",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-image"
+   }
+  },
+  {
+   "id": "fe0929ed6a70",
+   "title": "Samsung is testing a feature that changes the angle of photos you’ve already taken",
+   "link": "https://www.theverge.com/tech/1045337/samsung-recompose-ai-camera",
+   "date": "2026-11-28T18:54:58.000Z",
+   "source": "The Verge AI",
+   "cat": "news",
+   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/samsung-galaxy-s26-plus-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "excerpt": "Android Authority found code in the beta for One UI 9.5 referring to a feature called Recompose that might let you change the angle of a photo after you've taken it. The code is part of Samsung's Photo Editor app and builds on the existing Move tool. Users would be able to toggle between Move and Recompose, the latter of which is associated with text strings reading: Drag with one finger to change"
+  },
+  {
+   "id": "e4d613bdad90",
+   "title": "OpenAI’s new countersuit accuses Apple of ‘unlawfully pressuring vendors’",
+   "link": "https://techcrunch.com/2026/11/28/openais-new-countersuit-accuses-apple-of-unlawfully-pressuring-vendors/",
+   "date": "2026-11-28T17:46:47.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "After Apple sued OpenAI this summer, OpenAI has fired back with a countersuit of its own."
+  },
+  {
+   "id": "36ef5b1c0c2a",
+   "title": "VidditAI/Image-to-Video-AI",
+   "link": "https://huggingface.co/VidditAI/Image-to-Video-AI",
+   "date": "2026-11-28T16:10:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: image-to-video, photo-to-video, text-to-video, reference-to-video, video-generation, ai-video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "image-to-video"
+   }
+  },
+  {
+   "id": "53961114048a",
+   "title": "wongteE/Qwen3.5-9B-Minimax-H3",
+   "link": "https://huggingface.co/wongteE/Qwen3.5-9B-Minimax-H3",
+   "date": "2026-11-28T16:00:52.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, minimax-h3, qwen3.5, text-encoder, projection, lora",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "c44745652e63",
+   "title": "freellmclaude/Wan2.2-TI2V-5B",
+   "link": "https://huggingface.co/freellmclaude/Wan2.2-TI2V-5B",
+   "date": "2026-11-28T15:20:08.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: wan2.2, diffusers, safetensors, ti2v, text-to-video, en",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
+  {
+   "id": "d3778604bcc7",
+   "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+   "link": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+   "date": "2026-11-28T14:00:00.000Z",
+   "source": "TechCrunch AI",
+   "cat": "news",
+   "thumb": "",
+   "excerpt": "Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI models."
+  },
+  {
+   "id": "00c1699d4488",
+   "title": "timmyboy26/LTX-Video-2B-0.9.8-distilled-LiteRT-NPU",
+   "link": "https://huggingface.co/timmyboy26/LTX-Video-2B-0.9.8-distilled-LiteRT-NPU",
+   "date": "2026-11-28T13:48:32.000Z",
+   "source": "Hugging Face Models",
+   "cat": "news",
+   "isModel": true,
+   "thumb": "",
+   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: litert, tflite, npu, android, text-to-video, base_model:Lightricks/LTX-Video",
+   "hf": {
+    "likes": 0,
+    "downloads": 0,
+    "pipeline": "text-to-video"
+   }
+  },
   {
    "id": "fe28b4c097c7",
    "title": "mojealterego/mochi-1-preview",
@@ -1875,8 +2155,8 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 40. Tags: diffusers, safetensors, text-to-image, image-to-image, image-editing, image-generation",
    "hf": {
-    "likes": 40,
-    "downloads": 0,
+    "likes": 89,
+    "downloads": 5626,
     "pipeline": "trending image"
    }
   },
@@ -2363,7 +2643,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 6, likes: 39. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:Comfy-Org/MiniMax-H3-Image, base_model:adapter:Comfy-Org/MiniMax-H3-Image",
    "hf": {
-    "likes": 89,
+    "likes": 92,
     "downloads": 2784,
     "pipeline": "trending image"
    }
@@ -2395,7 +2675,7 @@
    "thumb": "",
    "excerpt": "New/trending trending image model on Hugging Face. Downloads: 0, likes: 42. Tags: custom, diffusers, safetensors, bailingmm_moe_v2_lite, text-to-image, image-generation",
    "hf": {
-    "likes": 186,
+    "likes": 212,
     "downloads": 714,
     "pipeline": "trending image"
    }
@@ -2804,7 +3084,7 @@
    "thumb": "",
    "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 2. Tags: comfyui, minimax-h3, qwen3.5, text-encoder, projection, lora",
    "hf": {
-    "likes": 32,
+    "likes": 34,
     "downloads": 0,
     "pipeline": "trending video"
    }
@@ -8124,280 +8404,6 @@
    "cat": "news",
    "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/chatgpt-live-dictation-promo-screenshot.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "excerpt": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps. While using dictation in ChatGPT, you can tap or click the audio waveform to show the live text transcript the AI is genera"
-  },
-  {
-   "id": "6dbad1140452",
-   "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-   "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-   "date": "2026-11-19T14:54:39.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
-  },
-  {
-   "id": "0391667c2f0f",
-   "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-   "date": "2026-11-19T14:25:37.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety more than other labs; its founders had left executive research positions at"
-  },
-  {
-   "id": "02881da1b9dc",
-   "title": "Superhuman pushes its Go assistant everywhere",
-   "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-   "date": "2026-11-19T14:00:00.000Z",
-   "source": "TechCrunch AI",
-   "cat": "news",
-   "thumb": "",
-   "excerpt": "Superhuman is making Go its central agent and making it available in Docs and Mail."
-  },
-  {
-   "id": "b36b3b815c5b",
-   "title": "sebekblessing/wan22-gpu",
-   "link": "https://huggingface.co/sebekblessing/wan22-gpu",
-   "date": "2026-11-19T13:19:24.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, image-to-video, android, opencl, base_model:quanhaol/Wan2.2-TI2V-5B-Turbo, base_model:quantized:quanhaol/Wan2.2-TI2V-5B-Turbo",
-   "hf": {
-    "likes": 0,
-    "downloads": 29,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "f77db0ff7b9f",
-   "title": "Rand000mGuy/bustfx",
-   "link": "https://huggingface.co/Rand000mGuy/bustfx",
-   "date": "2026-11-19T13:08:42.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:krea/Krea-2-Raw, base_model:adapter:krea/Krea-2-Raw",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "ac973a9bff86",
-   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-   "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-   "date": "2026-11-19T13:00:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Siri Recap can be turned on or off manually from the wrist. Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can remember better and, hopefully, stay more present."
-  },
-  {
-   "id": "773d7ea5f245",
-   "title": "sebekblessing/klein-4b-gpu",
-   "link": "https://huggingface.co/sebekblessing/klein-4b-gpu",
-   "date": "2026-11-19T12:52:51.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, text-to-image, android, opencl, base_model:black-forest-labs/FLUX.2-klein-4B, base_model:quantized:black-forest-labs/FLUX.2-klein-4B",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "44eaf88c163c",
-   "title": "sebekblessing/qwen-image-2.1-gpu",
-   "link": "https://huggingface.co/sebekblessing/qwen-image-2.1-gpu",
-   "date": "2026-11-19T12:41:05.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: gguf, text-to-image, android, opencl, license:other, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "708518498c68",
-   "title": "Canva adds an AI ‘off’ button",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-   "date": "2026-11-19T12:30:00.000Z",
-   "source": "The Verge AI",
-   "cat": "news",
-   "thumb": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "excerpt": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered feature on Canva, however. That includes Canva's background remover and its Ma"
-  },
-  {
-   "id": "72740c3b0c9a",
-   "title": "RunningHubAI/rh-zimage-asian-woman-show-lora",
-   "link": "https://huggingface.co/RunningHubAI/rh-zimage-asian-woman-show-lora",
-   "date": "2026-11-19T12:29:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: comfyui, lora, text-to-image, region:us",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "81bc5705595c",
-   "title": "alibaybay/dualspace-h3-generator",
-   "link": "https://huggingface.co/alibaybay/dualspace-h3-generator",
-   "date": "2026-11-19T12:15:21.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending image-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: minimax-h3, comfyui, zerogpu, video-generator, image-to-video, rest-api",
-   "hf": {
-    "likes": 0,
-    "downloads": 36,
-    "pipeline": "image-to-video"
-   }
-  },
-  {
-   "id": "99a311e65e05",
-   "title": "DeVilDoNia/Bulle-d-Encre  (♥ 1)",
-   "link": "https://huggingface.co/DeVilDoNia/Bulle-d-Encre",
-   "date": "2026-11-19T12:05:32.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: diffusion-single-file, comfyui, moss-image, comic, anime, illustration",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "e6abda51ecb9",
-   "title": "H3-Tiny/H3-Tiny-14B-OKD-v0.1",
-   "link": "https://huggingface.co/H3-Tiny/H3-Tiny-14B-OKD-v0.1",
-   "date": "2026-11-19T12:03:05.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video-generation, audio-generation, reference-to-video, pruning",
-   "hf": {
-    "likes": 2,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "fc2c6eea0735",
-   "title": "H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1  (♥ 3)",
-   "link": "https://huggingface.co/H3-Tiny/H3-Tiny-14B-OKD-Ref2VA-v0.1",
-   "date": "2026-11-19T12:03:05.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 80, likes: 3. Tags: diffusers, safetensors, video-generation, audio-generation, reference-to-video, pruning",
-   "hf": {
-    "likes": 3,
-    "downloads": 80,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "4d12c4c30245",
-   "title": "H3-Tiny/H3-Tiny-17B-Pruned",
-   "link": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-Pruned",
-   "date": "2026-11-19T12:03:04.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video-generation, audio-generation, reference-to-video, pruning",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "7b02582bc37d",
-   "title": "H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
-   "link": "https://huggingface.co/H3-Tiny/H3-Tiny-17B-FewStep-v0.1",
-   "date": "2026-11-19T12:03:04.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-video model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, safetensors, video-generation, audio-generation, reference-to-video, pruning",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-video"
-   }
-  },
-  {
-   "id": "547e2b1705f0",
-   "title": "RunningHubAI/rh-qwen-3d-lora-1986240439491723266  (♥ 1)",
-   "link": "https://huggingface.co/RunningHubAI/rh-qwen-3d-lora-1986240439491723266",
-   "date": "2026-11-19T11:10:01.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: comfyui, lora, text-to-image, region:us",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "bf1d7c495ecc",
-   "title": "ruisheeee/mirevyn_v3  (♥ 1)",
-   "link": "https://huggingface.co/ruisheeee/mirevyn_v3",
-   "date": "2026-11-19T10:30:53.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 1. Tags: lora, moss-image, anime, art-style, ai-toolkit, text-to-image",
-   "hf": {
-    "likes": 1,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
-  },
-  {
-   "id": "9f0a297ddd5b",
-   "title": "waryusya/waryusya_MiniMaxH3",
-   "link": "https://huggingface.co/waryusya/waryusya_MiniMaxH3",
-   "date": "2026-11-19T10:30:35.000Z",
-   "source": "Hugging Face Models",
-   "cat": "news",
-   "isModel": true,
-   "thumb": "",
-   "excerpt": "New/trending text-to-image model on Hugging Face. Downloads: 0, likes: 0. Tags: diffusers, text-to-image, lora, template:diffusion-lora, base_model:MiniMaxAI/MiniMax-H3-Image, base_model:adapter:MiniMaxAI/MiniMax-H3-Image",
-   "hf": {
-    "likes": 0,
-    "downloads": 0,
-    "pipeline": "text-to-image"
-   }
   }
  ]
 }
